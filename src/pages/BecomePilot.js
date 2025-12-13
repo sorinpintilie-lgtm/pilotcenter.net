@@ -5,17 +5,54 @@ import './BecomePilot.css';
 function BecomePilot() {
   return (
     <div className="page-content become-pilot-page">
-      <section className="hero" style={{width: '100%', padding: '0', margin: '0'}}>
-        <div style={{width: '100%', padding: '0', margin: '0'}}>
-          <div style={{display: 'flex', justifyContent: 'center', width: '100%'}}>
-            <div style={{width: '100%', maxWidth: 'none', padding: '20px', display: 'flex', justifyContent: 'center', alignItems: 'center', minHeight: '300px'}}>
-              <div style={{textAlign: 'center', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
-                <div className="hero-kicker">BECOME A PILOT</div>
-                <h1 className="hero-title">How to Become an Airline Pilot: A Comprehensive Guide</h1>
-                <h2 className="hero-subtitle">Your Journey to Becoming a Professional Pilot</h2>
-              </div>
-            </div>
-          </div>
+      {/* NEW CLEAN HERO - NO IMAGES ON ANY DEVICE */}
+      <section className="hero" style={{
+        width: '100%',
+        padding: '60px 20px',
+        margin: '0',
+        background: 'linear-gradient(to bottom, #ffffff 0%, #eef5ff 50%, #d7e8ff 100%)',
+        borderBottom: '1px solid #e5e7eb'
+      }}>
+        <div style={{
+          maxWidth: '1200px',
+          margin: '0 auto',
+          textAlign: 'center'
+        }}>
+          <div className="hero-kicker" style={{
+            fontSize: '11px',
+            letterSpacing: '0.15em',
+            textTransform: 'uppercase',
+            color: '#2563eb',
+            marginBottom: '12px'
+          }}>BECOME A PILOT</div>
+
+          <h1 className="hero-title" style={{
+            fontSize: 'clamp(28px, 4vw, 42px)',
+            color: '#111827',
+            marginBottom: '16px',
+            lineHeight: '1.2',
+            fontWeight: '700'
+          }}>How to Become an Airline Pilot: A Comprehensive Guide</h1>
+
+          <h2 className="hero-subtitle" style={{
+            fontSize: 'clamp(18px, 2.5vw, 24px)',
+            color: '#374151',
+            marginBottom: '24px',
+            lineHeight: '1.4',
+            fontWeight: '500'
+          }}>Your Journey to Becoming a Professional Pilot</h2>
+
+          <p style={{
+            fontSize: '16px',
+            color: '#4b5563',
+            maxWidth: '800px',
+            margin: '0 auto 32px',
+            lineHeight: '1.6'
+          }}>
+            At PilotCenter.net, we guide you through every step of becoming an airline pilot -
+            from medical certification to airline recruitment. Get expert support, compare flight schools,
+            and stay on track with your training.
+          </p>
         </div>
       </section>
 

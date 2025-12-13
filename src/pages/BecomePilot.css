@@ -1,12 +1,45 @@
-/* Become a Pilot Page - Mobile Hero Image Removal */
+/* Become a Pilot Page - NEW CLEAN HERO (NO IMAGES) */
+.become-pilot-page .hero {
+    background-image: none !important;
+    background: none !important;
+}
+
+/* Remove any pseudo-elements that might contain images */
+.become-pilot-page .hero::before,
 .become-pilot-page .hero::after {
+    display: none !important;
+    content: none !important;
+    background-image: none !important;
+}
+
+/* Ensure no images can appear in hero on any device */
+.become-pilot-page .hero img,
+.become-pilot-page .hero picture,
+.become-pilot-page .hero video,
+.become-pilot-page .hero object,
+.become-pilot-page .hero embed {
     display: none !important;
 }
 
-/* Ensure hero looks good on desktop */
-@media (min-width: 769px) {
+/* Mobile-specific hero styling */
+@media (max-width: 768px) {
     .become-pilot-page .hero {
-        background-image: none !important;
+        padding: 40px 15px !important;
+        min-height: auto !important;
+    }
+
+    .become-pilot-page .hero-title {
+        font-size: 28px !important;
+        line-height: 1.2 !important;
+    }
+
+    .become-pilot-page .hero-subtitle {
+        font-size: 20px !important;
+        line-height: 1.3 !important;
+    }
+
+    .become-pilot-page .hero-kicker {
+        font-size: 10px !important;
     }
 }
 
