@@ -1,0 +1,22 @@
+{
+  "id": "fe34f37b-ccb6-45b6-b186-0be41a7c27c2",
+  "slug": "silverhawk-aviation-academy",
+  "name": "Silverhawk Aviation Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "ID",
+  "city": "",
+  "baseAirport": "EUL -Caldwell Exec Airport",
+  "website": "http://www.silverhawkaviation.net",
+  "email": "fly@silverhawkaviation.net",
+  "phone": "(208) 453-8577",
+  "about": "Silverhawk Aviation Academy, established in 1998, is a top-rate Part 141 flight school located in Caldwell, Idaho. We offer professional, personalized training programs for both airplane and helicopter flight training, helping students achieve their individual goals at their own pace. Our certified flight instructors provide one-on-one mentoring, and our full-time on-site mechanics ensure our fleet of Robinson helicopters and Cessnas are always in excellent condition. In addition to flight training, we provide services such as wildlife surveys, power line surveys, aerial photography, and charter operations. Known for its family atmosphere, Silverhawk Aviation Academy is dedicated to helping students become safe, confident, and capable pilots, paving the way for rewarding careers in the aviation industry. We invite you to visit our school, meet our instructors, and start your aviation journey with us.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

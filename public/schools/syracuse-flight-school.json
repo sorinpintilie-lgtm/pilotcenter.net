@@ -1,0 +1,22 @@
+{
+  "id": "80a7b805-1331-4007-b7ca-34285dea3de7",
+  "slug": "syracuse-flight-school",
+  "name": "Syracuse Flight School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NY",
+  "city": "",
+  "baseAirport": "SYR -Syracuse Hancock International Airport",
+  "website": "http://www.syracuseflightschool.com/",
+  "email": "syracuseflightschool@gmail.com",
+  "phone": "(315) 559-7846",
+  "about": "Syracuse Flight School, located at Syracuse Hancock International Airport, offers comprehensive flight training programs tailored to meet the needs of aspiring pilots. We provide training for Private Pilot Certificates, Instrument Ratings, and Commercial Pilot Certificates, ensuring students are well-prepared for various aviation careers. Our experienced instructors deliver one-on-one ground training and flight instruction, focusing on safety and proficiency. While we do not offer Multi-Engine Rating training or have a Designated Pilot Examiner on staff, our programs are designed to equip students with the skills necessary to succeed in aviation. For more information, contact us at (315) 559-7846 or via email at syracuseflightschool@gmail.com. We are committed to helping you achieve your flying goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nGround School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

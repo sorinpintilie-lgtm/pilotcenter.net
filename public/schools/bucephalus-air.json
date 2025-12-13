@@ -1,0 +1,22 @@
+{
+  "id": "e7339a29-2313-482a-9494-625bfdbfa21f",
+  "slug": "bucephalus-air",
+  "name": "Bucephalus Air",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "NW",
+  "city": "",
+  "baseAirport": "Potchefstroom Airfield",
+  "website": "https://bucephalus-air.co.za/",
+  "email": "general@bucephalus-air.co.za",
+  "phone": "078 933 5672",
+  "about": "Bucephalus Air is a premier aviation organization specializing in comprehensive pilot training, offering programs from Private Pilot License (PPL) to Commercial Pilot License (CPL). With three accredited flight schools situated in South Africa, we provide a robust training environment. Our mission is to expand your knowledge and perfect your flying skills through high-quality instruction and state-of-the-art facilities. We are committed to delivering exceptional training to aspiring pilots from around the world, ensuring their success and safety in the aviation industry. At Bucephalus Air, we strive to make your aviation dreams a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial Pilot License\\nPrivate Pilot License\\nNational Pilot License\\nInstructors Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

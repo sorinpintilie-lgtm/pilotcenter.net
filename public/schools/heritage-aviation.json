@@ -1,0 +1,22 @@
+{
+  "id": "b0ceaa92-7d71-47b3-ab28-dc6fbdc15fc2",
+  "slug": "heritage-aviation",
+  "name": "Heritage Aviation",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "WC",
+  "city": "",
+  "baseAirport": "Swellengrebel Airfield",
+  "website": "https://www.heritageaviation.co.za/",
+  "email": "info@heritageaviation.co.za",
+  "phone": "'+27 76 555 1777",
+  "about": "Heritage Aviation, located in Swellendam, Western Cape, is a leading flight training facility driven by a pure passion for aviation. Combining the experience and knowledge of industry experts, both locally and internationally, we aim to deliver a new generation of safer and better-equipped pilots. We offer comprehensive training programs, including the National Pilot Licence, Private Pilot Licence (PPL), and Commercial Pilot Licence (CPL). Our programs are designed to provide students with the foundational knowledge and skills necessary for all future aircraft pilot training. With a focus on recreational and professional flying, we ensure our students receive valuable flying time in a scenic and safe environment. Whether you're pursuing a career in aviation or flying for leisure, Heritage Aviation is dedicated to helping you achieve your flying dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"National Pilot License\\nPrivate Pilot License\\nCommercial Pilot License\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

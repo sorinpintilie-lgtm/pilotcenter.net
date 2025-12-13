@@ -1,0 +1,22 @@
+{
+  "id": "5fe9dd9f-961b-4529-86ef-bcf8b26c01a4",
+  "slug": "aero-link-air-services-sl",
+  "name": "AERO LINK AIR SERVICES, S.L.",
+  "continent": "Europe",
+  "country": "Spain",
+  "state": "ESP",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://aerolink.es/",
+  "email": "info@aerolink.es",
+  "phone": "(+34) 937 464 006",
+  "about": "Aero Link Flight Academy, located at Bilbao International Airport and Sabadell Airport in Spain, is a leading flight school with over eight years of experience in providing top-notch aviation training. Specializing in programs for aspiring pilots and cabin crew, Aero Link offers comprehensive courses that meet the highest standards of the aviation industry. Their fleet includes Diamond DA20, DA40, and Piper Seneca II aircraft, all maintained in-house to ensure availability. The school is known for its flexible flight schedules, professional instructors, and strong industry connections, helping graduates secure jobs with major airlines. Aero Link is certified by the European Aviation Safety Agency (EASA) and has a long history of successfully training ab initio pilots to become future airline captains. With a commitment to safety, quality training, and career development, Aero Link stands as a premier choice for aviation education in Spain.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"AIRLINE TRANSPORT PILOT\\nPRIVATE AIRPLANE PILOT (PPL)\\nFLIGHT ATTENDANT COURSE\\nCOMMERCIAL HELICOPTER PILOT\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

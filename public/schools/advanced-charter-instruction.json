@@ -1,0 +1,22 @@
+{
+  "id": "83351cb2-d7b0-44f3-957a-f2a430c457d5",
+  "slug": "advanced-charter-instruction",
+  "name": "Advanced Charter & Instruction",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CA",
+  "city": "Santa Ana",
+  "baseAirport": "John Wayne Airport",
+  "website": "https://advancedcharterinstruction.com/",
+  "email": "info@flyaci.com",
+  "phone": "'+1 949-836-2100",
+  "about": "Advanced Charter & Instruction is a privately owned flight school located at John Wayne Airport in Orange County, CA. We offer accelerated and self-paced scenario-based flight training tailored for both career-oriented students and individuals seeking to fly for leisure. Our instructors are held to the highest national standards, providing meticulous and comprehensive training. We boast a fleet of well-maintained Cessna 172S and Cirrus SR22 aircraft. Our smaller operation ensures personalized attention, treating students like family and prioritizing their success. With a focus on aeronautical knowledge and piloting skills, we aim to prepare students thoroughly for their certificates and ratings. Our mission is to deliver exceptional flight training in a supportive and professional environment.",
+  "icao": "KSNA",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

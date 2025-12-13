@@ -1,0 +1,22 @@
+{
+  "id": "ec818d36-398c-4342-b877-d71f4f3e4de9",
+  "slug": "iowa-western",
+  "name": "Iowa Western",
+  "continent": "North America",
+  "country": "USA",
+  "state": "IA",
+  "city": "Council Bluffs",
+  "baseAirport": "Council Bluffs Municipal Airport",
+  "website": "https://www.iwcc.edu/",
+  "email": "admissions@iwcc.edu",
+  "phone": "'+1 712-325-3200",
+  "about": "Iowa Western Community College's flying school, located in Council Bluffs, Iowa, offers a comprehensive aviation education. Our programs include the Associate of Science in Aviation Flight and Administration, as well as the Aviation Maintenance Technology A.A.S., accredited by the FAA under Part 147. Students gain hands-on experience in state-of-the-art facilities, preparing them for careers as pilots or aviation maintenance technicians. Our curriculum covers both fixed-wing and rotor-wing aircraft, and students are prepared to pass the FAA’s written, oral, and practical tests. With a strong focus on practical skills and theoretical knowledge, our graduates are well-equipped to enter the aviation industry with confidence. Iowa Western's aviation programs are designed to provide a high-quality educational experience, setting students up for successful careers in aviation.",
+  "icao": "KBCF",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

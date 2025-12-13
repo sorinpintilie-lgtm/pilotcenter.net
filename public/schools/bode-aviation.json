@@ -1,0 +1,22 @@
+{
+  "id": "b1a744b4-278d-462a-88e4-f9d1943dc30f",
+  "slug": "bode-aviation",
+  "name": "Bode Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NM",
+  "city": "",
+  "baseAirport": "AEG -Double Eagle II Airport",
+  "website": "https://www.flybode.com/",
+  "email": "aero@flybode.com",
+  "phone": "(505) 884-4530",
+  "about": "Bode Aviation, Inc., headquartered in Albuquerque, New Mexico, is a diversified aviation business with over two decades of experience. Our flight school, certified under FAR Part 141, offers training from initial Private Pilot to advanced commercial certifications at competitive prices. With Albuquerque's favorable climate of over 350 days of sunshine, it is an ideal location for flight training. We provide customized instruction, catering to the needs of both domestic and foreign student pilots, and offer financial aid options through the GI Bill and veterans benefits. Our comprehensive services include aircraft rental, aerial tours, charters, maintenance, and avionics sales. Bode Aviation is committed to safety, security, and excellence in all our aviation operations.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

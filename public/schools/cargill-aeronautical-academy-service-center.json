@@ -1,0 +1,22 @@
+{
+  "id": "5760b481-9959-4a5c-8f43-64c4b0e38139",
+  "slug": "cargill-aeronautical-academy-service-center",
+  "name": "Cargill Aeronautical Academy & Service Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "PA",
+  "city": "",
+  "baseAirport": "CXY -Capital City Airport",
+  "website": "https://www.cargillaeronautical.com/",
+  "email": "operations@cargillaeronautical.com",
+  "phone": "(717) 447-0445",
+  "about": "Cargill Aeronautical Academy & Service Center, located at Capital City Airport in New Cumberland, PA, is a Federal Aviation Administration (FAA)-approved flight training school. We conduct training under Federal Aviation Regulation (FAR) Part 61 and offer certifications in Private Pilot, Commercial, Flight Instructor (CFI), and Flight Instructor Instrument (CFII). Our fleet includes the technologically advanced Diamond DA-40 and Cessna 172 aircraft, as well as flight simulation technology. In addition to flight training, we provide aircraft inspections, repairs, and maintenance, and operate a fully certified testing center for FAA, PSI, and Kryterion exams. Our mission is to provide superior customer service, quality aviation training, and a range of aircraft rental options, guided by our values of leadership, collaboration, integrity, passion, and diversity. We strive to be the choice provider of flight instruction and aircraft maintenance services.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

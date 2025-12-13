@@ -1,0 +1,22 @@
+{
+  "id": "9232d0d4-1b4e-40d1-a12d-2e514ad9d677",
+  "slug": "u-fly-safaris",
+  "name": "U Fly Safaris",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "GT",
+  "city": "",
+  "baseAirport": "Rand Airport",
+  "website": "https://uflysafaris.co.za/",
+  "email": "info@uflysafaris.co.za",
+  "phone": "'+27(0)11 027 7655",
+  "about": "U-Fly Training Academy, based in Rand Airport, Johannesburg, South Africa, offers comprehensive flying and ground school training for aspiring pilots. Our programs include Private Pilot License, Commercial Pilots License, Instructors Rating License, Night Rating Licence, and Type Ratings. Our highly qualified instructors focus on making students safe, competent, and prepared for the modern aviation industry, whether flying is a hobby or a profession. With ideal weather conditions and proximity to international airports, Rand Airport provides an excellent environment for both entry-level and advanced flight training. We train students from their first introduction flight to their first day in the right seat of a commercial airline, ensuring high standards in every aspect of aviation. At U-Fly Training Academy, we are dedicated to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"ATPL (Modular - A)\\nClass Rating\\nCPL - (Modular - A)\\nFlight Instructor\\nInstrument Rating \\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

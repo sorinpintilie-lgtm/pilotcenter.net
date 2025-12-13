@@ -1,0 +1,22 @@
+{
+  "id": "451bfe21-4431-4932-8f6b-039137f3ff4a",
+  "slug": "sky4u-aviation-service-gmbh",
+  "name": "SKY4u Aviation Service GmbH",
+  "continent": "Europe",
+  "country": "Germany",
+  "state": "GER",
+  "city": "",
+  "baseAirport": "Berlin Brandenburg Airport (BER)",
+  "website": "https://www.sky4u-berlin.com/",
+  "email": "info@sky4u.com",
+  "phone": "'+49 30 692 070 25",
+  "about": "SKY4u Aviation Service GmbH, based in Berlin, Germany, is a leading provider of professional pilot training and aviation services. Founded in 2013, the company is committed to improving pilot training systems by familiarizing students with standard airline operating practices from the outset. SKY4u offers enhanced training packages, including the Next Generation Course (NGC) and Airline Pilot Standards (APS MCC), which include JOC, MCC, CBT, and LOFT sessions. The school collaborates with airlines such as Ryanair, airBaltic, and easyJet Suisse to ensure comprehensive training. With state-of-the-art simulators, including a Boeing 737 NG simulator, SKY4u provides high-quality training. The school is located near Berlin Brandenburg Airport and offers convenient accommodation options. SKY4u's focus on quality, flexibility, and innovation makes it a top choice for aspiring pilots and established airlines alike, ensuring a smooth transition into the aviation industry.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"JOC – Jet Orientation Course\\nMCC – Multi Crew Cooperation\\nNGC – Next Generation Course\\nAPS MCC – Airline Pilot Standard\\nTR – Type Rating Training\\nFFS – Full Flight Simulator Training\\nF4F – Fit For Flight Training\\nTRI – MCCI / SFI / TRI Training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

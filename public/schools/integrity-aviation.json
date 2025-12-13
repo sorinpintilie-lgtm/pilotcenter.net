@@ -1,0 +1,22 @@
+{
+  "id": "bcb18cbd-7740-4c87-ad03-092e708de848",
+  "slug": "integrity-aviation",
+  "name": "Integrity Aviation, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MN",
+  "city": "",
+  "baseAirport": "OTG -Worthington Municipal Airport",
+  "website": "http://www.integrityaviation.com/",
+  "email": "jjohnson@integrityaviation.com",
+  "phone": "(507) 376-9293",
+  "about": "Integrity Aviation, Inc., based in Worthington, Minnesota, has been a trusted fixed-base operator (FBO) at the local airport since 2000. We offer comprehensive flight instruction, including ground school, private pilot, commercial pilot, multi-engine pilot, and instrument rating programs. Our services also include aircraft rental, corporate aircraft leasing, aircraft management, pilot services, and thorough aircraft maintenance and repair. We provide fueling and ramp services, pilot supplies, and additional amenities such as conference room arrangements and courtesy cars. With a team that includes MEII flight instructors, A&P mechanics, and IA maintenance specialists, we are committed to delivering impeccable service with a focus on safety, attentiveness, and customer satisfaction. For all your aviation needs, Integrity Aviation is here to help you take to the skies with confidence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "456b0b07-33b0-452b-b9bd-b3885e5e5a97",
+  "slug": "ctec-aviation",
+  "name": "CTEC Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OR",
+  "city": "",
+  "baseAirport": "SLE -McNary Field",
+  "website": "https://ctec.salkeiz.k12.or.us/programs/aviation",
+  "email": "hutches_james@salkeiz.k12.or.us",
+  "phone": "(503) 884-1558",
+  "about": "CTEC Aviation, part of the Salem-Keizer Public Schools, offers a comprehensive aviation program at the Salem Municipal Airport. Students work alongside industry professionals in piloting, aircraft maintenance, and drone technology. The program includes state-of-the-art simulators, software, and equipment, preparing students for FAA Part 61 Private Pilot Licenses, FAA Part 107 Drone Certifications, and Aircraft Maintenance Certifications. With partnerships with companies like Alaska Airlines and Garmin, students gain valuable experience and certifications, readying them for immediate employment or further education. The program focuses on contextualized science and English, ensuring students are well-prepared for their careers in aviation. Upon completion, students are equipped with industry-standard skills and a clear career path.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Drone/UAS\\nGround School\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

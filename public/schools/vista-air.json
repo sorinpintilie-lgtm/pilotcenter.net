@@ -1,0 +1,22 @@
+{
+  "id": "8a16d346-dd7d-4ac0-9286-e6bd2281288d",
+  "slug": "vista-air",
+  "name": "Vista Air Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "WHP -Whiteman Airport",
+  "website": "https://vistaair.com/",
+  "email": "fly@vistaair.com",
+  "phone": "(818) 896-5224",
+  "about": "Vista Air Inc., located at Whiteman Airport in Pacoima, California, has been a trusted name in flight training for over 35 years. We offer a comprehensive range of programs, including Private Pilot, Instrument Rating, Commercial Pilot, and Certified Flight Instructor (CFI) certifications. Our experienced and passionate instructors are dedicated to ensuring each student receives top-notch education and safety training. With a fleet of aircraft to fit every budget, from older trainers to the latest G1000 equipped Cessnas, we provide flexible payment options and maintain our planes through our in-house maintenance team. As a Cessna Pilot Center and FBO, we also operate a pilot shop and offer additional ground school and seminars. At Vista Air, we believe the sky is your playground, and we are committed to helping you achieve your aviation goals. Come start your flight training journey with us today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nPart 107 Drone Testing\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

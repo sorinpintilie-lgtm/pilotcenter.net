@@ -1,0 +1,107 @@
+/* Country Detail Page Styles - Clean Article Layout */
+.country-page {
+  padding: 32px 16px 60px;
+}
+
+.country-container {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.country-breadcrumb {
+  font-size: 0.9rem;
+  color: #6b7280;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.country-breadcrumb a {
+  color: #0ea5e9;
+  text-decoration: none;
+}
+
+.country-breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+.country-breadcrumb-sep {
+  opacity: 0.6;
+}
+
+.country-hero {
+  margin-top: 14px;
+  margin-bottom: 22px;
+}
+
+.country-title {
+  font-size: 2rem;
+  margin: 0 0 6px;
+}
+
+.country-subtitle {
+  margin: 0;
+  color: #6b7280;
+}
+
+.country-section {
+  margin: 22px 0;
+}
+
+.country-section h2 {
+  margin: 0 0 10px;
+  font-size: 1.25rem;
+}
+
+.country-paragraph {
+  margin: 8px 0;
+  color: #374151;
+  line-height: 1.65;
+}
+
+.country-list {
+  margin: 8px 0 0 18px;
+  color: #374151;
+  line-height: 1.65;
+}
+
+.country-schools-header {
+display: flex;
+align-items: baseline;
+justify-content: space-between;
+gap: 12px;
+flex-wrap: wrap;
+}
+
+.country-schools-viewall {
+color: #0ea5e9;
+text-decoration: none;
+font-weight: 500;
+font-size: 0.95rem;
+}
+.country-schools-viewall:hover { text-decoration: underline; }
+
+.country-schools-grid {
+margin-top: 12px;
+display: grid;
+grid-template-columns: repeat(3, minmax(0, 1fr));
+gap: 16px;
+}
+
+/* Responsive design */
+@media (max-width: 980px) {
+.country-schools-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 640px) {
+.country-schools-grid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 768px) {
+.country-title {
+  font-size: 1.75rem;
+}
+
+.country-section h2 {
+  font-size: 1.1rem;
+}
+}

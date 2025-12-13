@@ -1,0 +1,22 @@
+{
+  "id": "e5c33d27-8c08-4fc6-8407-794d18b4e87d",
+  "slug": "wright-aviation",
+  "name": "Wright Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CO",
+  "city": "",
+  "baseAirport": "COS -City of Colorado Springs Municipal Airport",
+  "website": "https://wrightaviation.com/",
+  "email": "tye@wrightaviation.com",
+  "phone": "(719) 659-1539",
+  "about": "Wright Aviation Flying School, established by the pioneering Wright brothers, is a historic institution in aviation training. From 1910 to 1916, the school operated at several locations, including Montgomery, Alabama, Huffman Prairie Flying Field near Dayton, Ohio, and Augusta, Georgia. The Wrights trained over 100 pilots, including early military aviators like Henry H. Arnold and Thomas DeWitt Milling. The curriculum included ground school, simulator training, and actual flight instruction on Wright aircraft with dual controls. Students learned to manipulate the engine, judge wind currents, and control the aircraft's ascent and descent. The school's rigorous training prepared students for licensing tests and real-world flying. With a legacy of innovation and excellence, Wright Aviation Flying School remains a cornerstone in the history of aviation education.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nExaminer\\nInstrument Proficiency Check\\nTime Building Programs\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

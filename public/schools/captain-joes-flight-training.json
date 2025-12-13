@@ -1,0 +1,22 @@
+{
+  "id": "2788555c-7cbf-4e01-8f58-7ef4987e484f",
+  "slug": "captain-joes-flight-training",
+  "name": "Captain Joe's Flight Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "DTO -Denton Enterprise Airport",
+  "website": "https://www.learnwithcaptainjoe.net/",
+  "email": "",
+  "phone": "(469) 844-3595",
+  "about": "Captain Joe's Flight Training, located at Denton Enterprise Airport in Texas, is a family-owned and operated flying school with over two decades of experience. Specializing in tailwheel and aerobatic instruction, we offer a range of training programs, including private pilot instruction, aerobatic thrill rides, and upset recovery training. Our fleet includes well-equipped single-engine airplanes, such as the Piper Cherokee 140 and Cessna 150. We provide FAA-approved ground school lessons, bi-annual flight reviews, and discovery flights. Our dedicated instructors are committed to helping students achieve their aviation goals in a safe and supportive environment. With a focus on quality training and a passion for flying, Captain Joe's Flight Training is your trusted partner for all your aviation needs.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nIntro Flight\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

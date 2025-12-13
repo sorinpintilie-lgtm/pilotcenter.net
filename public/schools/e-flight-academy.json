@@ -1,0 +1,22 @@
+{
+  "id": "938d4d30-6fdf-4bd8-a70f-8a6e298dd4f0",
+  "slug": "e-flight-academy",
+  "name": "E-Flight Academy",
+  "continent": "Europe",
+  "country": "Netherlands",
+  "state": "NL",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.eflight.nl/",
+  "email": "boarding@eflight.nl",
+  "phone": "055 203 2230",
+  "about": "E-Flight Academy is a premier online aviation school offering comprehensive courses for aspiring pilots, mechanics, and cabin crew members. Our e-learning platform provides 100% live online classes, 24/7 class recordings, interactive presentations, and academic advisors to guide students. With a flexible schedule, students can study anytime, anywhere using their smartphone, tablet, or laptop. Our programs include ground courses for airline and helicopter pilots, IFR ratings, and multi-ratings. We also offer an international exchange program and significant cost savings. E-Flight Academy is dedicated to making aviation education accessible and convenient, ensuring students achieve their aviation dreams with support and guidance every step of the way.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Trial lesson (for yourself)\\nTrial lesson (as a gift)\\nDuo Trial Lesson\\nPPL - Private Pilot License\\nBecoming a commercial pilot\\nE-Conversion\\nFlight Instructor\\nInstrument Rating\\nCPL - Commercial Pilot License\\nNight Rating\\nSEP Class Rating\\nSEP Renewal\\nCompany outings\\nFlight training for companies\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

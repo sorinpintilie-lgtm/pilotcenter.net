@@ -1,0 +1,22 @@
+{
+  "id": "20fbbc99-96e3-405d-bd65-bee25aaeb6e5",
+  "slug": "flightline-sl",
+  "name": "FLIGHTLINE, S.L.",
+  "continent": "Europe",
+  "country": "Spain",
+  "state": "ESP",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://flightlinebcn.com/",
+  "email": "ato@flightlinebcn.com",
+  "phone": "'+34 934359940",
+  "about": "Flightline, S.L. is a comprehensive aviation service provider with over 25 years of experience. Based in Barcelona, our company specializes in various aviation services, including flight planning, operational services, and maintenance. Our training programs are designed to enhance efficiency and productivity, ensuring employees are well-equipped for their roles. With state-of-the-art facilities at Girona International Airport, our certified engineers and mechanics guarantee safe and uninterrupted operations. We offer charter flights, flight monitoring, and planning consulting, among other services. At Flightline, we are committed to delivering professionalism and expertise in every aspect of aviation, making us a trusted partner for all your aviation needs.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Charter Flights\\nOperational Service\\nFlights Monitoring\\nPlanning Consulting\\nMAINTENANCE TRAINING\\nTYPERATING TRAINING\\nONLINE TRAINING\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

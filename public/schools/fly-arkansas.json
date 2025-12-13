@@ -1,0 +1,22 @@
+{
+  "id": "a5bbc445-fe8d-4ae4-8a48-d083c7941d83",
+  "slug": "fly-arkansas",
+  "name": "Fly Arkansas, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AR",
+  "city": "",
+  "baseAirport": "HRO -Boone County Airport",
+  "website": "https://www.flyarkansas.com/hro.html",
+  "email": "hro@flyarkansas.com",
+  "phone": "(870) 741-4510",
+  "about": "Fly Arkansas, LLC is a comprehensive aviation service provider based at the Boone County Airport (KHRO) in Harrison, Arkansas. We specialize in flight training, offering affordable instruction from experienced flight instructors to help aspiring pilots achieve their Private Pilot Certificate. Our training programs are designed to launch careers in professional aviation, allowing students to fly friends and family while pursuing their aviation goals. With a focus on safety and efficiency, Fly Arkansas employs safe, experienced instructors and maintains meticulously kept Cessna aircraft. Our courses include 20 hours of flight training with an instructor, 10 hours of solo fixed-wing time, and an online ground school program, all structured to meet the FAA’s minimum flight requirements. We are committed to providing a safe, fun, and efficient learning environment for all our students. At Fly Arkansas, LLC, we are dedicated to helping you reach your aviation aspirations.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "22836d7d-d9a0-4cd3-b7e5-456ec2925fd1",
+  "slug": "sofia-flight-training-ato",
+  "name": "Sofia Flight Training ATO",
+  "continent": "Europe",
+  "country": "Bulgaria",
+  "state": "",
+  "city": "Sofia",
+  "baseAirport": "Sofia International Airport",
+  "website": "https://sofiaflighttraining.com/",
+  "email": "OFFICE@SOFIAFLIGHTTRAINING.COM",
+  "phone": "'+359-888-601-491 /",
+  "about": "Sofia Flight Training (SFT) is a fully independent training center established in 1971, with over 40 years of multinational experience in the aviation industry. Located in Sofia, Bulgaria, SFT provides high-quality training in accordance with the latest European Regulations. The center offers a range of programs including pilot training, cabin crew training, technical training, and aviation security training. SFT operates six state-of-the-art flight simulators and has extensive facilities, including classrooms, technical training workshops, and cabin emergency evacuation trainers. Known for its strong customer orientation and professionalism, SFT ensures excellent customer support, including assistance with hotel bookings, visa issuance, and transportation. With a reputation for meeting all current European Standards, Sofia Flight Training is a leading institution for aspiring aviation professionals.",
+  "icao": "LBSF",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nMulti-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

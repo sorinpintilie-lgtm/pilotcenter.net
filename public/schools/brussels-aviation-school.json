@@ -1,0 +1,22 @@
+{
+  "id": "9c71b865-eac9-40d6-8ddc-9fe2d439e131",
+  "slug": "brussels-aviation-school",
+  "name": "Brussels Aviation School",
+  "continent": "Europe",
+  "country": "Belgium",
+  "state": "BELG",
+  "city": "",
+  "baseAirport": "Charleroi Airport",
+  "website": "https://www.brusselsaviationschool.com/",
+  "email": "info@brusselsaviationschool.com",
+  "phone": "",
+  "about": "Brussels Aviation School is a JAA approved flight school located in Brussels and at the international airport of Brussels South-Charleroi. We offer comprehensive training programs for the Private Pilot Licence (PPL-JAR) and additional certifications such as Night Rating and Time Building. Our high training standards are achieved through individual follow-up programs, ensuring each student receives personalized attention. Our fleet includes Piper Warrior Glass Cockpit and Piper Tomahawk aircraft, which are also available for rental. We organize various aviation activities, including flying trips and maiden flights. With a commitment to excellence, Brussels Aviation School provides a supportive and professional environment for aspiring pilots to achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Night flight\\nInstrument flight\\nSEP Qualification\\nBiplane flight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

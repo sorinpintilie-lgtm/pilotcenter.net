@@ -1,0 +1,22 @@
+{
+  "id": "f7467086-c416-433d-9386-2dc878771045",
+  "slug": "dc-aerobatics",
+  "name": "DC Aerobatics",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MD",
+  "city": "",
+  "baseAirport": "VKX -Potomac Airfield",
+  "website": "https://dcaerobatics.wordpress.com/",
+  "email": "n_a_spin@yahoo.com",
+  "phone": "(703) 623-9445",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Aerobatic\\nEmergency Maneuvers\\nSpin Training\\nUpset Recovery\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

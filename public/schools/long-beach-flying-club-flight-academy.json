@@ -1,0 +1,22 @@
+{
+  "id": "82a1b9dc-3dcc-406c-90f5-cdd9121d5e68",
+  "slug": "long-beach-flying-club-flight-academy",
+  "name": "Long Beach Flying Club & Flight Academy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CA",
+  "city": "Long Beach",
+  "baseAirport": "Long Beach Airport",
+  "website": "https://lbflying.com/",
+  "email": "info@lbflying.com",
+  "phone": "'+1 562-290-0321",
+  "about": "Long Beach Flying Club & Flight Academy, established in 1980, is a renowned aviation institution dedicated to providing high-quality flight instruction for all levels of flying experience. With a team of certified instructors exceeding FAA standards, we have trained thousands of pilots worldwide, many of whom have successful careers with major airlines. Our facilities offer aircraft rental, 24/7 access, flight simulators, and competitive pricing on tools and supplies. We cater to pilots flying for personal, business, or pleasure, ensuring the same quality instruction for all. Our office is open 7 days a week, and we are committed to being your flying partner from the first flight hour to an airline job.",
+  "icao": "KLGB",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

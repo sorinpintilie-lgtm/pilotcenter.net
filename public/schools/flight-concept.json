@@ -1,0 +1,22 @@
+{
+  "id": "e51d38fc-89c7-48ff-b8f9-81b2bcdc0982",
+  "slug": "flight-concept",
+  "name": "Flight Concept",
+  "continent": "Europe",
+  "country": "Portugal",
+  "state": "PORT",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://flightconcept.pt/",
+  "email": "",
+  "phone": "(+351) 910644117",
+  "about": "At Flight Concept, we are dedicated to providing exceptional flight training with a focus on safety, personalized instruction, and career-oriented programs. As a Part 141 certified flight school, we operate with optimized curricula and high safety standards, ensuring our students receive the best possible training. Our experienced instructors offer 1-on-1 instruction, and our state-of-the-art facilities in multiple locations provide diverse flight environments to enhance your skills. We pride ourselves on our \"Safety First\" initiative, teaching effective Aeronautical Decision Making skills and preparing students for successful careers in aviation. With accelerated pacing options, you can complete your training in less than 12 months. At Flight Concept, we are committed to helping you achieve your aviation goals with unsurpassed knowledge and competency.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"ATPL STUDENT FLIGHT\\nHour packages\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "f94c5c97-1771-4232-8e47-70ed4e3c647b",
+  "slug": "charleston-southern-university",
+  "name": "Charleston Southern University",
+  "continent": "North America",
+  "country": "USA",
+  "state": "SC",
+  "city": "Charleston",
+  "baseAirport": "Charleston International Airport",
+  "website": "https://www.charlestonsouthern.edu/",
+  "email": "learntofly@greenvilleaviation.com",
+  "phone": "'+1 843-863-7000",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "KCHS",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

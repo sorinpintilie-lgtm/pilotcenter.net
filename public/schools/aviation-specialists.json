@@ -1,0 +1,22 @@
+{
+  "id": "872bb7d5-8e9a-40b2-8974-c9aaf6ef5c82",
+  "slug": "aviation-specialists",
+  "name": "Aviation Specialists, Inc.",
+  "continent": "North America",
+  "country": "United",
+  "state": "TN",
+  "city": "",
+  "baseAirport": "FGU -Collegedale Municipal Airport",
+  "website": "https://www.flyasi.net/",
+  "email": "info@flyasi.net",
+  "phone": "(423) 236-5151",
+  "about": "Aviation Specialists, Inc., based at the Collegedale Airport in Chattanooga, Tennessee, has been providing top-quality aviation services since 1995. We offer professional flight training, airplane rental, and aerial photography services. Our experienced instructors and modern facilities ensure that students receive comprehensive training to achieve their aviation goals. With a focus on safety and excellence, we cater to a wide range of aviation needs, from private pilots to commercial aviation enthusiasts. At Aviation Specialists, Inc., we are committed to helping you take to the skies with confidence and skill.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

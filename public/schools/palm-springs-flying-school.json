@@ -1,0 +1,22 @@
+{
+  "id": "ef0b74c8-6223-4d85-8d80-7df9505b019a",
+  "slug": "palm-springs-flying-school",
+  "name": "Palm Springs Flying School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "PSP -Palm Springs International Airport",
+  "website": "https://palmspringsflyingschool.com/",
+  "email": "brian@palmspringsflyingschool.com",
+  "phone": "(760) 399-8371",
+  "about": "Palm Springs Flying School, located in Thermal, California, offers a comprehensive and engaging flight training program. Our training is designed to be fun and effective, utilizing a unique method of conveying aviation knowledge through audiovisual aids, programmed instruction materials, and concurrent ground school and flight lessons. This approach helps students grasp practical applications quickly, reducing the need for rote memorization and often resulting in fewer flight hours to certification. Our curriculum covers a broad range of subjects, including FAA regulations, aircraft systems, aerodynamics, navigation, weather, and aeromedical factors, all essential for passing the FAA knowledge exam. We provide various amenities such as hangared airplanes, discounts for block time, and plane rentals. Our goal is to ensure students become competent, safe pilots with the confidence to succeed in their aviation careers.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

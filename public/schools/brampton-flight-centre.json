@@ -1,0 +1,22 @@
+{
+  "id": "e2e01823-39e8-4ba5-b6cc-ed0357f2a8cb",
+  "slug": "brampton-flight-centre",
+  "name": "Brampton Flight Centre",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "ON",
+  "city": "",
+  "baseAirport": "Brampton-Caledon Airport",
+  "website": "https://www.bramptonflightcentre.com/",
+  "email": "info@bramfly.com",
+  "phone": "'+1 905-838-1400",
+  "about": "Brampton Flight Centre, established in 1946, is a world-class flight training facility internationally respected for its excellence in aviation education. With over 50,000 pilots trained, it offers a comprehensive Professional Pilot Diploma Program that can be completed in 12-14 months. The centre boasts a modern fleet of 24 aircraft, including Cessna 172s, Piper Seminoles, and a Piper Seneca, along with a Level 2 Frasca TruFlite Flight Training Device. It is Transport Canada approved and a member of the Air Transport Association of Canada (ATAC). The centre owns its own airport, providing students with ample flying opportunities in both controlled and uncontrolled airspace. Facilities include a restaurant, maintenance shop, and full-service fueling, ensuring a supportive and well-equipped learning environment. Brampton Flight Centre is dedicated to safety, security, and excellence in aviation education, making it a premier choice for aspiring pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

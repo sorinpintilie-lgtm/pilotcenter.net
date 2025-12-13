@@ -1,0 +1,22 @@
+{
+  "id": "ffb47f02-c703-4efb-8c34-0e0dc8fa0aac",
+  "slug": "aero-atlanta-flight-center",
+  "name": "Aero Atlanta Flight Center",
+  "continent": "North America",
+  "country": "USA",
+  "state": "GA",
+  "city": "Atlanta",
+  "baseAirport": "Dekalb Airport",
+  "website": "https://aeroatlanta.com/",
+  "email": "info@aeroatlanta.com",
+  "phone": "'+1 770-422-2376",
+  "about": "Aero Atlanta Flight Center, established in 1989, is Atlanta's premier flight training center. Located at Cobb County International and DeKalb-Peachtree Airport, we offer first-class facilities, an extensive fleet of modern aircraft, and an unmatched dedication to safety. Our team of experienced flight instructors provides comprehensive training programs, including Private Pilot, Commercial Pilot, and Instrument Rating certifications. We are the largest Platinum Cirrus Training Center, offering factory-level training from Cirrus Standardized Instructor Pilots. With a client-focused approach, we tailor training plans to fit your lifestyle, ensuring you achieve your aviation goals with confidence and safety. Aero Atlanta has trained thousands of pilots and remains committed to excellence in personal aviation. Join us to experience the joy of flight with the highest level of service and safety.",
+  "icao": "KPDK",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

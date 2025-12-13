@@ -1,0 +1,22 @@
+{
+  "id": "4e44b822-8423-4264-9e9b-cfe035ac42c9",
+  "slug": "south-bay-aviation",
+  "name": "South Bay Aviation, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "TOA -Zamperini Field",
+  "website": "https://southbayaviation.com/",
+  "email": "sealsr@ix.netcom.com",
+  "phone": "(310) 791-5454",
+  "about": "South Bay Aviation, Inc., located at Torrance Airport / Zamperini Field in California, is one of the oldest and largest flight schools in the Los Angeles area. Founded by President Richard Seals and several local pilots, the school offers a comprehensive range of flight training courses, including Private Pilot Certificate, Commercial Pilot Certificate, Flight Instructor, and Instrument Rating. Additionally, South Bay Aviation provides ground school, simulator training, and introductory flights. With business hours seven days a week from 8am to 5pm, the school is committed to providing high-quality flight instruction to aspiring pilots. South Bay Aviation is dedicated to helping students achieve their aviation goals in a safe and supportive environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

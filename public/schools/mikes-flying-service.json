@@ -1,0 +1,22 @@
+{
+  "id": "183d0eac-d566-4c6c-88df-7655b7c5409b",
+  "slug": "mikes-flying-service",
+  "name": "Mike's Flying Service",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "TRL -Terrell Municipal Airport",
+  "website": "http://www.mikesflyingservice.com/",
+  "email": "mike@mikesflyingservice.com",
+  "phone": "(903) 253-2539",
+  "about": "Mike's Flying Service, located at Terrell Municipal Airport in Texas, is a comprehensive flight training institution dedicated to providing high-quality aviation education. We offer a range of training programs, including Private Pilot Certificate, Night Rating, and Commercial Pilot Certificate. Our services also include aircraft rental, aerial tours, and aerial photography. With a focus on safety and personalized instruction, our FAA-certified instructors ensure that each student receives tailored training to meet their aviation goals. Whether you are a novice pilot or an experienced aviator, Mike's Flying Service is committed to helping you achieve your full potential in the skies. We pride ourselves on creating a supportive and professional learning environment, making your flight training experience both enjoyable and effective.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\\nSport Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

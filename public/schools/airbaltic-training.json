@@ -1,0 +1,22 @@
+{
+  "id": "10a73a9d-eba7-45dd-b2f3-058ad1ce5b9e",
+  "slug": "airbaltic-training",
+  "name": "airBaltic Training",
+  "continent": "Europe",
+  "country": "Latvia",
+  "state": "",
+  "city": "Riga",
+  "baseAirport": "Riga International Airport",
+  "website": "https://airbaltictraining.com/",
+  "email": "training@airBalticTraining.com",
+  "phone": "'+371 67 668 512",
+  "about": "airBaltic Training, a subsidiary of the national Latvian airline airBaltic, offers a comprehensive range of aviation training services in Riga, Latvia. The modern, purpose-built facility is equipped with state-of-the-art simulators, including an Airbus A220 Full Flight Simulator and a Boeing 737 Classic Full Flight Simulator. Training programs adhere to EASA and ICAO regulations and are conducted by active aviation professionals. Courses are available in multiple languages and include PPL training, Type Specific Training, and programs for cabin crew, technicians, and office personnel. airBaltic Training also provides attractive packages including flights, transportation, and accommodation, making it an accessible and reputable choice for aspiring pilots and aviation professionals worldwide.",
+  "icao": "EVRA",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Multi-Crew Cooperation Course (MCC)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

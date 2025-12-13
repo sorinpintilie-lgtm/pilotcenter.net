@@ -1,0 +1,22 @@
+{
+  "id": "6fd32e1e-ae18-451c-92f6-a3240aba8bd6",
+  "slug": "code-1-aviation",
+  "name": "Code 1 Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "MDH -Southern Illinois Airport",
+  "website": "https://www.code1aviation.com/",
+  "email": "info@code1aviation.com",
+  "phone": "(815) 315-9715",
+  "about": "Code 1 Aviation is a premier flight training institution specializing in the Aero Vodochody L-39 Albatros jet. Based in Rockford, Illinois, our FAA-approved training programs are designed to prepare pilots to safely and confidently operate the L-39. Our experienced instructors, many of whom are graduates of the US Air Force Pilot Instructor School, provide comprehensive training in contact maneuvers, instrument procedures, and emergency scenarios. We also offer advanced instruction in formation flying, aerobatics, and tactical maneuvering. Our maintenance facility provides customized training for owners and technicians. With a focus on safety and high-performance flight, Code 1 Aviation sets the standard for L-39 training, ensuring pilots are well-prepared for years of enjoyable and safe aircraft ownership.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

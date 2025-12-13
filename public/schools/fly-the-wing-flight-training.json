@@ -1,0 +1,22 @@
+{
+  "id": "fc3cb778-4c96-40f7-9190-4c6ae917636d",
+  "slug": "fly-the-wing-flight-training",
+  "name": "Fly The Wing Flight Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SEE -Gillespie Field",
+  "website": "https://www.flythewing.com/308/Home.html",
+  "email": "garry@FlyTheWing.com",
+  "phone": "(760) 285-0335",
+  "about": "At Fly The Wing Flight Training, we are dedicated to providing high-quality, professional aviation education. Located near a towered airport, our students benefit from simulated and real-world interactions with air traffic control. Our programs, including the RecTrac and ProTrac Elite, cater to both recreational and professional pilots, offering a self-paced or accelerated path to achieving commercial certificates, certified flight instructor (CFI), and certified flight instructor instrument (CFII) ratings. With a fleet of meticulously maintained aircraft and advanced flight simulators, we ensure comprehensive training in a safe and supportive environment. Join our thriving aviation community and realize your aviation dreams with Fly The Wing Flight Training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

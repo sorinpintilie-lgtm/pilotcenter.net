@@ -1,0 +1,22 @@
+{
+  "id": "79a7da6d-0bda-4e36-9089-556fa48a1e2a",
+  "slug": "bario-aviation",
+  "name": "Bario Aviation",
+  "continent": "North America",
+  "country": "United",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "SKF -Kelly Field",
+  "website": "https://barioaviationservices.com/",
+  "email": "dispatch@barioaviationservices.com",
+  "phone": "(830) 460-9028",
+  "about": "Bario Aviation, founded in 2015 by Mario McGee, is a flight school based at Kelly Field in San Antonio, Texas. Dedicated to providing comprehensive flight training for all levels of pilots, the school offers programs for private, commercial, and multi-engine endorsements. Bario Aviation also provides maintenance services for aircraft owners. With a focus on helping students find jobs and enjoy the learning process, the school ensures class sizes are no larger than 20 students. The average cost for a private pilot license is around $14,000, and a commercial pilot license is approximately $70,000. Bario Aviation is committed to delivering high-quality training and support to its students.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

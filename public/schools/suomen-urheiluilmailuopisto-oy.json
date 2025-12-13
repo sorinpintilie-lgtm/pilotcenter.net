@@ -1,0 +1,22 @@
+{
+  "id": "b30ae280-e05e-4eb7-954c-028314dc9a20",
+  "slug": "suomen-urheiluilmailuopisto-oy",
+  "name": "Suomen Urheiluilmailuopisto Oy",
+  "continent": "Europe",
+  "country": "Finland",
+  "state": "FI",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://urheiluilmailuopisto.fi/",
+  "email": "matti.huoviala@suio.fi",
+  "phone": "040 8255 255",
+  "about": "Suomen Urheiluilmailuopisto Oy is a comprehensive flight school based in Räyskälä, Finland, offering a wide range of training programs in recreational aviation. Our services include theory courses for Private Pilot License (PPL(A)) and Light Aircraft Pilot License (LAPL(A)), as well as ultralight and gliding training. We also provide online theory courses for limited radiotelephone operators and refresher training for flight instructors. Our training is designed to be accessible, with distance learning options and technical courses available. With a focus on both basic and advanced training, Suomen Urheiluilmailuopisto Oy is dedicated to fostering skills and competences in recreational aviation across Finland. We are committed to delivering high-quality education and training to our students.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PPL(A)/LAPL(A) distance learning theory course\\nUltralight online theory course\\nGliding remote theory course + TMG addition\\nLimited radiotelephone operator online theory course\\nFI(S) and FI(UP) flight instructor refresher training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

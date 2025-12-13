@@ -1,0 +1,22 @@
+{
+  "id": "39f14e83-e65f-4d06-9ac7-56fbe199594f",
+  "slug": "nexgen-aviation",
+  "name": "Nexgen Aviation, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "KY",
+  "city": "",
+  "baseAirport": "LEX -Blue Grass Airport",
+  "website": "https://www.flynexgen.com/",
+  "email": "info@flynexgen.com",
+  "phone": "(859) 281-1177",
+  "about": "Nexgen Aviation, LLC, based in Lexington, Kentucky, is Kentucky's premier flight training institution. As the largest FAA Part 141 Pilot Training School in the state, we offer professional pilot training in a dynamic and real-world environment. Our programs include scenario-based training, corporate and airline career pilot programs, and the opportunity to earn a Commercial Pilot and Certificated Flight Instructor certification in as little as six to nine months. Students learn to fly in all four seasons, mastering instrument conditions, avoiding icing and thunderstorms, and handling challenging landings. Located at the Lexington Bluegrass Airport, a lower traffic Class C airport, our students gain extensive experience in radio communications with tower and approach controllers. We provide a comprehensive and competitive flight training experience, preparing students for successful careers in aviation. Choose Nexgen Aviation to achieve your dream of becoming a commercial pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "1549ee25-7827-4e03-b557-169bb99ed301",
+  "slug": "harford-air-services",
+  "name": "Harford Air Services",
+  "continent": "North America",
+  "country": "USA",
+  "state": "MD",
+  "city": "Churchville",
+  "baseAirport": "Harford County Airport",
+  "website": "https://www.harfordair.com/",
+  "email": "Office@harfordair.com / harfordair@msn.com",
+  "phone": "'+1 410-836-2828",
+  "about": "Harford Air Services, established in 1996 by Kevin Hess, offers comprehensive flight training from Private Pilot to Airline Transport Pilot certificates. As a Part 141 VA approved school and CCBC partner, we provide professional instruction in well-maintained aircraft. Our programs include Private Pilot, Instrument, Commercial, and Flight Instructor ratings, along with specialized training in tail wheel and spin techniques. We emphasize a family-friendly, fun atmosphere and ensure safety through rigorous maintenance schedules. Ground school classes cover navigation, weather, and aerodynamics to prepare students for FAA exams. With experienced instructors and flexible lesson plans, Harford Air Services is dedicated to delivering top-quality flight education.",
+  "icao": "0W3",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "d862cfe8-24ce-41e0-8f89-197451b4cc48",
+  "slug": "meriden-aviation-center",
+  "name": "Meriden Aviation Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CT",
+  "city": "",
+  "baseAirport": "MMK -Meriden Markham Municipal Airport",
+  "website": "https://www.meridenaviationcenter.com/",
+  "email": "fly@meridenaviationcenter.com",
+  "phone": "(203) 648-4870",
+  "about": "Meriden Aviation Center is a premier flight training school offering highly personalized customer service and instruction from the best FAA-certified flight instructors. With two convenient locations, we provide comprehensive flight training for all single-engine and pilot certificates, including Private Pilot, Instrument Rating, Commercial Pilot, and Flight Instructor certifications. Our fleet includes well-maintained Piper Warrior II and Piper Arrow aircraft, and we utilize the Jeppesen training system to tailor programs to each student's timeline and availability. We also offer introductory flights, ground school classes, and advanced training such as instrument proficiency checks and complex endorsements. Our professional pilot program is designed to take students from zero time to a Commercial License in as little as three months. With a focus on safety, comfort, and excellence, Meriden Aviation Center is dedicated to helping aspiring pilots achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

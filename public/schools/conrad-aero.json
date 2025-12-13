@@ -1,0 +1,22 @@
+{
+  "id": "9225c2d6-6a3e-495e-ba27-d2c054f90c73",
+  "slug": "conrad-aero",
+  "name": "Conrad Aero",
+  "continent": "North America",
+  "country": "United",
+  "state": "MI",
+  "city": "",
+  "baseAirport": "HAI -Three Rivers Muni/Dr Haines Airport",
+  "website": "http://www.conradaero.com/",
+  "email": "jconrad@net-link.net",
+  "phone": "(269) 279-6000",
+  "about": "Conrad Aero, located at Three Rivers Municipal Airport in Michigan, is a FAA certified Repair Station and a State of Michigan licensed Flight School. We offer a comprehensive range of flight training programs, including Private Pilot Certificate, Commercial Pilot Certificate, Flight Instructor, Instrument Rating, and Multi Engine Rating. Our expert instructors and friendly staff provide top-notch flight instruction, aircraft maintenance, and aviation services at competitive prices. We also supply pilot supplies and parts, ensuring all your aviation needs are met. With hours of operation from Monday to Friday, 8:00am - 5:00pm, and after-hours appointments available, we are dedicated to supporting your aviation career. At Conrad Aero, we are committed to delivering exceptional service and training to help you achieve your flying goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRecreational Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

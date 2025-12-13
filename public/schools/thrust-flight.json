@@ -1,0 +1,22 @@
+{
+  "id": "aed1928d-f826-4753-b8e2-6386ff3c02dd",
+  "slug": "thrust-flight",
+  "name": "Thrust Flight",
+  "continent": "North America",
+  "country": "USA",
+  "state": "TX",
+  "city": "Addison",
+  "baseAirport": "Addison Airport",
+  "website": "https://www.thrustflight.com/",
+  "email": "info@thrustflight.com",
+  "phone": "'+1 972-735-9099",
+  "about": "Thrust Flight is a premier aviation training school with a passion for high standards in flight education. Based in Texas, with locations in Addison, Denison, and Houston, we offer the nationally recognized Zero Time to Airline program. This intensive program takes students from no experience to a certified professional pilot in as little as 9 months, including certifications such as Private Pilot, Instrument Rating, Commercial Certificate, and Certified Flight Instructor. Our state-of-the-art facilities, modern fleet of aircraft equipped with G1000 avionics, and experienced instructors provide an ideal learning environment. We maintain strong relationships with regional airlines, ensuring excellent career opportunities for our graduates. With full financing options available, Thrust Flight makes it feasible for aspiring pilots to start their aviation careers immediately. Join us to turn your dreams of flying into reality.",
+  "icao": "KADS",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

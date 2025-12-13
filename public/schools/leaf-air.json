@@ -1,0 +1,22 @@
+{
+  "id": "f7aafda6-b7af-4919-b533-48a3bdc77b4c",
+  "slug": "leaf-air",
+  "name": "Leaf Air, LLC",
+  "continent": "North America",
+  "country": "USA",
+  "state": "NY",
+  "city": "Queensbury",
+  "baseAirport": "Floyd Bennett Memorial Airport",
+  "website": "https://www.leafair.net/",
+  "email": "ejbarrett@me.com",
+  "phone": "'+1 518-415-8453",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "KGFL",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

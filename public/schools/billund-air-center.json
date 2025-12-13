@@ -1,0 +1,22 @@
+{
+  "id": "a04c3085-6d79-4fe5-a44e-97fa52ed78e3",
+  "slug": "billund-air-center",
+  "name": "Billund Air Center",
+  "continent": "Europe",
+  "country": "Denmark",
+  "state": "DK",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://billundaircenter.dk/",
+  "email": "bac@billundaircenter.dk",
+  "phone": "'+45 7533 8907",
+  "about": "Billund Air Center (BAC) is a renowned flight school located in Billund, Denmark. We offer comprehensive airplane flight training programs, including Private Pilot Licence (PPL), Night Rating, and Commercial Pilot Licence (CPL). Our state-of-the-art facilities and experienced instructors provide a supportive and professional environment for aspiring pilots. With a focus on practical and theoretical training, BAC prepares students for successful careers in aviation. Contact us at Stratusvej 15, Billund, to embark on your pilot training journey. At BAC, we are committed to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private pilot license\\nFlight training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

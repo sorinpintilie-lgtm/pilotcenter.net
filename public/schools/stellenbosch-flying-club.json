@@ -1,0 +1,22 @@
+{
+  "id": "9421ed6d-a6e6-4762-bdca-1c9c4a9c4e17",
+  "slug": "stellenbosch-flying-club",
+  "name": "Stellenbosch Flying Club",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "WC",
+  "city": "",
+  "baseAirport": "Stellenbosch Airfield",
+  "website": "https://www.stelfly.co.za/",
+  "email": "gm@stelfly.co.za",
+  "phone": "'+27 21 880 0294",
+  "about": "Stellenbosch Flying Club is an approved aviation training organisation (ATO: CAA/1206) located in the picturesque Stellenbosch Wine-lands, surrounded by the Hottentots-Holland mountain region. Our flight school offers a range of courses including Private Pilot, Commercial Pilot, Night Rating, Instrument Rating, and Instructor's Rating. With a fleet of modern aircraft, our students gain valuable experience flying in controlled airspace, including landings at Cape Town International Airport. Our experienced instructors provide top-notch training, ensuring students receive comprehensive instruction and real-world flying experience. We are committed to helping aspiring pilots achieve their aviation goals in a beautiful and professional environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"ATPL (Modular - A)\\nClass Rating\\nCPL - (Modular - A)\\nCPL - (Modular - H)\\nFlight Instructor\\nInstrument Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

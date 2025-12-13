@@ -1,0 +1,22 @@
+{
+  "id": "2f0a6f3d-7583-49f0-9394-3dcb69e11676",
+  "slug": "red-horse-aviation",
+  "name": "Red Horse Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "F70 -French Valley Airport",
+  "website": "https://www.redhorseaviation.com/",
+  "email": "redhorseaviation@outlook.com",
+  "phone": "(707) 301-9928",
+  "about": "Red Horse Aviation is not associated with the U.S. Air Force's RED HORSE units, but rather a distinct entity focused on aviation training. At Red Horse Aviation, we are committed to providing top-notch flight training programs tailored to meet the diverse needs of aspiring pilots. Our experienced instructors and state-of-the-art facilities ensure a safe and comprehensive learning environment. We offer a range of courses from private pilot licenses to commercial aviation certifications, emphasizing both theoretical knowledge and practical skills. Our goal is to equip students with the expertise and confidence necessary to succeed in the aviation industry. With a strong emphasis on safety, professionalism, and continuous improvement, Red Horse Aviation is dedicated to helping you take to the skies with confidence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

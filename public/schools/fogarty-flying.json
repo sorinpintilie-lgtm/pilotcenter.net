@@ -1,0 +1,22 @@
+{
+  "id": "9cde642d-b131-46fc-bd4c-f8fde0c8c34a",
+  "slug": "fogarty-flying",
+  "name": "Fogarty Flying",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "MKY -Marco Island Exec Airport",
+  "website": "https://fogartyflying.com/",
+  "email": "jim@fogartyflying.com",
+  "phone": "(239) 285-5208",
+  "about": "Fogarty Flying, located at the Marco Island Airport in Naples, Florida, is a reputable flight training institution dedicated to providing comprehensive aviation education. We offer a range of services including ground school, introductory flights, and professional pilot training. Our FAA-certified instructors are committed to mentoring aspiring aviators, ensuring they receive the highest quality training to achieve their flying goals. With a focus on safety and excellence, Fogarty Flying is the ideal choice for those seeking to embark on a career in aviation or simply to learn the art of flying. Contact us at (239) 285-5208 or visit www.fogartyflying.com to start your flying journey today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

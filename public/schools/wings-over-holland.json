@@ -1,0 +1,22 @@
+{
+  "id": "3e5267f4-1f16-4e3f-8d36-81afdb7870e9",
+  "slug": "wings-over-holland",
+  "name": "Wings over Holland",
+  "continent": "Europe",
+  "country": "Netherlands",
+  "state": "NL",
+  "city": "",
+  "baseAirport": "Lelystad Airport",
+  "website": "https://www.wingsoverholland.nl/",
+  "email": "info@wingsoverholland.nl",
+  "phone": "'+31 (0) 320 28 82 60",
+  "about": "Wings over Holland, located at Lelystad Airport in Flevoland, Netherlands, is a highly experienced and ambitious General Aviation flight school with over 30 years of expertise. The school offers comprehensive flight training programs for Private Pilot License (PPL), Commercial Pilot License (CPL), Frozen ATPL, and various instructor ratings. Students can engage in aerobatics, water flying, and maintenance training, utilizing state-of-the-art Diamond aircraft. The school has implemented the Aviatize digital planning platform to ensure a smooth, paperless, and compliant training environment. With a diverse team of instructors, maintenance personnel, and administrative staff, Wings over Holland provides flexible and modular training options, making it an ideal choice for both private and professional pilots. The school's commitment to safety, compliance, and innovative technology ensures a top-notch aviation education.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License – MEP\\nFrozen ATPL\\nFlight Instructor\\nInstrument Rating Instructor\\nSingle Engine Piston Instrument Rating\\nMulti Engine Piston Instrument Rating\\nClass Rating Instructor Single Engine\\nClass Rating Instructor Multi Engine\\nAerobatics Rating\\nNight Rating\\nSingle Engine Piston\\nMulti Engine Piston\\nPerformance Based Navigation PBN\\nAdvanced UPRT\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

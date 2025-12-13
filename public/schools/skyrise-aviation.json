@@ -1,0 +1,22 @@
+{
+  "id": "ae05ce80-52f9-42f0-9418-49af9b9341ba",
+  "slug": "skyrise-aviation",
+  "name": "SkyRise Aviation, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "MHR -Sacramento Mather Airport",
+  "website": "https://www.flyskyrise.com/",
+  "email": "info@flyskyrise.com",
+  "phone": "(916) 234-5771",
+  "about": "SkyRise Aviation, LLC is a professional flight training institution dedicated to providing high-quality aviation education. We offer FAA Part 61 certified programs for Private Pilot, Instrument Rating, Commercial Pilot, and Certificated Flight Instructor certifications. Our fleet includes modern, technically advanced aircraft such as the Cessna 172SP, Diamond DA40 XLS, and the upcoming Evektor Harmony, ensuring safe, reliable, and enjoyable flying experiences. Our instructors are experienced and committed to helping students achieve their aviation goals. We also provide continuing education services including flight reviews and instrument proficiency checks. With a focus on safety, reliability, and fun, SkyRise Aviation is your trusted partner for professional flight training in Sacramento. We are dedicated to helping you soar to new heights in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nInstrument Proficiency Check\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

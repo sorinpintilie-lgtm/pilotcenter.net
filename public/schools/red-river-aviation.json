@@ -1,0 +1,22 @@
+{
+  "id": "5487f958-8d46-48b5-ab58-1ffa72746644",
+  "slug": "red-river-aviation",
+  "name": "Red River Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "OK",
+  "city": "Altus",
+  "baseAirport": "Almus Airport",
+  "website": "https://www.tothaviation.com/",
+  "email": "services@redriveraviation.com",
+  "phone": "'+1 580-482-4288",
+  "about": "At Red River Aviation Services LLC, our Flight Academy is dedicated to providing comprehensive flight training from private pilot licenses to Certified Flight Instructor (CFII) certifications. Located in Altus, Oklahoma, our top-notch school offers a range of programs tailored to meet the needs of aspiring pilots. Our experienced instructors and well-maintained aircraft ensure a safe and effective learning environment. We also provide aircraft repair services, catering to most general aviation aircraft. Our commitment to excellence and personalized training sets us apart, making us a trusted choice for those pursuing a career in aviation. We are dedicated to helping our students achieve their flying goals with professionalism and integrity.",
+  "icao": "ALS",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

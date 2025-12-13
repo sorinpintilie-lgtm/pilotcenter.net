@@ -1,0 +1,22 @@
+{
+  "id": "ef33eea9-c348-487e-bc07-aac3a02fa1ca",
+  "slug": "performance-flight",
+  "name": "Performance Flight",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NY",
+  "city": "",
+  "baseAirport": "HPN -Westchester County Airport",
+  "website": "https://flypf.com/",
+  "email": "info@performanceflight.com",
+  "phone": "(914) 397-1444",
+  "about": "Performance Flight is an acclaimed flight training school, aircraft management center, and charter service located at White Plains/Westchester County Airport. We offer a range of services including basic pilot training, advanced pilot training, and experience flights. Our instructors, each with thousands of hours of flight experience, provide elite-level training with a focus on safety and technological advancement. We utilize the latest Cirrus aircraft and integrate innovative tools like Smart Boards, Go Pro cameras, and CloudAhoy for comprehensive training. Our structured curriculum includes private pilot, instrument, and Cirrus transition training, as well as ongoing education through our Masters Series. With a state-of-the-art facility and a commitment to personalized attention, Performance Flight sets a new standard in flight training. Whether you're a beginner or an experienced pilot, we provide the ideal environment to achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

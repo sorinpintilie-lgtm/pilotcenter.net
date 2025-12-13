@@ -1,0 +1,22 @@
+{
+  "id": "f390da54-6814-4e45-a929-4a0fa4144ca2",
+  "slug": "icon-aircraft-flight-center",
+  "name": "ICON Aircraft Flight Center",
+  "continent": "North America",
+  "country": "United",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "VCB -Nut Tree Airport",
+  "website": "https://www.iconaircraft.com/flight-training/",
+  "email": "info@iconaircraft.com",
+  "phone": "(707) 564-4100",
+  "about": "At the ICON Aircraft Flight Center, we are dedicated to making flying more accessible and enjoyable for all aviators. Our flight training programs are designed to change the way people learn to fly, with a focus on safety, fun, and innovation. Led by former military pilots, our instructors use proprietary training materials and a curriculum based on military flight-training philosophies. We offer various training options, including transition courses for land and water operations, sport pilot licenses, and introductory flights. Our state-of-the-art safety features, such as the ICON Parachute System and spin-resistant airframe, ensure pilots of all skill levels can fly safely. With locations in Tampa, FL, and Vacaville, CA, and a network of flight training partners across the U.S., we provide a comprehensive and enjoyable flying experience. Whether you're a new or experienced pilot, our goal is to equip you with the skills and confidence to enjoy a lifetime of safe and exciting flying.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSport Pilot\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

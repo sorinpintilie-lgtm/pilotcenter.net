@@ -1,0 +1,22 @@
+{
+  "id": "68e4be02-ee04-4727-8fca-03b57e81890a",
+  "slug": "helistar-aviation",
+  "name": "Helistar Aviation",
+  "continent": "North America",
+  "country": "United",
+  "state": "TN",
+  "city": "",
+  "baseAirport": "JWN -John C Tune Airport",
+  "website": "https://flyhelistar.com/",
+  "email": "info@flyhelistar.com",
+  "phone": "(833) 359-6387",
+  "about": "Helistar Aviation, based in Nashville, Tennessee, has been serving the Middle Tennessee area for over five years with a strong commitment to safety. Our team includes pilots with over 180 years of combined experience and more than 145,000 flight hours. We offer a range of courses, including Private Pilot License, Commercial Pilot License, Instrument Rating, and Certified Flight Instructor certifications, all with a focus on helicopters. Located at the John C. Tune Airport, we employ full-time mechanics to ensure our equipment is always in top condition. With a dedicated team of instructors and a Designated Pilot Examiner among our owners, Helistar Aviation is dedicated to providing high-quality aviation training and services. Our priority is safety and service, ensuring you receive the best possible training experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

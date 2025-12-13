@@ -1,0 +1,22 @@
+{
+  "id": "eddc0c8a-ac87-47bc-a4cc-353b08ee5e25",
+  "slug": "gateway-flight-center",
+  "name": "Gateway Flight Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "PKV -Calhoun County Airport",
+  "website": "https://gatewayflightcenterllc.com/",
+  "email": "info@gatewayflightcenterllc.com",
+  "phone": "(361) 552-1228",
+  "about": "Gateway Flight Center is a premier aviation training institution with a 13-year track record of excellence in flight training. We offer both recreational and professional aviation programs, ensuring a safe, exciting, and rewarding experience for all students. With an impressive initial pass rate of 98%, our FAA-certified instructors provide personalized training programs tailored to each student's needs. Our state-of-the-art facilities and introductory Metro Flight offers make us an ideal choice for aspiring pilots. We invite you to visit us, discuss your training goals, and experience the beauty and value of flying with our dedicated flight team. Take the next step and explore the world of aviation with Gateway Flight Center.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

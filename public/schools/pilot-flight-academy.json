@@ -1,0 +1,22 @@
+{
+  "id": "94f4fd6f-e6cb-499f-b321-a581fdc67e66",
+  "slug": "pilot-flight-academy",
+  "name": "Pilot Flight Academy",
+  "continent": "Europe",
+  "country": "Norway",
+  "state": "",
+  "city": "Sandefjord",
+  "baseAirport": "Torp Sandefjord Airport",
+  "website": "https://pilot.no/",
+  "email": "post@pilot.no",
+  "phone": "'+47 970 56 840",
+  "about": "Pilot Flight Academy, located at Torp Sandefjord Airport, is one of Europe's largest and most modern flight schools. We offer an ATP(A) Integrated commercial pilot training program, enabling students to become commercial pilots within 2 years. Approved as tertiary vocational education in Norway, our program includes initial flight training in the USA and is eligible for student loans. With a diverse international student body and on-site housing, our goal is to set the quality standard for future pilots, driven by a committed team dedicated to student success. Our vision is to be the market leader in pilot training, making us your number one choice for a career in aviation. Join us to start your journey to becoming a professional pilot.",
+  "icao": "ENTO",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

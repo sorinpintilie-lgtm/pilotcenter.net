@@ -1,0 +1,22 @@
+{
+  "id": "ed3a2980-70e4-47d2-9343-cf162aa33a9d",
+  "slug": "klattaero",
+  "name": "KlattAero, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WI",
+  "city": "",
+  "baseAirport": "PCZ -Waupaca Municipal Airport",
+  "website": "https://www.klattaero.com/",
+  "email": "airport@waupacawi.gov",
+  "phone": "(920) 867-3070",
+  "about": "KlattAero, LLC, located at Waupaca Municipal Airport (KPCZ), is a premier aviation service provider dedicated to excellence in pilot training and aviation education. As an assisted-service Fixed Base Operator (FBO), we offer a range of services including annual recurrent training, biennial flight reviews, ground school, instrument proficiency checks, and introductory flights. Our no-fee after-hours policy ensures that our clients are never left unassisted. With a commitment to being leaders in the aviation industry, KlattAero provides a comprehensive and supportive environment for all your flight training needs. We are here to help you achieve your aviation goals with professionalism and integrity.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

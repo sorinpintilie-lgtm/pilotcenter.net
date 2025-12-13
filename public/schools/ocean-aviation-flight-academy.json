@@ -1,0 +1,22 @@
+{
+  "id": "7f77fe92-54bf-4289-b508-36a73eb8d0a0",
+  "slug": "ocean-aviation-flight-academy",
+  "name": "Ocean Aviation Flight Academy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "MD",
+  "city": "Berlin",
+  "baseAirport": "Ocean City Municipal Airport",
+  "website": "https://www.flyoceanaviation.com/",
+  "email": "mfreed@flyoceanaviation.com",
+  "phone": "'+1 410-213-8400",
+  "about": "Ocean Aviation Flight Academy, located in Berlin, Maryland, and with a second location at the Delaware Coastal Airport, is a FAA Approved 141 Flight School offering comprehensive flight training programs. Founded in 2007 by Michael Freed, the academy aims to provide world-class flight training, recognized by the FAA and the Veterans Administration. We offer Private, Instrument, and Commercial Flight Training, as well as an Accelerated ProPilot Course that prepares students for a career as a professional airline pilot in as little as eight months. Our full-time instructors provide personalized attention, and we are SEVIS approved to accept international students. With state-of-the-art facilities, including a Redbird FMX Full Motion Flight Simulator, and a fleet of Cessna 172 Skyhawk aircraft, we ensure a superior learning environment. Our mission is to serve students with professional, world-class training, helping them achieve their aviation goals.",
+  "icao": "KOXB",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

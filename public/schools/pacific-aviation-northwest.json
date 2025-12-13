@@ -1,0 +1,22 @@
+{
+  "id": "ed444cfb-86bb-4fcb-b70a-3f8e7a12c720",
+  "slug": "pacific-aviation-northwest",
+  "name": "Pacific Aviation Northwest, Inc",
+  "continent": "North America",
+  "country": "USA",
+  "state": "OR",
+  "city": "Grants Pass",
+  "baseAirport": "Grants Pass Airport",
+  "website": "https://pacificaviationnw.com/",
+  "email": "info@pacificaviationnw.com",
+  "phone": "'+1 541-479-2230",
+  "about": "Pacific Aviation Northwest, Inc., located at the Grants Pass Airport (3S8) in Southern Oregon, is a comprehensive flight school and Fixed Base Operator (FBO) offering a range of aviation services. We provide quality aircraft services, expert pilots, and highly trained instructors who exceed industry standards. Our flight instruction programs include introductory flights, student pilot, private pilot, commercial pilot, and air transport pilot licenses, as well as specialized endorsements and additional training in areas such as emergency procedures, mountain flying, and multi-engine conversion. We also offer aircraft rentals, ground school, and professional aircraft maintenance and management services. With operations seven days a week from 8AM to 5PM, we are dedicated to helping you achieve your aviation goals. Contact us today to start your flying journey.",
+  "icao": "3S8",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

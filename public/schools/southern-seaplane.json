@@ -1,0 +1,22 @@
+{
+  "id": "e1b284d6-1770-4fe1-8ebf-da1c70d35897",
+  "slug": "southern-seaplane",
+  "name": "Southern Seaplane, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "LA",
+  "city": "",
+  "baseAirport": "65LA -Southern Seaplane",
+  "website": "https://www.southernseaplane.com/",
+  "email": "info@southernseaplane.com",
+  "phone": "(504) 394-5633",
+  "about": "Southern Seaplane, Inc., established in 1954, is a premier aviation company specializing in seaplane operations. As the largest seaplane operation in the Gulf South, we offer a range of services including charters, tours, and comprehensive flight training. Our flying school, Part 141 approved, provides multiple Seaplane Add-On Rating Courses and a unique three-day safety course for rated seaplane pilots. Located in South Louisiana, our mild climate and diverse waterways allow for year-round flying and exposure to various scenarios. Our instructors, all experienced Part 135 Seaplane Charter Pilots, ensure top-notch training. We also offer maintenance services and guided fishing trips to Louisiana barrier islands. With over 60 years of experience, Southern Seaplane is committed to safety and excellence in seaplane aviation. Our goal is to provide unparalleled training and service, making your flying experience both safe and memorable.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Sport CFIS\\nPrivate Pilot\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

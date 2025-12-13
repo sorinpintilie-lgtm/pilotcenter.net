@@ -1,0 +1,22 @@
+{
+  "id": "8af90dfd-fae6-4a22-b950-9d190131fca6",
+  "slug": "cae-new-jersey-morristown-training-center",
+  "name": "CAE New Jersey Morristown Training Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NJ",
+  "city": "",
+  "baseAirport": "MMU -Morristown Municipal Airport",
+  "website": "https://www.cae.com/civil-aviation/locations/cae-new-jersey-morristown",
+  "email": "aviationtraining@cae.com",
+  "phone": "(973) 581-7400",
+  "about": "The CAE New Jersey Morristown Training Center, opened in January 2007, is a premier facility for business aviation training. Located near Morristown Airport, it provides pilot, technical, and flight crew training, particularly for the Dassault Falcon 7X, Falcon 2000EX EASy, Falcon 900EX EASy, Gulfstream IV, and Sikorsky S-76 aircraft. The center has expanded from six to 15 simulator bays to meet growing demand, training up to 5,000 pilots annually. It offers high-quality, customized training with state-of-the-art tools, including classrooms and briefing rooms equipped with CAE Simfinity technology. This facility is part of CAE's global network of training centers, committed to delivering exceptional training in convenient locations. The center is a testament to CAE's dedication to providing top-tier training services to the business aviation community.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nComputerized Testing\\nGround School\\nSimulator\\nAirline Transport Pilot ATP\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

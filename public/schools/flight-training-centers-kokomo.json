@@ -1,0 +1,22 @@
+{
+  "id": "3fdf3f95-cb0a-4ab3-967d-130715d4e340",
+  "slug": "flight-training-centers-kokomo",
+  "name": "Flight Training Centers - Kokomo",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IN",
+  "city": "",
+  "baseAirport": "OKK -Kokomo Municipal Airport",
+  "website": "https://flighttrainingcenters.com/",
+  "email": "info@flighttrainingcenters.com",
+  "phone": "(765) 319-3295",
+  "about": "Flight Training Centers, based in Kokomo, Indiana, offers comprehensive and affordable flight training from several north-central Indiana airports, including Kokomo Municipal Airport, Glenndale Airport, and Sheridan Airport. We provide training for various licenses, including Private Pilot, Sport Pilot, Instrument Rating, and Commercial Pilot Certificate, as well as certifications for Certified Flight Instructor, Instrument Instructor, and Multi Engine Instructor. Additional endorsements in high performance, complex, and tailwheel flying are also available. Our main base at Kokomo Municipal Airport features 5,000 and 4,000 foot paved runways. We cater to all levels of pilots, from newcomers to those seeking advanced ratings. Contact us at 765-319-3295 or info@flighttrainingcenters.com to start your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

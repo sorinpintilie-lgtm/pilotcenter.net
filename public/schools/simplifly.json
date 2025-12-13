@@ -1,0 +1,22 @@
+{
+  "id": "a50073ed-4ef0-466a-8e7f-5f2e3d727107",
+  "slug": "simplifly",
+  "name": "SimpliFly",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "FFZ -Falcon Field",
+  "website": "https://simpliflyco.com/",
+  "email": "info@simpliflyco.com",
+  "phone": "(480) 256-8355",
+  "about": "SimpliFly Flight Training, located in Mesa, AZ, is a comprehensive flight school offering training programs from private pilot certification to certified flight instructor (CFI) levels. Our programs include private, instrument, commercial, multi-engine, and CFI training, designed to equip students with the skills and expertise needed for safe and confident flying. With a team of experienced aviation experts and a supportive, collaborative environment, we help students build flight hours and pursue careers in aviation. Our flexible and accelerated programs cater to various schedules, and we are committed to excellence and safety. Join SimpliFly to embark on a rewarding journey in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

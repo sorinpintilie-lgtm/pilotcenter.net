@@ -1,0 +1,22 @@
+{
+  "id": "33ff8cea-7027-4227-8623-53448c5d0f2e",
+  "slug": "multiflight",
+  "name": "Multiflight",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Leeds",
+  "baseAirport": "Leeds Bradford Airport",
+  "website": "https://www.multiflight.com/",
+  "email": "Karen.spencer@multiflight.com /  contactus@multiflight.com",
+  "phone": "'+44 113 238 7100",
+  "about": "Multi Engine Flight School, located in Glendale, Arizona, has been a trusted name in flight training for over 35 years. We offer a range of programs, including multi-engine ratings, commercial pilot training, instrument add-ons, and airline transport pilot certifications. Our accelerated 15-hour multi-engine course, priced at $5499.99, covers instructor fees, fuel, ground school, and aircraft for the check ride. With a focus on reliability and safety, our experienced instructors and well-maintained aircraft ensure a high standard of training. We are committed to helping pilots achieve their goals, whether it's for personal flying or a professional career. Contact us today to start your journey to becoming a certified pilot.",
+  "icao": "EGNM",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

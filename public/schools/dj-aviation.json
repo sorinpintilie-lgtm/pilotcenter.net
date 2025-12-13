@@ -1,0 +1,22 @@
+{
+  "id": "b58563ff-64b9-4c9b-8af7-ef62b247e31b",
+  "slug": "dj-aviation",
+  "name": "D&J Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "X04 -Orlando Apopka Airport",
+  "website": "https://www.dandjaviation.com/",
+  "email": "flightops@ldmaxflight.com",
+  "phone": "(407) 590-2550",
+  "about": "D&J Aviation, LLC is a premier flight training and aviation services provider based in the greater Orlando area. We offer a comprehensive range of flight training programs, including private pilot, single and multi-engine commercial pilot licenses, and advanced training. Our professional programs are designed to maintain the highest levels of safety and training while keeping costs in mind. We also provide aircraft rentals and block time purchases at competitive rates. Additionally, we offer an in-house financing program to support our students. With a commitment to excellence and safety, D&J Aviation is dedicated to helping aspiring pilots achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

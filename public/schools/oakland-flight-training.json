@@ -1,0 +1,22 @@
+{
+  "id": "c14cfece-3cbd-4daf-a579-6f9fc5b90c0a",
+  "slug": "oakland-flight-training",
+  "name": "Oakland Flight Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MI",
+  "city": "",
+  "baseAirport": "57D -Ray Community Airport",
+  "website": "https://www.oaklandft.com/",
+  "email": "oaklandft@gmail.com",
+  "phone": "(810) 614-2517",
+  "about": "Oakland Flight Training is a premier flight school serving the needs of students and the flying community in the San Francisco Bay Area. With two convenient locations at Ray Community Airport and Oakland/Troy Airport, we offer first-class instruction and a fleet of reliable aircraft. Our Certified Flight Instructors provide high-quality, professional training whether your goal is to fly for recreation, business, or a career in aviation. We cater to all levels of pilots, from those who have always dreamed of flying to those seeking to advance their skills. Our commitment to excellence and passion for flying ensures that every student receives the best possible training experience. At Oakland Flight Training, we aim to bring the thrill and freedom of flying to everyone who joins us.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ecd778a3-510a-4a8e-a074-705338762d1f",
+  "slug": "ram-aviation",
+  "name": "RAM Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "HES -Healdsburg Municipal Airport",
+  "website": "https://ramaviation.com/",
+  "email": "information@ramaviation.com",
+  "phone": "(707) 479-5969",
+  "about": "RAM Aviation, located in Sonoma County, California, is a comprehensive flying school dedicated to providing top-notch flight training. Our programs include the Private Pilot Certificate, Instrument Rating, Commercial Pilot Certificate, and Certified Flight Instructor courses, as well as specialized endorsements such as aircraft checkouts, spin training, and mountain flying. We offer a Professional Pilot Program that encompasses all necessary certifications for a career in aviation, with job placement assistance available. Our training is conducted in safe and well-maintained aircraft, including the Piper Tomahawk, and is led by experienced instructors. We cater to students of all levels, from those interested in a demo flight to those pursuing a professional aviation career. At RAM Aviation, we are committed to fostering a safe, supportive, and educational environment for all aspiring pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

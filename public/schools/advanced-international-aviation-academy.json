@@ -1,0 +1,22 @@
+{
+  "id": "7d41ab09-707f-4cec-820b-e570c6922952",
+  "slug": "advanced-international-aviation-academy",
+  "name": "Advanced International Aviation Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SAC -Sacramento Exec Airport",
+  "website": "https://www.aiaviationacademy.com/",
+  "email": "operations@jetexe.com",
+  "phone": "(855) 572-9378",
+  "about": "Advanced International Aviation Academy (AIAA) is a premier professional flight training academy based in Sacramento, California, at the Sacramento Executive Airport (KSAC). As a CFR 141, FAA Certified and Accredited institution, AIAA provides comprehensive pilot training for FAA licenses, including ATP, Commercial, Private, Recreational, and Sport Pilots, as well as instrument and multi-engine ratings. We cater to both domestic and international students with accelerated training programs at competitive pricing. Recognized for excellence, AIAA has won several awards from AOPA, including the Outstanding Flight School Award. Our location offers ideal year-round weather and access to diverse airspace and facilities. We prioritize high-quality training, safety, and customer service, ensuring an enjoyable and effective learning environment. AIAA is committed to defining excellence in aviation training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

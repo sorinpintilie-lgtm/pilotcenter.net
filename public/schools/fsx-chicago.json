@@ -1,0 +1,22 @@
+{
+  "id": "7ab51a2f-8bbe-4175-81e7-4a4ca939ebdb",
+  "slug": "fsx-chicago",
+  "name": "FSX Chicago",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "ARR -Aurora Municipal Airport",
+  "website": "https://fsxchicago.com/",
+  "email": "fsxchicago@gmail.com",
+  "phone": "(708) 299-8246",
+  "about": "FSX Chicago is a premier flight school located in the Chicago area, offering a comprehensive and advanced aviation training experience. As a Cessna Pilot Center and a member of the Aircraft Owners and Pilots Association (AOPA), FSX Chicago provides top-notch instruction for aspiring pilots. The school offers a range of programs, including Private Pilot, Commercial, Airline Transport Pilot (ATP), and Flight Instructor training. Our team of highly qualified instructors, including Fernando, Claudiu, Pavel, and Michael, all hold ATP and CFII certifications, ensuring students receive expert guidance. With state-of-the-art facilities and a commitment to safety and excellence, FSX Chicago is dedicated to helping students achieve their aviation goals. Whether you're just starting your aviation journey or advancing your career, FSX Chicago is the ideal place to learn and grow as a pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nDrone/UAS\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nPart 107 Drone Testing\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

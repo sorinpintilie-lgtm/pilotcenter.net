@@ -1,0 +1,22 @@
+{
+  "id": "7093af9e-a7e1-4368-b643-dc055d4e264e",
+  "slug": "owens-flight-training",
+  "name": "Owens Flight Training, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "LA",
+  "city": "",
+  "baseAirport": "LFT -Lafayette Regional/Paul Fournet Field",
+  "website": "https://www.owensflighttraining.com/",
+  "email": "info@owensflighttraining.com",
+  "phone": "(337) 534-4040",
+  "about": "Owens Flight Training, LLC, located at 114 Borman Drive in Lafayette, Louisiana, is a premier flight school dedicated to helping individuals achieve their aviation goals. We offer comprehensive flight training programs for Private Pilots, Commercial Pilots, Instrument Ratings, and Certified Flight Instructors. Our certified instructors provide personalized training to ensure students pass their written and field flying tests with confidence. Whether you aspire to fly privately or commercially, our programs are designed to meet your needs. With a focus on safety and excellence, Owens Flight Training has helped many men and women realize their dream of flying. Contact us at (337) 534-4040 or visit our website to start your aviation journey today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

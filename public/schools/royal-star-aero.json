@@ -1,0 +1,22 @@
+{
+  "id": "e5f81957-7a29-4379-81e7-4622f2e51611",
+  "slug": "royal-star-aero",
+  "name": "Royal-Star AERO",
+  "continent": "Europe",
+  "country": "Poland",
+  "state": "",
+  "city": "Mielec",
+  "baseAirport": "Mielec Airport",
+  "website": "https://royalstaraero.pl/",
+  "email": "ato@royal-star.pl",
+  "phone": "'+48 17 788 63 60",
+  "about": "Royal-Star AERO, established in 1995, is a premier flight training institution located in the heart of Poland's Aviation Valley in Mielec. Certified by the Civil Aviation Office of the Republic of Poland, we offer comprehensive training programs for Private Pilot License (PPL), Commercial Pilot License (CPL), and Air Transport Pilot License (ATPL). Our state-of-the-art facilities include modern glass cockpit avionics, 12 aircraft, and two FNPT II type flight simulators, one simulating the Airbus A320 cockpit. Our experienced instructors, armed with HUD Displays and AR augmented reality technology, provide round-the-clock support through our innovative mobile and web application. We have trained hundreds of pilots now flying with major airlines and private aviation. With a strong focus on both pilot education and aircraft maintenance, Royal-Star AERO is committed to elevating aviation standards and ensuring every student receives top-notch training that meets international standards.",
+  "icao": "EPML",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Instrument (CFII / IRI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "872eb8bf-0488-4ec6-a195-319e13e0e771",
+  "slug": "california-flight-school",
+  "name": "California Flight School",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CA",
+  "city": "San Diego",
+  "baseAirport": "Gillespie Field",
+  "website": "https://www.californiaflightschool.com/",
+  "email": "pilotmaker@californiaflightschool.com",
+  "phone": "'+1 818-769-1503",
+  "about": "California Flight Academy, located at Gillespie Field Airport in San Diego, California, has been a premier flight school since 1973. We are committed to helping students achieve their pilot career goals through personalized training pathways, ensuring they gain the knowledge, flight hours, and experience needed for high-demand pilot careers. Our students benefit from a controlled and well-maintained airport environment, extensive experience with air traffic control communications, and modern aircraft maintained above FAA standards. With 260 days of sunshine, our students can build maximum flight hours. We offer job placement assistance, career coaching, and a guarantee of a job interview for graduates who earn their private, instrument, and commercial licenses from us. Our mission is to produce qualified, intelligent, and productive pilots, and we are proud of our graduates who have gone on to successful careers with top airlines globally. Join us to start your pilot pathway today.",
+  "icao": "KSEE",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

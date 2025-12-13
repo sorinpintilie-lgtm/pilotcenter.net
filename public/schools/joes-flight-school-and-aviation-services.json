@@ -1,0 +1,22 @@
+{
+  "id": "070ea577-719c-4b7f-b2bc-be6e3792d28b",
+  "slug": "joes-flight-school-and-aviation-services",
+  "name": "Joe's Flight School and Aviation Services",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "ELP -El Paso International Airport",
+  "website": "http://joesflightschool.com/",
+  "email": "joesflightschool@gmail.com",
+  "phone": "(915) 781-7733",
+  "about": "Joe's Flight School and Aviation Services, located in El Paso, Texas, is a comprehensive flight training institution dedicated to providing high-quality ground and flight instruction. With a mission to support both new pilots and those transitioning to new aircraft types, the school offers a range of programs, including private pilot licenses, instrument ratings, and biennial flight reviews. Joe's Flight School partners with Pilot Finance to offer financial aid, ensuring that aspiring pilots can achieve their goals without financial constraints. The school operates out of El Paso International Airport and is known for its one-on-one ground school lessons and classroom training. Joe's Flight School is committed to helping pilots refresh or update their skills, making it an excellent choice for those seeking to become or remain proficient aviators.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nPart 107 Drone Testing\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

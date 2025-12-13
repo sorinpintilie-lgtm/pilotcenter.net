@@ -1,0 +1,22 @@
+{
+  "id": "63900a91-525d-48b1-b69c-4dd1d9f99fe8",
+  "slug": "eagle-aircraft-flight-academy",
+  "name": "Eagle Aircraft Flight Academy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "IN",
+  "city": "Valparaiso",
+  "baseAirport": "Porter County Regional Airport (VPZ)",
+  "website": "https://jseagle.com/",
+  "email": "hollydys2@gmail.com",
+  "phone": "'+1 219-464-0132",
+  "about": "Eagle Aircraft Flight Academy is a Cessna Pilot Center, offering the only integrated flight-training program that combines flight and ground school lessons. Our fleet includes various Cessna models such as the Cessna 172 Skyhawk G1000s, Cessna 172M, Cessna 172N, and Cessna 150, all equipped with updated avionics. We provide training for Private, Commercial, and advanced licenses. With FAA-certified full-time flight instructors, we offer discovery and scenic flights, as well as professional pilot programs with monthly payments starting at $1,300. Our academy is fully Part 141 certified, ensuring a comprehensive and regulated learning environment. We are dedicated to providing high-quality flight training to aspiring pilots.",
+  "icao": "VAP",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

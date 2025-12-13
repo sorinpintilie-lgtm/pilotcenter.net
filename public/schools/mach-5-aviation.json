@@ -1,0 +1,22 @@
+{
+  "id": "d86066d1-2d3f-448a-8fc5-cbc8e0e0f8ca",
+  "slug": "mach-5-aviation",
+  "name": "Mach 5 Aviation, Inc.",
+  "continent": "North America",
+  "country": "United",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "AUN -Auburn Municipal Airport",
+  "website": "https://www.mach5aviation.com/",
+  "email": "info@mach5aviation.com",
+  "phone": "(530) 889-2000",
+  "about": "Mach 5 Aviation, Inc., based at Auburn Municipal Airport, is a comprehensive aviation service provider and flying school. As a Fixed-Base Operator (FBO), we offer flight training, aircraft rental, aerial tours, aircraft charters, aerial photography, and extensive maintenance services. Our flight training programs include primary training, advanced courses such as instrument, commercial, multi-engine, and flight instructor certifications, as well as specialized training in tailwheel, aerobatic, and upset recovery. We operate under both FAA Part 61 and Part 141 training programs, ensuring structured and high-quality instruction. Our diverse fleet includes primary and advanced training aircraft, and our experienced mechanics provide top-notch maintenance. We are committed to safety, flexibility, and helping pilots achieve their goals, whether for professional careers or personal flying adventures. At Mach 5 Aviation, we are dedicated to making your flying experience exceptional.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\\nUltralight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

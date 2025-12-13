@@ -1,0 +1,22 @@
+{
+  "id": "913f4391-b469-44c1-b0f8-6c143a46d998",
+  "slug": "f-air-flight-school",
+  "name": "F AIR Flight School Ltd",
+  "continent": "Europe",
+  "country": "Czech Republic",
+  "state": "CZEC",
+  "city": "",
+  "baseAirport": "Benesov Airport",
+  "website": "https://www.f-air.cz/en/home",
+  "email": "f-air@f-air.cz",
+  "phone": "'+420 777 623 033",
+  "about": "F AIR Ltd. is the first JAR certified flight school in the Czech Republic, established in 1990 and located near Prague. With modern premises, a quality back office, restaurant, and accommodation at Benešov Airport, F AIR offers comprehensive training for aspiring pilots. The school boasts a fleet of 44 modern aircraft and an FNPT II simulator, training individuals for both recreational and professional aviation careers. F AIR has graduated over 2900 students from 40 different nationalities and is recognized for its significant contribution to Czech aviation. Certified by EASA, CAAC, and ISO9001, F AIR ensures high standards in aviation education, making it the premier choice for those seeking to become safe and skilled pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PROFESSIONAL PILOT\\nNight VFR\\nTimebuilding\\nIR(A)\\nMEPCPL(A)\\nFI(A)\\nAerobatics\\nEIR(A)\\nATPL/CPL/IR/EIR theory\\nAviation English\\nType Ratings\\nMCC\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

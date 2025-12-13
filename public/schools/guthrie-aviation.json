@@ -1,0 +1,22 @@
+{
+  "id": "4e7fc611-4721-47b2-a594-00650d782e5a",
+  "slug": "guthrie-aviation",
+  "name": "Guthrie Aviation",
+  "continent": "Africa",
+  "country": "Zimbabwe",
+  "state": "ZI",
+  "city": "",
+  "baseAirport": "Charles Prince Airport",
+  "website": "https://guthrieaviation.com/wp/",
+  "email": "info@GuthrieAviation.com",
+  "phone": "'+263-8677000627",
+  "about": "Guthrie Aviation, established in 1995 by Craig Guthrie, is the oldest commercially operating flight training school in Zimbabwe. Licensed by the Ministry of Higher Education, the school specializes in pilot training, offering full and part-time programs for the Private Pilots Licence (PPL) and Commercial Pilots Licence (CPL), as well as instrument ratings, night ratings, and type conversions. Training is primarily conducted in Cessna 172s and Cessna 210s. With a strong focus on professional and comprehensive training, Guthrie Aviation has trained numerous pilots who now fly for major airlines worldwide. The school's commitment to excellence and safety ensures students receive the highest quality education, making it a premier choice for aspiring pilots. Guthrie Aviation is dedicated to helping students achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PPL – Private Pilot\\nCPL – Commercial Pilots\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

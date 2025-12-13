@@ -1,0 +1,22 @@
+{
+  "id": "6c1c2da5-98f5-400d-a8a5-9b3b84bb1970",
+  "slug": "go-fly-oxford",
+  "name": "Go Fly Oxford",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Oxford",
+  "baseAirport": "London Oxford Airport",
+  "website": "https://www.goflyoxford.co.uk/",
+  "email": "admin@goflyoxford.co.uk",
+  "phone": "'+44 1865 842 492",
+  "about": "Go Fly Oxford, based at London Oxford Airport, is a medium-sized flight school dedicated to providing personalized and tailored pilot training. We cater to individual learning needs, offering a range of modular courses from the Private Pilot Licence (PPL) to the Commercial Pilot Licence (CPL), including Night Rating, Instrument Rating (IR), and Multi Engine Piston Rating (MEP). Our flexible Fast Track Modular Training Program allows students to enroll in individual courses at their convenience. With a focus on delivering high-quality training, we serve the South of England and are conveniently located near London and Birmingham. Our experienced instructors ensure a pleasurable and effective learning experience, making Go Fly Oxford an ideal choice for aspiring pilots.",
+  "icao": "EGTK",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

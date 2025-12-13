@@ -1,0 +1,22 @@
+{
+  "id": "7addee72-b50d-4d8d-bef5-20a573fb709b",
+  "slug": "fly-pioneer-valley",
+  "name": "Fly Pioneer Valley",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MA",
+  "city": "",
+  "baseAirport": "0B5 -Turners Falls Airport",
+  "website": "https://flypioneervalley.com/",
+  "email": "info@flypioneervalley.com",
+  "phone": "(413) 824-7122",
+  "about": "Fly Pioneer Valley, located at Turners Falls Municipal Airport in Massachusetts, offers comprehensive flight instruction for aspiring pilots. Our experienced instructors provide personalized training in a supportive and hands-on environment. Students can expect to begin flying from their first lesson, with most sessions including a one-hour flight and additional time for pre-flight and post-flight briefings. We adhere to Federal Aviation Regulations, requiring a minimum of 40 hours of training for a private pilot certificate, though most students complete their training in 60-70 hours. Our services include introductory lessons, gift certificates, and aircraft rental. We ensure that all students, whether U.S. citizens or foreign nationals, comply with TSA requirements and obtain necessary medical certifications. With a focus on safety, professionalism, and student progress, Fly Pioneer Valley is dedicated to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

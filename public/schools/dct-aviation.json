@@ -1,0 +1,22 @@
+{
+  "id": "ce8beb07-0f61-4358-812e-d6f6aa5232c1",
+  "slug": "dct-aviation",
+  "name": "DCT Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "MI",
+  "city": "Waterford",
+  "baseAirport": "Oakland County International Airport",
+  "website": "https://www.dctaviation.com/",
+  "email": "info@dctaviation.com",
+  "phone": "'+1 248-666-1800",
+  "about": "DCT Aviation, located at the Oakland County International Airport in Waterford, Michigan, is a premier flight training facility serving the Metro Detroit area. With a diverse fleet of 10 aircraft, including single-engine Piper Archer II’s and multi-engine Beechcraft Duchess, we cater to both recreational and professional pilots. Our team of highly trained instructors and advanced simulators ensure comprehensive training programs from Private Pilot to Multi-Engine ATP. We offer one-on-one instruction, flexible scheduling, and an FAA Designated Computer Testing Center. Experience the freedom of flying with our introductory Discovery Flight for $150, with a $50 reimbursement if you pursue your pilot's license. DCT Aviation is dedicated to making your flying dreams come true with a culture of excellence and safety. Contact us to start your aviation journey today.",
+  "icao": "KPTK",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

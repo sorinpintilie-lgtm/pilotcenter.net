@@ -1,0 +1,22 @@
+{
+  "id": "3306e8a7-1426-4a49-8bd0-4cadcf8f1c9f",
+  "slug": "modine-aviation",
+  "name": "Modine Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "MLB -Melbourne Orlando International Airport",
+  "website": "https://www.modineaviation.com/",
+  "email": "info@modineaviation.com",
+  "phone": "(321) 604-2438",
+  "about": "Modine Aviation, based in East-Central Florida, is a comprehensive general aviation services company dedicated to providing top-notch flight training and aviation services. Our experienced instructors and state-of-the-art facilities ensure that students receive the highest quality training, whether they are pursuing a private pilot license or advanced certifications. With a focus on safety, professionalism, and personalized instruction, Modine Aviation prepares students for successful careers in aviation. Our programs are designed to be flexible and tailored to individual needs, ensuring that each student can achieve their aviation goals efficiently. At Modine Aviation, we are committed to excellence in flight training and aviation education.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nExaminer\\nInstrument Proficiency Check\\nIntro Flight\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

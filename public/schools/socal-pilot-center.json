@@ -1,0 +1,22 @@
+{
+  "id": "97460941-a11f-4cf8-83cd-cf34da0038c2",
+  "slug": "socal-pilot-center",
+  "name": "SoCal Pilot Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "TRM -Jacqueline Cochran Regional Airport",
+  "website": "https://socalpilotcenter.com/",
+  "email": "info@socalpilotcenter.com",
+  "phone": "(760) 238-0209",
+  "about": "SoCal Pilot Center, located in Thermal, California, offers comprehensive and highly personalized flight training with over 15 years of experience in training both Airline and Private Pilots. As an Approved FAA Part 141 Training School and EASA ATO, we adhere to stringent safety standards and are continuously audited by FAA and EASA authorities. Our training includes ground school sessions, both on-campus and online, and practical training using modern aircraft and simulators. We emphasize English language proficiency and strict adherence to aviation regulations. With a comprehensive Safety Management System, we ensure safety is a top priority. Our programs are tailored to individual goals, whether for a private pilot license or an airline career, and we provide detailed cost overviews and financing options. Contact us to start your aviation journey with a commitment to safety and excellence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "6be4d6db-e150-48a0-9a4b-fa1b4dc6e022",
+  "slug": "pureflight",
+  "name": "Pureflight",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OR",
+  "city": "",
+  "baseAirport": "17S -Chehalem Airpark",
+  "website": "https://flypureflight.com/",
+  "email": "alison@flypureflight.com",
+  "phone": "(503) 537-0108",
+  "about": "Pureflight Aviation Training, LLC, is a premier flight school located in Oregon, USA, offering comprehensive and personalized aviation training programs. We provide flexible and tailored training for both airplane and helicopter pilots, ranging from private pilot certifications to advanced courses such as external load and mountain flying. Our programs include degree options and are conducted in safe, modern aircraft and learning environments. Pureflight is dedicated to supporting students from around the world, including non-US citizens, in building hours and improving their flight skills. With a focus on safety and excellence, Pureflight equips aspiring pilots with the knowledge and skills necessary to succeed in the aviation industry. We are committed to guiding our students every step of the way to achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

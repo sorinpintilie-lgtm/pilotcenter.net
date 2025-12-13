@@ -1,0 +1,22 @@
+{
+  "id": "4fdca350-f625-4f78-9430-6669d44d38ef",
+  "slug": "international-aero-training-academy",
+  "name": "International Aero Training Academy",
+  "continent": "Asia",
+  "country": "Malaysia",
+  "state": "",
+  "city": "",
+  "baseAirport": "Melaka International Airport",
+  "website": "https://www.iatac.edu.my/",
+  "email": "info@iatac.edu.my",
+  "phone": "'+60 6-319-2181",
+  "about": "International Aero Training Academy (IATAC) is a premier flight training institution located in Sandakan, Sabah, Malaysia. As the only flight academy in Sabah, IATAC is a Malaysian DCA Approved Flying Training Organization, preparing students for the Airline Transport Pilot License along with the Ground Subjects syllabus of the European Aviation Safety Authority. Equipped with state-of-the-art facilities, including the latest commercial-style glass cockpits, Diamond DA40 XLS single engine and DA42 twin engine aircraft, and the Alsim DA42-200 Flight Simulator, IATAC ensures exceptional flight training. With a strong focus on safety, competency, and compliance, IATAC provides innovative learning tools and world-class facilities to equip aspiring pilots for successful careers in aviation. IATAC is committed to excellence in pilot training, making it a leading choice for those aspiring to become professional pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nEASA ATPL Ground School\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

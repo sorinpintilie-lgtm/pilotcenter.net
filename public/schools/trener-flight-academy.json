@@ -1,0 +1,22 @@
+{
+  "id": "c82a3635-6ed9-4d3f-a6b4-87da5d98b6c8",
+  "slug": "trener-flight-academy",
+  "name": "Tréner Flight Academy",
+  "continent": "Europe",
+  "country": "Hungary",
+  "state": "HUNG",
+  "city": "",
+  "baseAirport": "LHNYZPZX Airport",
+  "website": "https://www.trenerkft.hu/",
+  "email": "info@trenerkft.hu",
+  "phone": "'+36 42 430 138",
+  "about": "Tréner Flight Academy, located in Nyíregyháza, Hungary, is one of the oldest and most esteemed flight schools in the country, with its roots dating back to the 1960s. Established in 1992, the academy specializes in professional pilot training, offering integrated ATPL level courses in cooperation with the College of Nyíregyháza. The school provides comprehensive training from PPL to commercial licenses, including IR, ME, and Multi Crew Coordination. The fleet includes Cessna 152s, Piper 28s, Zlin 142s, a Piper 23 Aztec, and an FNPT II Flight Simulator. Tréner Flight Academy also offers a Professional Pilot/Aviation Engineer degree and is known for its experienced instructors, some of whom are employed by Wizz Air. The academy is dedicated to shaping the futures of aspiring pilots with a strong focus on safety and professional development.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License (PPL)\\nNight Rating (NVFR)\\nInstrument Rating (SE IR)\\nCommercial Pilot License (CPL)\\nMulti-Engine Class Rating (ME CR)\\nMulti-Engine Instrument Rating (ME IR)\\nAirline Transport Pilot License (ATPL) Theoretical Training\\nPerformance-Based Navigation (PBN)\\nUpset Prevention and Recovery Training (UPRT)\\nMulti Crew Cooperation (MCC)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

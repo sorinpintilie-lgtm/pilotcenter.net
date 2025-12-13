@@ -1,0 +1,22 @@
+{
+  "id": "7a0fa0c3-78c4-4a38-850d-716a0fa8e6db",
+  "slug": "lakes-area-aviation",
+  "name": "Lakes Area Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MN",
+  "city": "",
+  "baseAirport": "LXL -Little Falls/Morrison County-Lindbergh Field",
+  "website": "https://www.lakesareaaviation.com/",
+  "email": "lakesareaaviation@gmail.com",
+  "phone": "(218) 851-2196",
+  "about": "Lakes Area Aviation is a comprehensive flight training and aviation services provider. We offer a range of flight instruction services, including Private Pilot, Instrument Airplane, Commercial Pilot, and Multi-Engine Ratings. Additionally, we provide certifications for Flight Instructor (CFI), Flight Instructor Instrument (CFII), and Multi-Engine Instructor (MEI). Our services also include Tailwheel Endorsement, Complex Endorsement, and High Performance Endorsement. Beyond flight training, we provide commercial pilot services, aircraft management, and drone services. Our experienced instructors and state-of-the-art facilities ensure that students receive top-notch training to prepare them for successful careers in aviation. With a commitment to safety and excellence, Lakes Area Aviation is your trusted partner for all your aviation needs.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

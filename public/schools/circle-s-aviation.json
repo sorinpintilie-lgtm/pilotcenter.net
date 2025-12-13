@@ -1,0 +1,22 @@
+{
+  "id": "a6c1f818-d86b-4750-8717-3dc7d276e654",
+  "slug": "circle-s-aviation",
+  "name": "Circle S Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "MS",
+  "city": "Starkville",
+  "baseAirport": "George M. Bryan Airport",
+  "website": "https://www.starkvillecirclesaviation.com/",
+  "email": "flight.training@starkvillecirclesaviation.com",
+  "phone": "'+1 205-422-5721",
+  "about": "At Circle S Aviation, located in Starkville, Mississippi, we offer a comprehensive range of flight training programs designed to meet the needs of aspiring pilots. Our training extends from private to commercial ratings, all conducted to airline standards by experienced airline pilots. We pride ourselves on our state-of-the-art equipment, including glass cockpit technology, and a fleet of impeccably maintained aircraft available for both training and rental purposes. Our meticulously chosen flight instructors ensure a high-quality training experience, preparing students for a successful career in aviation. Welcome to Circle S Aviation, where your journey toward becoming a pilot begins.",
+  "icao": "KSTF",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nMulti-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

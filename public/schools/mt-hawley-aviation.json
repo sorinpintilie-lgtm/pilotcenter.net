@@ -1,0 +1,22 @@
+{
+  "id": "f1865a17-fec2-4ce8-91ef-430971dd1556",
+  "slug": "mt-hawley-aviation",
+  "name": "Mt Hawley Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "3MY -Mount Hawley Auxiliary Airport",
+  "website": "https://mthawleyaviation.com/",
+  "email": "mthawleyaviation@gmail.com",
+  "phone": "(309) 256-2150",
+  "about": "Mt Hawley Aviation, located at Mt. Hawley Airport (3MY) in Peoria, Illinois, offers comprehensive and personalized flight training programs. We provide certifications in Commercial, Private Pilot, Flight Instructor (CFI), and Flight Instructor Instrument (CFII). Our experienced instructors, with over 2,500 hours of teaching experience, ensure a one-on-one training approach tailored to each student's aviation goals. Whether you are aiming to become a private pilot or a professional aviator, our programs are designed to help you achieve your aspirations. With a focus on safety and excellence, Mt Hawley Aviation is committed to providing top-quality flight instruction and aircraft rentals, making your journey to becoming a skilled pilot both effective and enjoyable.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nTime Building Programs\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "a06cbabf-953f-4d41-bfdb-afa64b9400a6",
+  "slug": "adf-airways-academy",
+  "name": "ADF Airways Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "TMB -Miami Exec Airport",
+  "website": "https://adfairways.net/",
+  "email": "fly@adfairways.net",
+  "phone": "(305) 233-6648",
+  "about": "ADF Airways Flight Academy, located at Miami Executive Airport in Miami, Florida, is a premier FAA-approved Part 141 flight school with over 30 years of experience. We offer a full range of ratings from Private Pilot to Airline Transport Pilot, including Instrument Rating, Commercial Single and Multi-Engine Certificates, and a specialized Jet Transition course. Our academy is approved by the Department of Veterans Affairs and provides assistance for foreign students to gain FAA ratings and student visas. With a wide range of single and multi-engine aircraft and advanced flight simulators, including a Boeing 737 simulator, we ensure high-quality training. Our experienced and professional instructors are dedicated to safety and excellence, having graduated over 7,000 pilots worldwide. We pride ourselves on our strong safety record and a family-oriented work philosophy, making ADF Airways an ideal choice for those seeking to embark on a successful aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nPart 107 Drone Testing\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "F-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "f48c9739-1e5c-4336-8315-b5fc12644ae6",
+  "slug": "bellingham-aviation-services",
+  "name": "Bellingham Aviation Services",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "BLI -Bellingham International Airport",
+  "website": "http://www.bli-jet.com",
+  "email": "info@bli-jet.com",
+  "phone": "(360) 676-7624",
+  "about": "Bellingham Aviation Services, located at Bellingham International Airport, is a full-service Fixed-Based Operation (FBO) and flight school. Since 2004, BAS has provided high-quality services, including flight training for Sport Pilot, Private, Instrument, Commercial, and Flight Instructor certifications. The school offers ground school and fixed-wing training, along with aircraft rental and maintenance services. As a woman-owned business, BAS is committed to environmental responsibility and offers additional amenities such as fueling services, avionics sales, and concierge services. With its convenient location near the Canadian border and major cities like Vancouver and Seattle, BAS is a hub for domestic and international travel, making it an ideal gateway to the Pacific Northwest. BAS prides itself on warm and friendly customer service, ensuring a welcoming and professional environment for all its clients.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

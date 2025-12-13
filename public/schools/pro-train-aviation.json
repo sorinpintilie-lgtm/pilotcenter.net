@@ -1,0 +1,22 @@
+{
+  "id": "fe432f7c-3fd8-4c37-92de-9b8721554183",
+  "slug": "pro-train-aviation",
+  "name": "PRO TRAIN Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MN",
+  "city": "",
+  "baseAirport": "MKT -Mankato Regional Airport",
+  "website": "https://beechjet.com/",
+  "email": "info@protrainaviation.com",
+  "phone": "(507) 933-0787",
+  "about": "PRO TRAIN Aviation is a premier flying school dedicated to excellence in pilot training. With a proven curriculum, we train pilots to high standards of proficiency, exceeding minimum requirements. Our program includes Private Pilot, Instrument Rating, Commercial Pilot, and Certified Flight Instructor certifications. We offer additional ratings such as Multi-Engine and Instrument Instructor. Our fleet of well-maintained aircraft and state-of-the-art simulators ensure comprehensive training. Our experienced instructors and supportive environment help students build flight experience and achieve their aviation careers. At PRO TRAIN Aviation, we are committed to producing skilled and qualified pilots ready for the demands of the aviation industry.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nAirline Transport Pilot ATP\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "65fcc98c-c339-4786-8112-ae79e5581909",
+  "slug": "hetrick-air-services",
+  "name": "Hetrick Air Services, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "KS",
+  "city": "",
+  "baseAirport": "LWC -Lawrence Regional Airport",
+  "website": "https://www.hetrickairservices.com/",
+  "email": "lloyd@hetrickairservices.com",
+  "phone": "(785) 842-0000",
+  "about": "Hetrick Air Services, Inc., located at the Lawrence Municipal Airport in Lawrence, Kansas, is a comprehensive flight training and aviation services provider. Our experienced and courteous flight instructors offer training for various certifications, including private pilot and instrument ratings, using new Cessna training aircraft. We provide introductory flight lessons, rental options, and financing through Pilot Finance, Inc. Our services also include aircraft sales, maintenance, and sightseeing tours. As a Cessna authorized parts and service center, we handle all maintenance and repair needs. With expansive facilities for aircraft storage and full-service hangaring, we cater to all your aviation requirements. Our goal is to make flying accessible and enjoyable, providing the necessary tools and support to help you achieve your aviation dreams. Contact us today to start your journey to the skies.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

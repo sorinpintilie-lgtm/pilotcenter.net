@@ -1,0 +1,22 @@
+{
+  "id": "167644d2-46f1-4b71-8e96-0cd0210a70b6",
+  "slug": "aberdeen-flying-service",
+  "name": "Aberdeen Flying Service, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "SD",
+  "city": "",
+  "baseAirport": "ABR -Aberdeen Regional Airport",
+  "website": "https://aberdeenflyingservice.com/",
+  "email": "afsfd@nvc.net",
+  "phone": "(605) 225-1384",
+  "about": "Aberdeen Flying Service, Inc. is a third-generation, full-service Fixed Base Operator (FBO) based at Aberdeen Regional Airport in South Dakota. Established in 1946 by James L. Caven, the company is now managed by Mark A. Caven and Charles P. Caven. We offer a range of services including charter flights, aircraft management, flight instruction, and aircraft maintenance through our FAA 145 certified repair station. Our flight school provides comprehensive training with professionally trained instructors, focusing on safety and personal growth. We also offer car rental and aircraft storage services. With a commitment to exceeding customer expectations and a strong emphasis on safety, Aberdeen Flying Service is dedicated to providing convenient, comfortable, and safe transportation solutions. Our state-of-the-art corporate hangar accommodates private jets, transient aircraft, and the Avera Health Careflight helicopters, ensuring top-notch service for all our clients.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

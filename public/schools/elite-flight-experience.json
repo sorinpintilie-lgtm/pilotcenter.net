@@ -1,0 +1,22 @@
+{
+  "id": "2eb06037-37ec-4ef4-b658-06fb8b065787",
+  "slug": "elite-flight-experience",
+  "name": "Elite Flight Experience",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NJ",
+  "city": "",
+  "baseAirport": "BLM -Monmouth Exec Airport",
+  "website": "https://eliteflightexperience.com/",
+  "email": "info@efenj.com",
+  "phone": "(732) 201-7300",
+  "about": "Elite Flight Experience is a premier flight training institution specializing in Cirrus aircraft instruction. Founded by a passionate aviator, our school aims to share the love of personal aviation with a wide audience. Our team of highly qualified instructors, including Platinum CSIP and multi-engine ATP holders, offer tailored flight instruction to help students achieve their aviation goals quickly and safely. With locations in Princeton and Monmouth, we provide access to modern Cirrus aircraft, including the SR22 G7 and SR20 G6, as well as advanced training devices. Our comprehensive programs, such as the Career Pilot Program, cater to aspiring pilots from beginners to those advancing their careers. We emphasize safety, luxury, and exceptional training, making us a proud part of the Cirrus Training Center network. At Elite Flight Experience, we are dedicated to providing top-notch instruction and services to ensure our students become confident and skilled pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

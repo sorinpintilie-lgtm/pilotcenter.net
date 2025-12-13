@@ -1,0 +1,22 @@
+{
+  "id": "91ed19e4-793a-4d50-939c-a0d6aacc5538",
+  "slug": "southland-flyers",
+  "name": "Southland Flyers",
+  "continent": "North America",
+  "country": "United States",
+  "state": "LA",
+  "city": "",
+  "baseAirport": "UXL -Southland Field",
+  "website": "https://southlandflyers.com/",
+  "email": "ctremie@southlandflyers.com",
+  "phone": "(337) 802-9723",
+  "about": "Southland Flyers is a professional flight school located in Sulphur, Louisiana, offering comprehensive training programs for aspiring pilots. We provide personalized instruction for Private, Commercial, and Instrument ratings, ensuring each student receives tailored guidance to maximize their learning experience. Our services also include flight reviews and Instrument Proficiency Checks to keep pilots current. With a focus on safety and efficiency, Southland Flyers is committed to helping students achieve their aviation goals and maintain their skills. Our dedicated instructors and supportive environment make us an ideal choice for those seeking high-quality flight training. At Southland Flyers, we are dedicated to helping you take to the skies with confidence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nPrivate Pilot\\nIntro Flight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

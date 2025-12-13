@@ -1,0 +1,22 @@
+{
+  "id": "0c26a5e9-ab49-466b-b7e0-27499a0b14da",
+  "slug": "skyriders-flight-school",
+  "name": "Skyriders Flight School",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "GT",
+  "city": "",
+  "baseAirport": "",
+  "website": "http://www.skyrider.co.za/",
+  "email": "info@skyrider.co.za",
+  "phone": "'+ 27 71 985 3831",
+  "about": "Sky Rider Aviation is a comprehensive flight school dedicated to providing top-notch aviation training. As a reputable institution, we offer a range of programs including Private Pilot License, Instrument Rating, and Commercial Pilot License. Our curriculum is built around Sporty's ground school and includes both flight training hours and ground school instruction. We utilize an FAA-certified Redbird TD2 Flight Simulator to enhance training efficiency and reduce costs. Our experienced instructors and well-maintained fleet ensure students receive professional and quality instruction. We also provide 'Rusty' Pilot training and flight reviews, as well as aircraft rental services. With a commitment to transparency, we have no hidden fees, making us a reliable choice for aspiring pilots. Contact us to start your aviation journey today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Agricultural Rating\\nCCM Instructor\\nGYRO Instructor \\nLSA Instructor \\nNPL - Class Rating\\nNPL - National FI Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

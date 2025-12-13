@@ -1,0 +1,22 @@
+{
+  "id": "2c8f6bf9-e2a3-42c1-adc1-f65c289383fc",
+  "slug": "stapleford-flight-centre",
+  "name": "Stapleford Flight Centre",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Romford",
+  "baseAirport": "Stapleford Aerodrome",
+  "website": "https://flysfc.com/",
+  "email": "reception@flysfc.com",
+  "phone": "'+44 1708 688 380",
+  "about": "Stapleford Flight Centre, established in 1969, is a privately-owned and family-run flight school based at Stapleford Aerodrome in Romford, England. With over 40 years of experience, SFC trains both private and professional airline pilots. The centre boasts a fleet of over 40 aircraft, including Cessna 152, PA23 Seneca, and Diamond DA42, as well as modern flight simulators. SFC offers comprehensive training programs, including Integrated and modular courses, and is accredited by the British Accreditation Council. The airfield features both grass and hard runways, and the centre provides comfortable accommodation and a licensed clubhouse. SFC is renowned for its high standards, experienced instructors, and state-of-the-art facilities, making it an ideal choice for aspiring pilots.",
+  "icao": "EGSG",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

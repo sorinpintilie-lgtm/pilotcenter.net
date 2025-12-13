@@ -1,0 +1,22 @@
+{
+  "id": "bb549d6f-2f1d-473d-9e0a-d264d6bdccfd",
+  "slug": "mccormick-air-center",
+  "name": "McCormick Air Center, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "YKM -Yakima Air Trml/Mcallister Field",
+  "website": "http://www.mccormickaircenter.com",
+  "email": "line@mccormickaircenter.com",
+  "phone": "(509) 248-1680",
+  "about": "McCormick Air Center, LLC, located in the Yakima Valley of Washington, is a full-service Fixed Base Operator (FBO) and flight training facility. Our aviation professionals offer a range of services including fuel, maintenance, and comprehensive flight instruction. We provide training programs for Private Pilot, Instrument Rating, Commercial Pilot, and Certified Flight Instructor licenses, all under FAA Part 61 classification. As Yakima's only full-service FBO, we are also an Epic Aviation fuel dealer. Our commitment to quality and customer service makes us a trusted name in aviation training and support in the region. We are dedicated to helping aspiring pilots achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "a310ef17-d70f-40c8-9176-a670dcce3185",
+  "slug": "k-s-aviation-services",
+  "name": "K & S Aviation Services, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "SDL -Scottsdale Airport",
+  "website": "https://www.kandsaviation.com/",
+  "email": "info@kandsaviation.com",
+  "phone": "",
+  "about": "K & S Aviation Services, Inc., located in Mesa, Arizona, is a renowned flight training institution that has been serving the aviation community since 1998. As both a FAR part 142 Training Center and a FAR part 141 Flight School, we offer comprehensive training programs that can take aspiring airline pilots from zero flight hours to achieving type ratings on jet transport aircraft. Our training includes Private Pilot, Commercial, Instrument, and Certified Flight Instructor certifications, as well as type ratings for the B737, B757/767, and Airbus A320. Our state-of-the-art facilities and high-fidelity simulators, combined with instruction from professional airline pilots, ensure high-quality training. We are dedicated to providing the skills and knowledge necessary for our students to achieve their career goals in commercial aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot ATP\\nMulti-Engine\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

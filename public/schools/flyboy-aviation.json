@@ -1,0 +1,22 @@
+{
+  "id": "e18805fa-2e43-4f4d-8596-cebde1dfd4f2",
+  "slug": "flyboy-aviation",
+  "name": "Flyboy Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "BKV -Brooksville-Tampa Bay Regional Airport",
+  "website": "https://flyboyaviation.net/",
+  "email": "Info@FlyboyAviation.net",
+  "phone": "(727) 314-1986",
+  "about": "Flyboy Aviation is a 14CFR Part 61 Flight School specializing in Primary and Advanced Flight Training in the Tampa Bay area of Florida. We offer personalized FAA-approved training for Private Pilot Licenses, Instrument Ratings, Commercial Certificates, and Multi-Engine Ratings. Our dedicated and experienced instructors use proven teaching strategies and a combination of traditional and hands-on learning methods to ensure each student's success. Partnered with Gold Seal Ground School, we provide state-of-the-art learning resources. As a veteran-owned and operated school, our core values include Integrity, Honor, Duty, and Commitment. We are active members of FSANA, NAFI, AOPA, and SAFE organizations, ensuring a high standard of training and community involvement. Our goal is to prepare students for a successful aviation career with a focus on safety, practical flying skills, and a supportive learning environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nTime Building Programs\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

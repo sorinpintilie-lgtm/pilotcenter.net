@@ -1,0 +1,22 @@
+{
+  "id": "3eaf471a-fd3b-490b-9bd3-6bfa2725b082",
+  "slug": "a-cent-aviation",
+  "name": "A-Cent Aviation, Inc",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "FHB -Fernandina Beach Municipal Airport",
+  "website": "https://www.a-centaviationfernandina.com/",
+  "email": "acentaviation@gmail.com",
+  "phone": "(904) 207-6503",
+  "about": "A-Cent Aviation, Inc., located in Jacksonville, Florida, is a comprehensive aviation service provider. We offer top-notch flight training programs, including Private Pilot and Sport Pilot certifications, with flexible and affordable payment options. Our Sport Pilot program, unique in the area, uses the Cessna 162 Skycatcher and includes interactive ground instruction. In addition to flight training, we provide sightseeing tours, romantic flights, and aircraft rentals. Our facilities also include a pilot shop for aircraft parts and souvenirs. With experienced instructors and a commitment to excellence, A-Cent Aviation is your one-stop-shop for all aviation needs, guiding you from zero to pilot with exceptional service and training. Join us to soar to new heights.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Drone/UAS\\nComputerized Testing\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "59b2d120-ece1-43cb-a7d0-2e6481ef3652",
+  "slug": "skyhawk-aviation-pty",
+  "name": "Skyhawk Aviation (Pty) Ltd",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "GT",
+  "city": "",
+  "baseAirport": "Lanseria Airport",
+  "website": "https://skyhawk.co.za/",
+  "email": "info@skyhawk.co.za",
+  "phone": "011 701 2262",
+  "about": "Skyhawk Aviation, based at Lanseria International Airport in South Africa, is a comprehensive flight training operation with CAA Approval 0339. Founded by Mike Gough, the school aims to provide high-quality training, avoiding the \"sausage machine\" approach by emphasizing interaction with experienced instructors. Skyhawk offers a range of courses including Private Pilot License, Night Rating, Commercial Pilot License, ATPL Preparation, Instrument Rating, and Instructors Rating. The school utilizes traditional Cessna 172 and Piper Seneca aircraft to prepare students for commercial aviation. With a focus on safety and real-world experience, Skyhawk's training programs are designed to set students on a solid foundation for their future careers. The school also provides Hire and Fly options and structured hour-building packages, ensuring flexibility and practical experience. Skyhawk Aviation is committed to excellence and prepares students for successful aviation careers.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"ATPL (Modular - A)\\nClass Rating\\nCPL - (Modular - A)\\nFlight Instructor\\nInstrument Rating\\nNight Rating\\nType Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4b26e5ba-d16a-4845-8edf-1c9f49076fb3",
+  "slug": "new-horizons-aviation",
+  "name": "New Horizons Aviation, Inc.",
+  "continent": "North America",
+  "country": "USA",
+  "state": "IN",
+  "city": "Goshen",
+  "baseAirport": "Goshen Municipal Airport",
+  "website": "https://flynewhorizons.com/",
+  "email": "nha@flynewhorizons.com",
+  "phone": "'+1 574-971-4221",
+  "about": "New Horizons Aviation, Inc., located at Goshen Municipal Airport, is a professional flight school offering comprehensive flight training for various certifications, including Private, Instrument, Commercial, CFI, CFII, and Multi-engine. As an FAA-approved Part 141 school, we provide high-quality instruction with a fleet that includes Cessna 152s, Cessna 172s, a Diamond Star DA-40, a Piper Cherokee, and a Redbird Full-Motion Simulator. Our instructors are experienced and dedicated to ensuring a smooth transition to advanced avionics like the Garmin G1000. We cater to both career-oriented students and hobbyists, with flexible scheduling and competitive rental rates. New Horizons Aviation is committed to safety, proficiency, and making your flying dreams a reality.",
+  "icao": "KGSH",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

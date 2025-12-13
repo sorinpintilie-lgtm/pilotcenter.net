@@ -1,0 +1,22 @@
+{
+  "id": "e02a8b5e-0b4b-443d-880e-f0c0f62cc9f0",
+  "slug": "kusa-aviation",
+  "name": "KUSA Aviation, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "BPT -Jack Brooks Regional Airport",
+  "website": "https://kusaaviation.com/",
+  "email": "csr-kusa@kusaaviation.com",
+  "phone": "(409) 727-7900",
+  "about": "KUSA Aviation, LLC, located at the Jack Brooks Airport in Beaumont, Texas, is a premier flight school and Fixed Base Operator (FBO). We offer a comprehensive range of flight training programs, including Private Pilot Certificate, Commercial Pilot Certificate, Flight Instructor, and Instrument ratings. Our training is conducted under Part 61 regulations, ensuring a thorough and personalized learning experience. In addition to flight training, KUSA Aviation provides aircraft maintenance and management services, as well as charter flights. Our state-of-the-art facilities and experienced instructors make us an ideal choice for aspiring pilots. We are committed to providing high-quality aviation services and a supportive learning environment for all our students. At KUSA Aviation, we strive to help you achieve your aviation goals with professionalism and excellence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

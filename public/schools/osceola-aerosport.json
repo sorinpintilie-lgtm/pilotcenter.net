@@ -1,0 +1,22 @@
+{
+  "id": "6805c0a3-ae86-4fb5-abc5-153984a2d0d0",
+  "slug": "osceola-aerosport",
+  "name": "Osceola AeroSport, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WI",
+  "city": "",
+  "baseAirport": "OEO -L O Simenstad Municipal Airport",
+  "website": "https://www.osceolaaero.com/",
+  "email": "fly@osceolaaero.com",
+  "phone": "(715) 294-4500",
+  "about": "Osceola AeroSport, LLC is a leading flight training provider in Northwest Wisconsin and East-Central Minnesota, operating out of the L.O. Simenstad Municipal Airport (KOEO). We offer a wide range of flight training programs, including tailwheel training and sport pilot licenses. As a full-service Fixed Base Operation (FBO), we provide aviation fuel, aircraft parking, hangars, and hangar leasing. Our instructors, associated with and certified by the Wisconsin Indianhead Technical College (WITC), are dedicated to delivering high-quality, personalized lessons both on the ground and in the air. We pride ourselves on the quality of our instruction, ensuring safe and enjoyable flying experiences. With a Designated Pilot Examiner on staff, we are committed to professionalism and excellence in aviation education. At Osceola AeroSport, we strive to make your flying dreams a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

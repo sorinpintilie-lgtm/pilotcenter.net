@@ -1,0 +1,22 @@
+{
+  "id": "08678c43-8790-4717-bde3-05f6ca80c5fa",
+  "slug": "rocky-mountain-flight-school",
+  "name": "Rocky Mountain Flight School",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CO",
+  "city": "Broomfield",
+  "baseAirport": "Rocky Mountain Metropolitan Airport (KBJC)",
+  "website": "https://www.rmflight.com/",
+  "email": "info@rmflight.com",
+  "phone": "'+1 303-465-4600",
+  "about": "Rocky Mountain Flight School, located at the Rocky Mountain Metropolitan Airport between Denver and Boulder, CO, offers comprehensive flight training programs. As a FAA-approved institution, the school provides training for various certificates and ratings, including Private Pilot, Instrument Rating, Commercial Pilot, Multi-Engine Rating, and Airline Transport Pilot Certificate. Additionally, it offers specialized training in mountain flying, flight instructor certificates, and endorsements such as Complex, High Performance, and CFI Spin. The school also provides aircraft rental and checkout services, ensuring students have access to well-maintained aircraft. With experienced instructors and flexible scheduling, Rocky Mountain Flight School is dedicated to helping students achieve their aviation goals efficiently and safely. Whether you are a beginner or an experienced pilot, the school's diverse programs and resources make it an ideal choice for aviation training.",
+  "icao": "KBJC",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "f2c15ee8-b8d6-4972-ade4-c41f09f27cd7",
+  "slug": "ascent-aviation-academy",
+  "name": "Ascent Aviation Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "VNY -Van Nuys Airport",
+  "website": "https://ascentaviationacademy.com/",
+  "email": "Ascentaviationacademy@gmail.com",
+  "phone": "(323) 991-8061",
+  "about": "Ascent Aviation Academy, located at Van Nuys Airport in Los Angeles, is dedicated to providing comprehensive and professional flight training. Founded by Seth, an experienced instructor and pilot, the academy focuses on guiding students through all stages of pilot training, from private pilot licenses to commercial pilot certifications. With a team of hand-picked instructors, Ascent Aviation boasts a high pass rate on checkrides and emphasizes the importance of individualized instruction. The academy uses top-of-the-line, modern aircraft and offers guaranteed job placement, ensuring students are well-prepared for their aviation careers. Ascent Aviation Academy is fully accredited and committed to helping students achieve their flying dreams with professionalism, safety, and dedication. Choose Ascent Aviation Academy to let your dreams take flight.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

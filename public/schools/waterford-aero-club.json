@@ -1,0 +1,22 @@
+{
+  "id": "c330ea9b-d238-4f18-b4b3-37f5e9f54568",
+  "slug": "waterford-aero-club",
+  "name": "Waterford Aero Club Limited",
+  "continent": "Europe",
+  "country": "Ireland",
+  "state": "IRE",
+  "city": "",
+  "baseAirport": "Waterford Airport",
+  "website": "https://waterfordaeroclub.com/",
+  "email": "info@waterfordaeroclub.com",
+  "phone": "'+353 51 873133",
+  "about": "Waterford Aero Club, established in 1982, is a premier flying school and aviation community in Ireland. Founded with the aim of bringing pilots and enthusiasts together, the club promotes and expands the interest in hobby aviation. The club offers a range of flight training programs, including the Private Pilot Licence (PPL), Night Rating, and Commercial Pilot Licence (CPL). In addition to flight training, Waterford Aero Club hosts ground school sessions in preparation for IAA LAPL/PPL written exams. The club is dedicated to fostering a supportive environment for both novice and experienced aviators, making it the home of general aviation in the South of Ireland. With a strong focus on community and education, Waterford Aero Club continues to be a leading institution in Irish aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Theoretical Knowledge\\nLight Aircraft Pilot License\\nPrivate Pilot License\\nNight Rating\\nAircraft Rental\\nClass Rating Instructor\\nFlight Instructor Certificate\\nFAA Training & Recency\\nFAA – CAA – ICAO License Conversions\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

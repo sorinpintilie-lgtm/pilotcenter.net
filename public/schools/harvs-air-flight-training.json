@@ -1,0 +1,22 @@
+{
+  "id": "40ed0894-4834-45dc-a770-d6b54dca0c1b",
+  "slug": "harvs-air-flight-training",
+  "name": "Harv's Air Flight Training",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "MB",
+  "city": "",
+  "baseAirport": "Steinbach South Airport",
+  "website": "https://www.harvsair.com/",
+  "email": "harvsair@gmail.com",
+  "phone": "'+1 204-326-2434",
+  "about": "Harv's Air is a family-owned and operated flying school, air taxi, and aircraft maintenance organization based in Manitoba, Canada, with locations in Steinbach and St. Andrews. For over 46 years, Harv's Air has provided comprehensive flight training from Recreational and Private Pilot courses to Commercial and Multi-Instrument ratings. The school offers online ground school programs for drones, airplanes, and helicopters, as well as specialized aerobatic training. Known for its commitment to safety and enjoyable learning experiences, Harv's Air utilizes shared resources such as airplanes, instructors, examiners, and aircraft engineers to ensure the highest quality of training. With a strong focus on student success, Harv's Air has a reputation for excellence in aviation education.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

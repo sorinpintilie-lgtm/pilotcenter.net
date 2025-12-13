@@ -1,0 +1,22 @@
+{
+  "id": "6c5d9450-c84d-4b0f-bbdf-c6b2f27465a7",
+  "slug": "atp-jets",
+  "name": "ATP Jets",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "DFW -Dallas-Fort Worth International Airport",
+  "website": "https://atpflightschool.com/locations/texas/dallas-jets.html",
+  "email": "info@atpflightschool.com",
+  "phone": "(904) 595-7995",
+  "about": "ATP JETS, a subsidiary of ATP Flight School, is a leading provider of airline pilot training, located near the Dallas-Fort Worth International Airport in Texas. Founded to help military pilots transition to commercial aviation, ATP JETS now offers comprehensive training programs, including the FAA-approved Airline Transport Pilot Certification Training Program (ATP CTP) and Airbus A320 type rating courses. With state-of-the-art facilities, including 14 Flight Simulation Training Devices and 16 full-motion simulators, ATP JETS trains nearly 500 pilots per month. The school has partnered with 57 air carriers and has graduated over 20,000 ATP CTP students, making it a pivotal institution in preparing pilots for the airline industry. ATP JETS offers full financing options, GI Bill eligibility, and supportive services like visa assistance and accommodation, ensuring a seamless training experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot ATP\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

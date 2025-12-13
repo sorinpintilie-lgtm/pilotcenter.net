@@ -1,0 +1,22 @@
+{
+  "id": "74c50425-ca0d-4fa1-9c51-5a3a9019a95e",
+  "slug": "simuflight-pty",
+  "name": "Simuflight (Pty) Ltd",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "GT",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://simuflight.co.za/",
+  "email": "info@simuflight.co.za",
+  "phone": "'+27 11 314 0152",
+  "about": "Simuflight (Pty) Ltd, based in Midrand, South Africa, is an Internationally Approved Training Organization specializing in advanced pilot training since 2003. We offer comprehensive, airline-standard training using state-of-the-art simulators, including the Beechcraft King Air 1900, 200, Cessna Caravan C208, and Boeing 737. Our training programs include type ratings, Operator Proficiency Checks, Command Upgrade Courses, and foreign license validations. With approvals from multiple Civil Aviation Authorities, our dedicated staff and high-standard instructors ensure service excellence. We are committed to enhancing flight standards and safety in Africa, utilizing technologically advanced simulation equipment and detailed regional navigation databases. Our vision is to contribute significantly to aviation professionalism and safety globally.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"ACAS/TCAS\\nATPL\\nCFIT/TAWS\\nClass Rating\\nCPL - (Modular - A)\\nCrew Resource Management (Pilot)\\nFlight Instructor\\nNight Rating\\nType Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "45a1f0e1-10bf-4ab6-adfc-caeb8d972a6a",
+  "slug": "flight-training-professionals",
+  "name": "Flight Training Professionals",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "ORL -Exec Airport",
+  "website": "https://www.ftpros.com/",
+  "email": "info@ftpros.com",
+  "phone": "(407) 896-0077",
+  "about": "Flight Training Professionals is a premier flight school dedicated to producing safe, proficient, and professional pilots. Founded by experienced aviation instructors, our school specializes in tailored training plans for busy clients, ensuring flexibility and efficiency. We offer comprehensive programs, including private pilot, instrument, commercial pilot, and certified flight instructor courses, all compliant with FAA regulations. Our expert instructors provide personalized training, and our state-of-the-art facilities include advanced simulators and well-maintained aircraft fleets. With a strong focus on safety and customer satisfaction, we aim to make learning to fly an enjoyable and enriching experience, preparing our students for successful careers in aviation. Our mission is to deliver top-level training that opens up a world of adventure and opportunity for our clients.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

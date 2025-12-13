@@ -1,0 +1,22 @@
+{
+  "id": "a8dc797d-6070-46e7-bca1-ff1f71f8149b",
+  "slug": "flying-panthers-flight-school",
+  "name": "Flying Panthers Flight School, Inc",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "MCC -Mc Clellan Airfield",
+  "website": "https://www.flyingpanthers.org/",
+  "email": "info@flyingpanthers.org",
+  "phone": "",
+  "about": "Flying Panthers Flight School, Inc. is a 501(c)(3) non-profit organization dedicated to providing affordable flight and ground school education. Located in Auburn, CA, the school aims to prepare students for both primary and advanced pilot certificates. With a strong emphasis on safety, our experienced instructors, including CFIs with extensive flight hours, offer training in private, instrument, commercial, and biannual flight reviews, as well as discovery flights and mock check rides. The school relies on volunteers and requires students to contribute 24 hours of volunteer service annually. Our mission is to make aviation accessible and to foster a community of passionate aviators. We are committed to helping our students achieve their aviation dreams through comprehensive and supportive training programs.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

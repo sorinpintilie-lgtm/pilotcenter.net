@@ -1,0 +1,22 @@
+{
+  "id": "56242e60-846f-431b-8b35-a34b54029565",
+  "slug": "aurora-flight-training",
+  "name": "Aurora Flight Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OR",
+  "city": "",
+  "baseAirport": "UAO -Aurora State Airport",
+  "website": "http://www.auroraflighttraining.com",
+  "email": "frontdesk@auroraflighttraining.com",
+  "phone": "(503) 678-1454",
+  "about": "Aurora Flight Training, located in Aurora, Oregon, offers comprehensive flight instruction, pilot certification programs, and aircraft rental. With a fleet of well-maintained Cessna, Piper, Cirrus, and Bellanca aircraft, we provide part 61 flight training tailored to individual needs. Our experienced instructors, with thousands of hours of instruction, ensure students achieve their goals efficiently. As a community of aviators, we foster a flying club atmosphere, welcoming both students and experienced pilots. With over 50 years of operation and multiple locations, we are committed to low prices and the highest safety standards, making us one of the largest and most reputable flight schools in the United States. We invite you to experience our efficient and effective flight training programs and join our community of passionate aviators.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial Single/Multi\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nInstrument\\nPrivate Pilot\\nMulti-Engine\\nAirline Transport Pilot\\nGround School\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

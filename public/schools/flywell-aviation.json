@@ -1,0 +1,22 @@
+{
+  "id": "eb4a2971-3c90-4de4-a6fd-82c827fb4709",
+  "slug": "flywell-aviation",
+  "name": "Flywell Aviation",
+  "continent": "North America",
+  "country": "United",
+  "state": "KY",
+  "city": "",
+  "baseAirport": "BWG -Bowling Green-Warren County Regional Airport",
+  "website": "https://www.flywellaviation.com/",
+  "email": "justin@flywellaviation.com",
+  "phone": "(270) 779-0231",
+  "about": "Flywell Aviation is a locally owned and operated flight school based at the Bowling Green / Warren County Regional Airport (KBWG) in Bowling Green, Kentucky. Specializing in general aviation training, Flywell Aviation offers a comprehensive range of services including flight instruction, local Discovery Flights, and Aerial Photography. Their mission is to provide exceptional customer service and ensure a safe, supportive learning environment for all students. With a focus on quality training, Flywell Aviation helps aspiring pilots achieve their certification goals. For more information, visit their website or contact them directly. Flywell Aviation is committed to excellence in aviation education and service.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Drone/UAS\\nGround School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

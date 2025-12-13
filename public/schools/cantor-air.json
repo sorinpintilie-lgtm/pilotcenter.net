@@ -1,0 +1,22 @@
+{
+  "id": "fb64ceee-766b-4532-958d-cea7b92048e3",
+  "slug": "cantor-air",
+  "name": "Cantor Air",
+  "continent": "Europe",
+  "country": "Italy",
+  "state": "ITLY",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.cantorair.it/en",
+  "email": "info@cantorair.it",
+  "phone": "(+39) 035 520035",
+  "about": "Cantor Air, founded in 2007, is a leading flight school in Europe, based at the Airport \"Sergio Aldo Capoferri\" in Valbrembo, Italy. Established by civilian and military flight professionals, the school is dedicated to providing high-quality training according to the highest European standards. Certified as an Approved Training Organization (ATO) by E.N.A.C. and EASA, Cantor Air offers comprehensive modular training and type ratings for various aircraft. The school boasts a highly qualified staff, advanced facilities, and a varied fleet including Tecnams and a Cap10 for aerobatic flight. With a strong focus on safety and effective teaching methods, Cantor Air ensures that 90% of its students join airlines within six months of completing their courses. Commitment, excellence, and results are the core values that define Cantor Air's mission to provide exceptional aviation training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PPL (A)\\nIR SE/MEP IR/CPL/UPRT\\nAerobatic Rating Course\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

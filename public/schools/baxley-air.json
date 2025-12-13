@@ -1,0 +1,22 @@
+{
+  "id": "a3177163-a46a-426a-81bf-7199fc5899e1",
+  "slug": "baxley-air",
+  "name": "Baxley Air",
+  "continent": "North America",
+  "country": "United States",
+  "state": "GA",
+  "city": "",
+  "baseAirport": "Airport:BHC -Baxley Municipal Airport",
+  "website": "https://www.baxley.org/",
+  "email": "vmills332@baxley.org",
+  "phone": "(912) 367-3232",
+  "about": "Baxley Aviation, located at Baxley Municipal Airport in Georgia, is a dedicated flight training institution offering a comprehensive range of aviation programs. Our highly experienced instructors provide personalized training for private, instrument, and commercial pilot certifications. With a focus on safety and excellence, we ensure that each student receives the highest quality instruction to achieve their flying goals. Our facilities include well-maintained aircraft and a supportive learning environment, making Baxley Aviation an ideal choice for aspiring pilots. We are committed to helping you take to the skies with confidence and skill.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nIntro Flight\\nCommercial\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

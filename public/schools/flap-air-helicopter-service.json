@@ -1,0 +1,22 @@
+{
+  "id": "9d9aee6d-e6fc-4b12-b75d-27dc94af3f3a",
+  "slug": "flap-air-helicopter-service",
+  "name": "Flap-Air Helicopter Service",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "HHF -Hemphill County Airport",
+  "website": "https://www.flap-air.com/",
+  "email": "trey@flap-air.com",
+  "phone": "(806) 323-8255",
+  "about": "Flap-Air Helicopter Service, based in Texas, offers over 30 years of expertise in maintenance and flight instruction. We pride ourselves on honesty, integrity, safety, and customer satisfaction. Our staff, having completed all factory training courses, provides top-quality flight instruction in Robinson helicopters, including private and commercial licenses, and certified flight instructor training. We cater to various student types, from career-oriented to recreational and generational learners. Our flexible training schedules accommodate school, work, or family obligations, and we emphasize career demand in fields such as EMS, police, agriculture, and air carrier services. With a strong focus on safety and compliance with FAA regulations, Flap-Air is your one-stop shop for all helicopter needs, including maintenance, sales, and commercial operations. Trust Flap-Air to make your flight training experience both rewarding and unforgettable.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

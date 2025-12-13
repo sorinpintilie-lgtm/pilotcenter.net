@@ -1,0 +1,22 @@
+{
+  "id": "c8257e47-d8d3-4e77-9c79-2f08896f6802",
+  "slug": "sabena-aeroclub",
+  "name": "Sabena Aeroclub",
+  "continent": "Europe",
+  "country": "Belgium",
+  "state": "BELG",
+  "city": "",
+  "baseAirport": "Grimbergen Airfield",
+  "website": "https://www.sabena-aeroclub.be/en/",
+  "email": "info@sabena-aeroclub.be",
+  "phone": "'+32 2 252 08 08",
+  "about": "The Sabena Aeroclub, located at Grimbergen near Brussels, Belgium, is a flying club dedicated to basic pilot training. Established in 1946 by a group of Sabena staff members, the club initially operated as the Section Sportive et de Tourisme Aérien (SSTA) and later transformed into the Sabena Aeroclub in 1985. As a non-profit organisation, it provides modern ground and flight instruction in Dutch, English, and French. The aeroclub is the only Declared Training Organisation (DTO) in Belgium and focuses on safety, continuous improvement in teaching methods, and attracting young enthusiasts to aviation. With a rich history and a fleet updated with the latest technologies, the Sabena Aeroclub maintains a pleasant atmosphere among its members and aviation enthusiasts, keeping the tradition of Sabena alive.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PPL(A) training\\nPPL(A) Theory\\nPPL(A) Flight Training\\nSEP(L) Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

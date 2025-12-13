@@ -1,0 +1,22 @@
+{
+  "id": "d318c584-29ce-4c95-8eee-c676e20ea4fc",
+  "slug": "ais-flight-academy",
+  "name": "AIS Flight Academy",
+  "continent": "Europe",
+  "country": "Netherlands",
+  "state": "NL",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://aisflightacademy.com/",
+  "email": "info@aisflightacademy.com",
+  "phone": "0320 – 268799",
+  "about": "AIS Flight Academy, located at Lelystad Airport in the Netherlands, is a well-established flight school with over 20 years of experience in pilot training and education. Recognized as a higher professional and university education institution, the academy offers both theoretical and practical training for commercial pilots, including integrated ATPL programs. With a modern fleet of single-engine and multi-engine aircraft equipped with the latest avionics technology, AIS Flight Academy provides a comprehensive education emphasizing safety, professionalism, and excellence. The academy boasts highly experienced instructors, advanced facilities including simulators and briefing rooms, and partnerships with airlines like AIS Airlines and SunExpress, offering graduates employment opportunities. AIS Flight Academy is committed to innovation, including developments in electric flying, and is an ideal choice for aspiring pilots seeking a successful career in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Theoretical Training\\nPractical training\\nHousing\\nCosts and Funding\\nFI - Flight Instructor Course\\nMCC Course Modular\\nJetstream 31/32 -Type Rating\\nPBN Initial / rehabilitation\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

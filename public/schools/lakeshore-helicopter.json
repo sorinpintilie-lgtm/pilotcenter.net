@@ -1,0 +1,22 @@
+{
+  "id": "ebca978b-514a-412c-97ce-9d32a2be5712",
+  "slug": "lakeshore-helicopter",
+  "name": "Lakeshore Helicopter",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WI",
+  "city": "",
+  "baseAirport": "ENW -Kenosha Regional Airport",
+  "website": "https://lakeshorehelicopter.com/",
+  "email": "bill@lakeshorehelicopter.com",
+  "phone": "(262) 331-3468",
+  "about": "Lakeshore Helicopter, located in Kenosha, Wisconsin, is a premier flight training institution specializing in helicopter aviation. Our team of professional helicopter flight instructors and mechanics provides state-of-the-art flight training, ensuring students receive the highest quality education. We offer a comprehensive range of training programs, from private to commercial licenses, as well as charter services. With a focus on safety, expertise, and customer satisfaction, Lakeshore Helicopter is committed to helping aspiring pilots achieve their aviation goals. Our facility is equipped with modern helicopters and experienced instructors, making us an ideal choice for those seeking a career in helicopter aviation. Lakeshore Helicopter is dedicated to excellence in flight training and service.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nIntro Flight\\nCommercial\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

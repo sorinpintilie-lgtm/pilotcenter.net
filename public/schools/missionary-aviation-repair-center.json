@@ -1,0 +1,22 @@
+{
+  "id": "079a6ae5-9ce0-4ac1-9f6c-29b10f79d794",
+  "slug": "missionary-aviation-repair-center",
+  "name": "Missionary Aviation Repair Center",
+  "continent": "North America",
+  "country": "United",
+  "state": "AK",
+  "city": "",
+  "baseAirport": "SXQ -Soldotna Airport",
+  "website": "https://www.marcalaska.org/",
+  "email": "flightschool@marcalaska.org",
+  "phone": "(907) 262-5388",
+  "about": "Missionary Aviation Repair Center (MARC) is a Christian nonprofit organization dedicated to supporting missionary aviation needs in remote Alaska. Founded in 1965, MARC provides maintenance for missionary aircraft, economical cargo and passenger transportation to communities inaccessible by road, and trains missionary-minded pilots and mechanics. Located in Soldotna, Alaska, MARC works in conjunction with other Christian organizations to expand the reach of the Gospel by flying people and supplies to remote areas, supporting missionaries, and offering flight instruction and field maintenance skills. MARC is committed to impacting remote Alaska with the hope of Jesus Christ through mission aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

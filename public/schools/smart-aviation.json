@@ -1,0 +1,22 @@
+{
+  "id": "0dbe047e-0577-4a4f-b254-54494f4bdd94",
+  "slug": "smart-aviation",
+  "name": "Smart Aviation",
+  "continent": "Europe",
+  "country": "Poland",
+  "state": "",
+  "city": "Poznań",
+  "baseAirport": "Poznań-Ławica Airport",
+  "website": "https://www.smartaviation.eu/",
+  "email": "ato@smartaviation.eu",
+  "phone": "'+48 606 650 616",
+  "about": "Smart Aviation is a modern international flight school based in Poznan, Poland, specializing in EASA 0 - fATPL training using a new fleet of Tecnam aircraft. Our team consists of aviation professionals with airline backgrounds, ensuring high standards of education. Located at Poznan International Airport, which is fully controlled and open 24/7, we offer a range of courses from PPL(A) to ATPL(A), including Night VFR, MEP(L), IR(A), CPL(A), and more. Known for delivering training on time and within budget, our graduates have secured jobs with numerous airlines worldwide. With a strong reputation and individualized training approaches, Smart Aviation is dedicated to helping aspiring pilots achieve their aviation dreams.",
+  "icao": "EPPO",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

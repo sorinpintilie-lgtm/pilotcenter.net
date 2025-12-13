@@ -1,0 +1,22 @@
+{
+  "id": "8a8e31e1-c303-4195-9e89-982b4db20e89",
+  "slug": "illinois-aviation-academy",
+  "name": "Illinois Aviation Academy, Inc.",
+  "continent": "North America",
+  "country": "USA",
+  "state": "IL",
+  "city": "West Chicago",
+  "baseAirport": "Chicago at Dupage Airport (KDPA)",
+  "website": "https://www.illinoisaviation.com/",
+  "email": "Info@illinoisaviation.com",
+  "phone": "'+1 630-513-2224",
+  "about": "Illinois Aviation Academy, Inc., located in West Chicago, Illinois, is a premier flight school certified by the Illinois State Board of Education, ensuring the highest academic standards. Established in 1993, IAA has grown from humble beginnings to offer comprehensive aviation services, including flight training, aircraft maintenance, simulators, storage, and sales. With a diverse fleet of aircraft such as the Cessna 172, Cessna 152, Piper Seminole, and Cessna 182, students receive personalized training from experienced instructors. IAA is recognized as a Top Flight School by the Aircraft Owners and Pilot Association (AOPA) and provides 24-hour convenience, FAA-approved programs, and facilities for FAA Knowledge tests. Committed to quality, dedication, and honesty, IAA helps aspiring pilots achieve their aviation goals with a supportive and professional environment.",
+  "icao": "KDPA",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

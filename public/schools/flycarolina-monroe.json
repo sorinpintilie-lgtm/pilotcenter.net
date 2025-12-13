@@ -1,0 +1,22 @@
+{
+  "id": "a5682d8c-ce5d-40cd-94e0-a126303e1e79",
+  "slug": "flycarolina-monroe",
+  "name": "FlyCarolina - Monroe",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NC",
+  "city": "",
+  "baseAirport": "EQY -Charlotte/Monroe Exec Airport",
+  "website": "http://flycarolina.com/",
+  "email": "training@flycarolina.com",
+  "phone": "(704) 400-0945",
+  "about": "FlyCarolina - Monroe is a professional FAA certified flight school and air carrier, offering safe, affordable, and reliable aviation services. With over 25 years of experience in Charlotte, NC, we provide FAA Part 61 Flight Training, avionics technology, and charter flights. Our highly trained instructors work with students at their pace, offering financing options through Pilot Finance Inc. We utilize Cessna 172s for initial training and advanced aircraft for further education. Our Redbird FMX simulator in Monroe is FAA-approved for logging training hours. We are committed to helping students achieve their aviation goals efficiently and cost-effectively. Contact us at the Charlotte-Monroe Executive Airport to start your flight training journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nGround School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

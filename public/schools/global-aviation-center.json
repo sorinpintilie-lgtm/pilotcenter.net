@@ -1,0 +1,22 @@
+{
+  "id": "f8f3f2ff-be44-4089-890d-9226df274d8d",
+  "slug": "global-aviation-center",
+  "name": "Global Aviation Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NY",
+  "city": "",
+  "baseAirport": "FRG -Republic Airport",
+  "website": "https://www.globalaviationcenter.com/new-york-location",
+  "email": "info@globalaviationcorp.net",
+  "phone": "(631) 391-9110",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nComputerized Testing\\nGround School\\nIntro Flight\\nPart 107 Drone Testing\\nSimulator\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

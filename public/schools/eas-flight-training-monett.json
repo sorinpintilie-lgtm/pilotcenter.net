@@ -1,0 +1,22 @@
+{
+  "id": "187e65f0-9b50-4784-85a5-574d747daf61",
+  "slug": "eas-flight-training-monett",
+  "name": "EAS Flight Training - Monett",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MO",
+  "city": "",
+  "baseAirport": "HFJ -Monett Regional Airport",
+  "website": "https://www.easflighttraining.com/",
+  "email": "info@easflighttraining.com",
+  "phone": "(417) 236-4118",
+  "about": "EAS Flight Training, operating in southwest Missouri and northwest Arkansas, is a reputable FAA Part 61 flight training institution since 1997. With locations in Fayetteville, AR, Neosho, MO, Aurora, MO, and Monett, MO, EAS offers comprehensive training programs for private, instrument, commercial, instructor, and Airline Transport pilots. Our one-on-one training environment allows students to progress at their own pace, whether flying frequently or balancing training with work or school. We pride ourselves on maintaining affordable costs for flight training and aircraft rental while providing well-maintained aircraft and professional FAA-certified instruction. EAS is also a certified written testing center, offering FAA and FCC testing. Our goal is to make general aviation flight accessible and enjoyable for business, pleasure, or a future career. We are dedicated to helping each student meet their goals in a supportive and professional environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nPart 107 Drone Testing\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "a73e3274-0cf6-4af8-bee6-8b58650c5c54",
+  "slug": "moscow-aviation-institute",
+  "name": "Moscow Aviation Institute",
+  "continent": "Europe",
+  "country": "Russia",
+  "state": "RUS",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://mai.ru/",
+  "email": "mai@mai.ru",
+  "phone": "'+7 499 110-16-71",
+  "about": "Moscow Aviation Institute (MAI), founded in 1930, is a premier engineering research university specializing in aerospace technology. As a National Research University, MAI combines thorough theoretical knowledge with practical skills, utilizing over 120 laboratories, 3 student design offices, and an experimental-design factory. With a faculty of over 2,300 professors and lecturers, MAI educates more than 20,000 students across 10 schools and 4 branches. The institute has a rich history of contributing to Russian aeronautics and astronautics, and its alumni include 250 chief designers, 22 cosmonauts, and numerous State and Government Prize laureates. MAI continues to shape the future of aerospace technologies and train leaders in the industry.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"ADVANCED TRAINING\\nPROFESSIONAL RETRAINING\\nADDITIONAL GENERAL DEVELOPMENT PROGRAMS\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

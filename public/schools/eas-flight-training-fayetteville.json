@@ -1,0 +1,22 @@
+{
+  "id": "742206e8-a58e-4387-94a1-dcdaa830e4ea",
+  "slug": "eas-flight-training-fayetteville",
+  "name": "EAS Flight Training - Fayetteville",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AR",
+  "city": "",
+  "baseAirport": "FYV -Drake Field",
+  "website": "https://www.easflighttraining.com/",
+  "email": "info@easflighttraining.com",
+  "phone": "(479) 368-8448",
+  "about": "EAS Flight Training, located at Drake Field in Fayetteville, Arkansas, is a comprehensive FAA Part 61 flight training center. Established to serve aspiring pilots in the Northwest Arkansas area, EAS offers a full range of flight training programs, from private pilot certification to certified flight instructor (CFI) training. With state-of-the-art facilities and a dedicated team of instructors, EAS provides safe and effective training in various aircraft, including single-engine and multi-engine planes. As an FAA-certified written testing center, EAS also administers FAA and FCC tests. The school is committed to ensuring all students receive personalized attention and top-notch instruction to achieve their aviation goals. EAS Flight Training is your trusted partner in becoming a skilled and certified pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nPart 107 Drone Testing\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "3fbce58c-0b2d-4ace-9ed5-121d90f4f661",
+  "slug": "u-s-flight-academy",
+  "name": "U. S. Flight Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "5F1 -Post-Garza County Municipal Airport",
+  "website": "https://usflightacademy.org/",
+  "email": "Administrator@usflightacademy.org",
+  "phone": "(432) 264-7335",
+  "about": "U.S. Flight Academy, established on August 22, 1988, is a reputable flight training organization known for its commitment to safety, service, and professionalism. With its main base at Post-Garza County Muni Airport in Texas and a satellite base in Portales, New Mexico, the academy offers comprehensive training in uncongested airspaces with complete instrument procedures. The academy boasts experienced instructors, a FAA Authorized Computerized Testing Center, and personalized one-on-one training. It emphasizes a small school atmosphere while providing superb facilities and ideal flying weather. U.S. Flight Academy is dedicated to producing highly competent and safe aviators, making it an ideal choice for those aspiring to become professional pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nDrone/UAS\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nPart 107 Drone Testing\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "27020f69-491c-40f6-b7be-3f0bf1f4e6df",
+  "slug": "merlin-aviation",
+  "name": "Merlin Aviation, inc",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NM",
+  "city": "",
+  "baseAirport": "0E0 -Moriarty Municipal Airport",
+  "website": "https://www.merlinaviation.net/",
+  "email": "info@merlinaviation.net",
+  "phone": "(505) 226-5556",
+  "about": "Merlin Aviation, Inc., is a comprehensive flying school offering a range of training opportunities. We provide certifications in Commercial, Private Pilot, and Flight Instructor (CFI) ratings. Our programs are designed to cater to both beginning and advanced pilots, ensuring a tailored learning experience. With a focus on safety and professionalism, our highly trained instructors guide students through rigorous training sessions. Located at the 0E0 airport, Merlin Aviation, Inc., is committed to helping aspiring pilots achieve their aviation goals with dedication and excellence. We strive to make every flight a successful and enriching experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nFlight Instructor CFI\\nPrivate Pilot\\nGlider\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

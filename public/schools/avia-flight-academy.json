@@ -1,0 +1,22 @@
+{
+  "id": "32edf1cf-2232-43f7-824c-40fcc5be3022",
+  "slug": "avia-flight-academy",
+  "name": "Avia Flight Academy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CT",
+  "city": "Stratford",
+  "baseAirport": "Silkorsky Memorial Airport",
+  "website": "https://www.aviaflightacademy.com/",
+  "email": "info@aviaflightacademy.com",
+  "phone": "'+1 203-212-3799",
+  "about": "At Avia Flight Academy, located in Stratford, Connecticut, our mission is to provide a top-notch flight training experience. We are committed to continuously innovating to bring the best in class learning environment. Our philosophy is rooted in scientific principles, ensuring rigorous training both on the ground and in the air. With a diverse fleet and well-trained instructors, we aim to create exceptional pilots. Our classes are flexible yet rigorous, tailored to your training needs, and designed to make you a safe and risk-free pilot. We are dedicated to guiding and supporting you every step of the way to become a skilled aviator. Join us for a comprehensive and innovative flight training experience.",
+  "icao": "KDBR",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

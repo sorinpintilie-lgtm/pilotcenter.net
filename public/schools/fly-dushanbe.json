@@ -1,0 +1,22 @@
+{
+  "id": "5bd6c994-c031-478d-8184-6c795a8306a1",
+  "slug": "fly-dushanbe",
+  "name": "Fly dushanbe",
+  "continent": "Asia",
+  "country": "Tajikistan",
+  "state": "TJ",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://flydushanbe.tj/",
+  "email": "info@flydushanbe.tj",
+  "phone": "'+992411009999",
+  "about": "Fly Dushanbe Flying School is a premier aviation training institution dedicated to providing high-quality pilot training programs. Located in a region with favorable weather conditions, our school offers uninterrupted flight training throughout the year. We adhere to international standards set by aviation regulatory bodies such as ICAO and FAA, ensuring our students receive the highest level of education and safety. Our experienced instructors, modern training aircraft, and state-of-the-art facilities make us an ideal choice for aspiring pilots. With a focus on affordability and cultural enrichment, we welcome students from around the world to achieve their aviation goals in a supportive and professional environment. At Fly Dushanbe, we are committed to helping you become a skilled and confident pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Flight Simulator Training\\nFlight Training\\nGround Training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

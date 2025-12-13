@@ -1,0 +1,22 @@
+{
+  "id": "fb5f0328-6321-4c6b-9852-6984463f62b3",
+  "slug": "boeing-employees-flying-association",
+  "name": "Boeing Employees Flying Association",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "RNT -Renton Municipal Airport",
+  "website": "http://befa.org",
+  "email": "office@befa.org",
+  "phone": "(425) 271-2332",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "dbde278a-f12a-46b8-9919-88fb548d1c10",
+  "slug": "red-arrow-flight-academy",
+  "name": "Red Arrow Flight Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NM",
+  "city": "",
+  "baseAirport": "DNA -Dona Ana County International Jetport Airport",
+  "website": "https://www.flyredarrow.com/",
+  "email": "info@flyredarrow.com",
+  "phone": "(575) 201-6160",
+  "about": "Red Arrow Flight Academy, located at Doña Ana County International Jetport in Santa Teresa, Texas, is a premier aviation training institution. Established to provide top-notch flight training, the academy offers programs from private pilot to Certified Flight Instructor (CFI) and specialized training for military and international students. With Part 141 certification, Red Arrow boasts experienced instructors, advanced simulators, and two Cessna 172 aircraft equipped with Aspen PFD and Garmin 430 GPS systems. The academy is committed to guiding students through comprehensive ground school and hands-on training, ensuring a safe and successful aviation career. Join Red Arrow to experience a transformative learning environment that prepares you for a future in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

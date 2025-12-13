@@ -1,0 +1,22 @@
+{
+  "id": "ac0ac7d3-f300-4c78-85a8-702beb07b4a0",
+  "slug": "aeroguard",
+  "name": "AeroGuard",
+  "continent": "North America",
+  "country": "USA",
+  "state": "AZ",
+  "city": "Phoenix",
+  "baseAirport": "Phoenix Deer Valley Airport",
+  "website": "https://www.flyaeroguard.com/",
+  "email": "",
+  "phone": "'+1 800-322-1526",
+  "about": "AeroGuard Flight Training Center is a premier institution dedicated to training future commercial airline pilots with a strong commitment to safety and success. Since 1999, AeroGuard has graduated over 7,000 pilots and maintains a fleet of over 100 expertly maintained aircraft, including Piper Archers and Cessna 172s. The school offers accelerated flight training programs, utilizing both FAA Part 141 and Part 61 curriculums, and partners with SkyWest Airlines and other international carriers to provide a seamless transition from training to employment. With multiple locations across the U.S., AeroGuard ensures a safety-first environment through rigorous maintenance, safety programs, and high-quality instruction. Students benefit from hands-on education, small class sizes, and comprehensive student support, including academic advisors and pilot mentoring. AeroGuard is setting a higher standard for flight training, preparing cadets for successful careers in aviation.",
+  "icao": "KDVT",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

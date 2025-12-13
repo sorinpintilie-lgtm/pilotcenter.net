@@ -1,0 +1,22 @@
+{
+  "id": "ee227544-ea50-4434-aa05-2bd514461199",
+  "slug": "above-and-beyond-aviation",
+  "name": "Above and Beyond Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "EDC -Austin Exec Airport",
+  "website": "https://aboveaviation.com/",
+  "email": "info@aboveaviation.com",
+  "phone": "(512) 766-8359",
+  "about": "Above and Beyond Aviation, established over 20 years ago, is a premier flight school based at the Austin-Bergstrom International Airport in Austin, Texas. As a Cessna Pilot Center, we offer comprehensive flight training programs tailored to individual needs, with a strong emphasis on safety and personalized instruction. Our experienced team of instructors guides students from their first introductory flight to achieving their Private Pilot's License, covering a wide range of skills including weather briefings, airport operations, and emergency procedures. With two convenient locations and a fleet of well-maintained aircraft, we make flying accessible and affordable. Above and Beyond Aviation is dedicated to helping aspiring pilots realize their dreams of flight.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

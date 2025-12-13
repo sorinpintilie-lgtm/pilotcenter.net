@@ -1,0 +1,22 @@
+{
+  "id": "18055dc3-6f20-4466-874b-6183bf05839d",
+  "slug": "air-fleet-training",
+  "name": "Air Fleet Training",
+  "continent": "North America",
+  "country": "USA",
+  "state": "NJ",
+  "city": "Fairfield",
+  "baseAirport": "Essex County Airport",
+  "website": "https://www.airfleettraining.com/",
+  "email": "info@AirFleetTraining.com / \nInfo@airfleettraining.com",
+  "phone": "'+1 973-575-8220",
+  "about": "Air Fleet Training Systems, Inc., located at Essex County Airport in New Jersey, is a premier flight school dedicated to providing high-quality aviation training. Our vision is to create a globally recognized pilot training company that unites exceptionally skilled professionals with great aviation enthusiasm. We offer a range of training programs, including Private Pilot Certificate, Commercial Pilot Certificate, and Flight Instructor certifications. Our team strives to build trust and teamwork, ensuring professional aviation training for individuals from around the world. With well-maintained aircraft and a friendly, professional staff, we aim to make every training experience worthwhile. We are committed to helping our students achieve their aviation goals.",
+  "icao": "KCDW",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "35e369b6-ebc0-4b21-9c4a-942683ffe728",
+  "slug": "leighnor-aircraft",
+  "name": "Leighnor Aircraft LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "P52 -Cottonwood Airport",
+  "website": "https://www.leighnoraircraft.com/",
+  "email": "flying@leighnoraircraft.com",
+  "phone": "(928) 499-3080",
+  "about": "Leighnor Aircraft LLC, based in Prescott, Arizona, was established in 2017 by Lance and Debbie Leighnor, continuing a legacy that dates back to the end of World War II. The company's heritage originates from \"The Flying Leighnors,\" three Army Air Corps servicemen who founded a charter service and flight school in Hutchinson, Kansas, in 1946. Today, Leighnor Aircraft LLC offers FAA Part 61 flight instruction, aircraft rental, and discovery flights using a diverse fleet, including a Cessna 162 Skycatcher and a Redbird FMX flight simulator. With a strong commitment to aviation safety and maintenance, the company provides clean, well-maintained aircraft to the Prescott aviation community. Leighnor Aircraft LLC is dedicated to making flight training accessible and affordable, with multiple locations in Prescott and Cottonwood, and a team of experienced FAA-certified flight instructors. Accomplish more – fly with Leighnor",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Flight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "9f322836-100f-46e0-8849-6004912a6fcf",
+  "slug": "yoanna-flight-school",
+  "name": "Yoanna Flight School, Inc.",
+  "continent": "North America",
+  "country": "United",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "FMY -Page Field",
+  "website": "https://www.yoannaflightschool.com/",
+  "email": "info@yoannaflightschool.com",
+  "phone": "(239) 939-6010",
+  "about": "Yoanna Flight School, with a 50-year history, is a FAR Part 61 and 141 approved flight school based at Page Field Airport in Fort Myers, Florida. We serve a broad region including Fort Myers Beach, Sanibel, Captiva, and surrounding areas. Our school is renowned for training pilots from around the world, many of whom now fly for leading global airlines. We offer comprehensive flight training programs for Private, Instrument, Commercial, ATP, and CFI/CFII licenses. Our accelerated Part 141 program allows students to become professional pilots in less than 8 months. We provide personalized instruction, career mentoring, and tailored programs to honor the uniqueness of each student’s journey. International students are also welcome, with assistance in facilitating TSA/AFSP documents. At Yoanna Flight School, we turn your dream of flight into reality with dedication and excellence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

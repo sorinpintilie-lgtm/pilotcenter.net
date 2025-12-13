@@ -1,0 +1,22 @@
+{
+  "id": "7cc129b3-b0f0-4c60-a969-f581fa959dee",
+  "slug": "nice-air",
+  "name": "Nice Air",
+  "continent": "North America",
+  "country": "United",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "RHV -Reid-Hillview of Santa Clara County Airport",
+  "website": "http://www.niceairaviation.com/",
+  "email": "info@niceairaviation.com",
+  "phone": "(408) 729-3383",
+  "about": "Nice Air is a reputable flight school located in San Jose, California, dedicated to providing comprehensive aviation training. Authorized by the FAA, Nice Air offers programs from Private Pilot to advanced certifications, catering to both local and international students. Our experienced instructors and well-maintained fleet ensure a safe and effective learning environment. With flexible scheduling and a focus on individualized instruction, we help students achieve their aviation goals efficiently. At Nice Air, we are committed to producing skilled and confident pilots, ready for successful careers in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "08395e1c-cbf1-4b82-b723-ea84f8c38cc4",
+  "slug": "williamsburg-flight-center",
+  "name": "Williamsburg Flight Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "VA",
+  "city": "",
+  "baseAirport": "JGG -Williamsburg/Jamestown Airport",
+  "website": "https://www.williamsburgflightcenter.com/",
+  "email": "info@williamsburgflightcenter.com",
+  "phone": "(757) 223-1488",
+  "about": "Williamsburg Flight Center is an FAA-approved flight training and aircraft maintenance center located at the Williamsburg-Jamestown Airport (KJGG). The flight school offers a range of certifications, including Private Pilot, Commercial Pilot, and Flight Instructor (CFI and CFII). Students learn flying safety skills in the classroom and practice take-offs, landings, and various maneuvers in the air, primarily using Cessna 172 Skyhawks. The center boasts a 90% success rate for students passing their final flight tests, above the industry standard. It also provides a scholarship program, the Williamsburg Aviation Scholarship Program (WASP), to support local students pursuing aviation careers. Additionally, the center offers air tours and maintains a repair shop for aircraft upkeep. With a mission to create safe and skilled pilots, Williamsburg Flight Center is dedicated to slow, steady growth and community involvement.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

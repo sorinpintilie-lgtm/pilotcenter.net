@@ -1,0 +1,22 @@
+{
+  "id": "1b2a8c9d-46de-4a3a-acd5-c1461c6c6ccd",
+  "slug": "inland-helicopters",
+  "name": "Inland Helicopters, Inc",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "SFF -Felts Field",
+  "website": "http://www.inlandhelicopters.com",
+  "email": "flight@inlandhelicopters.com",
+  "phone": "(509) 534-9114",
+  "about": "Inland Helicopters, Inc., established in 1996, is a premier helicopter flight training institution with two convenient locations. Based at Spokane Felts Field (KSFF) in Washington, we offer a range of professional pilot programs, including private pilot, instrument rating, commercial certification, and certified flight instructor training. Our commitment to quality and safety has made us a trusted name in aviation education. With experienced instructors and a focus on personalized training, we cater to both recreational and professional students. Inland Helicopters is dedicated to providing affordable, comprehensive, and safe flight instruction to help our students achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "67e3159c-5fd7-436c-b632-3d5881a359e3",
+  "slug": "rick-aviation",
+  "name": "Rick Aviation, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "VA",
+  "city": "",
+  "baseAirport": "PHF -Newport News/Williamsburg International Airport",
+  "website": "https://www.rickaviation.com/",
+  "email": "manager@rickaviation.com",
+  "phone": "(757) 874-6415",
+  "about": "Rick Aviation, Inc., established in 1978 by former U.S. Air Force serviceman John Bombaro, has evolved into the only full-service Fixed-Base Operator (FBO) at Newport News/Williamsburg International Airport. With over 30 experienced aviation professionals, the company offers comprehensive services including aircraft maintenance, fueling, and flight training. The flight school is an FAA-Approved Part 141 Pilot School, and the maintenance department is an FAA Part 145-certified Repair Station. Rick Aviation welcomes international students and is authorized to offer GI Bill®️ educational benefits. It is also a PSI Testing Center and a veteran-owned business, committed to providing consistent and high-quality aviation support services. Rick Aviation is dedicated to launching and advancing aviation careers with excellence and integrity.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

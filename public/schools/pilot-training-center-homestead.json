@@ -1,0 +1,22 @@
+{
+  "id": "33493cf0-d1d7-440e-9e8b-89ddeba35d69",
+  "slug": "pilot-training-center-homestead",
+  "name": "Pilot Training Center Homestead",
+  "continent": "North America",
+  "country": "United",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "X51 -Miami Homestead General Aviation Airport",
+  "website": "https://www.pilottrainingcenterhomestead.com/",
+  "email": "bryan@pilottrainingcenterhomestead.com",
+  "phone": "(786) 309-2359",
+  "about": "Pilot Training Center Homestead is an FAA Part 141-approved flight training facility located just outside the Miami metro area in Southern Florida. Our school is dedicated to providing comprehensive flight training programs, from private pilot certificates to professional pilot certifications. We cater to both domestic and international students, offering assistance with M1 Visa and TSA requirements to ensure compliance with FAA regulations. Our team of professional instructors and state-of-the-art facilities, including single-engine aircraft and simulators, ensure a high-quality learning environment. We also provide additional ground school and seminars to support our students' educational needs. At Pilot Training Center Homestead, we are committed to helping aspiring pilots achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

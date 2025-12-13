@@ -1,0 +1,22 @@
+{
+  "id": "341081d0-0f4d-48f8-b35c-ad4788f85287",
+  "slug": "autonosky",
+  "name": "AutonoSky",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "WC",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://autonosky.com/",
+  "email": "tower@autonosky.com",
+  "phone": "'+27 (0)21 300 3208",
+  "about": "AutonoSky is a visionary leader in the commercial drone technology industry, dedicated to transforming lives through advanced aerial solutions. We offer CAA-accredited drone training courses tailored for individuals and businesses, including the Remote Pilot Certificate, BVLOS rating, and Instructor Pilot Rating. Our comprehensive programs include theory classes, practical flight training, and skill tests, ensuring students gain the necessary skills and knowledge to operate drones safely and efficiently. We also provide specialized courses in aerial photography and UAS maintenance. With customizable training for businesses and exclusive discounts for bulk enrollments, AutonoSky is committed to shaping the future of commercial drone training and empowering professionals to reach new heights. Our mission is to create advanced and cutting-edge drones, and we are passionate about what we do.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"INSTRUCTOR PILOT RATING\\nRemote Pilot Certificate\\nAerial Photography\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

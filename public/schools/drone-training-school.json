@@ -1,0 +1,22 @@
+{
+  "id": "f7390e46-7a82-42e1-9404-89635d0d7c09",
+  "slug": "drone-training-school",
+  "name": "Drone Training School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "TMB -Miami Exec Airport",
+  "website": "https://dronetrainingus.com/",
+  "email": "admin@dronetrainingus.com",
+  "phone": "(786) 314-4224",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Part 107 Drone Testing\\nDrone/UAS\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

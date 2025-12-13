@@ -1,0 +1,22 @@
+{
+  "id": "fdf63c57-98c2-461f-aba5-7caaf54a6c23",
+  "slug": "flight-school-ifly",
+  "name": "Flight School - IFLY",
+  "continent": "Asia",
+  "country": "Israel",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.ifly.co.il/",
+  "email": "info@ifly.co.il",
+  "phone": "'+972 3-635-5530",
+  "about": "iFly College is a cutting-edge aviation training center offering professional pilot training programs, including the Multi-crew Pilot License (MPL) that directly leads to an airline pilot career. Equipped with modern technologies and advanced flight simulators, iFly provides 80 hours of ground instruction and a minimum of 200 flight hours on ultra-modern aircraft like the Cessna 172R, Diamond DA20, and Diamond DA42NG. Our instructors are experienced pilots from major Canadian airlines, ensuring top-quality training. Programs are available in English and French, and students can enroll full-time or part-time. Financial assistance is also available for serious students. With a focus on practical learning, iFly College prepares students to pilot today's and tomorrow's aircraft effectively.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Theory studies\\nCommercial pilot's license\\nPrivate pilot's license\\nFlight instructor license\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

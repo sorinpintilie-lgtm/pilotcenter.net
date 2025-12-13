@@ -1,0 +1,22 @@
+{
+  "id": "e87e1c2b-edc9-4edc-bd64-2bac83867a43",
+  "slug": "pn-flight-and-charter",
+  "name": "P&N Flight and Charter",
+  "continent": "North America",
+  "country": "USA",
+  "state": "IA",
+  "city": "Clinton",
+  "baseAirport": "Marion Airport",
+  "website": "https://www.fly-iowa.com/",
+  "email": "jackie@fly-iowa.com",
+  "phone": "'+1 319-377-0457",
+  "about": "P&N Flight and Charter is a premier aviation learning destination in the Midwest, focusing on all aspects of general aviation. We offer comprehensive flight training for both airplanes and helicopters, with full-time Certified Flight Instructors and a reliable fleet of aircraft. Our programs include single-engine training, simulator sessions, and additional ground school seminars. We provide personal service tailored to your schedule, whether you prefer accelerated or paced training. Financing options are available, making it possible to become a private pilot for as low as $150 a month. With locations at Marion Airport and Independence, we invite you to start your aviation journey and experience the joys of flying with our expert instructors. Take the first step to becoming a pilot today and turn your dream into a reality.",
+  "icao": "C17",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

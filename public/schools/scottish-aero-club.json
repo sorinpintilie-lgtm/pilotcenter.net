@@ -1,0 +1,22 @@
+{
+  "id": "0491a212-8ad6-4ce7-9760-862830dac6a3",
+  "slug": "scottish-aero-club",
+  "name": "Scottish Aero Club",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Perth",
+  "baseAirport": "Perth Airport",
+  "website": "https://www.scottishaeroclub.org.uk/",
+  "email": "office@scottishaeroclub.org.uk",
+  "phone": "'+44 1738 550 055",
+  "about": "The Scottish Aero Club, based at Perth Airport, is Scotland's original and largest flying club, established through the merger of The Scottish Flying Club and The Strathtay Aero Club in 1956. Centrally located between Edinburgh, Aberdeen, and Glasgow, the club offers comprehensive and tailored flight training programs. Perth Airport, with its three runways and operational tower, provides ideal conditions for flying, making it a perfect location for exploring Scotland's spectacular skies. The club features modern clubrooms, an onsite lodge, and a cafe, and is open to members and visitors alike, though non-members are advised to arrange visits in advance. The Scottish Aero Club is dedicated to transforming dreams into reality through its vibrant and active community.",
+  "icao": "EGPT",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

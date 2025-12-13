@@ -1,0 +1,22 @@
+{
+  "id": "0bab2676-ea80-4499-a288-883c23c0d9a8",
+  "slug": "cae-icelandair-flight-training",
+  "name": "CAE Icelandair Flight Training",
+  "continent": "Europe",
+  "country": "Iceland",
+  "state": "ICLD",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://training.is/",
+  "email": "training@training.is",
+  "phone": "'+354 5050 550",
+  "about": "CAE Icelandair Flight Training is a premier aviation training institution, nestled in the heart of Reykjavik, Iceland. As a joint venture between CAE Inc. and Icelandair, the school leverages the expertise of both partners to provide top-tier flight training. With state-of-the-art facilities and advanced simulator technology, students receive comprehensive training in a safe and professional environment. The curriculum includes commercial pilot licenses, type ratings, and recurrent training, all adhering to stringent international standards. The school's experienced instructors and supportive staff ensure that each student receives personalized attention and guidance. CAE Icelandair Flight Training is committed to producing highly skilled and competent pilots ready to meet the demands of the global aviation industry.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline pilot training\\nCabin Crew Training\\nSafety training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "9310bc55-ccf7-424a-9af8-da9cca631973",
+  "slug": "stanford-flying-club-flight-school",
+  "name": "Stanford Flying Club - Flight School",
+  "continent": "North America",
+  "country": "United",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "PAO -Palo Alto Airport",
+  "website": "https://flystanford.com/",
+  "email": "flystanford@alumni.stanford.edu",
+  "phone": "(650) 858-2200",
+  "about": "The Stanford Flying Club - Flight School, a nonprofit organization founded in 1930 at Stanford University, offers a unique and professional flight training experience in the San Francisco Bay Area. Based at Palo Alto Airport, the club provides access to modern flight training aircraft, including Skyhawk and Skycatcher models, and utilizes exclusive interactive pilot training materials. Membership is open to the public, and the club boasts an excellent safety record. Training is conducted one-on-one by FAA Certified Flight Instructors, and the club assists in obtaining various licenses and ratings, including Solo, Sport, Private, Instrument, Commercial, and more. The club also supports foreign pilots in obtaining FAA certifications and helps non-citizens secure necessary TSA approvals. With a collegiate atmosphere and personalized instruction, Stanford Flying Club makes learning to fly both fun and affordable.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

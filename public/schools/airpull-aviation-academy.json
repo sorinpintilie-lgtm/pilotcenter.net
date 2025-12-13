@@ -1,0 +1,22 @@
+{
+  "id": "7782bed5-33db-4aa2-8cf4-0252e105f622",
+  "slug": "airpull-aviation-academy",
+  "name": "Airpull Aviation Academy",
+  "continent": "Europe",
+  "country": "Spain",
+  "state": "",
+  "city": "Requena",
+  "baseAirport": "Requena Airport",
+  "website": "https://airpullaviationacademy.com/",
+  "email": "information@airpull.com / i.cabrera@airpull.com",
+  "phone": "'+34 961 52 51 39",
+  "about": "Airpull Aviation Academy, established in 2004, is an Approved Training Organization (ATO) certified by the Air Security State Agency (AESA). Located at Requena Aerodrome in Valencia, Spain, the academy boasts two owned aerodromes, providing unparalleled training opportunities. We offer comprehensive pilot training programs, including Integrated ATPL(A) and modular courses, which can be completed in as little as 15 months. Our facilities include a large fleet of Piper and Cessna aircraft, flight simulators, and on-site student dorms with daily shuttle services. With highly experienced instructors and a focus on safety, quality, and efficiency, we create an international and multicultural learning environment. Airpull Aviation Academy is dedicated to equipping future aviators with the skills and knowledge necessary to succeed in the aviation industry. Join us to embark on a rigorous and rewarding aviation education.",
+  "icao": "LERE",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nNight Rating\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

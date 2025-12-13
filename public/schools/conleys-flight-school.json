@@ -1,0 +1,22 @@
+{
+  "id": "51f57748-68dc-4475-bf3f-544fa3683b7c",
+  "slug": "conleys-flight-school",
+  "name": "Conley's Flight School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NY",
+  "city": "",
+  "baseAirport": "ART -Watertown International Airport",
+  "website": "https://www.conleysflightschool.com/",
+  "email": "chui.chan123@yahoo.com",
+  "phone": "(315) 778-7834",
+  "about": "At Conley's Flight School, we are dedicated to helping people explore the world of aviation with a personalized and comprehensive approach. From Private Pilot to Certificated Flight Instructor, our programs are designed to take you every step of the way, whether you're fulfilling a dream or pursuing a career. We offer flight lessons, aircraft rentals, and free resources such as lessons, checklists, and tools to ensure you are well-prepared in and out of the cockpit. Our fleet includes a variety of Cessna 172s, and you can choose to fly our airplanes or bring your own. With a focus on safety and excellence, we strive to make your flying experience both enjoyable and educational. At Conley's Flight School, once you’ve tasted flight, you will forever walk the earth with your eyes turned skyward.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

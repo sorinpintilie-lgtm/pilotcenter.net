@@ -1,0 +1,22 @@
+{
+  "id": "194607f5-a110-4af1-8a22-a947c748edd1",
+  "slug": "aerodynamics-academy",
+  "name": "Aerodynamics Academy",
+  "continent": "Europe",
+  "country": "Spain",
+  "state": "",
+  "city": "Vélez-Málaga",
+  "baseAirport": "Vélez-Málaga Airport",
+  "website": "https://aerodynamics.es/en/pilot-training/",
+  "email": "info@aerodynamics.es",
+  "phone": "'+34 952 04 17 40",
+  "about": "Aerodynamics Academy, located in the Axarquía region of Málaga, Spain, is a premier aviation school with over 25 years of experience. Founded in 1998, it has evolved from a small private pilot school to one of Europe's best aviation training institutions. The academy boasts a 62,000 m² campus at Vélez-Málaga airport, featuring modern facilities, 13 hangars, and a state-of-the-art flight simulator centre. With an AOC and E-ATO certifications, Aerodynamics offers comprehensive training programs, including ATPL, CPL, and cabin crew training. The school is known for its well-maintained fleet of aircraft and its commitment to quality education, ensuring students are well-prepared for careers in the aerospace industry. Aerodynamics Academy provides a full training package, including accommodation, and is dedicated to helping students achieve the highest academic standards.",
+  "icao": "LEMG",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

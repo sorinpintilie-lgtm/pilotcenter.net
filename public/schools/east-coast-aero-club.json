@@ -1,0 +1,22 @@
+{
+  "id": "23289600-a4b4-4160-ab59-b55948504963",
+  "slug": "east-coast-aero-club",
+  "name": "East Coast Aero Club",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MA",
+  "city": "",
+  "baseAirport": "OWD -Norwood Memorial Airport",
+  "website": "https://eastcoastaeroclub.com/",
+  "email": "ecacowd@eastcoastaeroclub.com",
+  "phone": "(781) 278-8800",
+  "about": "East Coast Aero Club, established in 1985, is a premier flight training institution in the Boston metro region. As an FAA-approved school under Part 61, we offer high-quality instruction and aircraft rental from our locations at Hanscom Field in Bedford, MA, Boire Field in Nashua, NH, and Norwood Memorial Airport. Our diverse fleet includes over 35 aircraft, including Cessna and Piper models, multi-engine airplanes, and Robinson helicopters, all maintained by our skilled aviation technicians. With over 25 certified flight instructors, we provide training for Private, Instrument, Commercial, and Airline Transport Pilot certificates, as well as specialized ratings such as Multi-Engine and Complex Endorsement. Recognized for Flight Training Excellence by the Aircraft Owners and Pilots Association (AOPA), we are committed to delivering exceptional customer service, quality education, and community development. We are your trusted partner in achieving your aviation dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nComputerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nTime Building Programs\\nAirline Transport Pilot ATP\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

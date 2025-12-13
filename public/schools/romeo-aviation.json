@@ -1,0 +1,22 @@
+{
+  "id": "989a0105-2bba-4c01-b76c-3f3ac60c70e6",
+  "slug": "romeo-aviation",
+  "name": "Romeo Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WI",
+  "city": "",
+  "baseAirport": "UBE -Cumberland Municipal Airport",
+  "website": "https://www.romeoaviation.com/",
+  "email": "sandi@romeoaviation.com",
+  "phone": "(715) 554-0454",
+  "about": "Romeo Aviation, located at the Cumberland WI Municipal Airport (KUBE), is a reputable flight training institution offering comprehensive programs from Private to Commercial and Instrument certifications. With operations since 1999, we provide consistent training seven days a week, through all seasons, to ensure diverse and thorough instruction. Our expertise includes specialized training in Cirrus Aircraft. Our experienced instructors are dedicated to ensuring each student receives personalized and safe flight training, helping them achieve their aviation goals. At Romeo Aviation, we are committed to excellence in flight education and safety.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

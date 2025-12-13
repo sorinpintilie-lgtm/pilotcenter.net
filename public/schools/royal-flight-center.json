@@ -1,0 +1,22 @@
+{
+  "id": "01c2a533-ea02-4bef-82d4-5f1b580323f6",
+  "slug": "royal-flight-center",
+  "name": "Royal Flight Center",
+  "continent": "Europe",
+  "country": "Cyprus",
+  "state": "",
+  "city": "Larnaca",
+  "baseAirport": "Larnaca International Airport",
+  "website": "https://royalfly.eu/",
+  "email": "info@royalfly.eu",
+  "phone": "'+357-22-365905",
+  "about": "Royal Flight Center, located in Larnaca, Cyprus, is a premier flight training organization dedicated to producing highly skilled pilots. Our mission is to provide quality training at the highest level, emphasizing safety, excellence, and innovation. With highly experienced instructors, many of whom are active airline pilots, we tailor our training programs to meet the evolving needs of our students. We operate out of Larnaca International Airport, offering a welcoming environment that inspires our core values of quality, expertise, and flexibility. Our goal is to exceed your highest expectations and foster a culture where excellence is a habit. Join us to let your passion for flying take off in the sunny Cyprus skies.",
+  "icao": "LCLK",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

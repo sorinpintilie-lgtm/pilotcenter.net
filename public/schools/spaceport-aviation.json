@@ -1,0 +1,22 @@
+{
+  "id": "0c573e86-c059-4477-9e80-23dd95423b1c",
+  "slug": "spaceport-aviation",
+  "name": "Spaceport Aviation",
+  "continent": "North America",
+  "country": "United",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "TIX -Space Coast Regional Airport",
+  "website": "https://spaceportaviation.com/",
+  "email": "fly@spaceportaviation.com",
+  "phone": "(321) 269-6910",
+  "about": "Spaceport Aviation, located in Titusville, Florida, is a versatile and multifaceted flight school and rental facility. We offer a wide range of training programs, including Private Pilot (PPL), Instrument Rating (IR), Commercial Pilot (CPL), Multi-Engine (MEL), and various instructor ratings. Our diverse aircraft fleet includes Piper and Cessna models, ensuring well-maintained and equipped aircraft for all training needs. Our experienced and knowledgeable instructors provide excellent guidance, and we offer various flight specials and membership options through our SPA flying club. With a customer satisfaction-oriented approach, we are committed to helping you achieve your aviation goals. Whether you are a novice or an experienced pilot, Spaceport Aviation is here to support your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

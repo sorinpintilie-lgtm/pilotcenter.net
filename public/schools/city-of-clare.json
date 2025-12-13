@@ -1,0 +1,22 @@
+{
+  "id": "81895da4-0f52-48a2-bd3d-a4d61c6b92cf",
+  "slug": "city-of-clare",
+  "name": "City of Clare",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MI",
+  "city": "",
+  "baseAirport": "48D -Clare Municipal Airport",
+  "website": "https://www.flyclare.com/",
+  "email": "gtodd@cityofclare.org",
+  "phone": "(989) 386-0445",
+  "about": "The City of Clare flying school, located at Clare Municipal Airport, offers comprehensive flight training programs for aspiring pilots. Our active flight school provides a structured learning environment, including ground school and flight training for the Private Pilot license. Students can enroll in a 10-week ground school course to prepare for the FAA Aeronautical Knowledge Test. Our instructors are experienced and dedicated, guiding students through the requirements for licensing, which include at least 40 hours of flight time and passing both knowledge and practical tests. The airport also hosts an active Pilot's Association, organizing events like the annual Breakfast Fly-In and Summer Ice Cream Social Concert. With a courtesy car available for pilots and passengers, we ensure a welcoming and supportive experience for all. Our goal is to help you achieve your aviation dreams with professional and friendly service.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

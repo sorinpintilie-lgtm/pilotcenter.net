@@ -1,0 +1,22 @@
+{
+  "id": "07ee04b8-e6cd-4bb6-a4ad-97574b177c68",
+  "slug": "morristown-flying-service",
+  "name": "Morristown Flying Service",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TN",
+  "city": "",
+  "baseAirport": "MOR -Moore-Murrell Airport",
+  "website": "https://morristownflyingserviceinc.com/",
+  "email": "morristownairservice@gmail.com",
+  "phone": "(423) 307-8097",
+  "about": "Morristown Flying Service, established in 1946 in Morristown, Tennessee, is a renowned flight school and charter operation. We offer comprehensive flight training programs for private pilot, instrument rating, commercial pilot, certified flight instructor, and multi-engine rating. Our Professional Pilot Course is designed to take students from the ground up, providing the necessary experience to obtain a Commercial Pilot's license. With a long history of excellence, Morristown Flying Service is committed to delivering high-quality flight instruction and preparing students for successful careers in aviation. Our experienced instructors and well-maintained fleet ensure a safe and effective learning environment. Whether you're pursuing a career in flying or seeking recreational flight training, Morristown Flying Service is dedicated to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

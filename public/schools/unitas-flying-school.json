@@ -1,0 +1,22 @@
+{
+  "id": "2ae8096e-03d3-4f7a-9159-18760fcc5cf4",
+  "slug": "unitas-flying-school",
+  "name": "Unitas Flying School",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "GT",
+  "city": "",
+  "baseAirport": "Vereeniging Airport",
+  "website": "https://flyufa.co.za/",
+  "email": "info@flyufa.co.za",
+  "phone": "'+27 84 449 4440",
+  "about": "Unitas Flying School, established in 2009, is a professional aviation academy located at Vereeniging Airport in Gauteng, South Africa. We offer comprehensive training programs for aspiring pilots, ensuring they receive the highest standard of education and practical skills. Our experienced instructors and modern facilities provide a supportive and efficient learning environment. We are committed to producing competent and safe pilots, ready to embark on successful careers in aviation. With a focus on excellence and safety, Unitas Flying School is your trusted partner in achieving your flying dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Class Rating\\nCPL - (Modular - A)\\nFlight Instructor\\nInstrument Rating\\nNight Rating\\nType Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

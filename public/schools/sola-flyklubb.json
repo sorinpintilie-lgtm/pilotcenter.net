@@ -1,0 +1,22 @@
+{
+  "id": "91b55074-0754-418e-9172-79796f3afc51",
+  "slug": "sola-flyklubb",
+  "name": "Sola Flyklubb",
+  "continent": "Europe",
+  "country": "Norway",
+  "state": "NORW",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.solaflyklubb.no/",
+  "email": "skole@solaflyklubb.no",
+  "phone": "",
+  "about": "Sola Flyklubb is one of Norway’s largest and most vibrant aero clubs, with over 250 enthusiastic members. Based at Stavanger Airport, Sola, the club offers a comprehensive flight school providing year-round training for the Private Pilot License (PPL-A). The school conducts theoretical courses from September to March and flight training throughout the year, weather permitting. In addition to single-engine landplane training, Sola Flyklubb also offers night flying and is working to introduce seaplane training. The club boasts a modern fleet of aircraft, a welcoming community, and a well-equipped clubhouse with amenities for members. Sola Flyklubb is an ideal choice for aspiring aviators seeking a blend of hands-on training and a supportive flying community. Join us to embark on an exhilarating journey through the skies.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Training Manual – DTO v 1.0\\nTraining program – PPL(A) v 1.0\\nTraining program – SEP(country) v 1.0\\nTraining program – LAPL(A) v 1.0\\nNLF Training program – theory for LAPL(A)PPL(A) v 1.0\\nTraining program Night flying license v. 1.0\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

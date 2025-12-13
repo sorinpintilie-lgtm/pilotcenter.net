@@ -1,0 +1,22 @@
+{
+  "id": "9de0c737-4fb4-4939-a9db-635c2bc2fd75",
+  "slug": "uni-fly-as",
+  "name": "Uni-Fly A/S",
+  "continent": "Europe",
+  "country": "Denmark",
+  "state": "DK",
+  "city": "",
+  "baseAirport": "Andersen Airport",
+  "website": "https://uni-fly.com/",
+  "email": "info@uni-fly.dk",
+  "phone": "'+45 65 95 41 44",
+  "about": "Uni-Fly A/S is not a flying school, but rather a helicopter operation company. However, here is a tailored description that fits the criteria, focusing on their expertise and values:\n\n\"Uni-Fly A/S, founded in 1970, is a pioneering helicopter operator specializing in offshore operations, particularly for wind turbines. With over 50 years of experience and 75,000 hours of operation, we prioritize safety, human touch, financial sense, and environmental considerations. Our team of experts, based in Denmark and the UK, operates a fleet of AW169 and EC120 helicopters, ensuring efficient and compliant solutions for our clients. We are committed to delivering safe and reliable services, making us the trusted choice for demanding offshore tasks.\"",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Flight operations Crew change\\nFlight operations Offshore Helicopter Hoist Operation\\nFlight operations Inspections\\nHelicopter Landing officer\\nMaintenance Part 145\\nAvionics\\nStructural work\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

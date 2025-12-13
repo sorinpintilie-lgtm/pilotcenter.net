@@ -1,0 +1,22 @@
+{
+  "id": "ea3f01a0-041f-4f9a-a5e9-506b7f4c4c6a",
+  "slug": "blue-line-aviation",
+  "name": "Blue Line Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "NC",
+  "city": "Smithfield",
+  "baseAirport": "Johnston Regional Airport",
+  "website": "https://www.bluelineaviation.com/",
+  "email": "info@blueline-usa.com",
+  "phone": "'+1 919-578-3713",
+  "about": "Blue Line Aviation, established in 2012, is a premier flight school dedicated to accelerated and high-quality flight training. Founded by Trey Walters, a decorated Operation Iraqi Freedom veteran and former law enforcement officer, the school operates from two locations: Winter Haven, Florida, and Smithfield, North Carolina. Blue Line Aviation's Career Pilot Program takes students from zero hours to Multi-Engine Instructor in as little as 5.5 months, 35% faster than other schools. The program includes up to 215 logged hours, housing options, and career placement with major airlines. With a focus on safety, comprehensive coursework, and additional educational enrichment, Blue Line Aviation prepares students to be capable and resilient pilots. Recognized by Flying Magazine as one of the top flight schools in America, Blue Line Aviation is committed to excellence, integrity, and innovation in aviation training.",
+  "icao": "KJNX",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "db8cc6a1-0cd4-4aa0-9cc9-13b83a86b585",
+  "slug": "chester-charter",
+  "name": "Chester Charter, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CT",
+  "city": "",
+  "baseAirport": "SNC -Chester Airport",
+  "website": "http://www.chester-charter.com/",
+  "email": "chestercharter@hotmail.com",
+  "phone": "(800) 752-6371",
+  "about": "Chester Charter, Inc., located at Chester Airport in Connecticut, has been a stalwart in the aviation community since 1958. We offer comprehensive flight training programs, including Private Pilot Certificates, Night Ratings, and Commercial Pilot Certificates, all conducted by highly experienced and professional instructors on a one-on-one basis. In addition to our flight school, we provide air charter services catering to the New England area and beyond. Our services also include sightseeing tours, offering a unique experience in a 1941 Boeing Stearman. With a commitment to excellence and safety, Chester Charter, Inc. is your trusted partner for all your aviation needs.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nCommercial\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

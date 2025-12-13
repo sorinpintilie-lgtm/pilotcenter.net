@@ -1,0 +1,22 @@
+{
+  "id": "bd8e54a7-cfa2-409f-a2d7-2a8a4539650c",
+  "slug": "interstate-aviation",
+  "name": "Interstate Aviation, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CT",
+  "city": "",
+  "baseAirport": "4B8 -Robertson Field",
+  "website": "https://interstateaviation.com/",
+  "email": "info@interstateaviation.com",
+  "phone": "(800) 573-5519",
+  "about": "Interstate Aviation, Inc. is a reputable flight training school operating at Robertson Airport in Plainville, CT, and Waterbury-Oxford Airport in Oxford, CT. As a Part 61 flight school, we tailor our instruction to each student's personal needs, offering flexibility within the curriculum. Our fleet includes high wing Cessna 172s, low wing Piper Warriors and Archers, a state-of-the-art Cirrus SR-20, and Robinson R44 helicopter trainers. Our FAA-licensed mechanics ensure all aircraft are in excellent flying condition. With a welcoming atmosphere and friendly instructors, we provide private pilot, commercial pilot, and flight instructor certifications. We are open for instruction seven days a week, all year round, and offer discounted introductory flights for prospective students. Our goal is to provide high-quality flight training that helps you fulfill your aviation dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nExaminer\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

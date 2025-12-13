@@ -1,0 +1,22 @@
+{
+  "id": "bb555483-1b70-484a-8924-aeab07fcd8dd",
+  "slug": "fly-up-arg-flight-school-training",
+  "name": "Fly Up Arg Flight School & Training",
+  "continent": "South America",
+  "country": "Argentina",
+  "state": "AR",
+  "city": "",
+  "baseAirport": "San Fernando International Airport",
+  "website": "https://www.flyup.com.ar/",
+  "email": "'@flyuparg",
+  "phone": "'+ 54 9 11 2806 2919",
+  "about": "FlyUp Academy is an international EASA flight school based in Madrid, Spain, accredited by the Aviation Authorities of Spain (AESA) and Austria (AUSTRO CONTROL). Located at Casarrubios del Monte Aerodrome, we offer a range of pilot training programs including Private Pilot License, Commercial Pilot License, and Airline Transport Pilot Licence. We provide flexible, personalized training schedules and operate our own fleet of modern single- and multi-engine airplanes with on-site maintenance. FlyUp Academy supports visa applications and offers various accommodation options, ensuring a comprehensive and welcoming learning environment. Our motto is \"Not just flight training but a fascinating experience.\"",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private airplane pilot course\\nCommercial airplane pilot course\\nFlight instructor course\\nFirst Class Commercial Pilot Course\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

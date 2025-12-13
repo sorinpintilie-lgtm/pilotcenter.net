@@ -1,0 +1,22 @@
+{
+  "id": "c560a04d-6578-4eee-a493-1b73de3b80e5",
+  "slug": "skill-aviation-services",
+  "name": "Skill Aviation Services LLC",
+  "continent": "North America",
+  "country": "USA",
+  "state": "IL",
+  "city": "Waukegan",
+  "baseAirport": "Waukegan Airport",
+  "website": "https://www.skillaviation.com/",
+  "email": "info@skillaviation.com​",
+  "phone": "'+1 847-599-9955",
+  "about": "Skill Aviation Services LLC, located between Chicago and Milwaukee at Waukegan Airport (KUGN), is Chicagoland's premiere flight training facility. We offer structured, disciplined, and standardized flight training, utilizing professionally developed materials and syllabuses. Our instructors are recognized professional aviators, with multiple awards from the Aircraft Owners and Pilots Association. Our training is scenario-based, going beyond traditional stick & rudder skills and rote knowledge. We provide services for those seeking to fly for pleasure, business, or as a career, including introductory flights, multi-engine training, and drone/UAS seminars. We are also an authorized CATS/PSI Test Center for FAA knowledge tests. Contact us to start pursuing your aviation dreams.",
+  "icao": "KUGN",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

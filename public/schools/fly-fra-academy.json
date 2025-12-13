@@ -1,0 +1,22 @@
+{
+  "id": "fc2ec4ab-cfd8-4b05-a575-5956c247c963",
+  "slug": "fly-fra-academy",
+  "name": "Fly Fra Academy",
+  "continent": "Africa",
+  "country": "Algeria",
+  "state": "ALGR",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.flyfra.com/",
+  "email": "contact@flyfra.com",
+  "phone": "044 17 90 89",
+  "about": "Fly Fra Academy is a premier flight training institution dedicated to producing highly skilled and safety-conscious pilots. With a global presence and multiple bases, we offer a range of programs under FAA and EASA regulations. Our experienced instructors and state-of-the-art facilities ensure a comprehensive learning environment. We provide ab-initio training, professional pilot programs, and license conversions, all tailored to individual needs. Our commitment to innovation and customer satisfaction makes us a trusted name in aviation training, preparing students for successful careers as commercial pilots. At Fly Fra Academy, we strive to make your aviation dreams a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Cabin Crew\\nFlight Dispatcher Plane\\nAirport Grounds Agent\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

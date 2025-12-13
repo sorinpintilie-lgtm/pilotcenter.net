@@ -1,0 +1,22 @@
+{
+  "id": "f98de33d-0c81-4e1f-875c-c999d9b89eb0",
+  "slug": "six1fly",
+  "name": "Six1Fly",
+  "continent": "North America",
+  "country": "United",
+  "state": "TN",
+  "city": "",
+  "baseAirport": "1M5 -Douglas Hunter Field",
+  "website": "https://www.six1fly.com/",
+  "email": "learntofly@six1fly.com",
+  "phone": "(615) 241-6778",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

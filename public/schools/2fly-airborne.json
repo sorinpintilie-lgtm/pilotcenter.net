@@ -1,0 +1,22 @@
+{
+  "id": "129aaa17-90ec-4a7e-85ab-b2e27f12c666",
+  "slug": "2fly-airborne",
+  "name": "2Fly Airborne",
+  "continent": "North America",
+  "country": "USA",
+  "state": "FL",
+  "city": "Merritt Island",
+  "baseAirport": "Merritt Island Airport",
+  "website": "https://www.2flyairborne.com/ / socialmedia@2flyairborne.com",
+  "email": "COI@2FlyAirborne.com",
+  "phone": "'+1 321-453-222",
+  "about": "2Fly Airborne, founded in 1994, is a leading provider of flight training in the United States. With two locations in Florida, we offer comprehensive training programs that meet both American FAA and European EASA standards. Our courses range from private pilot certificates to commercial pilot and flight instructor certifications, including a 12-14 month full-time ATPL course. Our experienced management team, with over 50,000 combined flight hours and 35 years of aviation experience, ensures high standards in training, maintenance, and safety. Benefiting from Florida's ideal flying weather, we provide a personalized learning experience with a manageable student-to-instructor ratio. We are authorized to enroll non-immigrant alien students and offer flexible monthly payment plans. 2Fly Airborne is committed to excellence, preparing students for successful careers in aviation.",
+  "icao": "KCOI",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

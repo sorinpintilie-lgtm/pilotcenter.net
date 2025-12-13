@@ -1,0 +1,22 @@
+{
+  "id": "1af3aafb-15b3-4228-b32b-922a817a36c8",
+  "slug": "blue-chip-flight-school-pty",
+  "name": "Blue Chip Flight School (Pty) Ltd",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "GT",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://bluechipflightschool.co.za/",
+  "email": "marketing@bluechip-avia.co.za",
+  "phone": "'+27 12 543 3050",
+  "about": "Blue Chip Flight School (Pty) Ltd is a leading pilot training facility based at Wonderboom Airport in Pretoria and Newcastle Airport in South Africa. We specialize in comprehensive flight training programs, including Private Pilot Licence (PPL), Night Rating, and Commercial Pilot Licence (CPL). Our commitment to innovative flight education and the use of advanced flight training technology ensures that our students receive world-class training. With a strong focus on aviation safety, we aim to train pilots to become captains, equipping them with the skills and knowledge necessary for a successful career in aviation. Our dedicated team is passionate about producing highly qualified and safety-conscious pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PILOT LICENSE (PPL)\\nCOMMERCIAL\\nPILOT LICENSE (CPL)\\nGROUND SCHOOL\\nMULTI-ENGINE RATING\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

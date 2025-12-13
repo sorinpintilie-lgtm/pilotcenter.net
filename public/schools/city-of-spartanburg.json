@@ -1,0 +1,22 @@
+{
+  "id": "72215aa8-a088-400f-ab0c-6392f57901ed",
+  "slug": "city-of-spartanburg",
+  "name": "City of Spartanburg",
+  "continent": "North America",
+  "country": "United States",
+  "state": "SC",
+  "city": "",
+  "baseAirport": "SPA -Spartanburg Downtown Meml/Simpson Field",
+  "website": "https://www.cityofspartanburg.org/282/Airport",
+  "email": "tconnorton@cityofspartanburg.org",
+  "phone": "(864) 574-8552",
+  "about": "The City of Spartanburg's flying school, in partnership with Pivotal Aviation and the Spartanburg Science Center, offers comprehensive flight training programs. Specializing in training from the Private Pilot Certificate to the Airline Transport Pilot Certificate, our school provides a thorough education for aspiring pilots. Our programs include hands-on experiences with flight simulators, instructional glider flights, and maintenance workshops with licensed aircraft mechanics. We also collaborate with the Civil Air Patrol and the Federal Aviation Administration to ensure a well-rounded understanding of aviation safety and policy. Our seven-week summer program at the Spartanburg Memorial Downtown Airport exposes students to various aspects of aviation, preparing them for a career in the field. With a focus on professional development and community engagement, our flying school is dedicated to nurturing the next generation of aviation professionals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nPrivate Pilot\\nSport Pilot\\nGlider\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

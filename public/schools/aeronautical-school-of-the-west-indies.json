@@ -1,0 +1,22 @@
+{
+  "id": "f76f4711-2fc7-47f2-885c-f749fbd0b543",
+  "slug": "aeronautical-school-of-the-west-indies",
+  "name": "Aeronautical School of the West Indies",
+  "continent": "North America",
+  "country": "Jamaica",
+  "state": "JM",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.aeronauticalschool.com/",
+  "email": "",
+  "phone": "876-454-7547",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nInstrument Rating\\nCommercial Pilot\\nProfessional Pilot Program\\nInstructor Rating\\nTime Building\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

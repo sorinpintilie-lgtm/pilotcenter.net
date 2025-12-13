@@ -1,0 +1,22 @@
+{
+  "id": "b458ddcb-fd6f-4cd9-9bd8-76def6237bad",
+  "slug": "skywings-flight-training",
+  "name": "Skywings Flight Training",
+  "continent": "Europe",
+  "country": "Belgium",
+  "state": "BELG",
+  "city": "",
+  "baseAirport": "Antwerp Airport",
+  "website": "https://www.skywings.be/",
+  "email": "office@skywings.be",
+  "phone": "'+32 3 886 59 70",
+  "about": "Skywings Flight Training, based in Antwerp, is a premier aviation academy dedicated to producing highly skilled and professional pilots. In partnership with Brussels Airlines, Skywings offers a comprehensive Multi Pilot Licence (MPL) program, allowing cadets to be recruited by the airline even before their training begins. The 2-year program includes theoretical and practical training, with classes in Antwerp and practical flights in Antwerp and Alicante, Spain. Students undergo rigorous ATPL theory training and extensive simulator and actual flight training, preparing them to join Brussels Airlines as first officers on the A319 and A320 fleet. With experienced instructors and state-of-the-art facilities, Skywings ensures a seamless transition from training to a successful aviation career. Skywings is committed to excellence, safety, and fostering the next generation of professional pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Pilot Career Program\\nMPL Cadet Program\\nInstructor\\nExaminer\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

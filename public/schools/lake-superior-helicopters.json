@@ -1,0 +1,22 @@
+{
+  "id": "a1ddae26-881c-49eb-97a5-09cb3b933ef9",
+  "slug": "lake-superior-helicopters",
+  "name": "Lake Superior Helicopters",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MN",
+  "city": "",
+  "baseAirport": "DLH -Duluth International Airport",
+  "website": "https://www.lakesuperiorhelicopters.com/",
+  "email": "helicopters@heli-co.com",
+  "phone": "(218) 461-2857",
+  "about": "Lake Superior Helicopters is a premier flight training institution in the Midwest, offering a comprehensive 2-year professional pilot program in partnership with Lake Superior College. With a 10-year history of ensuring 100% job placement for graduates, our program provides unbeatable student support, unmatched industry connections, and a range of certifications including Private License, Commercial License, Instrument Rating, and Certified Flight Instructor ratings. We prioritize safety, using state-of-the-art equipment and aircraft such as the Robinson R44 and Bell 206. Our program includes financing options, scholarships, and GI Bill funding, making it accessible to a wide range of students. By joining Lake Superior Helicopters, you can launch your aviation career with confidence and start building your professional flight hours immediately after graduation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nGround School\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

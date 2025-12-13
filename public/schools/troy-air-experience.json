@@ -1,0 +1,22 @@
+{
+  "id": "95630c0b-9a42-4eee-a619-ff96ef722236",
+  "slug": "troy-air-experience",
+  "name": "Troy Air Experience",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MI",
+  "city": "",
+  "baseAirport": "VLL -Oakland/Troy Airport",
+  "website": "http://www.troyairexperience.com/",
+  "email": "sales@troyairexperience.com",
+  "phone": "(248) 225-4553",
+  "about": "Troy Air Experience, LLC is a professional flight school and aircraft rental company established in 2007 in Michigan. Our mission is to provide student pilots with the latest aviation technology in a safety-minded environment, catering to each individual's learning needs. We offer a range of services, including flight instruction, aircraft rentals, and discovery flights starting at $129 for a half hour. Our instructors are highly experienced and dedicated to ensuring students feel confident and safe throughout their training. With a strong focus on customer satisfaction, we strive to make every flight experience exceptional. Contact us today to schedule your flight and take the first step towards achieving your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nPrivate Pilot\\nSport Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

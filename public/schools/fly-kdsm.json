@@ -1,0 +1,22 @@
+{
+  "id": "b891848e-5e2e-49eb-b38f-61259688d839",
+  "slug": "fly-kdsm",
+  "name": "FLY KDSM",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IA",
+  "city": "",
+  "baseAirport": "DSM -Des Moines International Airport",
+  "website": "https://usflightco.com/",
+  "email": "office@flykdsm.com",
+  "phone": "(515) 650-5558",
+  "about": "FLY KDSM is a premier flight school located at the Des Moines International Airport (KDSM), dedicated to providing a professional and supportive environment for aspiring pilots. Our mission is to help students achieve their flying goals through comprehensive training programs. With a focus on safety and excellence, our experienced instructors guide students from the initial private pilot license to advanced commercial certifications. We offer state-of-the-art facilities, modern aircraft, and advanced training tools, including flight simulators, to ensure thorough and efficient training. Our commitment to individualized attention and flexible scheduling allows students to progress at their own pace. At FLY KDSM, we are passionate about nurturing the next generation of pilots and helping them soar to new heights. Join us to embark on a rewarding aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

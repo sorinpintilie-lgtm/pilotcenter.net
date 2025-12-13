@@ -1,0 +1,22 @@
+{
+  "id": "75d7c7c5-cd4d-4bb5-9a08-f151a6388b67",
+  "slug": "premier-flight-center",
+  "name": "Premier Flight Center, LLC",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CT",
+  "city": "Hartford",
+  "baseAirport": "Hartford-Brainard Airport (KHFD)",
+  "website": "https://www.premierflightct.com/",
+  "email": "info@premierflightct.com / socialmedia@premierflightct.com",
+  "phone": "'+1 860-724-2245",
+  "about": "Premier Flight Center, LLC, located at Hartford-Brainard Airport in Connecticut, is a renowned flight training institution offering comprehensive aviation programs. With 10 experienced flight instructors and a fleet of 9 aircraft, we provide single and multi-engine pilot training tailored to meet various needs. Our programs include Private, Instrument, Commercial, and Multi-Engine certifications, as well as specialized training such as Certified Flight Instructor and glass cockpit transition. We are proud of our partnership with Purdue University Global and offer pilot financing options. Our Fall Private Pilot Ground School is held every Saturday for 13 weeks, and we operate 7 days a week to accommodate all students. At Premier Flight Center, we are dedicated to providing quality flying lessons and supporting our students in achieving their aviation goals.",
+  "icao": "KHFD",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nAirline Transport Pilot\\nFlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

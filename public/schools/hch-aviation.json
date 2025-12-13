@@ -1,0 +1,22 @@
+{
+  "id": "f46343b3-cbe3-4a42-916f-2ec31d95e3f4",
+  "slug": "hch-aviation",
+  "name": "HCH Aviation, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "OCH -Nacogdoches A L Mangham Jr Regional Airport",
+  "website": "https://hchaviation.com/",
+  "email": "Aviation@SFASU.edu",
+  "phone": "(717) 279-1019",
+  "about": "HCH Aviation, LLC is a FAA Part 141 flight school based in Nacogdoches, Texas, and is proudly partnered with Stephen F. Austin State University. As a woman-owned business, HCH Aviation is committed to providing professional pilot training as part of the university's flight program, known as the \"Flying Jacks.\" This exclusive partnership enables students to pursue their aviation careers through a comprehensive and accredited curriculum. With a focus on excellence and safety, HCH Aviation offers top-notch training facilities and experienced instructors to ensure students receive the best possible education in aviation. HCH Aviation is dedicated to nurturing the next generation of pilots and aviation professionals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

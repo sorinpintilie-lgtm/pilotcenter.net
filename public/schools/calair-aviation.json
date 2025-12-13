@@ -1,0 +1,22 @@
+{
+  "id": "68c806ac-5636-41f1-836c-f7e46ffb7d5a",
+  "slug": "calair-aviation",
+  "name": "CalAir Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "HHR -Jack Northrop Field/Hawthorne Municipal",
+  "website": "https://calaironline.com/",
+  "email": "info@calaironline.com",
+  "phone": "(310) 846-9002",
+  "about": "CalAir Aviation is Southern California's premier Cirrus Platinum Certified Training Center, offering comprehensive flight training and aviation services. With a fleet of all-Cirrus Gen 6 aircraft, known for their luxury, safety, and advanced avionics, CalAir provides an exceptional flying experience. Our programs include private pilot license training, advanced certifications such as Instrument and Commercial, and transition courses. We also offer aircraft rentals, sales, and management services. Our experienced instructors, with over 40 years of collective flight experience, ensure safety and success through interactive and standardized training methods. Whether you are a novice or an experienced pilot, CalAir Aviation is dedicated to helping you achieve your aviation goals with top-notch facilities and impeccable aircraft maintenance. Join us to experience the best in flight training and aviation services.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

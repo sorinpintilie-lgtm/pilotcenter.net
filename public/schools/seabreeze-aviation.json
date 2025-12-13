@@ -1,0 +1,22 @@
+{
+  "id": "33b490e6-1121-41ba-b396-12de3fe259cc",
+  "slug": "seabreeze-aviation",
+  "name": "Seabreeze Aviation",
+  "continent": "North America",
+  "country": "Costa Rica",
+  "state": "CR",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.seabreeze.aero/",
+  "email": "info@seabreeze.aero",
+  "phone": "'+506 6445 9180",
+  "about": "At Seabreeze Aviation, we are dedicated to providing comprehensive and safe flight training for aspiring pilots of all levels. Our experienced instructors, with a combined wealth of aviation knowledge, ensure that each student receives personalized attention and rigorous training. Located in a scenic and diverse flying environment, our school offers a range of programs from private pilot certifications to commercial airline pilot training. We utilize state-of-the-art aircraft and simulators to enhance the learning experience. Our commitment to excellence and safety empowers our students to become confident and proficient pilots, ready to take on the skies with skill and precision. Join us at Seabreeze Aviation to realize your aviation dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Enroute maintenance\\nFlight Planning\\nPermits & Authorizations\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

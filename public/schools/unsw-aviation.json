@@ -1,0 +1,22 @@
+{
+  "id": "ab466616-bc3e-42a6-b0fc-2318e22ffd98",
+  "slug": "unsw-aviation",
+  "name": "UNSW Aviation",
+  "continent": "Oceania",
+  "country": "Australia",
+  "state": "",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.unsw.edu.au/science/our-schools/aviation",
+  "email": "aviation@unsw.edu.au",
+  "phone": "'+61 2-9385-1000",
+  "about": "The University of New South Wales (UNSW) Aviation flying school offers a comprehensive Bachelor of Aviation (Flying) program, integrating academic and practical training to prepare students for careers as pilots and aviation managers. Conducted across two campuses, students attend academic courses at the Kensington Campus and flight training at the Flying Operations Unit at Bankstown Airport. The program includes up to 200 hours of flight training and 30 hours of simulator training, using UNSW's own aircraft and simulators. Taught by industry-experienced instructors, the program emphasizes high standards, discipline, and clear communication. Graduates are well-equipped with Commercial Pilot Licences, Multi Engine Command Instrument Ratings, and Air Transport Pilot Licences, and are highly employable in the global aviation industry. UNSW Aviation prides itself on producing graduates of the highest calibre, ready to contribute to the dynamic and evolving aviation sector.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "0eaa5d71-2ef5-4070-8cc9-1599d210042a",
+  "slug": "citywings-flight-school",
+  "name": "Citywings Flight School",
+  "continent": "North America",
+  "country": "USA",
+  "state": "IL",
+  "city": "Schaumburg",
+  "baseAirport": "Schaumburg Regional Airport",
+  "website": "https://www.citywings.net/",
+  "email": "citywingschicago@gmail.com",
+  "phone": "'+1 331-205-8012",
+  "about": "Citywings Flight School, located in Schaumburg, Illinois, is Chicago's premier flight training institution. We offer a range of courses, including Sport Pilot and Private Pilot training, as well as Instrument Rating and Commercial Pilot programs. Our introductory flights, or discovery flights, provide a casual and immersive experience for newcomers, allowing them to fly a small airplane under the supervision of a certified instructor. Our comprehensive ground school covers aeronautical knowledge, FAA regulations, and other essential topics. Citywings aims to support the growing aviation sector in the Chicagoland area by training suitably qualified pilots in a friendly and relaxed learning environment. Start your flying journey with us today.",
+  "icao": "06C",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

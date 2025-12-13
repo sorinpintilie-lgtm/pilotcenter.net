@@ -1,0 +1,22 @@
+{
+  "id": "db82cac7-1a78-4d07-863a-1ee759cd5077",
+  "slug": "x-cell-aviation",
+  "name": "X-Cell Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IN",
+  "city": "",
+  "baseAirport": "OWB -Owensboro/Daviess County Regional Airport",
+  "website": "http://www.x-cellaviation.com/",
+  "email": "xcellowb@gmail.com",
+  "phone": "(812) 431-5340",
+  "about": "X-Cell Aviation, LLC, is Southern Indiana's premier flight training facility, based at Evansville Regional Airport. As the #1 flight school in the region, X-Cell Aviation offers comprehensive flight training programs, including private pilot certification. The school is committed to providing high-quality instruction with experienced pilots who guide students from the initial stages to achieving their flying goals. In addition to flight training, X-Cell Aviation also assists with aircraft purchasing, ensuring clients find the right plane for their needs. With a focus on personalized training and exceptional service, X-Cell Aviation is dedicated to helping aspiring pilots achieve their dreams. Contact us at (812) 781-8855 or visit www.X-CellAviation.com for more information. We look forward to helping you take to the skies.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

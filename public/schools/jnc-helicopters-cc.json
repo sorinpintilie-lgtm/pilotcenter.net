@@ -1,0 +1,22 @@
+{
+  "id": "e6f4a674-7591-41bc-8f6d-dd4169e6d640",
+  "slug": "jnc-helicopters-cc",
+  "name": "JNC Helicopters CC",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "NL",
+  "city": "",
+  "baseAirport": "Virginia Airport",
+  "website": "https://www.jncheli.co.za/",
+  "email": "flightops@choppers.co.za",
+  "phone": "'+27 31 653 9513",
+  "about": "JNC Helicopters is a well-established and licensed Aviation Training Organisation based at Virginia Airport, Durban, South Africa. Our flight training school is led by highly experienced pilots who equip students with the necessary skills to fly. We offer training packages for the Helicopter Private Pilot Licence (HPPL) and Helicopter Commercial Pilot Licence (HCPL), including additional ratings such as night, instrument, and instructor ratings. Our facilities include a large turf training area, office space, and a hangar for aircraft storage and maintenance. We provide a personalized, one-on-one training experience, ensuring students receive world-class instruction tailored to their skills and budget. With a strong focus on safety and excellence, JNC Helicopters is committed to helping students achieve their aviation dreams in a supportive and professional environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Flight Instructor\\nInstrument Rating\\nNight Rating\\nType Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

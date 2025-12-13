@@ -1,0 +1,22 @@
+{
+  "id": "9b492db6-b953-4263-809f-9a362c1930c1",
+  "slug": "southern-maine-aviation",
+  "name": "Southern Maine Aviation, LLC",
+  "continent": "North America",
+  "country": "USA",
+  "state": "ME",
+  "city": "Sanford",
+  "baseAirport": "Sanford Seacoast Regional Airport",
+  "website": "https://www.flyingsma.com/",
+  "email": "admissions@flyingsma.com\nfly@flyingsma.com",
+  "phone": "'+1 207-324-8919",
+  "about": "Southern Maine Aviation, LLC is a comprehensive aviation service provider based at the Sanford Seacoast Regional Airport in Maine. We offer a full range of services including beginner, advanced, and custom-tailored flight training, aircraft maintenance, and storage. Our active flight training program caters to individuals seeking private pilot certificates, instrument training, and commercial licenses, with experienced instructors having airline, corporate, and military backgrounds. We also provide specialized training in tailwheel flying, multi-engine operations, and backcountry flying. Our award-winning mechanics ensure top-notch aircraft maintenance, and our FBO facilities include free computer usage, Wi-Fi, and a comfortable lounge. We pride ourselves on creating personalized training plans to fit each student's schedule and goals, ensuring a safe and enjoyable flying experience. Contact us to start your aviation journey today.",
+  "icao": "KSFM",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

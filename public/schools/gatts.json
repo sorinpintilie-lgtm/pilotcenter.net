@@ -1,0 +1,22 @@
+{
+  "id": "9e28d1bc-7433-4f4b-b5fc-82eb4f09617d",
+  "slug": "gatts",
+  "name": "Gatts, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "KS",
+  "city": "",
+  "baseAirport": "MHK -Manhattan Regional Airport",
+  "website": "https://www.gatts.org/",
+  "email": "info@gatts.org",
+  "phone": "(785) 776-6676",
+  "about": "GATTS, Inc. is a premier flight training institution dedicated to the safety and proficiency of part-time general aviation pilots. With over 30 years of experience and more than 40 years of combined instructor expertise, GATTS provides personalized, one-on-one training in instrument ratings, IFR refreshers, commercial certification, and other aviation endorsements. We prioritize safety, savings, and time efficiency, ensuring no hidden costs. Offering military discounts, GATTS is the go-to school for pilots seeking high-quality, tailored training. Choose GATTS for a commitment to excellence in aviation education.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

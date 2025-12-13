@@ -1,0 +1,22 @@
+{
+  "id": "dbb19301-ae84-4c7d-8a2f-dff47500a762",
+  "slug": "top-flight-aviation",
+  "name": "Top Flight Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "AJO -Corona Municipal Airport",
+  "website": "https://topflightlessons.com/",
+  "email": "info@topflightlessons.com",
+  "phone": "(951) 335-5590",
+  "about": "Top Flight Aviation is a premier flight school dedicated to providing top-notch aviation training. Located in Corona, we offer a range of programs, including Part 61 training for Private Pilot, Instrument Rating, and more. Our fleet consists of modern, well-maintained aircraft, ensuring a safe and effective learning environment. Our professional and experienced instructors are committed to guiding students through their aviation journey with expert instruction and personalized attention. With a focus on excellence and safety, Top Flight Aviation is the ideal place to embark on your aviation dreams and achieve your flying goals. Join us to experience the highest standards in flight training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nCommercial\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

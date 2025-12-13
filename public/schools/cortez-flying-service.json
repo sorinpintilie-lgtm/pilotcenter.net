@@ -1,0 +1,22 @@
+{
+  "id": "0484eaa6-39c5-4b4e-beef-87e8c6f9626a",
+  "slug": "cortez-flying-service",
+  "name": "Cortez Flying Service, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CO",
+  "city": "",
+  "baseAirport": "KCEZ - Cortez Municipal Airport",
+  "website": "https://www.cortezflyingservice.com/",
+  "email": "cortezflying@yahoo.com",
+  "phone": "(970) 565-3721",
+  "about": "Cortez Flying Service, Inc. is a reputable aviation institution dedicated to providing safe and comprehensive flight training. With a strong emphasis on safety, our experienced FAA Certified Flight Instructors ensure that pilots and customers receive the highest standard of education and service. Located at the Cortez Municipal Airport, we offer a range of programs, including private pilot licenses and instrument rating courses, tailored to meet individual goals and schedules. Our modern, well-maintained aircraft and excellent safety record make us a trusted choice for aspiring pilots. We also participate in community events, such as the Four Corners Fall Fly-In, to raise awareness and inspire the next generation of aviation professionals. At Cortez Flying Service, Inc., we are committed to helping you achieve your aviation dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

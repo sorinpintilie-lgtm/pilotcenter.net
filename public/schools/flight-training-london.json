@@ -1,0 +1,22 @@
+{
+  "id": "d090897d-e2d8-4947-816e-d797f3be54fa",
+  "slug": "flight-training-london",
+  "name": "Flight Training London",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.flighttraininglondon.co.uk/",
+  "email": "info@flighttraininglondon.co.uk",
+  "phone": "'+44 20 3005 3276",
+  "about": "Flight Training London, operated by the L3Harris Airline Academy, is a state-of-the-art facility located in Crawley, next to Gatwick Airport. This global centre of excellence offers ground school and advanced pilot training, including the Airline Pilot Standards Multi Crew Cooperation (APS MCC) program. The centre boasts six Full Flight Simulators, seven state-of-the-art classrooms, and various training devices. Students benefit from onsite amenities such as a restaurant and break-out areas, as well as access to student-style accommodation in nearby locations. With excellent transport links to central London and strong connections to major UK airports, trainee pilots can easily balance training with exploring the city's iconic landmarks. Our commitment to industry-leading standards and supportive learning environment makes Flight Training London the ideal place to start your pilot career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

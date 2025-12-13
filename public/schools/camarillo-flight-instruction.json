@@ -1,0 +1,22 @@
+{
+  "id": "0f32e00d-c40b-44c5-be71-0a5a49cce6d2",
+  "slug": "camarillo-flight-instruction",
+  "name": "Camarillo Flight Instruction",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "CMA -Camarillo Airport",
+  "website": "https://camarilloflightinstruction.com/",
+  "email": "info@CamarilloAirport.com",
+  "phone": "(805) 233-7601",
+  "about": "Camarillo Flight Instruction, located at Camarillo Airport, offers professional, one-on-one flight training tailored to each student's pace. Our experienced instructors, with over 1,500 hours of flight experience, provide personalized training for Private Pilot, Instrument Rating, Commercial Pilot, and Flight Instructor certifications. We maintain a fleet of well-maintained, sophisticated general aviation aircraft and boast an excellent safety record since 2009. Our programs include discovery flights, cross-country training, and ground instruction, all designed to help students realize their flying dreams. With a focus on individualized attention and a commitment to safety, Camarillo Flight Instruction is the ideal choice for those seeking to become proficient and confident pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

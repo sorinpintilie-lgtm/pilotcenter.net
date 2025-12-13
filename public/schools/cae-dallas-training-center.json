@@ -1,0 +1,22 @@
+{
+  "id": "11e78e68-9dbe-4916-8264-de3a16224eff",
+  "slug": "cae-dallas-training-center",
+  "name": "CAE Dallas Training Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "DFW -Dallas-Fort Worth International Airport",
+  "website": "https://www.cae.com/civil-aviation/locations/cae-dallas-west",
+  "email": "aviationtraining@cae.com",
+  "phone": "(972) 456-8000",
+  "about": "CAE Dallas Training Center, located at the Dallas/Fort Worth International Airport, is the largest corporate aviation training facility in the world, spanning 426,000 square feet. This state-of-the-art facility offers pilot, maintenance, and flight crew training with 36 FAA Level C and D business aircraft simulators. Our experienced instructors, who are type-rated and operationally-experienced, deliver custom-tailored training solutions. The center includes fully equipped classrooms, an aviation resource centre, and a dining room, ensuring a comprehensive and seamless training experience. With unparalleled customer service, CAE Dallas Training Center is the premier choice for business aviation training, providing top-notch education and simulation technology to elevate your aviation skills.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nComputerized Testing\\nGround School\\nSimulator\\nAirline Transport Pilot ATP\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

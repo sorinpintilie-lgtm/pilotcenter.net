@@ -1,0 +1,22 @@
+{
+  "id": "59a6089d-557c-422c-88fa-7da317170d4c",
+  "slug": "mach-1-aviation",
+  "name": "Mach 1 Aviation, Inc.",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CA",
+  "city": "Van Nuys",
+  "baseAirport": "Van Nuys Airport",
+  "website": "https://flymach1.com/",
+  "email": "frontdesk@flymach1.com",
+  "phone": "'+1 818-390-9965 / '+1 818-390-9955",
+  "about": "Mach 1 Aviation, Inc., located at Van Nuys Airport, is Los Angeles's premier Cirrus Training Center. Founded by Jason Price, a distinguished aviator with extensive certifications and experience, the school is renowned for its commitment to safety and excellence. As a Platinum Cirrus Training Center since 2014, Mach 1 Aviation offers flight instruction above industry standards, with all instructors being FAA Certified and additionally certified by Cirrus. The school provides a range of training programs, including Private Pilot, Commercial Pilot, Instrument Rating, and Multi-Engine Rating. With a well-maintained Cirrus fleet and a team of professional instructors, Mach 1 Aviation ensures every flight is a once-in-a-lifetime experience, equipping pilots with the skills necessary to succeed in the real world of aviation.",
+  "icao": "KVNY",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

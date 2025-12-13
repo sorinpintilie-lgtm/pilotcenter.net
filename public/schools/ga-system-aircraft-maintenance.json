@@ -1,0 +1,22 @@
+{
+  "id": "f4ec0fda-16a9-4b3b-a22d-65cfa73530fe",
+  "slug": "ga-system-aircraft-maintenance",
+  "name": "GA System Aircraft Maintenance",
+  "continent": "Europe",
+  "country": "Poland",
+  "state": "",
+  "city": "Mielec",
+  "baseAirport": "Mielec Airport",
+  "website": "https://www.gasystem.pl/",
+  "email": "office@gasystem.pl",
+  "phone": "'+48 794 360 600",
+  "about": "GA System Aircraft Maintenance is a premier aviation training institution, dedicated to preparing students for careers in aircraft maintenance. Our programs are FAA 14 CFR Part 147 certified, ensuring students receive the highest standard of education. Located on the Thomson Campus of Augusta Technical College, our facility spans 16,000 square feet, including classrooms and labs equipped with all necessary tools and four complete aircraft for hands-on training. Our curriculum combines theory and practical application, preparing graduates to inspect, troubleshoot, and maintain all types of certificated aircraft. With a strong focus on industry needs, we provide students with the skills and knowledge required to succeed in this growing field, where job growth is predicted to be around 4% between 2022-2032. Our graduates are well-prepared to enter the workforce, contributing to the aviation industry's continued growth and excellence.",
+  "icao": "EPML",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

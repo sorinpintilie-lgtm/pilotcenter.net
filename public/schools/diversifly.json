@@ -1,0 +1,22 @@
+{
+  "id": "ca833ac6-f725-4641-bc22-9d0ea653ed19",
+  "slug": "diversifly",
+  "name": "Diversifly",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "ORL -Exec Airport",
+  "website": "https://diversifly.com/",
+  "email": "info@diversifly.net",
+  "phone": "(407) 217-9093",
+  "about": "At Diversifly, we are dedicated to providing a comprehensive and supportive environment for aspiring pilots. Our commitment extends beyond aviation; we prioritize the well-being and success of each student. With a focus on personalized guidance, we help you navigate the process of becoming a licensed and certified pilot. Our experienced instructors and state-of-the-art facilities ensure you receive the highest quality training, preparing you for a rewarding career in aviation. We are here to help you achieve your flying dreams with professionalism and care.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nPrivate Pilot\\nCommercial\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

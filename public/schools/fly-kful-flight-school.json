@@ -1,0 +1,22 @@
+{
+  "id": "08b8b27a-449c-4eae-ae87-e8d82795456c",
+  "slug": "fly-kful-flight-school",
+  "name": "Fly KFUL Flight School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "FUL -Fullerton Municipal Airport",
+  "website": "https://www.flykful.com/",
+  "email": "info@flykful.com",
+  "phone": "(714) 361-2446",
+  "about": "At Fly KFUL Flight School, located at 3905 W Commonwealth Ave in Fullerton, California, we are dedicated to providing comprehensive and personalized aviation training. With a team of certified professionals and a well-maintained fleet, we offer a range of courses including Private Pilot License, Instrument Flight Rules, Certified Flight Instructor, and CFII. Our instructors are committed to ensuring student satisfaction and safety, and we welcome students at any stage of their aviation journey. We also automatically hire our newly certified CFIs to continue their career progression. Join us to start or advance your aviation career in a supportive and professional environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nFlight Instructor Sport CFIS\\nPrivate Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

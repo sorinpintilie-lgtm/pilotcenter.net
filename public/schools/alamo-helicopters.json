@@ -1,0 +1,22 @@
+{
+  "id": "d8f221ec-572e-4be8-b30e-d0b9a1979ed0",
+  "slug": "alamo-helicopters",
+  "name": "Alamo Helicopters",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "SSF -Stinson Municipal Airport",
+  "website": "https://alamohelicoptertours.com/",
+  "email": "alamoheli@gmail.com",
+  "phone": "(210) 921-2359",
+  "about": "Alamo Helicopters, located in San Antonio, Texas, is a comprehensive flight school and tour operator dedicated to providing top-notch helicopter training and scenic tours. Our certified flight instructors offer a range of programs, from private pilot certificates to commercial pilot and certified flight instructor (CFI) ratings. We also provide ground school, instrument rating courses, and Part 107 drone testing. Our training is designed to prepare students for a successful career in aviation, with a focus on real-world skills and Federal Aviation Administration (FAA) compliance. Additionally, we offer breathtaking helicopter tours of San Antonio and the surrounding Hill Country, making us a unique blend of educational and recreational aviation services. At Alamo Helicopters, we are committed to excellence in flight training and tourism, ensuring a safe and enjoyable experience for all our students and passengers.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nPart 107 Drone Testing\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "43d2abc4-9eb3-4332-b49c-b1ed793ca351",
+  "slug": "flybest-flight-academy",
+  "name": "Flybest Flight Academy",
+  "continent": "Asia",
+  "country": "Indonesia",
+  "state": "ID",
+  "city": "",
+  "baseAirport": "Hang Nadim International Airport",
+  "website": "https://flybest.co.id/",
+  "email": "admission@flybest.co.id",
+  "phone": "(+62)21 3001-0825",
+  "about": "FlyBest Flight Academy, established in January 2013, is a CASR Part 141 flight school and Part 142 training center located in Batam, Indonesia, just 15 miles south of Singapore. We offer personalized and flexible learning methods based on FAA-approved curriculums, including an integrated airline pilot program designed to meet current airline qualification standards. Our students benefit from more flight hours, with a minimum of 206 hours upon graduation, and instruction from full-time, dedicated instructors with local and international experience. All training is conducted in English, with a focus on safe and enjoyable flying. Our base at Hang Nadim International Airport allows students to communicate with international Air Traffic Control from the outset. With over 1,641 graduates, FlyBest Flight Academy is committed to producing highly competitive pilots for the aviation industry.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Pilot Pathway\\nInitial Type Rating Airbus A320\\nPrivate Pilot\\nCommercial Pilot\\nInstrument Rating\\nFlight Instructor Certification\\nFlight Instructor Refresher\\nForeign Pilot License Endorsement\\nAirline Transport Pilot Ground Theory\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

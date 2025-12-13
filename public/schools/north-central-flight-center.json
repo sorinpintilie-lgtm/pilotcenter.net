@@ -1,0 +1,22 @@
+{
+  "id": "57599077-483d-4813-9971-f2dc280c889b",
+  "slug": "north-central-flight-center",
+  "name": "North Central Flight Center, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "RI",
+  "city": "",
+  "baseAirport": "SFZ -North Central State Airport",
+  "website": "https://www.ripilot.us/",
+  "email": "info@ripilot.us",
+  "phone": "(401) 425-7780",
+  "about": "North Central Flight Center, LLC, based at North Central State Airport (KSFZ) in Rhode Island, offers comprehensive flight instruction facilities. We provide training for all levels of pilots, including Private Pilot, Instrument, and Commercial ratings, as well as Certified Flight Instructor (CFI) and Certified Flight Instrument Instructor (CFII) training. Our services also include ground training and flight reviews to ensure our students are well-prepared for their aviation careers. With a commitment to quality and safety, North Central Flight Center is dedicated to helping aspiring pilots achieve their aviation goals. We strive to provide a supportive and professional learning environment for all our students.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nDrone/UAS\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

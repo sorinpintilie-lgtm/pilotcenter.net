@@ -1,0 +1,22 @@
+{
+  "id": "b7acfdd4-8e18-488b-83ff-01902b15c67c",
+  "slug": "kingston-flying-club",
+  "name": "Kingston Flying Club",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "ON",
+  "city": "",
+  "baseAirport": "Kingston Airport - CYGK",
+  "website": "https://kingstonflyingclub.com/",
+  "email": "kingstonflyingclub@kingstonflyingclub.com",
+  "phone": "'+1 613-389-0954",
+  "about": "The Kingston Flying Club, established in 1929, is a premier flight training institution in South-eastern Ontario. Accredited by the Ministry of Training, Colleges and Universities as a registered Private Career College, the club has a rich history of training pilots, from WWII veterans to current CF-18 pilots. Located at the Kingston airport, the club offers a range of programs including Airline Transport License, Commercial Pilot License, Private Pilot License, and Recreational Pilot License, along with additional ratings such as Instructor, Multi-Engine, and Instrument Flight Rules. The club's professional staff and excellent training facilities, including a variety of approaches like ILS, LOC BC, RNAV, and NDB, provide students with comprehensive aviation training. With a focus on flexibility and customization, the Kingston Flying Club helps aspiring pilots achieve their aviation goals in a scenic and supportive environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

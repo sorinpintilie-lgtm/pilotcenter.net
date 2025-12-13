@@ -1,0 +1,22 @@
+{
+  "id": "cb3c4423-b957-49de-8046-e34ecd39d6b7",
+  "slug": "ifa-international-flight-academy",
+  "name": "IFA - International Flight Academy",
+  "continent": "Europe",
+  "country": "Portugal",
+  "state": "PORT",
+  "city": "",
+  "baseAirport": "Cascais Airport",
+  "website": "https://ifa-training.com/",
+  "email": "info@ifa-training.com",
+  "phone": "'+351 219 246 380",
+  "about": "IFA - International Flight Academy is a premier aviation training center based in Cascais, Lisbon, with over 25 years of experience in the industry. We offer the largest variety of aviation training courses in Portugal, including programs for pilots, aircraft mechanics, and cabin crew, all compliant with EASA standards. Our extended resources and expertise ensure that students are well-prepared for their future careers. With a team of qualified aviation specialists, we continuously innovate and push the boundaries of aviation education. Our commitment to providing high-quality training has established us as a leading institution in the aviation sector, dedicated to helping students achieve their dreams as highly-trained professionals. Join us to embark on a comprehensive and rewarding aviation training journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Integrated ATPL\\nModular ATPL\\nPrivate Pilot License\\nFlight Instructors\\nRevalidations and Renewals\\nAdvanced UPRT\\nPerformance Based Navigation\\nAPS MCC\\nA320 Simulator Assessment Rental\\nMulti Crew Cooperation\\nJOC – Jet Orientation Course\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

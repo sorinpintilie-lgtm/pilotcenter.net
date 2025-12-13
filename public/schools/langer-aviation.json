@@ -1,0 +1,22 @@
+{
+  "id": "a502d566-03b2-468c-a4ae-4b5d76c11187",
+  "slug": "langer-aviation",
+  "name": "Langer Aviation LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "ND",
+  "city": "",
+  "baseAirport": "Y19 -Mandan Regional/Lawler Field",
+  "website": "https://www.langeraviation.net/",
+  "email": "info@langeraviation.net",
+  "phone": "(701) 415-6903",
+  "about": "Langer Aviation LLC is a flying school dedicated to providing high-quality flight training. We believe that quality training is the cornerstone of safe and confident flying. Our services include annual recurrent training, biennial flight reviews, ground school, instrument proficiency checks, and introductory flights. We offer certifications in commercial piloting, flight instructor (CFI), and flight instructor instrument (CFII), as well as private pilot training. At Langer Aviation, our commitment is to ensure that every student receives comprehensive and personalized instruction to achieve their aviation goals. We strive to make flying accessible and enjoyable for all, whether you are pursuing a career in aviation or flying as a hobby. Our experienced instructors and well-maintained aircraft ensure a safe and effective learning environment. Join us at Langer Aviation LLC to embark on your aviation journey with confidence and excellence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

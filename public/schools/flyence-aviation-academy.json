@@ -1,0 +1,22 @@
+{
+  "id": "d99b5504-02a1-425c-9ea9-244bb6b53665",
+  "slug": "flyence-aviation-academy",
+  "name": "Flyence Aviation Academy",
+  "continent": "Europe",
+  "country": "Greece",
+  "state": "",
+  "city": "Megara",
+  "baseAirport": "Pachi Megara Airport",
+  "website": "https://flyence.com/",
+  "email": "info@flyence.com",
+  "phone": "'+30 2130887969",
+  "about": "Flyence Aviation Academy, based in Greece, is the fastest-growing Approved Training Organisation in the region, backed by the European Aviation Safety Agency (EASA). The academy offers a range of courses including Modular, Integrated, Flight Instructor, and Type Rating programs, as well as license conversions and Multi-Crew Cooperation (MCC) training. Students can achieve a full Integrated Airline Transport Pilot License (ATPL) in just 17 months, thanks to Athens' favorable weather conditions. With a team of seasoned instructors and state-of-the-art facilities, including an Airbus A320 flight simulator, Flyence provides exceptional quality, personalized instruction, and efficient programs. The academy is committed to cultivating a community of future pilots with confidence and skill, ensuring each student receives the best education possible to realize their aviation dreams.",
+  "icao": "LGMG",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "a8b8515c-0b08-496c-857a-ad6e6d7ea384",
+  "slug": "indian-flying-academy",
+  "name": "Indian Flying Academy",
+  "continent": "Asia",
+  "country": "India",
+  "state": "IN",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.indianflyingacademy.com/",
+  "email": "info@indianflyingacademy.com",
+  "phone": "",
+  "about": "Indian Flying Academy is a premier flight training institution, dedicated to producing professional and safety-conscious pilots. With partnerships with global flight schools, we offer comprehensive training programs under FAA, EASA, and DGCA regulations. Our experienced instructors provide personalized training, and our state-of-the-art facilities include single-engine and multi-engine aircraft. We ensure a safe and innovative learning environment, preparing students for careers as airline pilots or corporate aviators. Our commitment to customer satisfaction and continuous innovation makes us a trusted name in aviation training. Join us to embark on a journey to become a confident and professional pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"COMMERCIAL PILOT'S LISENCE\\nForeign License Conversion\\nGround Classes\\nSimulator Training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

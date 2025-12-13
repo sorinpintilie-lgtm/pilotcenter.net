@@ -1,0 +1,22 @@
+{
+  "id": "539f04b0-5377-4d3a-8bdc-b53a8600e6bb",
+  "slug": "estonia-aviation-academy",
+  "name": "Estonia Aviation Academy",
+  "continent": "Europe",
+  "country": "Estonia",
+  "state": "",
+  "city": "Tartu",
+  "baseAirport": "Tartu Airport",
+  "website": "https://lennuakadeemia.ee/",
+  "email": "eava@eava.ee",
+  "phone": "'+372-744-8100",
+  "about": "Estonian Aviation Academy, established in 1993 as Tartu Aviation College and renamed in 2008, is a state-owned professional higher education institution dedicated to educating and training specialists for Estonian and international aviation enterprises. The Academy offers programs in Aviation Management, Aeronautical Engineering, Air Traffic Services, and Aircraft Piloting, among others. Teaching is conducted by experienced specialists from aviation enterprises and other higher education institutions, ensuring compliance with ICAO and EASA standards. With a strong focus on international cooperation and student exchange through the Erasmus+ program, the Academy provides a high-quality learning environment and excellent job opportunities in the European labour market. It is also the only training partner of the International Air Transport Association (IATA) in Estonia. The Academy's mission includes promoting lifelong learning, applied research, and developing responsible citizens.",
+  "icao": "EETU",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial Pilot License\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

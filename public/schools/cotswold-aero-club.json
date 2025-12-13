@@ -1,0 +1,22 @@
+{
+  "id": "293ccfef-fcea-4bad-98cd-6d43aa2ba01f",
+  "slug": "cotswold-aero-club",
+  "name": "Cotswold Aero Club",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Staverton",
+  "baseAirport": "Gloucestershire Airport",
+  "website": "https://www.cotswoldaeroclub.com/",
+  "email": "info@cotswoldaeroclub.com",
+  "phone": "'+44 1452 713 924",
+  "about": "Cotswold Aero Club, located at Gloucestershire Airport in Staverton, is a medium-sized flying school dedicated to providing comprehensive flight training. Specializing in modular training, the club offers packages such as the Private Pilot's Licence (PPL) and associated ratings. Run by a team of highly experienced instructors, the club is known for its friendly and supportive environment. It is easily accessible from Cheltenham, Gloucester, Bristol, Bath, Swindon, and Worcester. The club aims to share the joy of private flying at an affordable cost, making it an ideal choice for aspiring pilots. With a focus on quality instruction and a non-profit, member-driven approach, Cotswold Aero Club ensures a personalized and enriching flying experience for all its students.",
+  "icao": "EGBJ",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

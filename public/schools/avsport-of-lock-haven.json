@@ -1,0 +1,22 @@
+{
+  "id": "f65f82f8-ab3d-4713-83ae-6d7af64ed8d6",
+  "slug": "avsport-of-lock-haven",
+  "name": "AvSport of Lock Haven",
+  "continent": "North America",
+  "country": "United States",
+  "state": "PS",
+  "city": "",
+  "baseAirport": "LHV -William T Piper Memorial Airport",
+  "website": "https://www.avsport.org/",
+  "email": "fly@avsport.org",
+  "phone": "(570) 748-3725",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Drone/UAS\\nGround School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nPrivate Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

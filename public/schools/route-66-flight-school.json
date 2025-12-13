@@ -1,0 +1,22 @@
+{
+  "id": "826ad54a-7539-4805-914a-ea75a94bc181",
+  "slug": "route-66-flight-school",
+  "name": "Route 66 Flight School",
+  "continent": "North America",
+  "country": "United",
+  "state": "OK",
+  "city": "",
+  "baseAirport": "PWA -Wiley Post Airport",
+  "website": "https://route66flightschool.com/",
+  "email": "fly@route66flightschool.com",
+  "phone": "(405) 639-7265",
+  "about": "Route 66 Flight School, located at Wiley Post Airport in Oklahoma City, embodies the spirit of the historic Route 66, emphasizing the importance of the journey over the destination. Our training philosophy is built on careful design and a focus on safety, ensuring that every student's path to flight is both enjoyable and successful. We offer training for Private, Instrument, Commercial, and Certified Flight Instructor (CFI) ratings, utilizing the Cessna 172 Skyhawk, an IFR-capable aircraft. Our custom training syllabi, developed from decades of educational and aviation experience, guide students through four stages of training: Basic Flight Procedures, Navigation and Instrument Flight, Cross-Country Flight, and Check-Ride Preparation. Our instructors, including former college professors, are dedicated to developing safe and competent aviators. Join us for a Discovery Flight and become part of a dedicated aviation community where safety and excellence are paramount.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nInstrument Proficiency Check\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

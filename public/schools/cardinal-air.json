@@ -1,0 +1,22 @@
+{
+  "id": "a7ed1afc-8980-4efb-b94b-95b5dbb24ca1",
+  "slug": "cardinal-air",
+  "name": "Cardinal Air",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NC",
+  "city": "",
+  "baseAirport": "HBI -Asheboro Regional Airport",
+  "website": "http://www.cardinal-air.com/asheboro-airport.html",
+  "email": "info@cardinal-air.com",
+  "phone": "(336) 625-6120",
+  "about": "Cardinal Air is a reputable flight school located at the Asheboro Regional Airport (KHBI) in North Carolina. We offer a comprehensive range of flight training programs, including Private Pilot Certificate, Commercial Pilot Certificate, Flight Instructor (CFI), and Instrument Rating (CFII). Our experienced instructors provide personalized training to ensure students achieve their aviation goals. In addition to flight instruction, we offer ground school and seminars to complement our training programs. Cardinal Air also provides rental hangars and 24-hour call-out services for convenience. With a commitment to safety and excellence, Cardinal Air is dedicated to helping aspiring pilots take to the skies with confidence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\ninstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

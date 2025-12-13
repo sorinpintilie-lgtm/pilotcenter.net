@@ -1,0 +1,22 @@
+{
+  "id": "4f34c09f-b3c8-4ecc-9bb1-595cd30f68bf",
+  "slug": "aeromania",
+  "name": "Aeromania",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CO",
+  "city": "",
+  "baseAirport": "BJC -Rocky Mountain Metropolitan Airport",
+  "website": "https://aeromania.net/",
+  "email": "john@aeromania.net",
+  "phone": "(307) 388-4010",
+  "about": "Aeromania, based in Cheyenne, Wyoming, is a specialized flight school focusing on new jet type ratings and recurrent training, particularly in Cessna Citation models. Founded by Anthony Cirincione, a veteran of the Air Force and Flight Safety International, Aeromania offers in-aircraft training, emphasizing real-world experience and high-quality instruction. Every instructor is also an A&P IA, ensuring deep systems knowledge and practical expertise. The school prioritizes preflight and post-flight briefings, and tailors training to meet the unique needs of each client, often high-net-worth individuals or experienced jet pilots. Aeromania's commitment to quality and client satisfaction sets it apart in the aviation training industry.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

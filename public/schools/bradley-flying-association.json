@@ -1,0 +1,22 @@
+{
+  "id": "230a352f-72a6-452e-91ef-63d603e70cdd",
+  "slug": "bradley-flying-association",
+  "name": "Bradley Flying Association",
+  "continent": "North America",
+  "country": "USA",
+  "state": "IL",
+  "city": "Peoria",
+  "baseAirport": "Peoria International Airport",
+  "website": "https://www.bradleyflying.org/",
+  "email": "info@bradleyflying.org",
+  "phone": "'+1 309-697-0311",
+  "about": "The Bradley Flying Association (BFA) is Peoria, Illinois' oldest and most well-established membership-owned flying club, located at the General Wayne A. Downing International Airport (formerly Peoria International Airport). BFA provides comprehensive airplane flight training, offering certifications such as Private Pilot, Commercial Pilot, and Flight Instructor. The association welcomes all flying enthusiasts, from students to experienced pilots. BFA's aircraft are meticulously maintained, hangered, and fueled by Byerly Aviation. With a rich history and a commitment to aviation excellence, BFA continues to be a premier choice for those pursuing a career in flight or simply enjoying the thrill of flying.",
+  "icao": "KPIA",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

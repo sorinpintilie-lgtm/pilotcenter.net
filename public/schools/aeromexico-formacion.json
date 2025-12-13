@@ -1,0 +1,22 @@
+{
+  "id": "10d71924-b10c-4b09-a323-4bf89f7b9b23",
+  "slug": "aeromexico-formacion",
+  "name": "Aeroméxico Formación",
+  "continent": "Central America",
+  "country": "Mexico",
+  "state": "",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://aeromexicoformacion.com/",
+  "email": "amadmisiones@aeromexico.com",
+  "phone": "'+52-557-910-7737",
+  "about": "Aeroméxico Formación is the premier aviation training center in Mexico, operating in alliance with CAE, a global leader in aviation training. With over 70 years of experience, we offer comprehensive training programs for aspiring pilots, including the Aeromexico Cadet Program. This 20-month program includes ground-school training in Mexico City and flight training in Phoenix, AZ, using CAE’s fleet of Piper and Diamond aircraft equipped with glass cockpits and Garmin 1000 avionics. Our curriculum adheres to the highest ICAO standards, ensuring graduates are well-prepared for commercial aviation careers. We provide a holistic training environment, including theoretical classes, practical flight training, and additional support such as accommodation and transportation in Phoenix. Our mission is to train pilots to the highest degree of professionalism, equipping them with the technical knowledge and dedication required for a successful career in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial Pilot License\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

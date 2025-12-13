@@ -1,0 +1,22 @@
+{
+  "id": "b6c7fff1-0f32-4eff-9843-dbe1b05d79c1",
+  "slug": "airways-aviation-lebanon",
+  "name": "Airways Aviation Lebanon",
+  "continent": "Asia",
+  "country": "Lebanon",
+  "state": "LB",
+  "city": "",
+  "baseAirport": "Beirut Rafic Hariri International Airport",
+  "website": "https://www.airwaysaviation.com.lb/",
+  "email": "hello@airwaysaviation.com.lb",
+  "phone": "'+96176030333",
+  "about": "Airways Aviation Lebanon is the leading aviation academy in the Levant region, offering the only EASA-approved pilot pathway program in the Middle East. Located at Beirut Rafic Hariri International Airport and Dbayeh, Mount Lebanon, our facilities provide comprehensive ground school and flight training. With over 45 years of experience, we deliver quality education and training for airline pilots, military pilots, and other aviation professionals. Our modern fleet includes Diamond DA42, Cessna 172, and Piper Seminole aircraft. We offer full and part-time training pathways, including ATPL, CPL, and instrument ratings, ensuring successful career outcomes. Our programs are enriched by real-world aeronautical experiences and deep industry expertise, making Airways Aviation Lebanon your ideal starting point for a world-class aviation education.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"EASA-ATPL Modular Course\\nElite Cadet Program ECP\\nYouth Aviation Program YAP\\nPrivate Pilot License PPL\\nEASA Airline Transport Pilot License Theory\\nMulti-Engine Instrument Rating\"]",
+  "visaInsurance": "Other",
+  "fleetSize": "",
+  "logoUrl": ""
+}

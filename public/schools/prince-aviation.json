@@ -1,0 +1,22 @@
+{
+  "id": "7bbd4e1c-0d47-48df-82f9-b17a63d044ee",
+  "slug": "prince-aviation",
+  "name": "Prince Aviation",
+  "continent": "Europe",
+  "country": "Serbia",
+  "state": "RS",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.princeaviation.com/",
+  "email": "info@princeaviation.com",
+  "phone": "'+381 11 2608430",
+  "about": "Prince Aviation, founded in 1989, is a renowned aerospace company based in Serbia, with its hub at Belgrade Nikola Tesla Airport. The company is celebrated for its VIP passenger transport, air taxi services, and comprehensive pilot training programs. The flight school at Prince Aviation offers a range of certifications, including Private Pilot Licence (PPL), Commercial Pilot Licence (CPL), Instrument Rating, Multi Engine Rating, and Flight Instructor training. Utilizing a fleet that includes the Cessna 172 and Piper PA-44 Seminole, the school provides high-quality training to aspiring pilots. With over three decades of experience and a commitment to quality, Prince Aviation has established itself as a leader in aviation education and services, ensuring a safe and professional learning environment for all its students.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot license\\nAir Transport Pilot license\\nInstrument rating – single or multi engine\\nMulti Engine Piston (MEP)\\nFlight Instructor\\nClass Rating Instructor (CRI)\\nMulti Crew Cooperation (MCC)\\nEnglish Language Proficiency Testing (ICAO)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

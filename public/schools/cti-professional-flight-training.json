@@ -1,0 +1,22 @@
+{
+  "id": "c2a9c98e-4e35-404b-81e4-c2c245ec4e55",
+  "slug": "cti-professional-flight-training",
+  "name": "CTI Professional Flight Training",
+  "continent": "North America",
+  "country": "USA",
+  "state": "FL",
+  "city": "Fort Lauderdale",
+  "baseAirport": "Fort Lauderdale Executive Airport",
+  "website": "https://ctipft.com/",
+  "email": "arandle@ctipft.com",
+  "phone": "'+1 954-938-3043",
+  "about": "CTI Professional Flight Training, located in Ft. Lauderdale, Florida, and Memphis, Tennessee, offers accelerated and professional flight training since 1988. Our courses follow the Jeppesen Pilot Training System, a curriculum by Boeing's Jeppesen, ensuring a comprehensive and application-oriented approach. We operate a brand-new fleet, including the Diamond DA-20 and DA-42-NG, providing students with the latest technology. With FAA-granted Examination Authority, we conduct end-of-course checks, reducing wait times for students. Our programs include Private Pilot, Instrument Rating, Commercial Pilot, and Certified Flight Instructor certifications, all completed on a full-time schedule. We prioritize student scheduling, maintain rigorous records, and reschedule flights efficiently due to weather or maintenance issues. CTI Professional Flight Training is committed to producing professionally competent, confident, and technically knowledgeable pilots, ready for a career in aviation.",
+  "icao": "KFXE",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nseCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

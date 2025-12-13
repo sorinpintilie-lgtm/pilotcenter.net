@@ -1,0 +1,22 @@
+{
+  "id": "826bbe53-bfa7-4823-8e70-9c76a86f6d94",
+  "slug": "cockpit4u-aviation-service",
+  "name": "Cockpit4u Aviation Service",
+  "continent": "Europe",
+  "country": "Germany",
+  "state": "",
+  "city": "Berlin",
+  "baseAirport": "Berlin-Schönefeld\nBerlin Brandenburg Airport (BER)",
+  "website": "https://www.cockpit4u.com/",
+  "email": "info@cockpit4u.com",
+  "phone": "'+49 30 7551 330-0",
+  "about": "Cockpit4u Aviation Service is a leading Approved Training Organisation (ATO) based in Berlin-Schönefeld, Germany, near Airport SXF. We specialize in precise hands-on training with highly-skilled instructors, committed to safety and impeccable standards. Our services include Type Rating for Airbus, Boeing, and Bombardier aircraft, Multi Crew Cooperation (MCC), Jet Orientation Course (JOC), and Instructor Rating Courses (SFI/TRI). We also offer refresher and recurrent training, check flights, and various other aviation training modules. Our training is tailored for both newcomers and experienced pilots, with a focus on teamwork and individual support. We partner with airlines to provide comprehensive training solutions, ensuring our graduates are well-prepared for their careers. At Cockpit4u, we strive to deliver the highest quality training to meet the evolving needs of the aviation industry.",
+  "icao": "EDDB",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Multi-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "1263fb48-d22b-4e0a-99ee-4199c0cea865",
+  "slug": "europilot-center-epc",
+  "name": "EuroPilot Center (EPC)",
+  "continent": "Europe",
+  "country": "Belgium",
+  "state": "BELG",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://europilotcenter.be/nl/home/",
+  "email": "",
+  "phone": "'+32 (0) 3.281.84.29",
+  "about": "EuroPilot Center (EPC) is a renowned flight school with training locations in Antwerp, Belgium, and Southern California, USA. EPC offers comprehensive training programs for both private and airline pilots, including modular and dual-certification options in EASA and FAA standards. The school boasts a state-of-the-art fleet featuring brand new Textron Aviation Cessna Skyhawks and Diamond DA42 aircraft, as well as advanced Alsim Flight Simulators. EPC emphasizes practical experience, with students gaining 20% more flight hours than other programs, and supports self-study through 24/7 access to theoretical modules. Known for its innovative approach, cost-efficiency, and favorable training weather in California, EPC prepares students for global aviation careers with international recognition. With a passionate and experienced team, EPC is dedicated to making your aviation dreams a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"ATPL(A) Theory\\nInstrument Rating\\nMulti-Engine Ratings\\nCommercial Pilot\\nAdvanced UPRT\\nAdvanced UPRT\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

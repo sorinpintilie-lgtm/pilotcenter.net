@@ -1,0 +1,22 @@
+{
+  "id": "ce6d4b86-71c8-4f20-b5cd-fd0844ee82a0",
+  "slug": "waterloo-wellington-flight-centre-wwfc",
+  "name": "Waterloo Wellington Flight Centre - WWFC",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "ON",
+  "city": "",
+  "baseAirport": "Waterloo International Airport",
+  "website": "https://wwfc.ca/",
+  "email": "info@wwfc.ca",
+  "phone": "'+1 519-648-2213",
+  "about": "Waterloo Wellington Flight Centre (WWFC), founded in 1932, is a renowned flight school deeply rooted in the Waterloo region. Located at the Region of Waterloo International Airport, WWFC offers exceptional training programs for both professional and private pilots. With a fleet of 31 modern training aircraft and state-of-the-art facilities, WWFC provides a student-centric learning environment. Partnered with the University of Waterloo and Conestoga College, WWFC offers unique programs such as Geography and Aviation, and Science and Aviation, combining flight training with a strong academic foundation. The centre also offers modular training, drone pilot training, and maintains a 8,000 square foot hangar for aircraft maintenance. As a not-for-profit organization, WWFC is committed to providing high-quality resources and a safe learning environment, making it one of the top flight schools in Canada. WWFC is dedicated to helping aspiring pilots achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

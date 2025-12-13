@@ -1,0 +1,22 @@
+{
+  "id": "881b98a2-5b51-46de-82fc-628ec717821d",
+  "slug": "aviation-academy-austria-gmbh",
+  "name": "Aviation Academy Austria GmbH",
+  "continent": "Europe",
+  "country": "Austria",
+  "state": "AUST",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.aviationacademy.at/",
+  "email": "office(at)aviationacademy.at",
+  "phone": "'+43 5 9449",
+  "about": "Aviation Academy Austria GmbH is a premier international flight academy specializing in professional pilot training for airline pilots. Located at the airfield in Wr. Neustadt East, we offer comprehensive ATPL training, as well as other courses such as PPL, Instrument Rating, and Multi Engine Rating. Our state-of-the-art training fleet from Diamond Aircraft Industries includes modern digital displays and eco-friendly fuel consumption. We utilize advanced e-learning courses compliant with EASA regulations, ensuring flexible and high-quality training. Our simulator center in Neusiedl am See provides extensive training on full-flight simulators, and our experienced instructors, many of whom are active airline pilots, impart valuable industry insights. We tailor our training to individual needs, ensuring a smooth balance between training and personal life. Our goal is to prepare you comprehensively for a successful career in the cockpit.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PPL Private Pilot License\\nMEP Multi Engine Piston Rating\\nIR Instrument Rating\\nAdvanced UPRT\\nATPL Theory\\nSpecial training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

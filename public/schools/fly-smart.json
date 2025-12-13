@@ -1,0 +1,22 @@
+{
+  "id": "31ce8477-8d3c-4188-b39c-2d405c86a62d",
+  "slug": "fly-smart",
+  "name": "Fly Smart",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "ISM -Kissimmee Gateway Airport",
+  "website": "https://www.learntoflysmart.com/",
+  "email": "felipe@learntoflysmart.com",
+  "phone": "(407) 556-5003",
+  "about": "Fly Smart Pilot Training, located at Kissimmee Gateway Airport in Orlando, Florida, offers affordable, safe, and passionate flight training. We provide one-on-one pilot training, ensuring each student receives personalized attention and instruction. Our experienced and knowledgeable instructors are dedicated to helping students achieve their aviation goals. With a focus on safety and professionalism, Fly Smart is committed to making flight training accessible and enjoyable for all. Whether you are a beginner or advancing your certifications, Fly Smart is the ideal choice for your aviation education. Join us to embark on your flying journey with confidence and excellence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2ac99865-c5af-48fd-9566-65b36c9d3778",
+  "slug": "action-multi-ratings",
+  "name": "Action Multi Ratings",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CT",
+  "city": "",
+  "baseAirport": "GON -Groton-New London Airport",
+  "website": "http://www.actionmultiratings.com/",
+  "email": "ActionMultiRatings@gmail.com",
+  "phone": "(860) 449-9555",
+  "about": "Action Multi Ratings is a reputable and experienced flight school located at the Groton-New London Airport in Connecticut. We offer a comprehensive range of flight training programs, including private pilot licenses, instrument ratings, and bi-annual flight reviews. Our instructors, Joel, Ryan, and Nate, are highly skilled and dedicated to providing top-notch training. We specialize in multi-engine instruction, offering combination courses that lead to a Commercial Pilot Certificate with both single-engine and multi-engine ATP ratings. Our training encompasses both ground and flight instruction, covering all necessary areas to ensure pilots are fully prepared for their checkrides. With a focus on quality and safety, Action Multi Ratings is committed to helping aspiring pilots achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nAirline Transport Pilot ATP\\nCommercial\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "16f1db16-d1f9-467f-b5c3-89c5d9703e50",
+  "slug": "lenair",
+  "name": "LenAir",
+  "continent": "Europe",
+  "country": "Denmark",
+  "state": "",
+  "city": "Roskilde",
+  "baseAirport": "Roskilde Airport",
+  "website": "https://stage.lenair.dk/",
+  "email": "mail@lenair.dk",
+  "phone": "'+45-22-81-39-08",
+  "about": "LenAir Flying School is a premier aviation training institution dedicated to providing comprehensive and safe flight education. As a certified FAA Part 141 and 61 school, we offer programs for private pilots, professional ratings, and flight instructor certifications. Our fleet includes state-of-the-art Cessna aircraft, such as the Cessna 172S G1000 NXI and the Pipistrel Alpha Trainer, all maintained to exceed industry standards. Our experienced instructors ensure an efficient and supportive learning environment, utilizing advanced simulators like the ALSIM AL172 MKII and Precision Flight Controls DCX-MAX. With a focus on both theoretical and practical training, LenAir Flying School is committed to helping students achieve their aviation goals with excellence and confidence. We strive to make every student feel at home and supported throughout their flight training journey.",
+  "icao": "EKRK",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nFlight Instructor (CFI / FI)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

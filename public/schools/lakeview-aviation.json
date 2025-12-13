@@ -1,0 +1,22 @@
+{
+  "id": "ca9babe5-8d6f-42f3-99fe-fc7f12d74e7d",
+  "slug": "lakeview-aviation",
+  "name": "Lakeview Aviation, Inc",
+  "continent": "North America",
+  "country": "United States",
+  "state": "VT",
+  "city": "",
+  "baseAirport": "EFK -Northeast Kingdom International Airport",
+  "website": "https://lakeviewaviation.com/",
+  "email": "dan@lakeviewaviation.com",
+  "phone": "(802) 334-5001",
+  "about": "Lakeview Aviation, Inc., located at the Northeast Kingdom International Airport in Newport, Vermont, offers comprehensive flight training programs for aspiring pilots. We provide instruction for Private Pilot, Commercial, Instrument, and Flight Instructor certifications, with a rate of $50 per hour. Our services include aircraft rental, aerial tours, and ground school. We also offer aviation fuel services, aircraft ground handling, and hangar leasing. With a dedicated team and a range of amenities, including a passenger terminal and lounge, Lakeview Aviation is committed to providing a supportive and professional environment for all your aviation needs. Whether you're pursuing a career in aviation or flying for leisure, we are here to help you achieve your goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nGround School\\nIntro Flight\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

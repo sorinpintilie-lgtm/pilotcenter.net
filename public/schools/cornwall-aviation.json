@@ -1,0 +1,22 @@
+{
+  "id": "d54ab57d-046d-4d7d-824c-0de36bd100e7",
+  "slug": "cornwall-aviation",
+  "name": "Cornwall Aviation",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "ON",
+  "city": "",
+  "baseAirport": "CORNWALL REGIONAL AIRPORT",
+  "website": "https://cornwallaviation.ca/",
+  "email": "dave@cornav.ca",
+  "phone": "'+1 613-931-3311",
+  "about": "Cornwall Aviation, located at the Cornwall Regional Airport in Ontario, Canada, is a renowned flight training facility with a 45-year history of excellence. Founded by the Small family, the school has nurtured many successful aviation careers. We offer comprehensive flight training programs for aspiring pilots at all levels, from beginner to advanced, including Private Pilot Licence, Night Rating, and Commercial Pilot Licence. Our fleet includes five Piper Seminoles and two Full Motion Redbird FMX simulators, ensuring cost-effective and proficient training. With experienced full-time Pilot Examiners and friendly staff, we provide a quiet and efficient training environment, avoiding the heavy traffic and costly delays of major airports. Our goal is to help students achieve their aviation goals quickly and effectively, and we welcome you to join our community of global flyers.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "69659b49-8a12-49dc-b160-8b62601c68b6",
+  "slug": "hub-city-aviation",
+  "name": "Hub City Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "TX",
+  "city": "Lubbock",
+  "baseAirport": "Lubbock Preston Smith International Airport",
+  "website": "https://www.hubcityaviation.com/",
+  "email": "info@hubcityaviation.com",
+  "phone": "'+1 806-687-1070",
+  "about": "Hub City Aviation, established in 2002, is a comprehensive flight training and aviation services center located at the Lubbock International Airport in Texas. We offer pilot training from beginner to Airline Transport Pilot, including all intermediate ratings. Our fleet includes well-maintained Piper and Cessna aircraft equipped with digital avionics. We provide regular ground schools for Private, Instrument, and Commercial licenses in affiliation with South Plains College. Our unique Learning Center is available free to customers for test preparation, simulator use, and DVD learning. Hub City Aviation is approved for VA benefits and has agreements with local financial institutions for alternative funding. Additional services include pilot supplies, scenic tours, and pilot services. We are also the only FAA-approved CATS Test Center in the West Texas Panhandle region for the Part 107/UAG Exam. Join us and start flying today",
+  "icao": "KLBB",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

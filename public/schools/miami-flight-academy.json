@@ -1,0 +1,22 @@
+{
+  "id": "d5bdd7a9-dfaf-4e21-a250-437954b44ae2",
+  "slug": "miami-flight-academy",
+  "name": "Miami Flight Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "FXE -Fort Lauderdale Exec Airport",
+  "website": "https://www.miamiflightacademy.com/",
+  "email": "info@miamiflightacademy.com",
+  "phone": "(954) 991-2017",
+  "about": "Miami Flight Academy is a global network of FAA and JAA certified professional pilots and flight instructors, operating in Europe, America, Africa, and Asia. Our primary locations include Fort Lauderdale Executive Airport (KFXE) near Miami, Pontoise-Cormeilles (LFPT) near Paris, Hong Kong (VHHH), and Marrakech (GMMX). We specialize in accelerated training for all FAA certificates and ratings, and our teams are available for temporary instructor and pilot replacements worldwide. Our dedicated professionals are committed to guiding you from zero hours to a professional pilot career in as little as six months, ensuring you learn to fly safely and efficiently to secure your first job in the aviation industry. Our mission is to make your aviation career aspirations a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nInstrument Proficiency Check\\nIntro Flight\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

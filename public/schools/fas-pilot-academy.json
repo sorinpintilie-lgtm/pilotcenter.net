@@ -1,0 +1,22 @@
+{
+  "id": "8ff47891-d2a7-42bf-a319-ffb73c61cdf4",
+  "slug": "fas-pilot-academy",
+  "name": "FAS Pilot Academy",
+  "continent": "Europe",
+  "country": "Greece",
+  "state": "",
+  "city": "Megara",
+  "baseAirport": "Pachi Airport (LGMG)",
+  "website": "https://www.faspilotacademy.aero/",
+  "email": "support@fas.gr",
+  "phone": "'+30 2299049814",
+  "about": "FAS Pilot Academy, one of the oldest Approved Training Organizations (ATO) for pilots in Greece, has been dedicated to aviation training for over 20 years. With locations at Megara General Aviation Airport and a theoretical learning centre in Attica/Markopoulo, the academy offers both integrated and modular flight training routes. FAS Pilot Academy is committed to Flight Safety, Consistency, and Commitment to training and aviation spirit. The academy prepares professional pilots for Commercial and Air Transport Pilot Licenses, including Airbus A320 Type Rating. Benefiting from Greece's favorable flying weather year-round, students receive high-quality training from experienced instructors. The academy's well-maintained fleet and supportive staff ensure a safe and friendly learning environment, helping aspiring pilots achieve their aviation careers successfully.",
+  "icao": "LGMG",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

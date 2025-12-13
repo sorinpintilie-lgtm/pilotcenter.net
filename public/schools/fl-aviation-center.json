@@ -1,0 +1,22 @@
+{
+  "id": "09b75a5a-51fe-4ef6-a381-315ce4dde65e",
+  "slug": "fl-aviation-center",
+  "name": "FL Aviation Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "TLH -Tallahassee International Airport",
+  "website": "https://www.flaviationcenter.com/",
+  "email": "dispatch@flaviationcenter.com",
+  "phone": "(850) 778-3591",
+  "about": "FL Aviation Center, founded in 2012, is dedicated to promoting General Aviation and supporting individual goals and dreams. We believe that becoming a pilot is within reach for anyone with an investment of time, money, and personal commitment. Our training programs are tailored to each student's needs, emphasizing a balance between formal instruction and personal study. Students must meet FAA requirements, including a minimum amount of training, dedication to learning aircraft systems and regulations, and passing several tests. We offer a supportive environment where learning to fly enhances communication, critical thinking, and confidence. Whether flying for pleasure or professionally, FL Aviation Center provides the resources and guidance necessary for a successful aviation journey. We are committed to helping you achieve your aviation goals and create a better future through flight training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nComputerized Testing\\nDrone/UAS\\nExaminer\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nPart 107 Drone Testing\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

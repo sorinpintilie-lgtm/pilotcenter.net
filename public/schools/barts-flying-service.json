@@ -1,0 +1,22 @@
+{
+  "id": "743867df-9c6d-4eb2-a70d-2d7966af890e",
+  "slug": "barts-flying-service",
+  "name": "Bart's Flying Service, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IA",
+  "city": "",
+  "baseAirport": "SLB -Storm Lake Municipal Airport",
+  "website": "https://www.facebook.com/BartsFlyingService/",
+  "email": "bartbfs@live.com",
+  "phone": "(712) 732-6494",
+  "about": "Bart's Flying Service, Inc., located at the Storm Lake Municipal Airport, has been a cornerstone of the local aviation community since 1976. Founded by Jim (Bart) Bartholomew, the service offers comprehensive flight training, aircraft maintenance, and aerial spraying. With a rich history and dedication to the community, Bart's Flying Service provides professional instruction using modern, well-maintained aircraft. The family-run business, now transitioning to the next generation under John Bartholomew, continues to support various local businesses and individuals with their aviation needs. Committed to safety and efficiency, Bart's Flying Service is essential to the growth and development of the Storm Lake area.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

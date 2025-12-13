@@ -1,0 +1,22 @@
+{
+  "id": "da24a6d1-ebc1-48c6-982d-f0beb370dffa",
+  "slug": "flight-training-centre-uganda",
+  "name": "Flight Training Centre Uganda",
+  "continent": "Africa",
+  "country": "Uganda",
+  "state": "UG",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://ftcuganda.com/",
+  "email": "info@ftcuganda.com",
+  "phone": "(+256) 742 173628",
+  "about": "At Flight Training Centre Uganda, we are a premier aviation training institution approved by the Uganda Civil Aviation Authority (UCAA). Established to address the region's need for skilled aviation professionals, our school offers comprehensive training programs including Private Pilot Licenses (PPL), Commercial Pilot Licenses (CPL), and specialized courses such as Airline Cabin Crew and Aviation Security. Our experienced instructors and state-of-the-art facilities ensure high-quality training, with a strong focus on safety, professionalism, and excellence. We pride ourselves on a high employment rate for our graduates, with many now working in leading airlines. Our mission is to produce world-class aviators, and we are committed to providing exceptional training experiences that prepare students for successful careers in aviation. Join us to embark on a journey to excellence in flight training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground Flight School\\nPilot License\\nInstrument Rating\\nMulti Engine Training\\nSimulator Training\\nInstructor Courses\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

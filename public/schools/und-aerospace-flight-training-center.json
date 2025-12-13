@@ -1,0 +1,22 @@
+{
+  "id": "6ffc9568-9126-4f8e-aeab-e9183ae6d31c",
+  "slug": "und-aerospace-flight-training-center",
+  "name": "UND Aerospace Flight Training Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "IWA -Phoenix-Mesa Gateway Airport",
+  "website": "https://airlinepilot.training/",
+  "email": "info@undaerospace.com",
+  "phone": "(480) 809-4499",
+  "about": "The UND Aerospace Flight Training Center, part of the John D. Odegard School of Aerospace Sciences, is a premier institution for aviation education. Founded in 1968 by John D. Odegard, the program has grown to include over 120 aircraft, the largest civilian flight training fleet in North America. With state-of-the-art facilities at Grand Forks International Airport and a satellite center at Phoenix-Mesa Gateway Airport, UND Aerospace offers a wide range of programs including commercial aviation, unmanned aircraft systems, air traffic control, and more. The school is known for its academic excellence, liberal arts core curriculum, and FAA Part 141 training standards. Students benefit from experienced instructors, advanced simulators, and a strong focus on safety and technological advancement. UND Aerospace is dedicated to producing well-rounded, highly skilled aviation professionals ready to excel in the industry.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

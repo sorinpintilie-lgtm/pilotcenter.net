@@ -1,0 +1,22 @@
+{
+  "id": "b158521b-4d41-4dc3-beea-499a7b6a89d8",
+  "slug": "wings-of-carolina-flying-club",
+  "name": "Wings of Carolina Flying Club",
+  "continent": "North America",
+  "country": "USA",
+  "state": "NC",
+  "city": "Sanford",
+  "baseAirport": "Raleigh Executive Jetport",
+  "website": "https://wingsofcarolina.org/",
+  "email": "vp@wingsofcarolina.org",
+  "phone": "'+1 919-776-2003",
+  "about": "Wings of Carolina Flying Club, founded in 1961 as the Chapel Hill Flying Club, is one of the oldest and largest flying clubs in the nation, with approximately 350 members. Located in Sanford, North Carolina, the club offers a comprehensive range of pilot training programs, including Private Pilot, Instrument Rating, Commercial Certificate, and Multi Engine Rating. With over 50 pilots currently in training, the club caters to individuals of all ages and experience levels, from new students to professional pilots. Our mission is to provide safe, affordable, and enjoyable aviation education, utilizing a fleet of well-equipped aircraft and advanced training devices. We strive to foster a community of pilots dedicated to continuous learning and flying excellence.",
+  "icao": "KTTA",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nInstrument Rating (IR)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

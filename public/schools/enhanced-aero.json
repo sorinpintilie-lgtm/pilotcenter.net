@@ -1,0 +1,22 @@
+{
+  "id": "aa42d74b-e1da-41ce-a4e9-9c1ee3866bad",
+  "slug": "enhanced-aero",
+  "name": "Enhanced Aero",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "MDH -Southern Illinois Airport",
+  "website": "https://www.enhancedaero.com/",
+  "email": "admin@enhancedaero.com",
+  "phone": "(618) 992-2376",
+  "about": "Enhanced Aero is a reputable flight training institution operating under the FAA Part 61 program. Our experienced instructors provide personalized flight instruction to students of all levels, ensuring learning at each individual's pace. With a focus on safety and comprehensive training, we equip students with the skills necessary to achieve their aviation goals. Our facility is well-equipped, and our instructors hold current FAA credentials, ensuring top-notch education. We are committed to helping aspiring pilots reach new heights in their aviation careers. At Enhanced Aero, we strive to make your flight training journey both effective and enjoyable.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

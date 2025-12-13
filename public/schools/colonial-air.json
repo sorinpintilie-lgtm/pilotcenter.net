@@ -1,0 +1,22 @@
+{
+  "id": "3b3f8ce4-e6c9-470f-aee2-309bf438a082",
+  "slug": "colonial-air",
+  "name": "Colonial Air",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MA",
+  "city": "",
+  "baseAirport": "EWB -New Bedford Regional Airport",
+  "website": "https://colonial-air.com/",
+  "email": "colonialair@comcast.net",
+  "phone": "(508) 997-0620",
+  "about": "Colonial Air, incorporated in 1973, is a full-service Fixed Base Operator (FBO) located at New Bedford Regional Airport (EWB), operating the largest hangar on the premises. Owned and operated by the Cunningham family since 1983, we pride ourselves on being a family-run company dedicated to providing a superior level of service. Our services include aircraft rentals, fuel, hangar space, tie-downs, A&P maintenance, pilot training, and transportation services. Our team is prompt, professional, and committed to ensuring a top-notch experience for all aviation needs, serving a diverse range of aircraft from vintage taildraggers to modern jets. With our strategic location near popular New England destinations, we are well-equipped to handle seasonal traffic spikes and provide exceptional service to all our clients.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

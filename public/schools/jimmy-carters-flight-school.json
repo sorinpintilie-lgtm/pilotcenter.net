@@ -1,0 +1,22 @@
+{
+  "id": "45e0827d-7398-441b-a6ab-7be731a30ee2",
+  "slug": "jimmy-carters-flight-school",
+  "name": "Jimmy Carter's Flight School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "RNM -Ramona Airport",
+  "website": "https://www.jimmycartersflightschool.com/",
+  "email": "flyjcfs@yahoo.com",
+  "phone": "(760) 271-8806",
+  "about": "Jimmy Carter's Flight School, located in Ramona, California, has been a premier destination for flight training since 1996. Founded by Jimmy Carter, a seasoned pilot with over 20 years of flying experience, the school is dedicated to providing exceptional flight instruction to students of all ages and backgrounds. Offering a range of programs, including Private Pilot Certificate, Commercial Pilot Certificate, and Flight Instructor training, Jimmy Carter's Flight School is committed to making your flying dreams a reality. With a passion for teaching and a focus on safety, the school ensures that each student receives personalized and comprehensive training. Whether you are a novice or an aspiring professional pilot, Jimmy Carter's Flight School is the ideal place to achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Drone/UAS\\nGround School\\nIntro Flight\\nPart 107 Drone Testing\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "a41e856b-3afb-4aa1-b7be-0a3c6991a12c",
+  "slug": "aero-club-de-reus",
+  "name": "AERO CLUB DE REUS",
+  "continent": "Europe",
+  "country": "Spain",
+  "state": "ESP",
+  "city": "",
+  "baseAirport": "Reus Airport",
+  "website": "https://aeroreus.eu/",
+  "email": "RACREUS@RACREUS.ORG",
+  "phone": "'+34977771911",
+  "about": "The Aero Club de Reus, one of Spain's oldest and most prestigious flying clubs, is located at Reus International Airport near Tarragona. Established with a rich history, the club offers a comprehensive range of aviation services, including pilot training courses for private and commercial licenses. Our pilot school provides initiation flights, recreational rides, and advanced training programs focused on safety and academic excellence. With a strong commitment to maintaining high standards, we operate a fleet of aircraft suitable for both training and leisure flights. Whether you are aspiring to become a professional pilot or simply enjoy the thrill of flying, the Aero Club de Reus is dedicated to making your aviation dreams a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot PPL(A)\\nTime Building\\nMEP\\nCPL(A)\\nTheoretical ATPL(A)\\nVFR-N qualification\\nIR(A) PBN\\nRevalidations / Renewals\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "d1a89aa7-f8a7-4a01-86ba-26b42f005908",
+  "slug": "sky-safety-flight-academy",
+  "name": "Sky Safety Flight Academy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "TX",
+  "city": "San Antonio",
+  "baseAirport": "Stinson Municipal Airport",
+  "website": "https://www.skysafety.com/",
+  "email": "info@skysafety.com",
+  "phone": "'+1 210-921-2504",
+  "about": "Sky Safety Flight Academy, established in 1999, is a renowned FAA Part 141 flight school based at Stinson Municipal Airport in San Antonio, Texas. With a strong reputation for safe, comprehensive, and rewarding training, Sky Safety offers programs from zero flight experience to Multi-Engine Commercial and Flight Instructor Certificates. The academy partners with Liberty University to provide online aviation degree programs and has trained hundreds of international students, many of whom now fly for major airlines. Known for its well-maintained fleet and experienced instructors, Sky Safety is committed to providing quality instruction at a competitive price, making it an excellent choice for aspiring pilots. Whether you're a domestic or international student, Sky Safety is dedicated to preparing you for a successful career in aviation.",
+  "icao": "KSSF",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "3edaf02f-0144-48a4-8b44-57ebfa21dec1",
+  "slug": "elite-aircraft-services",
+  "name": "Elite Aircraft Services",
+  "continent": "North America",
+  "country": "United",
+  "state": "NC",
+  "city": "",
+  "baseAirport": "RDU -Raleigh-Durham International Airport",
+  "website": "https://flyeliteaircraft.com/",
+  "email": "info@flyeliteaircraft.com",
+  "phone": "(919) 576-0174",
+  "about": "Elite Aircraft Services is a comprehensive aviation solution offering flight training, aircraft management, and various aviation services. With multiple locations, including Fayetteville, Arkansas, and Monett, Missouri, we provide training for all levels of pilots, from personal to career aviation. Our FAA Part 61 flight training centers are equipped to handle all training needs, including scenario-based pilot training and accelerated courses. We also offer aircraft acquisition, sales, rentals, and professional maintenance services. Our priority is client safety and satisfaction, ensuring that every mission is tailored to individual needs. We are committed to exceeding client expectations in all that we do.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

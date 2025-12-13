@@ -1,0 +1,22 @@
+{
+  "id": "5e0fab97-2802-4c43-bb07-7465ab56b2f8",
+  "slug": "slovak-training-academy",
+  "name": "Slovak Training Academy",
+  "continent": "Europe",
+  "country": "Slovakia",
+  "state": "SVK",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.sk-ta.com/",
+  "email": "info@sk-ta.com",
+  "phone": "",
+  "about": "Slovak Training Academy is a premier aviation training institution based at Košice International Airport in Slovakia. With over 12 years of experience, we offer comprehensive solutions in basic, advanced, and special flight training for both military and civilian personnel. Our training programs include aerial work and commercial air transport, utilizing a modern and diverse fleet of helicopters such as the Sikorsky UH-60A Black Hawk, Bell 206, AS355N, MD-500E, and fixed-wing aircraft like the Tecnam P-92. Our international team of experienced instructors provides hands-on training and certifications accredited by relevant authorities, ensuring global recognition of our graduates' qualifications. We are fully licensed to operate within both military and civil aviation sectors, making us a beacon of excellence in aviation training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Pilot training\\nTYPE RATING\\nMaintenance training\\nType Theory/Technical English\\nVirtual Maintenance Trainer\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "b1df6ed7-badc-4874-a8e3-5e0bad5507ac",
+  "slug": "williams-soaring-center",
+  "name": "Williams Soaring Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "CN12 -Williams",
+  "website": "https://www.williamssoaring.com/",
+  "email": "info@williamssoaring.com",
+  "phone": "(530) 473-5315",
+  "about": "Williams Soaring Center, located in Williams, CA, north of Sacramento, is the premier Northern California glider training and soaring site. With over 30 years in the aviation business, the center offers FAA-certified flight training for all levels, from basic primary and transition glider pilot training to advanced cross-country, aerobatic, and self-launch motor glider training. The facility includes a private airport, a clubhouse with a pilot lounge and full kitchen, training and briefing rooms, and a full-service FAA certified repair shop. Williams Soaring Center is home to the Valley Soaring Association and supports the Soaring Society of America's principles, emphasizing safety through professional training. The center provides a welcoming environment for both new and experienced pilots, with favorable soaring conditions year-round. Join us to experience the joy of pure flight in a safe and professional setting.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nIntro Flight\\nGlider\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

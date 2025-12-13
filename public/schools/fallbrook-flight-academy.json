@@ -1,0 +1,22 @@
+{
+  "id": "d5769190-668a-4028-b6ec-9eda5d467cc7",
+  "slug": "fallbrook-flight-academy",
+  "name": "Fallbrook Flight Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "L18 -Fallbrook Community Airpark",
+  "website": "https://www.flyfallbrook.com/",
+  "email": "flyfallbrook@gmail.com",
+  "phone": "(714) 927-3872",
+  "about": "Fallbrook Flight Academy, located in beautiful Southern California, is a Part 61/141 flight training academy dedicated to providing comprehensive and individualized training. Our experienced instructors, with thousands of hours of combined experience, have taught hundreds of students to fly. We offer a range of courses from beginner to professional pilot, including single engine, multi-engine, and tail wheel aircraft training. Our fleet includes a Beechcraft Duchess with new avionics upgrades, ensuring a safe and enjoyable learning experience. We also provide online test prep for FAA written tests. With a relaxed and beautiful location, we are committed to helping students gain the skills and confidence needed to become safe, competent pilots. Our goal is to support each student in achieving their aviation aspirations.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Simulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

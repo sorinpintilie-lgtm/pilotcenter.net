@@ -1,0 +1,22 @@
+{
+  "id": "b4d8ef52-1c3b-4fe1-b82b-1b0a543ee4c5",
+  "slug": "highland-aviation",
+  "name": "Highland Aviation",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Inverness",
+  "baseAirport": "Inverness Airport",
+  "website": "https://highlandaviation.com/",
+  "email": "Info@highlandaviation.com",
+  "phone": "'+44 1667 430 361",
+  "about": "Highland Aviation, located at Inverness Airport in Scotland, is a premier flying school and aircraft maintenance provider. Accredited by the British Accreditation Council and the UK Civil Aviation Authority, we offer a wide range of aeroplane and gyroplane training courses, including Private Pilot Licences, Night Ratings, and specialized courses such as Mountain Flying and Beach Landing. Our experienced instructors and state-of-the-art facilities ensure comprehensive training in a unique and scenic environment, with quiet airspace and favorable weather conditions. We also provide aircraft maintenance services and are the primary handling agent for visiting aircraft. With a rich history and continuous growth, Highland Aviation is the ideal choice for aspiring pilots and aviation enthusiasts, offering an unparalleled flying experience amidst the stunning Scottish Highlands.",
+  "icao": "EGPE",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "bb5a06e5-4acb-48e4-a49f-c37fb1350475",
+  "slug": "european-aviation-academy",
+  "name": "European Aviation Academy",
+  "continent": "Europe",
+  "country": "Italy",
+  "state": "",
+  "city": "Fiumicino",
+  "baseAirport": "Leonardo da Vinci-Fiumicino Airport",
+  "website": "https://flyeaa.com/",
+  "email": "info@euaviationacademy.com",
+  "phone": "'+39 06 6502 9969",
+  "about": "The European Aviation Academy (EAA), established in 2013, is a premier flight training institution based in Fiumicino, Italy. EAA is committed to providing a safe and enriching environment for aspiring pilots worldwide. The academy offers comprehensive flight training programs, including private pilot licenses, instrument flight ratings, and ATPL theory, all designed to equip students with the necessary skills and knowledge to excel in the aviation industry. With state-of-the-art facilities and a strong partnership with an American flight center, EAA provides students with a unique opportunity to gain international flight experience. The academy's supportive staff and expert instructors ensure a high-quality training experience, preparing students for successful aviation careers. EAA is dedicated to helping students elevate their aviation aspirations to new heights.",
+  "icao": "LIRF",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

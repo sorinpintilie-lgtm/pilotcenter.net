@@ -1,0 +1,22 @@
+{
+  "id": "965249c9-c9be-4f69-9f46-5b0afeee6902",
+  "slug": "western-air-flight-academy",
+  "name": "Western Air Flight Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CO",
+  "city": "",
+  "baseAirport": "CFO -Colorado Air and Space Port Airport",
+  "website": "https://westernairflightacademy.com/",
+  "email": "frontdesk@aspenflyingclub.com",
+  "phone": "(303) 261-4041",
+  "about": "Western Air Flight Academy, located at Rocky Mountain Metro Airport in Broomfield, Colorado, is a premier flight-training center offering top-quality instruction in a safe and welcoming environment. As an FAA Certified Part 141 flight school, we provide structured training programs that expedite your path to becoming a career pilot. Our fleet includes Cessna, Piper, Diamond, Cirrus, and Tecnam aircraft, all maintained to the highest standards. Our instructors, with over 100,000 hours of combined flight experience, ensure you receive the best possible training. We also offer Part 61 training and aircraft rental options. With a strong commitment to safety and a community-driven flying club atmosphere, Western Air Flight Academy is dedicated to helping you achieve your aviation goals efficiently and effectively.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

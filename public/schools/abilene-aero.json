@@ -1,0 +1,22 @@
+{
+  "id": "8b907276-22f9-4f2a-b9cc-bcc47d390577",
+  "slug": "abilene-aero",
+  "name": "Abilene Aero, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "ABI -Abilene Regional Airport",
+  "website": "https://abileneaero.com/",
+  "email": "csr@abileneaero.com",
+  "phone": "(325) 677-2601",
+  "about": "Abilene Aero, Inc., established in 1968, is a locally owned fixed-base operator (FBO) at Abilene Regional Airport (KABI). We provide a comprehensive range of aviation services, including aircraft sales, charter, maintenance, avionics, and parts. Our commitment to excellence is guided by principles of quality, honesty, and integrity. We offer 24-hour fueling services, including Jet-A and 100LL, and have IS-BAH Stage 2 certification with NATA Safety 1st trained technicians. Our mission is to provide a superior customer experience, meeting unique needs and solving problems with dedication and reliability. We strive to build long-term relationships and achieve sustainable profitability, ensuring excellence in aviation for our customers and community.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nSimulator\\nCommercial\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

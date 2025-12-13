@@ -1,0 +1,22 @@
+{
+  "id": "ea3cb00e-28c9-40f6-a330-1c6fe6cc041b",
+  "slug": "fly-around-alaska",
+  "name": "Fly Around Alaska",
+  "continent": "North America",
+  "country": "United",
+  "state": "AK",
+  "city": "",
+  "baseAirport": "PAQ -Warren \"Bud\" Woods Palmer Municipal Airport",
+  "website": "https://flyaroundalaska.com/",
+  "email": "info@flyaroundalaska.com",
+  "phone": "(907) 746-2290",
+  "about": "Fly Around Alaska Flight School, located in Palmer, Alaska, is a premier destination for comprehensive flight training. Founded as a small, one-man operation, it has grown into one of the largest flight training organizations in Alaska. We offer personalized and comprehensive training programs, including private pilot, instrument, and commercial ratings, as well as specialized off-airport training and survival in the bush. Our experienced instructors provide training in diverse weather conditions and vast wilderness areas with fewer airspace restrictions. Our accelerated programs, such as the 14-day private pilot program, ensure efficient and cost-effective training. With a focus on safety and competence, we prepare aspiring pilots for a rewarding career in aviation. Join us to experience the unique advantages of flying in Alaska and become a confident and skilled pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nRotary Wing\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

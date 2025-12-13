@@ -1,0 +1,22 @@
+{
+  "id": "f784f59f-92b3-4b9b-bc86-524fb2099239",
+  "slug": "hillsboro-aero-academy",
+  "name": "Hillsboro Aero Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OR",
+  "city": "",
+  "baseAirport": "RDM -Roberts Field",
+  "website": "http://www.flyhaa.com",
+  "email": "info@flyhaa.com",
+  "phone": "(503) 726-3000",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nGround School\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "F-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

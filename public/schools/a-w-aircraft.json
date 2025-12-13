@@ -1,0 +1,22 @@
+{
+  "id": "42c8d022-d758-42de-8e13-c20483ea8d21",
+  "slug": "a-w-aircraft",
+  "name": "A & W Aircraft, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "9F9 -Sycamore Strip",
+  "website": "http://www.sycamorestrip.com/",
+  "email": "sycamorestrip@gmail.com",
+  "phone": "(817) 293-0510",
+  "about": "At A & W Aircraft, LLC, we are dedicated to providing personalized and comprehensive flight training programs tailored to each student's unique needs and schedule. With a focus on safety, customer service, and individualized instruction, our experienced and certified flight instructors guide students from private pilot certifications through to commercial and ATP licenses. Our fleet of well-maintained aircraft, equipped with advanced avionics, ensures students receive hands-on training with the latest technology. We offer flexible training schedules, affordable financing options, and a supportive learning environment to help our students achieve their aviation dreams. Join us to embark on a journey to becoming a proficient and safe FAA-certified pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nGround School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

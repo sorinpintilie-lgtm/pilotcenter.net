@@ -1,0 +1,22 @@
+{
+  "id": "bd22a8a8-1792-411d-ade2-9e52461e2cf0",
+  "slug": "vector-air",
+  "name": "Vector Air",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CO",
+  "city": "",
+  "baseAirport": "EIK -Erie Municipal Airport",
+  "website": "https://vectorair.net/index.html",
+  "email": "fly@vectorair.net",
+  "phone": "(303) 664-0633",
+  "about": "Vector Air is a full-service flight school located at the Erie Municipal Airport (KEIK) in Erie, Colorado. We offer all types of flight training for individuals seeking a new hobby or career in aviation. Our experienced instructors, with over 100,000 hours and 100 years of flight time, ensure a fun, efficient, and safe training experience. We provide private pilot certification, instrument ratings, commercial certification, tailwheel endorsements, and mountain training. Our on-site, award-winning maintenance center ensures our aircraft are impeccably maintained, prioritizing your safety above all. Whether you're new to aviation or a seasoned pilot, our enthusiastic staff is here to guide you every step of the way. Vector Air makes your flight training a rewarding and enjoyable experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

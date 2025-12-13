@@ -1,0 +1,22 @@
+{
+  "id": "8c398957-8a83-45cf-9997-ba4807dffc5d",
+  "slug": "brock-aviation-flight-school",
+  "name": "Brock Aviation Flight School",
+  "continent": "Europe",
+  "country": "Georgia",
+  "state": "GA",
+  "city": "",
+  "baseAirport": "KHMP Airport",
+  "website": "https://www.brockflightschool.com/",
+  "email": "info@brockflightschool.com",
+  "phone": "404-793-4530",
+  "about": "Brock Aviation Flight School, LLC, is a dedicated flight training institution committed to promoting diversity and inclusivity in the aviation industry. As part of the broader mission of The Brock Foundation, the school aims to expose minority youth to the field of aerodynamics, addressing the underrepresentation of Black pilots. Located at KHMP Airport, the school offers Part 61 flight training exclusively to its members. With a focus on mentorship and hands-on experience, Brock Aviation Flight School provides not only the technical skills but also the financial support necessary for students to pursue their aviation dreams. By changing the narrative for young people, the school ensures that the sky is truly the limit for all aspiring pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot Training\\nInstrument Training\\nCFI Training\\nCommercial Pilot Training\\nMulti-Engine Training\\nCFII Training\\nFMX Redbird Simulator Training\\nPreferred Club CFI/II/MEI\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

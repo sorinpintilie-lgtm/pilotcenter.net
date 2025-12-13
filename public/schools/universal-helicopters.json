@@ -1,0 +1,22 @@
+{
+  "id": "8aaadba5-f249-4cbb-8b4d-052f0359babf",
+  "slug": "universal-helicopters",
+  "name": "Universal Helicopters",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "SDL -Scottsdale Airport",
+  "website": "https://www.universalheli.com/",
+  "email": "sdl@universalheli.com",
+  "phone": "(480) 951-6283",
+  "about": "Universal Helicopters, founded by Dr. Gordon A. Jiroux, h.c., is a renowned flight school with over 40 years of excellence in helicopter flight instruction. As the only Bell Certified Training Facility in the world for the Bell 206 helicopter, we offer comprehensive training programs from zero-time to CFII in various aircraft, including the Bell 206B-3 and Bell 505. Our curriculum emphasizes Aeronautical Decision Making (ADM) skills, ensuring safe and proficient flight operations. With an impeccable safety record and multiple locations across the U.S., we provide tailored training in diverse terrain and weather conditions. Our commitment to safety, quality, and career-oriented education has led to excellent job placement for over 1,500 graduates worldwide. At Universal Helicopters, our goal is to provide safe, extraordinary flight and ground training, preparing students for successful and prosperous careers in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nExaminer\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

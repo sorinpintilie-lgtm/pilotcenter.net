@@ -1,0 +1,22 @@
+{
+  "id": "22c9d255-f6dc-4ea3-9a3f-d1fcc98a48c0",
+  "slug": "avenger-flight-group",
+  "name": "Avenger Flight Group",
+  "continent": "Europe",
+  "country": "Poland",
+  "state": "POL",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.afgsim.com/",
+  "email": "info@afgsim.com",
+  "phone": "",
+  "about": "Avenger Flight Group, founded in 2013 in Fort Lauderdale, Florida, is the largest privately-owned flight simulation training organization in the Americas. AFG provides low-cost, high-quality aviation training solutions, catering to airlines and flight schools globally. With a boutique-style approach, AFG offers full-flight simulators and flight training devices certified to the highest aviation standards. The company has expanded to multiple locations, including the USA, Latin America, and Europe, serving clients such as Spirit Airlines and Allegiant Air. AFG is committed to delivering personalized service, cutting-edge technology, and strategic training centers to meet the growing demands of the aviation industry. With over 40 full-flight simulators worldwide, AFG continues to grow and innovate, providing exceptional training experiences.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial Airlines\\nPilot Training Organizations (PTOs)\\nApproved Training Organizations (ATOs)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2ff42801-050a-41ae-93ef-ba4393fb20fc",
+  "slug": "journey-air-pilot-training",
+  "name": "Journey Air Pilot Training",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "ON",
+  "city": "",
+  "baseAirport": "Windsor International Airport (CYQG)",
+  "website": "https://www.journeyair.com/",
+  "email": "dispatch@journeyair.com",
+  "phone": "'+1 519-969-3232",
+  "about": "Journey Air Pilot Training, based in Windsor, Ontario, Canada, is a leading flight school with over a decade of experience in providing top-tier pilot training. We operate an elite fleet of aircraft and offer a range of programs, including Private Pilot Licence (PPL), Night Rating, and Commercial Pilot Licence (CPL). Our commitment to excellence is evident in our comprehensive training programs, which are designed to prepare students for successful careers in aviation. With a focus on safety, technical aptitude, and professional development, Journey Air ensures that our graduates are well-equipped to meet the demands of the aviation industry. Our experienced instructors and state-of-the-art facilities make us the premier choice for aspiring pilots in the region. At Journey Air, we are dedicated to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

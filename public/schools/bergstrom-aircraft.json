@@ -1,0 +1,22 @@
+{
+  "id": "c84196d3-0099-40ba-8d96-df0f45b5ee79",
+  "slug": "bergstrom-aircraft",
+  "name": "Bergstrom Aircraft, Inc.",
+  "continent": "North America",
+  "country": "USA",
+  "state": "WA",
+  "city": "Pasco",
+  "baseAirport": "Tri-Cities Airport",
+  "website": "https://www.bergstromaircraft.com/",
+  "email": "info@bergstromaircraft.com",
+  "phone": "'+1 509-547-6271",
+  "about": "Bergstrom Aircraft, Inc. is a family-owned and operated flight school and full-service FBO, established in 1971 and located at the Tri-Cities Airport in Pasco, Washington. As a Part 61 flight school, we offer flexible and personalized training programs, including Private and Commercial Pilot Certificates. Our services include flight training, aircraft rentals, charter flights, pilot supplies, and comprehensive aircraft maintenance and detailing. We also provide full-service aircraft refueling and a range of amenities such as crew discounted rental car and hotel reservations, catering, and complimentary coffee, WiFi, and a pilot lounge. Our experienced and professional staff are dedicated to providing top-notch service, ensuring a comfortable and efficient experience for all our clients. With a commitment to excellence and customer satisfaction, Bergstrom Aircraft, Inc. is your trusted partner in aviation.",
+  "icao": "KPSC",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

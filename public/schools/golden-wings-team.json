@@ -1,0 +1,22 @@
+{
+  "id": "bfa55d6c-7ed9-4ac1-977a-e483b42d81d5",
+  "slug": "golden-wings-team",
+  "name": "Golden Wings Team",
+  "continent": "North America",
+  "country": "United States",
+  "state": "",
+  "city": "",
+  "baseAirport": "UGN -Waukegan Ntl Airport",
+  "website": "https://www.goldenwingsteam.com/",
+  "email": "fly@goldenwingsteam.com",
+  "phone": "(872) 444-4559",
+  "about": "Golden Wings Team, located at KUGN in Waukegan, IL, is a full-service flight school dedicated to providing comprehensive flight training. We offer certifications in Sport Pilot, Private Pilot, Instrument Rating, and Commercial Pilot. Our program is designed to be flexible and affordable, with a focus on building flight hours quickly. Our instructors are experienced professionals, many of whom are airline pilots, ensuring high-quality training. We provide a supportive environment with comprehensive services to help aspiring pilots achieve their dreams and ambitions. With a commitment to excellence, Golden Wings Team empowers swift aviation aspirations for all our students.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nUltralight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

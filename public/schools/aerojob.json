@@ -1,0 +1,22 @@
+{
+  "id": "faad441a-7779-49f2-9fe5-75b7e68aca22",
+  "slug": "aerojob",
+  "name": "AeroJOB",
+  "continent": "Europe",
+  "country": "Slovakia",
+  "state": "",
+  "city": "Košice",
+  "baseAirport": "Košice Airport",
+  "website": "https://www.aerojob.sk/",
+  "email": "info@aerojob.cz /  sales@aerojob.sk",
+  "phone": "'+421 918 234 516",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "LZKZ",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

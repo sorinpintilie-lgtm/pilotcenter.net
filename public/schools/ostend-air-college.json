@@ -1,0 +1,22 @@
+{
+  "id": "29b71343-0187-4781-ba24-0e27b8d0e0a2",
+  "slug": "ostend-air-college",
+  "name": "Ostend Air College",
+  "continent": "Europe",
+  "country": "Belgium",
+  "state": "BELG",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.o-a-c.be/",
+  "email": "info@o-a-c.be",
+  "phone": "'+32 59 31 42 81",
+  "about": "Ostend Air College, located in Belgium, is a premier flight training institution dedicated to nurturing the next generation of aviation professionals. We offer a diverse range of programs tailored to every learning type and level, including Private Pilot Licence (PPL), Night Rating, and Commercial Pilot Licence (CPL). Our integrated Airline Transport Pilot course provides a fast track for students aiming to become commercial pilots and first officers. With a focus on delivering comprehensive skills and knowledge, our classes are designed to help students thrive in their careers. Our graduates have successfully transitioned into roles with major airlines, such as Ryanair. At Ostend Air College, we are committed to flying your dreams to new heights.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot Course\\nModular Training Courses\\nFlight Instructor Courses\\nProficiency Checks\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

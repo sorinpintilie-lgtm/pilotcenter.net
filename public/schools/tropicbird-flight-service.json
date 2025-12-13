@@ -1,0 +1,22 @@
+{
+  "id": "8ac288eb-d85e-4c8b-b69d-e3b30b1efedc",
+  "slug": "tropicbird-flight-service",
+  "name": "Tropicbird Flight Service",
+  "continent": "North America",
+  "country": "United",
+  "state": "HI",
+  "city": "",
+  "baseAirport": "KOA -Ellison Onizuka Kona International At Keahole Airport",
+  "website": "https://tropicbirdflightservice.com/",
+  "email": "tropicbirdflightservice@yahoo.com",
+  "phone": "(808) 895-4753",
+  "about": "Tropicbird Flight Service, located at the Kona International Airport in Kailua Kona, Hawaii, offers top-quality flight training to local residents and visitors. Our instructors, with many years of experience and long-term residency in the islands, provide personalized and professional guidance. We offer certifications such as Private Pilot, Commercial Pilot, and Flight Instructor, as well as an Island Adventure Flying Course for visiting pilots. Our training environment includes busy Class D Airspace and scenic smaller airports, allowing students to learn crosswind landings, wind shears, and tropical weather navigation. With a friendly, flying club-style atmosphere, we ensure learning is both fun and efficient. Our state-of-the-art training facilities include an air-conditioned lab and extensive media library. We are dedicated to helping you become a skilled pilot in one of the world's most beautiful flying environments.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nSimulator\\nGround School\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

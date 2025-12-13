@@ -1,0 +1,22 @@
+{
+  "id": "78a69453-48f1-461c-8813-950f45362cf9",
+  "slug": "inflight-aviation-fbo-pilot-training",
+  "name": "InFlight Aviation FBO & Pilot Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MN",
+  "city": "",
+  "baseAirport": "FCM -Flying Cloud Airport",
+  "website": "https://inflightpilottraining.com/",
+  "email": "fly@inflightpilottraining.com",
+  "phone": "(952) 303-2222",
+  "about": "At InFlight Pilot Training, we offer top-class flight training and aircraft rental services in the Twin Cities Metro Area. Our instructors are dedicated and caring, providing a first-class experience for all students. Whether you're interested in leisure travel, business travel, a career in aviation, or simply flying as a hobby, our programs are designed to meet your needs. We guarantee an amazing training experience, starting with the Private Pilot license as the foundation for any aviation journey. Our team is eager to help you achieve your flying goals, ensuring a personalized and safe learning environment from day one. Contact us today to start your aviation adventure.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

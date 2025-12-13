@@ -1,0 +1,22 @@
+{
+  "id": "eb586f49-a6fc-43ff-b6f7-f9f194273702",
+  "slug": "carlisle-flight-training",
+  "name": "Carlisle Flight Training Ltd",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Carlisle",
+  "baseAirport": "Carlisle Airport",
+  "website": "https://carlisle-flight-training.com/",
+  "email": "info@carlisle-flight-training.com",
+  "phone": "'+44 1228 573 344",
+  "about": "Carlisle Flight Training Ltd is a friendly, family-run flying school and aero club established in 2004, based at Carlisle Lake District Airport in Cumbria. Specializing in modular training, we offer courses such as the Private Pilots Licence. Our team, led by Chief Flying Instructor Alan Rayson, provides a warm and welcoming atmosphere, making it an ideal place for people of all ages to take to the skies. We offer trial flying lessons in two and four-seater aircraft, with options for 30 and 60-minute flights. Our flights provide stunning views of the Cumbrian countryside, including Hadrian's Wall and the Lake District. We are committed to opening up the world from above for everyone, ensuring a fantastic and memorable experience.",
+  "icao": "EGNC",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

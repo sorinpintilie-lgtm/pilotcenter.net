@@ -1,0 +1,22 @@
+{
+  "id": "65205f3b-b65b-4062-ad5b-6abf83be795f",
+  "slug": "american-winds-flight-academy",
+  "name": "American Winds Flight Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OH",
+  "city": "",
+  "baseAirport": "AKR -Akron Fulton International Airport",
+  "website": "https://www.americanwinds.edu/",
+  "email": "admissions@teachmetofly.com",
+  "phone": "(330) 733-2500",
+  "about": "American Winds Flight Academy, located at Akron Fulton Airport in Ohio, is a premier flight school dedicated to providing top-notch aviation training. Founded by Denise Hobart, a seasoned commercial pilot and flight instructor, the academy offers a fast-track program that allows students to earn their Commercial Pilot rating and an Associate’s Degree in as little as 12-15 months. American Winds is one of only two FAA Certified Part 141 flight schools in Northeast Ohio, ensuring rigorous and safety-focused training. The academy boasts a fleet of 11 aircraft with state-of-the-art navigational systems and an FAA-certified flight simulator. Known for its family atmosphere and personalized instruction, American Winds is accredited by ACCET and OSBCCS, and it is SEVIS and TSA certified to accept international students. With a strong emphasis on safety, hard work, and professionalism, American Winds prepares students for successful careers in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nComputerized Testing\\nDrone/UAS\\nGround School\\nIntro Flight\\nSimulator\\nTime Building Programs\\nInstrument\\nMulti-Engine\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

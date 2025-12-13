@@ -1,0 +1,22 @@
+{
+  "id": "f0700f3b-3591-4c45-8c27-84dad3076629",
+  "slug": "inflight-pilot-training",
+  "name": "Inflight Pilot Training",
+  "continent": "North America",
+  "country": "USA",
+  "state": "MN",
+  "city": "Twin Cities",
+  "baseAirport": "Minneapolis-Saint Paul Airport",
+  "website": "https://inflightpilottraining.com/",
+  "email": "fly@inflightpilottraining.com",
+  "phone": "'+1 952-698-3000",
+  "about": "Inflight Pilot Training is a premier flight school located in the Twin Cities, Minnesota, offering top-class pilot training and aircraft rental services. Our program is designed to provide a first-class experience, with instructors who are dedicated and passionate about teaching. We cater to various interests, whether you're looking to fly for leisure, business, or as a career. Our training programs include the Private Pilot license, serving as the foundational step for aspiring pilots. With a commitment to excellence and a focus on individualized instruction, we ensure an amazing program experience for all our students. For more information, feel free to contact us.",
+  "icao": "KMSP",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "Other",
+  "fleetSize": "",
+  "logoUrl": ""
+}

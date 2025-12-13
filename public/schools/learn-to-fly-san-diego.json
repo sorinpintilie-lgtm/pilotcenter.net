@@ -1,0 +1,22 @@
+{
+  "id": "053f0732-6969-4332-901c-a4248d5cbb46",
+  "slug": "learn-to-fly-san-diego",
+  "name": "Learn to Fly San Diego",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "MYF -Montgomery-Gibbs Exec Airport",
+  "website": "https://www.ltfsd.com/",
+  "email": "christopher@sluka.com",
+  "phone": "(858) 694-0198",
+  "about": "Learn To Fly San Diego is an FAA Certified flight school owned and operated by experienced and well-qualified flight instructors. We train under FAA Part 61 regulations, offering courses in Private, Instrument, Commercial, Multi-Engine, and more. Our instructors are motivated to provide safe, competent, and affordable training, encouraging students to continue their aviation journey. We operate daily during daylight hours from our office at 8690 Aero Drive, Suite 116, San Diego, CA 92123. With a focus on transparency and low rates, we ensure students receive top-quality instruction without additional fees or surcharges. Our goal is to make flying an enjoyable and accessible experience for all. We strive to be the best, with unmatched instructor experience and aircraft quality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

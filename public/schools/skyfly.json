@@ -1,0 +1,22 @@
+{
+  "id": "8612ff0a-330d-4111-85e9-4d1ec6c77fbb",
+  "slug": "skyfly",
+  "name": "SkyFly",
+  "continent": "Europe",
+  "country": "Belarus",
+  "state": "BYS",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://skyfly.by/",
+  "email": "",
+  "phone": "'+375 (33) 335-64-90",
+  "about": "SkyFly flying school, part of Skyfly Technologies, is dedicated to providing comprehensive pilot training from the ground up. Our training centre offers courses from the initial flying lesson to obtaining a full pilot’s licence, utilizing the innovative Axe aircraft with its 2-seat side by side layout. We cater to both new and experienced pilots, including differences training for those transitioning to the Axe. Our programs are designed to be cost-effective, with lower maintenance and operating costs due to the electric aircraft. We ensure a safe and flexible training environment, adhering to CAA regulations and offering the convenience of training on your own Permit aircraft. Our goal is to equip you with the skills and confidence needed to excel in aviation, making your transition to flying seamless and successful. Join us at SkyFly to embark on your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PPL License\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

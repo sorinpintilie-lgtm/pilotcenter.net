@@ -1,0 +1,22 @@
+{
+  "id": "ba8c0061-6d59-4c3f-9075-66f73780e300",
+  "slug": "air-ventures-flying-school",
+  "name": "AIR Ventures Flying School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "RI",
+  "city": "",
+  "baseAirport": "SFZ -North Central State Airport",
+  "website": "https://www.airventuresri.com/",
+  "email": "FLY@airventuresri.com",
+  "phone": "(401) 216-9359",
+  "about": "Air Ventures Flying School, located at North Central State Airport in Smithfield, Rhode Island, is an award-winning flight school dedicated to providing a high-quality educational experience. Founded in 2010 by Doug Auclair, the school aims to build long-term pilots through a highly structured Part 61 curriculum. With a fleet of four Cherokee 140s, a flight simulator, and eight full-time employees, Air Ventures offers a warm and welcoming environment. The school fosters a strong community through events like annual chili cookoffs, summer luaus, and flyouts to Martha’s Vineyard. Air Ventures also promotes affordable flying options such as flying clubs and airplane partnerships. Recognized as the top flight school in the eastern region in the 2021 Flight Training Experience Awards, Air Ventures is committed to teaching students the comprehensive skills needed to succeed as pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

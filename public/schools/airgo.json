@@ -1,0 +1,22 @@
+{
+  "id": "dc13e41d-9c1a-400f-9f46-6bfbe69645e4",
+  "slug": "airgo",
+  "name": "Airgo, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "ENL -Centralia Municipal Airport",
+  "website": "http://flyairgo.com/",
+  "email": "junda62801@gmail.com",
+  "phone": "(618) 533-1643",
+  "about": "Airgo Inc., established in 1968, is a renowned flight academy located at Centralia Municipal Airport in southern Illinois. Founded by merging Sparta Aviation and Airgo Aviation School, Airgo has a rich history of providing high-quality flight training. The academy is accredited by the Federal Aviation Administration (FAA) and follows both Part 141 and Part 61 training standards. Airgo offers a comprehensive range of programs, including Private Pilot Certificate, Commercial Pilot Certificate, Instrument Rating, Multi Engine Rating, and Flight Instructor certifications. With state-of-the-art facilities and 24-hour fuel and maintenance services, Airgo prepares pilots for careers globally. Its graduates can be found flying various routes in the United States and internationally. Airgo is committed to making your flying dreams come true with effective and safe training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nComputerized Testing\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor Instrument CFII\\nFlight Instructor CFI\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nGlider\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

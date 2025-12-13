@@ -1,0 +1,22 @@
+{
+  "id": "6dc579ee-3787-48fe-8d86-284d3d6d400c",
+  "slug": "airventures",
+  "name": "AirVentures",
+  "continent": "Europe",
+  "country": "Georgia",
+  "state": "",
+  "city": "Pkwy",
+  "baseAirport": "LaGrange Airport",
+  "website": "https://airventures.net/",
+  "email": "info@airventures.net",
+  "phone": "'+1 706-812-0808",
+  "about": "Air Ventures Flying School, founded in 2010, is dedicated to providing a high-quality educational experience in aviation. Located in Smithfield, Rhode Island, the school aims to make every student the most successful pilot possible, whether flying for fun or pursuing a career. Using a proprietary Foundational Based Training© syllabus designed by three-time NAFI Master Flight Instructor Doug Auclair, Air Ventures focuses on overall quality of education, including extensive ground school and self-critique skills. The school boasts an inclusive, positive environment with an active pilot community and has won numerous awards from AOPA. Air Ventures is committed to helping students achieve their aviation goals from the initial flight to aircraft ownership and beyond. Join their community to embark on an epic aviation adventure.",
+  "icao": "LFQT",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

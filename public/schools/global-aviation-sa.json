@@ -1,0 +1,22 @@
+{
+  "id": "e15db260-ba70-4e93-9d91-20797b274bbf",
+  "slug": "global-aviation-sa",
+  "name": "Global Aviation S.A",
+  "continent": "Europe",
+  "country": "Greece",
+  "state": "",
+  "city": "Athens",
+  "baseAirport": "Civil Aviation Airport of Pachi, Megara (LGMG)",
+  "website": "https://www.globalaviationsa.com/",
+  "email": "admissions@globalaviationsa.com",
+  "phone": "'+30 2296081154",
+  "about": "Global Aviation S.A., founded in 1997 by a group of aviation experts, is the oldest and largest pilot academy in Greece. Based in Athens, with its flying base at the Civil Aviation Airport of Pachi, Megara, the school offers top-quality services in pilot and cabin crew training, aircraft maintenance, and aircraft sales. Guided by the principles of Safety, Quality, and Honesty, Global Aviation trains over 120 cadet pilots annually and has a dominant market share in Greece. The school boasts a state-of-the-art fleet of 16 single and multi-engine aircraft and 3 flight simulators, and its graduates are employed by prestigious airlines worldwide. With an impeccable safety record and extensive industry partnerships, Global Aviation provides a culturally diverse and supportive environment for local and international students to achieve their aviation careers.",
+  "icao": "LGAV",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

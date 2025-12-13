@@ -1,0 +1,22 @@
+{
+  "id": "06af8188-e493-4fe1-814d-f7f77faca0a6",
+  "slug": "aviatis-fto",
+  "name": "Aviatis Fto",
+  "continent": "Europe",
+  "country": "Switzerland",
+  "state": "CH",
+  "city": "",
+  "baseAirport": "St.Gallen Airport",
+  "website": "https://www.aviatis.ch/",
+  "email": "thomas.hiestand[at]aviatis.ch",
+  "phone": "'+41 79 373 67 64",
+  "about": "AVIATIS FTO is a Joint Aviation Authorities (JAA) and National Aviation Authority (NAA) approved flying training organization based at St. Gallen Airport (LSZR / ACH) in Switzerland. Established in 1995, AVIATIS FTO is committed to providing top-notch pilot training with comprehensive programs and hands-on instruction. Our students are trained by experienced and professional instructors, and we offer a range of training options including airplane flight training, seaplane training, and type rating training. Operating 361 days a year, AVIATIS FTO ensures a lean and efficient training environment, making it an ideal choice for aspiring pilots looking to excel in the aviation industry. With regular inspections and audits, we maintain the highest standards of safety and training quality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"aviation consulting\\naircraft operation & management\\nairtaxi organisation\\naircharter brokerage\\nferry / transatlantic flights and support\\nintroduction into alpine flying / mountain flying\\naltiport introduction support\\nCourchevel\",\"Meribel\",\"Alpe d’Huez\",\"etc.\\npreparation for any proficiency checks / skill tests\\ntraining flights for SP(A) SEP-revalidation\\nRNP-APP training\\nHPA course coordination\\nLPC English Level 4 preparation\\nRVSM courses\\nsafety pilots\\nrefresher courses\\nsolutions for your personal desire\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

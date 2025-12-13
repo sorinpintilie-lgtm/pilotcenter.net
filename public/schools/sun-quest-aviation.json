@@ -1,0 +1,22 @@
+{
+  "id": "03bb5ab1-8850-4ae7-b82c-3f499aba847a",
+  "slug": "sun-quest-aviation",
+  "name": "Sun Quest Aviation",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "GT",
+  "city": "",
+  "baseAirport": "Rand Airport",
+  "website": "https://sqasa.co.za/",
+  "email": "info@sqasa.co.za",
+  "phone": "'+27813093113",
+  "about": "Sun Quest Aviation is a premier flight training school located in South Africa, operating from Rand Airport (FAGM). The academy is renowned for its modern fleet, advanced simulators, and personalized approach to each student, ensuring top-notch training by experienced flight instructors. With a flexible training schedule, students can start at their convenience, and international students are advised to arrive two weeks prior to the commencement of training. Sun Quest Aviation is committed to providing a comprehensive and safe learning environment, making it an ideal choice for aspiring pilots. Whether you aim to fly for leisure or pursue a professional aviation career, Sun Quest Aviation is dedicated to helping you achieve your flying goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Class Rating\\nCPL - (Modular - A)\\nFlight Instructor \\nInstrument Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

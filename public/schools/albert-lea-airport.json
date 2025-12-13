@@ -1,0 +1,22 @@
+{
+  "id": "7c9e5155-d21d-4a88-a553-1c616622179e",
+  "slug": "albert-lea-airport",
+  "name": "Albert Lea Airport",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MN",
+  "city": "",
+  "baseAirport": "AEL -Albert Lea Municipal Airport",
+  "website": "https://almamn.tripod.com/",
+  "email": "jimhanson73@me.com",
+  "phone": "(507) 373-0608",
+  "about": "At Albert Lea Airport, our flying school, notably represented by institutions like Accelerated Aviation Instruction and 360 Aviation, LLC, offers comprehensive and accelerated flight training programs. Our experienced instructors are dedicated to providing the highest quality instruction, ensuring students achieve their ratings and certificates efficiently and within budget. Located at the Albert Lea Municipal Airport, which boasts two bituminous surfaced runways and modern navigational aids, our students benefit from a well-equipped and conveniently located training environment. We emphasize a methodical approach to flight training, incorporating psychology, physiology, and advanced aircraft control. Whether you opt for accelerated or normal-paced courses, our goal is to equip you with the skills and knowledge necessary to excel in aviation. Join us to embark on a successful flying career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nDrone/UAS\\nExaminer\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nPart 107 Drone Testing\\nSimulator\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

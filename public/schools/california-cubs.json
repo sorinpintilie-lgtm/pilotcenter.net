@@ -1,0 +1,22 @@
+{
+  "id": "b72c872a-a308-4507-bb94-b907b0021c8d",
+  "slug": "california-cubs",
+  "name": "California Cubs",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SBP -San Luis Obispo County Regional Airport",
+  "website": "https://californiacubs.com/",
+  "email": "ben@californiacubs.com",
+  "phone": "(805) 441-9573",
+  "about": "California Cubs Flying School is a specialized aviation training institution focused on tailwheel, backcountry, and advanced flying skills. We utilize traditional tailwheel aircraft to develop muscle memory and instinctual reflexes, enhancing safety and pilot performance beyond FAA minimums. Our experienced instructors create a highly structured and immersive learning environment, offering courses in tailwheel ratings, advanced backcountry operations, and off-airport training. With a commitment to building a community of elite tailwheel aviators, we provide personalized training programs and nationwide outreach through our TacAero Outposts. Our goal is to share the joy of flight while ensuring each pilot becomes the safest and most capable aviator possible. Join us to elevate your flying experience and set the stage for future success in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

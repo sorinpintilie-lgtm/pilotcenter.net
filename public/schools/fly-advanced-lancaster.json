@@ -1,0 +1,22 @@
+{
+  "id": "946952ad-a423-4058-af78-4a2870e16221",
+  "slug": "fly-advanced-lancaster",
+  "name": "Fly ADVANCED - Lancaster",
+  "continent": "North America",
+  "country": "United States",
+  "state": "PA",
+  "city": "",
+  "baseAirport": "LNS -Lancaster Airport",
+  "website": "https://www.flyadvanced.com/",
+  "email": "info@flyadvanced.com",
+  "phone": "(717) 735-5179",
+  "about": "Fly ADVANCED, based in Lancaster, Pennsylvania, is a premier aviation company offering a comprehensive range of services including aircraft management, charter flights, maintenance, FBO services, and flight training. Founded in 2009 through the acquisition of Advanced Aircraft, the company has expanded to include locations in Blue Bell, PA, Allentown, PA, Wilmington, DE, and Winchester, VA. Under the leadership of Regis de Ramel, flyADVANCED is committed to safety, excellence, and personalized service. The company is the largest Cirrus Authorized Service Center in the U.S. and provides worldwide air charter services, maintenance support, and flight training programs tailored to meet the unique needs of each client. With a focus on integrity, customer satisfaction, and top-tier quality, flyADVANCED ensures a secure and reliable aviation experience for all its clients. Choose flyADVANCED for a boutique touch with a worldwide reach.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

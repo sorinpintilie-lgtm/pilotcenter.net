@@ -1,0 +1,22 @@
+{
+  "id": "bf16c967-4ca5-4d52-9296-38c19f05008a",
+  "slug": "skies-aviation-academy",
+  "name": "Skies Aviation Academy",
+  "continent": "Europe",
+  "country": "Greece",
+  "state": "GRC",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.skiesacademy.aero/",
+  "email": "info@skiesacademy.aero",
+  "phone": "'+30 2392021100",
+  "about": "Skies Aviation Academy, located in picturesque Peraia, northern Greece, is the first EASA certified academy in the country, offering comprehensive airline pilot training. We provide an EASA approved full-time Integrated ATPL course, guiding students from zero flying experience to an Airline Transport Pilot Licence in 12 to 18 months. Our curriculum includes a Commercial Pilot Licence (CPL) with Multi-Engine (ME) and Instrument Rating (IR), as well as Multi Crew Cooperation (MCC), Upset Prevention and Recovery Training (UPRT), and Performance-based Navigation (PBN) Training. Our fleet consists of Single-Engine and Multi-Engine Piston aircraft with EFIS and a state-of-the-art ALSIM ALX FNPTII Simulator. We strive to provide professional training in a friendly environment, leveraging excellent year-round weather conditions to ensure our students become commercial pilots efficiently. Our mission is to contribute to a vibrant future of aviation through the success of our students.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Integrated ATPL\\nModular ATPL\\nATPL Theory\\nCPL \\nME \\nIR \\nMCC \\nJOC \\nPPL \\nICAO to EASA Conversion \\nInstructor\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

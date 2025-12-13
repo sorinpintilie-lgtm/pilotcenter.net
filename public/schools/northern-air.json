@@ -1,0 +1,22 @@
+{
+  "id": "33647227-0661-4336-9e2c-0d7b9163d632",
+  "slug": "northern-air",
+  "name": "Northern Air Inc.",
+  "continent": "North America",
+  "country": "USA",
+  "state": "ID",
+  "city": "Bonners Ferry",
+  "baseAirport": "Boundary County Airport",
+  "website": "https://northernair.biz/",
+  "email": "office.northernair@gmail.com",
+  "phone": "'+1 208-267-4359",
+  "about": "Northern Air, Inc., located in Bonners Ferry, is a dedicated flight training institution committed to providing high-quality aviation education. We offer a comprehensive range of programs, including introductory flights and training for the Private Pilot's Certificate. Our experienced instructors guide students through personalized training, ensuring each individual's needs and learning style are met. For existing pilots, we provide advanced ratings and additional training opportunities. Our goal is to foster a safe, supportive, and professional environment where aspiring aviators can achieve their flying aspirations. At Northern Air, Inc., we are passionate about helping you take to the skies and realize your aviation dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

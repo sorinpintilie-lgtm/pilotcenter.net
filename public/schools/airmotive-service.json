@@ -1,0 +1,22 @@
+{
+  "id": "78c09afd-2ee5-48bc-bfd5-908e430da7d5",
+  "slug": "airmotive-service",
+  "name": "Airmotive Service",
+  "continent": "North America",
+  "country": "United States",
+  "state": "UT",
+  "city": "",
+  "baseAirport": "BMC -Brigham City Regional Airport",
+  "website": "https://airmotiveservice.com/",
+  "email": "airboss@xmission.com",
+  "phone": "(435) 723-5702",
+  "about": "Airmotive Service flying school, located at Kentucky Airmotive, Inc., is a comprehensive aviation training facility dedicated to providing safe, affordable, and efficient flight instruction. Our team of three full-time certified flight instructors (CFI, CFII, MEI) are committed to fitting your schedule and learning style. We offer personalized flight training programs, including Private, Instrument, and Commercial certifications, using well-equipped Cessna 172 and 182 aircraft. Our approach integrates traditional flight training with modern methods to ensure each lesson is educational and fun. We also provide discovery flights, budgeting and scheduling assistance, and on-site medical certification support. At Airmotive Service, we are dedicated to delivering an exceptional learning experience to help you achieve your aviation goals. Whether you are pursuing a hobby or a career in aviation, we are here to guide you every step of the way.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

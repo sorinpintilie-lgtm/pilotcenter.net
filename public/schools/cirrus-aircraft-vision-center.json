@@ -1,0 +1,22 @@
+{
+  "id": "fea5cb78-6317-4521-a15c-c4424a0bc8da",
+  "slug": "cirrus-aircraft-vision-center",
+  "name": "Cirrus Aircraft Vision Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TN",
+  "city": "",
+  "baseAirport": "TYS -Mc Ghee Tyson Airport",
+  "website": "https://cirrusaircraft.com/training/",
+  "email": "info@cirrusaircraft.com",
+  "phone": "(218) 529-7200",
+  "about": "At the Cirrus Aircraft Vision Center flying school, we are a premier Cirrus Authorized Training Center dedicated to providing top-notch flight training and aviation services. Our highly experienced Cirrus Certified instructors guide students through comprehensive training programs, including the Cirrus Private Pilot Program, transition training, and advanced flight instruction. Utilizing the latest SR Series Cirrus aircraft, equipped with innovative safety features like the Cirrus Airframe Parachute System (CAPS) and Electronic Stability & Protection (ESP), we ensure a safe, efficient, and enjoyable flying experience. Our training includes interactive online courses, simulator exercises, and in-flight assessments, all designed to build confidence and competence in aviation. With a focus on personalized instruction and cutting-edge technology, we help aspiring pilots achieve their goals and live the Cirrus Life™. Join us to experience the future of flight training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Full Flight Simulator (FFS)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "028de6ca-92f7-44c9-a039-357c117067bc",
+  "slug": "wings-flight-school",
+  "name": "WINGS Flight School",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CA",
+  "city": "Vacaville",
+  "baseAirport": "Nut Tree Airport",
+  "website": "https://www.wingsflightschool.com/",
+  "email": "Support@WINGSFlightSchool.com /\nInfo@WINGSFlightSchool.com /\nDenise@WINGSFlightSchool.com",
+  "phone": "1-707-449-5924 / 1-707-449-4647",
+  "about": "WINGS Flight School, established in 2009, is located at Nut Tree Airport in Vacaville, CA. We offer comprehensive flight training for student pilots, including various certificate programs such as Private, Instrument, and Commercial ratings. Our fleet of aircraft is available for rental, allowing pilots to maintain their skills without the expense of ownership. We provide introductory discovery flights, aerial photo flights, and other pilot services. Our experienced instructors are dedicated to ensuring students receive high-quality training in a safe and supportive environment. With a strong focus on safety and convenience, WINGS Flight School is committed to helping aspiring pilots achieve their aviation goals. Contact us to start your flying journey today.",
+  "icao": "KVCB",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "34dde2d2-4636-458f-927f-92625ad84114",
+  "slug": "e-fly-academy",
+  "name": "E-Fly Academy",
+  "continent": "North America",
+  "country": "Costa Rica",
+  "state": "CR",
+  "city": "",
+  "baseAirport": "Tobías Bolaños International Airport",
+  "website": "https://www.eflyacademy.com/",
+  "email": "class@eflyacademy.com",
+  "phone": "'+506 8574 4949",
+  "about": "E-Fly Academy is a pioneering online aviation school that offers comprehensive training programs for aspiring pilots, mechanics, and cabin crew members. Our exclusive e-learning platform provides 100% live online classes, 24/7 class recordings, interactive presentations, and academic advisors to guide students throughout their learning journey. With the flexibility to study on any device at any time, our courses cater to busy schedules, ensuring significant money savings and fast progress. We offer international exchange programs, job opportunities with leading companies, and a supportive community that feels like a family. E-Fly Academy is dedicated to making aviation education accessible, convenient, and of the highest quality. Join us to turn your aviation dreams into reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Student Pilot License\\nPrivate Pilot License\\nQualification Instrumental\\nCommercial Pilot License\\nQualification Multi-engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

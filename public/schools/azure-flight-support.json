@@ -1,0 +1,22 @@
+{
+  "id": "e16c532e-5506-489f-9720-4f84aa56a792",
+  "slug": "azure-flight-support",
+  "name": "Azure Flight Support, LLC",
+  "continent": "North America",
+  "country": "United",
+  "state": "TN",
+  "city": "",
+  "baseAirport": "CSV -Crossville Meml-Whitson Field",
+  "website": "https://azureflightsupport.com/",
+  "email": "kcsv@azureflightsupport.com",
+  "phone": "(931) 484-5278",
+  "about": "Azure Flight Support, LLC is a company founded in May 2019 by David Augustin and Allen Howell, with a focused vision to serve small market airports. With over 75 years of combined experience in the aviation industry, including air charter, aircraft maintenance, and fixed-based operations, the company aims to bring excellence in airport management and flight training. Their mission is to honor God by promoting and serving people in aviation, guided by core values of Safety, Integrity, Excellence, and Caring, embodied by the attitudes of Humble, Hungry, and Smart. Although the flight training division has been acquired by Tennessee Flight Training, Azure Flight Support continues to prioritize uncompromising safety, continuous improvement, and building trust within the communities they serve. They strive to make airports the best they can be, transforming how aviation benefits local communities.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

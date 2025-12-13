@@ -1,0 +1,22 @@
+{
+  "id": "eebcaa3c-c2b1-4b0f-ab3b-e871711d0bc5",
+  "slug": "sling-pilot-academy",
+  "name": "Sling Pilot Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SEE -Gillespie Field",
+  "website": "https://www.slingpilotacademy.com/",
+  "email": "contact@slingpilotacademy.com",
+  "phone": "(424) 250-0648",
+  "about": "Sling Pilot Academy, located at Zamperini Field in Torrance, California, is a comprehensive flight training school dedicated to transforming aspiring pilots into commercial aviation professionals. With a holistic approach, the academy offers an accelerated 9-month Professional Pilot Course, utilizing the industry-renowned King Schools curriculum and state-of-the-art Sling NGT training aircraft. Students can achieve seven ratings, including Private Pilot, Instrument Rating, and Commercial Multi-Engine, and are employed as instructors upon completion. The academy is known for its modern glass cockpit trainers, extensive maintenance facilities, and a unique \"Under My Wing\" mentor program. Sling Pilot Academy is committed to providing a cost-effective, full-time program that prepares students for a career as an airline pilot, making it an ideal choice for those seeking a rapid and thorough aviation education.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

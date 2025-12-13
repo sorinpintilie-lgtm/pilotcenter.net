@@ -1,0 +1,22 @@
+{
+  "id": "b9df553c-7d26-47de-865c-911594096752",
+  "slug": "fly-there",
+  "name": "Fly There, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "PWK -Chicago Exec Airport",
+  "website": "https://www.flytherellc.com/",
+  "email": "info@flytherellc.com",
+  "phone": "(224) 588-9364",
+  "about": "Fly There, LLC, established in 2011, is a premier flight school and aircraft services provider based at Chicago Executive Airport (KPWK). Our team of experienced and passionate flight instructors, including certified professionals with diverse aviation backgrounds, offer personalized and comprehensive flight training. We provide a full range of services, including private pilot licenses, instrument ratings, and commercial certificates, using a fleet of late-model Cessna 172s and other advanced aircraft. With no membership dues, fuel surcharges, or monthly fees, we aim to make flight training more accessible. Our state-of-the-art facilities, including a 25,000 square foot heated hangar, ensure a comfortable and efficient learning environment. At Fly There, LLC, we are dedicated to helping aspiring pilots achieve their aviation dreams with safety, professionalism, and excellence. Choose Fly There for a memorable and educational flying experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

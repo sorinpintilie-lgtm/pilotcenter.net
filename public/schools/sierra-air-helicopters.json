@@ -1,0 +1,22 @@
+{
+  "id": "1e657c93-409c-4a21-9ddb-4ba7d991a9f4",
+  "slug": "sierra-air-helicopters",
+  "name": "Sierra Air Helicopters",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "AUN -Auburn Municipal Airport",
+  "website": "https://sierraairhelicopters.net/",
+  "email": "info@sierraairhelicopters.com",
+  "phone": "(530) 414-5972",
+  "about": "Sierra Air Helicopters, located at the Auburn Airport in Auburn, California, offers comprehensive helicopter flight training in a unique and diverse environment. Nestled in the Sierra Foothills between Sacramento and Tahoe, our school provides a well-rounded education with training in the canyons of the American River, mountain training in the Sierra Nevadas, and airspace training in the greater Sacramento Area. Our highly motivated and skilled instructors ensure a fun and safe learning experience for both novice and advanced pilots. We offer various programs, including Private Pilot Certificate, Commercial Pilot Certificate, Flight Instructor, and Instrument Rating. With competitive rates and personalized service, Sierra Air Helicopters is dedicated to preparing pilots for any flying scenario, making us an ideal choice for those seeking quality helicopter flight training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

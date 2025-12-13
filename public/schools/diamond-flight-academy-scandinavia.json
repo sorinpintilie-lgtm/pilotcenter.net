@@ -1,0 +1,22 @@
+{
+  "id": "ed23a50c-6f8a-462d-a380-5ed18ed50473",
+  "slug": "diamond-flight-academy-scandinavia",
+  "name": "Diamond Flight Academy Scandinavia",
+  "continent": "Europe",
+  "country": "Sweden",
+  "state": "SE",
+  "city": "",
+  "baseAirport": "Kalmar Airport",
+  "website": "https://flightacademy.eu/",
+  "email": "info@flightacademy.se",
+  "phone": "'+46707859980",
+  "about": "Diamond Flight Academy Scandinavia, based at Kalmar Airport in Sweden, specializes in modular courses for the Commercial Pilot License (CPL), Multi-Engine (ME), and Instrument Rating (IR). Our comprehensive package includes all three modules, exclusively in multi-engine aircraft, offered at a competitive price. We also provide conversion courses to EASA licenses in multi-engine aircraft. Our experienced instructors, with backgrounds in flying 737s and business jets, are highly motivated and dedicated to training the next generation of commercial pilots. We utilize the modern DA-42 aircraft with G1000 glass cockpits, ensuring top-notch training and safety. For those new to aviation, we recommend starting with PPL and ATPL theory elsewhere before joining us in Sweden for advanced training. Our commitment is to provide exceptional flight training in a supportive and professional environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"CPL/ME/IR package\\nProficiency check\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2b0cc2bd-fb68-48f1-ac00-d0d2a131d173",
+  "slug": "college-air-richelieu",
+  "name": "Collège Air Richelieu",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "QC",
+  "city": "",
+  "baseAirport": "Saint-Hubert Airport",
+  "website": "https://www.airrichelieu.com/",
+  "email": "info@airrichelieu.com",
+  "phone": "'+1 450-445-4444",
+  "about": "Collège Air Richelieu, established in 1928, is a premier institution for pilot training in Canada. Located at the Montreal / St Hubert Regional Airport since 1971, the college has a rich history of producing highly skilled pilots, including astronauts and captains of prestigious airlines. As the first Approved Training Organisation (ATO) in Canada, Collège Air Richelieu offers a unique college diploma (DCS) integrated with the Airline Transport Pilot Licence (ATPL). The college boasts a modern fleet of over 30 aircraft, comprehensive facilities, and partnerships with Jazz Aviation, providing graduates direct access to career opportunities. With a strong focus on safety and professional development, Collège Air Richelieu continues to set the standard in aviation education.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

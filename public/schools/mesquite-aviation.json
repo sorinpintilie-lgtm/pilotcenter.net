@@ -1,0 +1,22 @@
+{
+  "id": "611d438b-bda8-41f6-aedf-837b5f5f3fb5",
+  "slug": "mesquite-aviation",
+  "name": "Mesquite Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "HQZ -Mesquite Metropolitan Airport",
+  "website": "https://www.mesquiteaviation.com/",
+  "email": "info@mesquiteaviation.com",
+  "phone": "(972) 222-3546",
+  "about": "Mesquite Aviation, located at Mesquite Metro Airport in Texas, offers comprehensive flight training programs for aspiring pilots. We provide training for Private Pilot, Instrument Rating, Commercial Pilot, and Flight Instructor certifications. Our fleet includes Cessna 150 and Cessna 172 aircraft, available for rental on a wet basis. Our full-time flight instructors are dedicated to ensuring students receive high-quality training. In addition to flight training, we offer aircraft rental, aerial photography services, and discovery flights. We are currently enhancing our facilities with a new ground testing facility and maintenance center. With a pay-as-you-go plan and discovery flights available, Mesquite Aviation is committed to helping you fulfill your aviation dreams. Contact us at 972.222.3546 to start your flying journey today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

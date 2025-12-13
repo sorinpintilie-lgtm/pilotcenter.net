@@ -1,0 +1,22 @@
+{
+  "id": "d4e862e2-aa90-4e7f-ba79-5e4a9192bd28",
+  "slug": "clarion-county-airport-authority",
+  "name": "Clarion County Airport Authority",
+  "continent": "North America",
+  "country": "United States",
+  "state": "PA",
+  "city": "",
+  "baseAirport": "AXQ -Clarion County Airport",
+  "website": "https://www.clarionairport.com/",
+  "email": "manager@clarionairport.com",
+  "phone": "(814) 226-9993",
+  "about": "The Clarion County Airport Authority flying school is rooted in a rich aviation history that dates back to the early 1940s, when it was part of the Civilian Pilot Training Program (C.P.T.P.) during World War II. Our flight training program is led by experienced instructors, including Bill Guth, a Certified Flight Instructor (CFI), Certified Flight Instrument Instructor (CFII), and Multi-Engine Instructor (MEI). We offer comprehensive training from ground school to flight instruction, utilizing the facilities at Clarion County Airport, which includes hangars, a passenger terminal, and lounge. Our program is designed to prepare students for various aviation careers, building on the legacy of training pilots that has been a part of our community for decades. We are committed to providing high-quality training and education to aspiring pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

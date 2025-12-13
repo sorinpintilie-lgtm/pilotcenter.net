@@ -1,0 +1,22 @@
+{
+  "id": "31b319c4-b8bc-448e-969f-c9a457df9efb",
+  "slug": "jetline-training",
+  "name": "JETLINE Training",
+  "continent": "Europe",
+  "country": "Switzerland",
+  "state": "CH",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.jetline-training.com/",
+  "email": "",
+  "phone": "'+41 78 685 50 34",
+  "about": "JETLINE Training GmbH is a premier flight school based in Switzerland, Europe, specializing in comprehensive aviation training programs. We offer a range of courses, including the Commercial Pilot Licence (CPL), Flight Instructor, Instrument Rating, and Multi-Engine Rating. Our A320 Type Rating program is particularly renowned, with affordable EASA-approved training starting from EUR 9,500, including exam fees and hour building opportunities. Our experienced airline instructors ensure that students receive high-quality training, preparing them for successful careers in aviation. We also provide Airline Line-Intro Training and other specialized programs to meet the needs of the current and future pilot generation. At JETLINE Training, we are committed to delivering exceptional training and support to our students.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Type Rating Course\\nTYPE RATINGS\\nMCC/JOC | TRI Courses\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "e77a9afb-6a47-4cc5-95ff-20b3f645e916",
+  "slug": "cannes-aviation-academy",
+  "name": "Cannes Aviation Academy",
+  "continent": "Europe",
+  "country": "France",
+  "state": "FR",
+  "city": "",
+  "baseAirport": "Cannes Mandelieu Airport",
+  "website": "https://www.cannes-aviation.com/contact.html#1",
+  "email": "pilote@cannes-aviation.com",
+  "phone": "'+33 (0)4 93 48 30 26",
+  "about": "Cannes Aviation Academy, based at Cannes - Mandelieu Airport in France, has been training professional and private pilots since 1995 according to EASA/part FCL standards. As the only DGAC-approved professional school in the South-Provence-Côte d'Azur region, it offers both integrated and modular training paths. The academy is committed to excellence in quality and safety, exceeding legal and regulatory obligations. With state-of-the-art facilities, including 450 sq. m. of classrooms and 1,500 sq. m. of hangars, students benefit from multimedia course materials, individual and group study rooms, and a secure online booking system. The academy’s strategic location allows students to practice a variety of flights, including continental, over-sea, and over-mountain flights, within a rich aeronautical environment. Cannes Aviation Academy ensures each student becomes an excellent pilot, distinguished during airline selections.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Integrated ATP course\\nModular ATP course\\nIntroductory flight\\nPilot discovery course\\nPrivate Pilot Training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

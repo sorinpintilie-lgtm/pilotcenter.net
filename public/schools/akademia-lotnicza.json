@@ -1,0 +1,22 @@
+{
+  "id": "0fcb090e-e5f1-405c-bb22-e456c77720e0",
+  "slug": "akademia-lotnicza",
+  "name": "Akademia Lotnicza",
+  "continent": "Europe",
+  "country": "Poland",
+  "state": "POL",
+  "city": "",
+  "baseAirport": "Zielona Góra Babimost airports",
+  "website": "https://akademialotnicza.pl/",
+  "email": "biuro@akademialotnicza.pl",
+  "phone": "'+48 668 626 459",
+  "about": "Akademia Lotnicza, established by LOT Polish Airlines in 2015, is a premier flight training institution dedicated to producing highly skilled and safety-conscious pilots. As an Approved Training Organization (ATO) certified by the European Aviation Safety Agency (EASA), we offer comprehensive theoretical and practical training programs. Our instructors are experienced airline pilots and aviation specialists, ensuring students receive top-notch education. Training is conducted at modern facilities in Piotrków Trybunalski, Toruń, and Warsaw, utilizing state-of-the-art simulators and Tecnam aircraft. We provide substantive support throughout the training process, preparing students for successful careers in aviation. With a strong track record of graduates becoming first officers at LOT Polish Airlines and other carriers, Akademia Lotnicza is committed to fostering the next generation of aviation leaders.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Tourist License PPL (A)\\nSEP License (L)\\nVFR Training (NIGHT)\\nRefresher flights\\nIntroductory flights\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

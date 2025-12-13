@@ -1,0 +1,22 @@
+{
+  "id": "269d080d-11d8-4f25-a7f8-3edbbf72496d",
+  "slug": "seattle-seaplanes",
+  "name": "Seattle Seaplanes",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "0W0 -Seattle Seaplanes",
+  "website": "http://www.seattleseaplanes.com",
+  "email": "info@seattleseaplanes.com",
+  "phone": "(206) 329-9638",
+  "about": "Seattle Seaplanes, located at the southeast corner of Lake Union in Seattle, is a premier flight training institution and scenic flight service. We offer private pilot training in seaplanes, one of the few places in the USA to do so. Our programs include earning a private pilot certificate on floats, as well as advanced training for the Airplane Single Engine Sea rating. Students can expect personalized service, with training tailored to their needs, and can complete their private pilot certificate in as little as 5-7 weeks with frequent training. Our ground school sessions cover essential topics such as floatplane operation, aerodynamics, and weather concepts. With a focus on safety and proficiency, Seattle Seaplanes provides an enjoyable and rewarding flying experience, allowing pilots to explore the beautiful Pacific Northwest. We look forward to helping you realize your dream of flying.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nExaminer\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nPrivate Pilot\\nInstrument\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

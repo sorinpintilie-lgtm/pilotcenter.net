@@ -1,0 +1,22 @@
+{
+  "id": "185c3860-8792-4ec7-bccc-71e388ae8612",
+  "slug": "hellas-sa",
+  "name": "HELLAS SA",
+  "continent": "Europe",
+  "country": "Greece",
+  "state": "GRC",
+  "city": "",
+  "baseAirport": "Athens International Airport",
+  "website": "https://swiftairhellas.gr/",
+  "email": "msintaki@swiftair.com",
+  "phone": "'+(30-22990) 63 790",
+  "about": "HELLAS SA flying school, located in Greece, is a premier Approved Training Organisation (ATO) under EASA regulations. With a rich history of over two decades in aviation training, we pride ourselves on providing high-quality courses for aspiring pilots. Our fleet includes single-engine and multi-engine piston aircraft, along with state-of-the-art flight simulators. Our modern facilities in picturesque Greece offer ideal weather conditions for year-round flying, ensuring uninterrupted training. Our experienced instructors and dedicated staff are committed to safety, consistency, and the highest standards of aviation training, preparing our graduates for successful careers with major airlines. Choose HELLAS SA for a comprehensive and professional aviation education.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Maintenance\\nCargo flights\\nPilot training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

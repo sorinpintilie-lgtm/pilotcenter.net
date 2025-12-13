@@ -1,0 +1,22 @@
+{
+  "id": "d0c229b7-38bf-4480-96ba-a6e8871c3e34",
+  "slug": "helicopter-academy",
+  "name": "Helicopter Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "HWO -North Perry Airport",
+  "website": "https://www.helicopteracademy.com/",
+  "email": "heliacademy@gmail.com",
+  "phone": "(561) 346-2816",
+  "about": "Helicopter Academy, established in 1986, offers top-quality helicopter pilot training from private to professional levels. We are the only helicopter flight school guaranteeing graduates a job upon completion of our program, which includes private, commercial, and instructor pilot certificates in Robinson R22s. With nationwide locations, our training spans 0-300 hours, including valuable skills like photo flying. We ensure a smooth transition into real-world flying, with a 100% job placement guarantee for those meeting our insurance requirements. Our commitment to excellence and safety has made us a leader in helicopter pilot education, providing a comprehensive and rewarding training experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

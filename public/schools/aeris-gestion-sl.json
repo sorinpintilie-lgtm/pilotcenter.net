@@ -1,0 +1,22 @@
+{
+  "id": "1e226746-f74f-4e14-8084-5ac2bd85b3f1",
+  "slug": "aeris-gestion-sl",
+  "name": "AERIS GESTION, S.L.",
+  "continent": "Europe",
+  "country": "Spain",
+  "state": "ESP",
+  "city": "",
+  "baseAirport": "Madrid Airport",
+  "website": "https://aerisgestion.com/",
+  "email": "info@aerisgestion.com",
+  "phone": "915083566",
+  "about": "AERIS GESTION, S.L. is a reputable flying school based in Spain, dedicated to providing comprehensive and high-quality flight training programs. With a strong focus on safety, professionalism, and student success, AERIS GESTION offers a range of courses tailored to meet the needs of aspiring pilots. Our experienced instructors and modern training facilities ensure that students receive the best possible education to achieve their aviation goals. We are committed to fostering a supportive and innovative learning environment, preparing our graduates for successful careers in the aviation industry. At AERIS GESTION, we strive to excel in flight training, ensuring our students are well-equipped for the challenges and opportunities of a career in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PRIVATE AIRPLANE PILOT COURSE PPL(A)\\nSEP LICENSING RENEWALS AND REVALIDATIONS\\nMEP AND MEP+IR QUALIFICATION REVALIDATIONS\\nNIGHT VISUAL FLIGHT LICENSE (NIGHT)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

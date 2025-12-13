@@ -1,0 +1,22 @@
+{
+  "id": "115d13e2-df16-477a-bd94-05794b737c97",
+  "slug": "michigan-seaplane",
+  "name": "Michigan Seaplane",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MI",
+  "city": "",
+  "baseAirport": "PTK -Oakland County International Airport",
+  "website": "https://www.michiganseaplane.com/",
+  "email": "michiganseaplane@gmail.com",
+  "phone": "(248) 675-5561",
+  "about": "Michigan Seaplane, located in Waterford, Michigan, offers specialized seaplane instruction from April to October. Our flight school is dedicated to providing comprehensive training in seaplane operations, ensuring students gain the skills and knowledge necessary for safe and competent flying. With a focus on hands-on training, our instructors guide students through various aspects of seaplane flying, including taxiing, takeoff, landing, and emergency procedures. We are committed to delivering high-quality instruction to pilots of all skill levels, helping them achieve their seaplane certification goals. Whether you're a novice or an experienced pilot, Michigan Seaplane is the ideal place to learn and refine your seaplane flying skills.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Seaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

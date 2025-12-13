@@ -1,0 +1,22 @@
+{
+  "id": "ea441957-5a0f-460c-94e7-936dde727d77",
+  "slug": "ms-aviation-pty",
+  "name": "MS Aviation (Pty) Ltd",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "CT",
+  "city": "",
+  "baseAirport": "Cape Town International Airport",
+  "website": "https://msaviation.co.za/",
+  "email": "info@msaviation.co.za",
+  "phone": "'+27 21 201 0011",
+  "about": "MS Aviation (Pty) Ltd is a premier flying school dedicated to providing top-notch pilot training programs. With a focus on safety and proficiency, our experienced instructors use state-of-the-art equipment and industry-leading methods to train both private and commercial pilots. Our courses are designed to be comprehensive, ensuring students meet international standards, including those set by the FAA. We offer various training options, including commercial pilot training, PIC time-building courses, and specialized programs for international students. Our commitment to excellence and customer service has made us a trusted name in aviation education, helping aspiring pilots achieve their dreams and succeed in the aviation industry. We pride ourselves on producing competent and resilient professional pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Class Rating \\nCommercial Pilot License\\nNight Rating\\nPPL\\nType Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "96d1fc6a-7de4-4ef2-90df-9811265c655e",
+  "slug": "global-aviation-operations",
+  "name": "Global Aviation Operations",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "GT",
+  "city": "",
+  "baseAirport": "Tambo International Airport",
+  "website": "https://g-airways.com/flyglobal/home/",
+  "email": "commercial@g-airways.com",
+  "phone": "'+27 (0) 10 900 4900",
+  "about": "Global Aviation SA is a premier flying school based in Greece, approved by the Hellenic Civil Aviation Authority (HCAA) and the European Aviation Safety Agency (EASA). Since 1997, we have been training pilots with over 80,000 hours of flight training experience. Our programs include EASA integrated courses for commercial pilots and a 2-month initial cabin crew training course. We have partnered with Aegean Airlines for a scholarship pilot training program and are the exclusive distributor of Piper Aircraft in Greece and Cyprus. Our facilities include an administrative and ground school base in Athens and a flying base at the Civil Aviation Airport of Pachi, Megara. We are committed to providing top-quality training, ensuring our graduates are employed by prestigious airlines worldwide. Global Aviation SA is dedicated to fostering a career in aviation with excellence and safety.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot License\\nClass Rating\\nInstrument Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

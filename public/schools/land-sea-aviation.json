@@ -1,0 +1,22 @@
+{
+  "id": "50e63b12-b58f-4a1f-98f3-1006f33ae7c6",
+  "slug": "land-sea-aviation",
+  "name": "Land & Sea Aviation, LLC",
+  "continent": "North America",
+  "country": "United",
+  "state": "AK",
+  "city": "",
+  "baseAirport": "MRI -Merrill Field",
+  "website": "https://www.landandseaaviationalaska.com/",
+  "email": "landandseaalaska@gmail.com",
+  "phone": "(907) 274-2544",
+  "about": "Land & Sea Aviation, LLC is a comprehensive flight training institution based in Alaska, offering a range of aviation programs. We provide certifications in Airline Transport Pilot (ATP), Commercial Pilot, Flight Instructor (CFI), and Flight Instructor Instrument (CFII), among others. Our training includes single-engine aircraft and simulator sessions, as well as additional ground school and seminars. We also offer aircraft rentals and facilitate FAA written exams. Beyond flight training, we provide sightseeing tours, enhancing the Alaska experience. With a commitment to quality instruction and safety, Land & Sea Aviation is dedicated to helping aspiring pilots achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\\nSeaplane\\nUltralight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

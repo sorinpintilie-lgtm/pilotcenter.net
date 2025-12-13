@@ -1,0 +1,22 @@
+{
+  "id": "b8dea050-575c-44da-b0ae-b6b58cba7c17",
+  "slug": "skywarrior",
+  "name": "Skywarrior, Inc.",
+  "continent": "North America",
+  "country": "USA",
+  "state": "FL",
+  "city": "Pensacola",
+  "baseAirport": "Pensacola International Airport",
+  "website": "https://www.skywarriorinc.com/",
+  "email": "skywarriorinc.com",
+  "phone": "'+1 850-433-6115",
+  "about": "Skywarrior Inc. is an FAA-certified Part 141 pilot school located in Pensacola, Florida, specializing in civilian and military flight training, as well as aircraft rentals. With nearly a decade of experience, our academy offers courses from private to airline transport pilot certifications. Our instructors, with over 50,000 hours of combined experience, provide safe and precise training in a diverse fleet of single and multi-engine aircraft. We cater to both experienced pilots and newcomers, offering accelerated training programs, including the Commercial Pilot Certificate under Part 141 or 61, and support for VA benefits. Our facilities include access to simulators, and we are proud to train future Navy and Marine aviators through the NIFE program. Skywarrior Inc. is dedicated to providing professional and cost-efficient flight training in one of the world's most beautiful beach settings. Join us to embark on a rewarding aviation career.",
+  "icao": "KPNS",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

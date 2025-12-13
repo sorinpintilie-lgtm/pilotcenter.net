@@ -1,0 +1,22 @@
+{
+  "id": "d4c12021-d5c2-4d23-ac14-169b09d73c83",
+  "slug": "flying-tigers-flight-school",
+  "name": "Flying Tigers Flight School",
+  "continent": "North America",
+  "country": "United",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "EFD -Ellington Airport",
+  "website": "https://www.flytigers.net/",
+  "email": "info@flytigers.net",
+  "phone": "(281) 484-8000",
+  "about": "Flying Tigers Flight School, located at Ellington Field in Houston, Texas, offers high-quality training for individuals seeking to obtain their pilot certificates. Our programs include Private Pilot, Instrument Rating, Commercial Pilot, Multi-Engine Add-On, and various instructor certifications. With safe and experienced instructors, we provide comprehensive training that includes ground school, flight tests, and extensive flight time. We are associated with Lee College and San Jacinto College, offering discounted flight training and credit toward certificate programs. Our state-of-the-art facilities and affordable aircraft rentals make us a premier choice for aspiring pilots. We train the pilots of tomorrow through engaging and hands-on educational opportunities, cultivating future industry leaders. Join our growing community and take the first step towards your aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nDrone/UAS\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nPart 107 Drone Testing\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

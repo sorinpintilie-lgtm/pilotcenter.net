@@ -1,0 +1,22 @@
+{
+  "id": "8c113f99-9c27-4aa0-aca0-0c12e48654c8",
+  "slug": "flightgest-academy",
+  "name": "FlightGest Academy",
+  "continent": "North America",
+  "country": "United",
+  "state": "NC",
+  "city": "",
+  "baseAirport": "RDU -Raleigh-Durham International Airport",
+  "website": "https://www.flightgestacademy.com/",
+  "email": "info@flightgestacademy.com",
+  "phone": "(919) 840-4444",
+  "about": "FlightGest Academy, established in 1999, is a premier flight training school located in the Triangle area of North Carolina. Founded by Frank Gozzo and now led by Ron Kuist, the academy is dedicated to providing high-quality training programs for both career and recreational pilots. Our fleet includes state-of-the-art Technically Advanced Aircraft (TAA) with advanced avionics, GPS navigation, and enhanced safety features. We offer tailored training programs to meet individual learning styles and goals, including military transitions, commercial, and private pilot licenses. With a commitment to excellence, a supportive learning environment, and professional instructors, FlightGest Academy helps aspiring pilots achieve their dreams and embark on a journey of adventure and personal growth. We are an FAA-authorized testing center and pride ourselves on creating a low-stress, professional learning environment that fosters growth and success in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nPart 107 Drone Testing\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

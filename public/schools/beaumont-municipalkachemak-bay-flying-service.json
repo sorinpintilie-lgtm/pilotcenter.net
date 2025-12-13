@@ -1,0 +1,22 @@
+{
+  "id": "d7c55c5c-2118-42af-b425-d98f92fb7140",
+  "slug": "beaumont-municipalkachemak-bay-flying-service",
+  "name": "Beaumont MunicipalKachemak Bay Flying Service",
+  "continent": "North America",
+  "country": "United",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "TPL -Draughon-Miller Central Texas Regional Airport",
+  "website": "https://www.kbfs.us/",
+  "email": "info@kb-air.com",
+  "phone": "(254) 773-9902",
+  "about": "Beaumont Municipal Airport, in collaboration with Kachemak Bay Flying Service, offers comprehensive flight training programs. At Beaumont, classes are held on a need-to-need basis and are taught by instructors from Phoenyx Aviation, Asset Aviation, and Above the Haze Aviation. The training includes Private Pilot Certificate, Commercial Pilot Certificate, Instrument Rating, and more. Kachemak Bay Flying Service, an FAA-approved Part 141 flight school, provides expert training in both rotary and fixed wing aircraft, along with competitive rates and financing options. With state-of-the-art aircraft and a range of services including avionics repair and aircraft leasing, these schools cater to both beginners and experienced pilots, ensuring a high-quality learning experience. Whether you're pursuing a career or a hobby, these programs are designed to help you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

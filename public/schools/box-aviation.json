@@ -1,0 +1,22 @@
+{
+  "id": "07cd1af4-9352-4824-bc81-e8e920e37f76",
+  "slug": "box-aviation",
+  "name": "Box Aviation Inc.",
+  "continent": "North America",
+  "country": "USA",
+  "state": "AL",
+  "city": "Montgomery",
+  "baseAirport": "Montgomery Regional Airport (Dannelly Field)",
+  "website": "https://www.boxaviation.com/",
+  "email": "MGM@BoxAviation.com",
+  "phone": "'+1 334-281-9005",
+  "about": "Box Aviation Inc. is a comprehensive aviation business specializing in flight training, aircraft rental, aircraft management, scenic flights, aerial photography, pilot services, and aircraft maintenance. Located at 4651 Hangar Rd in Montgomery, AL, we pride ourselves on providing professional and flexible training options, matching students with instructors who align with their personality and learning style. Our training begins at a controlled airport, teaching essential skills such as radio communication, Air Traffic Control interaction, and operation around various aircraft. We offer Discovery Flights for those interested in experiencing flight, and our programs cater to both recreational and career-oriented pilots. With a focus on safety and success, we aim to make your flying experiences enjoyable and rewarding for years to come. We look forward to helping you fulfill your aviation dreams.",
+  "icao": "KMGM",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

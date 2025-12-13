@@ -1,0 +1,22 @@
+{
+  "id": "a8388ed9-8710-4989-ad83-e3fecc7d9e4f",
+  "slug": "bunbury-flying-school",
+  "name": "Bunbury Flying School",
+  "continent": "Oceania",
+  "country": "Australia",
+  "state": "",
+  "city": "",
+  "baseAirport": "Bunbury Airport",
+  "website": "https://www.bunburyflyingschool.com/",
+  "email": "info@bunburyflyingschool.com",
+  "phone": "'+61 8-9725-4145",
+  "about": "Bunbury Flying School, located at Bunbury Airport in the scenic Southwest of Western Australia, is the flight training division of Southern Aviation. We specialize in delivering high-quality, CASA-approved aviation courses, including Recreational Pilot Licences, Private Pilot Licences, and Commercial Flight Training. Our experienced and passionate instructors provide comprehensive ground school theory and tailored tutoring, along with specialized ratings and endorsements such as IPCs and BFRs. We offer a large, purpose-built facility equipped with state-of-the-art aviation equipment and provide student accommodation for both long and short stays. Whether you're aspiring to become a professional pilot or seeking a unique flight experience, Bunbury Flying School is dedicated to supporting and guiding you through your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

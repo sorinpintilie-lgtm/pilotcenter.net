@@ -1,0 +1,22 @@
+{
+  "id": "15e7b746-f84d-4936-9624-0ef504564041",
+  "slug": "aspen-flight-academy",
+  "name": "Aspen Flight Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CO",
+  "city": "",
+  "baseAirport": "ASE -Aspen-Pitkin County/Sardy Field",
+  "website": "https://www.aspenflightacademy.org/",
+  "email": "lorraine@ahlfa.org",
+  "phone": "(970) 236-1700",
+  "about": "Aspen Flight Academy, a 501(c)(3) nonprofit organization, is a flight training school located in the Colorado Rocky Mountains. We empower youth and adults to learn about the joys and responsibilities of flying by providing comprehensive classroom and flight training. Our \"Every Student Flies\" program offers all Aspen High School students a free, one-hour introductory flight course, inspiring many to pursue their private pilot’s license. With a fleet of new, state-of-the-art Diamond Aircraft DA-40 airplanes, we ensure students train on the latest technology. We also offer scholarships and partnerships to support continued flight education. Our goal is to see graduating seniors walk away with their private pilot’s license, fostering a lifelong passion for aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

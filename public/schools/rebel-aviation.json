@@ -1,0 +1,22 @@
+{
+  "id": "26cab0cd-9b53-4201-8bdb-b3f4b1395f86",
+  "slug": "rebel-aviation",
+  "name": "Rebel Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MO",
+  "city": "",
+  "baseAirport": "0N0 -Roosterville Airport",
+  "website": "https://www.rebelaviation.com/",
+  "email": "rebelav1@sbcglobal.net",
+  "phone": "(816) 792-4433",
+  "about": "Rebel Aviation, located at the Liberty Municipal Airport (0N0) in Liberty, Missouri, is a reputable flight training institution dedicated to providing comprehensive and safe aviation education. With a focus on personalized instruction, Rebel Aviation offers a range of programs from private pilot certification to advanced training in specialized fields such as agricultural aviation. Our experienced instructors and well-maintained fleet ensure that students receive high-quality training tailored to their needs. Whether you are pursuing a career in aviation or flying for personal enjoyment, Rebel Aviation is committed to helping you achieve your goals with professionalism and excellence. We pride ourselves on fostering a supportive learning environment that prepares students for successful and safe flying careers.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

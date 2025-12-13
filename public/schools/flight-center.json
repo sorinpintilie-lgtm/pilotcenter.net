@@ -1,0 +1,22 @@
+{
+  "id": "59a3c81b-9ef0-4697-be35-e12535adee8a",
+  "slug": "flight-center",
+  "name": "Flight Center",
+  "continent": "South America",
+  "country": "Argentina",
+  "state": "AR",
+  "city": "",
+  "baseAirport": "Morón Airport",
+  "website": "https://www.fcaviacion.com.ar/",
+  "email": "consultas@fcaviacion.com.ar",
+  "phone": "'+54 11 2152-6800",
+  "about": "At Flight Center, we pride ourselves on providing personalized and excellence-driven flight training. With locations in New Jersey and Florida, we offer a diverse rental fleet, including single-engine, multi-engine, light sport, and tailwheel aircraft. Our programs include self-paced and accelerated training options, ensuring you reach your aviation goals efficiently. We maintain a transparent rate structure, inclusive of all charges, and offer financing options through partnerships with Stratus Financial and Flight Training Finance. Our experienced instructors provide real-world training, and we are committed to safety and excellence in every aspect of flight education. Whether you're pursuing a career in aviation or recreational flying, Flight Center is dedicated to helping you achieve your goals with flexible terms and a supportive environment. Join us for a seamless and successful flight training experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot Course for Aircraft\\nCommercial Airplane Pilot Course\\nFirst Class Commercial Pilot Course\\nAirplane Flight Instructor Course\\nGround-Based Instrument Flight Instructor \\nPassenger Cabin Crew Course\\nAircraft Dispatcher Course\\nHuman Factors Facilitator Course\\nRestricted Radiotelephone Operator Course\\nICAO English Course\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

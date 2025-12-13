@@ -1,0 +1,22 @@
+{
+  "id": "1d34ff04-c0bd-4ab1-a9b7-1fe866172b14",
+  "slug": "leopard-aviation",
+  "name": "Leopard Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "SDL -Scottsdale Airport",
+  "website": "https://leopardaviation.com/",
+  "email": "info@leopardaviation.com",
+  "phone": "(833) 359-5735",
+  "about": "Leopard Aviation is a family-owned and operated flight school with locations at Scottsdale Airport and Mesa Falcon Field in Arizona. We offer convenient, pay-as-you-go flight training and full financing options through the Meritize Platform. Our mission is to produce the best-trained pilots in a fun and professional environment. We use brand new Cessna 172S Skyhawks with state-of-the-art Garmin G1000 avionics. Our certified flight instructors are young, seasoned professionals who tailor training programs to fit your needs and schedule. We provide training for private pilot, commercial pilot, instrument rating, and other certifications. Our goal is to make learning to fly efficient, enjoyable, and safe, ensuring you achieve your aviation goals quickly. Join us at Leopard Aviation to start your aviation journey today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

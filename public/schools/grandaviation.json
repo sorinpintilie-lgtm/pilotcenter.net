@@ -1,0 +1,22 @@
+{
+  "id": "3b488103-15f4-4405-9332-a5cc6504d933",
+  "slug": "grandaviation",
+  "name": "GRANDAVIATION",
+  "continent": "South America",
+  "country": "Ecuador",
+  "state": "EC",
+  "city": "",
+  "baseAirport": "José Joaquín de Olmedo Airport",
+  "website": "https://grandaviation.com.ec/",
+  "email": "mrodriguezm@grandaviation.com.ec",
+  "phone": "04 2639 099",
+  "about": "Grand Aviation, established in 1971 as Delta Air Services in Emmonak, Alaska, and renamed in 1993, is a renowned Alaskan-owned and operated airline and flight school. We provide comprehensive pilot training programs, including Private Pilot Licence, Night Rating, and Flight Instructor certifications. Our training includes modules on controlled flight into terrain (CFIT) avoidance and advanced simulator training for realistic scenarios. With a strong commitment to safety, we operate under a robust safety management system in partnership with the FAA. Our headquarters are in Anchorage, with bases in several Alaskan locations, serving communities throughout the Yukon-Kuskokwim Delta, the Aleutians, and Bristol Bay. We are dedicated to providing safe, reliable, and comfortable air travel, making air travel a necessity rather than a luxury for our communities. Our operations are professional, yet true to our Alaskan roots and personal touch.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot\\nInstrument Rating\\nMulti-Engine Rating\\nCommercial\\nPilot Instructor Pilot\\nFlight Hours\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

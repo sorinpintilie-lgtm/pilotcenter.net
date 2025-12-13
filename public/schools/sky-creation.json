@@ -1,0 +1,22 @@
+{
+  "id": "b3bfeb2a-8fb0-4728-9430-4c35de2e6951",
+  "slug": "sky-creation",
+  "name": "Sky Creation, Inc",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "LGB -Long Beach (Daugherty Field)",
+  "website": "https://skycreation.net/",
+  "email": "info@skycreation.net",
+  "phone": "(562) 490-0077",
+  "about": "Sky Creation, Inc. is a reputable flight school dedicated to providing comprehensive and rigorous aviation training. Our FAA-approved courses include the Private Pilot Certificate, Instrument Rating, Multi-Engine Rating, and Commercial Pilot Certificate. We combine online learning, face-to-face ground school, and in-flight instruction to ensure students acquire essential skills for flight safety and proficiency. Our training is divided into structured stages, with regular progress checks to prepare students for the FAA practical test. Whether you aim to fly for personal enjoyment or pursue a professional career, our experienced instructors and thorough training curricula are designed to make you a safe and competent pilot. At Sky Creation, Inc., we are committed to helping you achieve your aviation goals with excellence and safety.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

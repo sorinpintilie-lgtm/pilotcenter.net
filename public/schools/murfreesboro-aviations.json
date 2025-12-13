@@ -1,0 +1,22 @@
+{
+  "id": "29e75e18-21a6-48dd-85af-d0b74871dde1",
+  "slug": "murfreesboro-aviations",
+  "name": "Murfreesboro Aviations",
+  "continent": "North America",
+  "country": "USA",
+  "state": "TN",
+  "city": "Murfreesboro",
+  "baseAirport": "Murfreesboro Airport (MBT)",
+  "website": "https://murfreesboroaviation.com/",
+  "email": "jim@murfreesboroaviation.com",
+  "phone": "'+1 615-494-1900",
+  "about": "Murfreesboro Aviation, the busiest privately-owned flight school in Tennessee, is dedicated to providing top-notch flight training from beginners to advanced pilots. Founded by Jim Gardner, a veteran and former fire investigator, the school emphasizes safety, prevention, and trust. With a well-equipped training fleet and an in-house maintenance department, Murfreesboro Aviation ensures all aircraft are safe and well-maintained. The school offers various training programs, including private pilot, multi-engine, and instrument ratings, as well as certified flight instructor certifications. Known for its \"Up Here, It’s About Trust\" philosophy, Murfreesboro Aviation prioritizes customer safety and proficiency, making it a trusted name in aviation training. Whether you're starting with a Discovery Flight or pursuing advanced certifications, Murfreesboro Aviation is committed to delivering exceptional service and education.",
+  "icao": "KMBT",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

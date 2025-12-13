@@ -1,0 +1,22 @@
+{
+  "id": "f6eade60-6336-4ea3-b665-d9ec260df6a1",
+  "slug": "alpha-aviation-academy-sweden",
+  "name": "Alpha Aviation Academy Sweden",
+  "continent": "Europe",
+  "country": "Sweden",
+  "state": "SE",
+  "city": "",
+  "baseAirport": "Trollhättan Vänersborg Airport",
+  "website": "https://alphaaviation.se/",
+  "email": "info@alphaaviation.se",
+  "phone": "'+46 76 220 17 18",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"CPL/IR/ME\\nFAA or ICAO TO EASA CONVERSION\\nPROFICIENCY CHECK\\nA-UPRT\\nMulti Engine Piston Class Rating (MEP CR)\\nMulti Engine Piston Instrument Rating (MEP IR)\\nMulti Engine Piston Instrument Rating Upgrade (MEP IR Upgrade)\\nCommercial Pilot License (CPL)\\nFLIGHT INSTRUCTOR (FI)\\nCRI (ME)\\nClass Rating Cessna SET\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

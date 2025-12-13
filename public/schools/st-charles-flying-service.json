@@ -1,0 +1,22 @@
+{
+  "id": "3a72d807-3d3c-40d6-8cb4-52a4d74fcfad",
+  "slug": "st-charles-flying-service",
+  "name": "St. Charles Flying Service",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MO",
+  "city": "",
+  "baseAirport": "SET -St Charles County Regional/Smartt Field",
+  "website": "http://www.stcharlesflyingservice.com/",
+  "email": "Dennis@stcharlesflyingservice.com",
+  "phone": "(636) 946-6066",
+  "about": "St. Charles Flying Service, Inc., established in 1968, is a renowned FAA certified Part 141 Flight School and Fixed Base Operation (FBO) serving the St. Louis metro area from St. Charles County Airport, Smartt Field. With over 56 years of experience, we offer comprehensive flight training programs from Sport Pilot to Airline Transport Pilot, including single and multi-engine ratings. Our fleet includes Cessna 152s, Cessna 172s, and a Beech 76 Duchess for advanced training. We are approved for VA and SEVIS alien student training and provide superior instruction from a staff of 12 full and part-time instructors. Our services also include aircraft sales, rentals, and a full-service maintenance shop. St. Charles Flying Service is committed to helping you achieve your aviation goals in a friendly, professional environment. Start your flying journey with us today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

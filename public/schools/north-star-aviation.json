@@ -1,0 +1,22 @@
+{
+  "id": "fd3255a9-eb37-419e-8c95-985d4413b474",
+  "slug": "north-star-aviation",
+  "name": "North Star Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MN",
+  "city": "",
+  "baseAirport": "MKT -Mankato Regional Airport",
+  "website": "https://www.flymankato.com/",
+  "email": "flymankato@gmail.com",
+  "phone": "(507) 625-6006",
+  "about": "North Star Aviation, located at Minnesota State University, Mankato, is a premier flight training institution and full-service Fixed Base Operator (FBO). We provide exceptional flight training as part of the university's four-year aviation degree program, utilizing state-of-the-art aircraft and simulators. Our experienced flight instructors offer personalized attention to ensure students gain the necessary knowledge and skills for successful aviation careers. North Star Aviation also offers comprehensive FBO services, including maintenance and repair, avionics, and fuel services. With a commitment to safety and excellence, we prepare students for professional aviation careers and support the broader aviation community with our extensive resources and friendly, knowledgeable staff. North Star Aviation is dedicated to guiding and inspiring the next generation of aviation professionals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nComputerized Testing\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

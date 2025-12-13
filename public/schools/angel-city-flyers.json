@@ -1,0 +1,22 @@
+{
+  "id": "f16a7cb0-a55c-443e-9324-5a6b7e2081f7",
+  "slug": "angel-city-flyers",
+  "name": "Angel City Flyers",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "LGB -Long Beach (Daugherty Field)",
+  "website": "https://aerocitygroup.com/angel-city-flyers/",
+  "email": "info@angelcityflyers.com",
+  "phone": "(562) 366-4806",
+  "about": "At Angel City Flyers, located in Long Beach, California, we are dedicated to providing top-notch flight training with a strong emphasis on safety, structure, and standardization. Established in 2003, our school offers FAA and JAA Accelerated Professional Pilot Programs, as well as individual ratings such as Private Pilot, Commercial Pilot, Instrument Rating, and Multi-Engine Rating. Our fleet consists of modern G1000 equipped Diamond Aircraft, including the DA40, DA42, and DA62. Our highly structured approach to training includes standardized operating procedures and single pilot resource management, preparing pilots for both commercial and private aviation. With a commitment to excellence and customer service, our experienced instructors and well-maintained aircraft ensure a safe and effective learning environment. Join us to turn your aviation dreams into reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot ATP\\nGround School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

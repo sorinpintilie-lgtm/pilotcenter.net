@@ -1,0 +1,22 @@
+{
+  "id": "9d48da27-8767-48d9-8267-418559f80419",
+  "slug": "morey-airplane",
+  "name": "Morey Airplane Company",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WI",
+  "city": "",
+  "baseAirport": "C29 -Middleton Muni/Morey Field",
+  "website": "https://www.moreyairport.com/",
+  "email": "dmaier@moreyairport.com",
+  "phone": "(608) 836-1711",
+  "about": "Morey Airplane Company, established in 1932, is the longest operating Fixed Base Operator (FBO) in Wisconsin. We offer a full range of aviation services, including flight instruction, aircraft rental, charter services, and maintenance. Our flight school provides personalized training with Certified Flight Instructors, teaching from introductory flights to advanced ratings. We emphasize state-of-the-art equipment and real-world training, with programs like ground school and flight reviews. Our commitment to quality instruction and customer service has made us a trusted name in aviation for generations. We are dedicated to helping you achieve your flying goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

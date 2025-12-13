@@ -1,0 +1,22 @@
+{
+  "id": "f6c134b5-2c61-4253-ba31-e0da10b16b1c",
+  "slug": "instituto-de-adiestramiento-aeronautico-iaa",
+  "name": "Instituto de Adiestramiento Aeronáutico (IAA)",
+  "continent": "South America",
+  "country": "Uruguay",
+  "state": "URY",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://iaauruguay.edu.uy/",
+  "email": "",
+  "phone": "2322 9079",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Student Pilot (SPL)\\nMulti-engine (MPL)\\nPrivate Pilot (PPL)\\nCommercial Pilot with HVI\\nDrone Operator (DAOD)\\nInstrument Flight Rating (IFR)\\nInstrument Rating - Recurrent (HVI-R)\\nFlight Review (theoretical)\\nSMS - Initial\\nSMS - Recurring\\nTransport of Dangerous Goods by Air (Cat. 10 - Crew)\\nCRM - Recurring\\nAviation Accident Prevention - Recurrent\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "dd8104d5-4bcc-4f91-9ea2-111118366ebe",
+  "slug": "marcair-aviation",
+  "name": "Marcair Aviation, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "AFW -Perot Field/Fort Worth Alliance",
+  "website": "https://www.marcairaviation.com/",
+  "email": "learntofly@marcairaviation.com",
+  "phone": "(817) 430-0005",
+  "about": "Marcair Aviation, Inc., established in 1998, is a professional flight training institution located at Perot Field Fort Worth Alliance Airport (KAFW) in Fort Worth, Texas. We offer a comprehensive range of flight training programs, including introductory flights, private pilot certificates, instrument ratings, commercial pilot licenses, and ATP checkride preparation. Our curriculum is designed to educate the next generation of aviators, with a focus on recurrent training and specialized programs. Our fleet includes both training and rental aircraft, and we also provide testing center facilities. With a dedicated crew and a commitment to excellence, Marcair Aviation is your trusted partner for achieving your aviation goals. We are open Monday through Saturday from 8:00 am to 5:00 pm and by appointment on Sundays. Contact us at 817-430-0005 or learntofly@marcairaviation.com to start your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

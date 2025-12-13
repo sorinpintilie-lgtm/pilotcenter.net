@@ -1,0 +1,22 @@
+{
+  "id": "febdece8-d351-41e9-869e-ee3220d69592",
+  "slug": "flyby",
+  "name": "FlyBy",
+  "continent": "Europe",
+  "country": "Spain",
+  "state": "",
+  "city": "León",
+  "baseAirport": "Leon Airport",
+  "website": "https://flybyschool.com/",
+  "email": "info@flybyschool.com",
+  "phone": "'+34 947 45 55 91 / +34 608 30 04 50",
+  "about": "FlyBy Aviation Academy, established in 2008 in Bilbao, Spain, is a premier flight training institution. Founded by two experienced pilots, the academy quickly gained approvals for all training courses, including the EASA ATPL Integrated program. Under new management since 2015, FlyBy focuses on affordable, all-inclusive pilot training for an international student body, with over 1,500 students from 112 nationalities trained to date. The school operates primarily from Burgos Airport, with a growing fleet of 45 aircraft and three simulators. Known for its airline-focused ATPL Integrated course, FlyBy also offers modular training programs, MCC certified simulators, and type rating programs. With a strong international atmosphere and a commitment to safety and efficiency, FlyBy continues to expand, ensuring top-quality training for aspiring pilots.",
+  "icao": "LELN",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

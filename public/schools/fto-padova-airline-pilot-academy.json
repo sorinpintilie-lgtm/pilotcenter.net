@@ -1,0 +1,22 @@
+{
+  "id": "70da2bfa-c696-4a23-b491-79d5d0e83f3f",
+  "slug": "fto-padova-airline-pilot-academy",
+  "name": "F.T.O. PADOVA Airline Pilot Academy",
+  "continent": "Europe",
+  "country": "Italy",
+  "state": "",
+  "city": "Padua",
+  "baseAirport": "Padua Civil Airport",
+  "website": "https://www.ftopadova.it/",
+  "email": "info@ftopadova.it",
+  "phone": "'+39 049 723402",
+  "about": "F.T.O. PADOVA Airline Pilot Academy is a premier flight training institution dedicated to producing highly skilled and safety-conscious pilots. Located in Padova, Italy, our academy offers a comprehensive range of programs, including Private Pilot Licenses, Commercial Pilot Licenses, and Airline Transport Pilot Licenses. Our state-of-the-art facilities and modern fleet ensure students receive the best possible training environment. Experienced instructors, personalized attention, and a rigorous curriculum ensure our graduates are well-prepared for successful careers in aviation. We are committed to excellence in flight training, fostering a culture of safety, professionalism, and continuous improvement. At F.T.O. PADOVA, we empower aspiring pilots to reach new heights.",
+  "icao": "LIPU",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "9040aa65-f2a4-410d-800f-8f85ff72cf3a",
+  "slug": "royal-aero-club-of-western-australia",
+  "name": "Royal Aero Club of Western Australia",
+  "continent": "Oceania",
+  "country": "Australia",
+  "state": "",
+  "city": "",
+  "baseAirport": "Jandakot Airport",
+  "website": "https://www.royalaeroclubwa.com.au/",
+  "email": "info@royalaeroclubwa.com.au",
+  "phone": "'+61 8-9417-0000",
+  "about": "The Royal Aero Club of Western Australia (RACWA) is one of Australia's largest and most esteemed flying training organisations, with a rich history dating back to 1929. Located at Jandakot Airport in Perth, RACWA boasts multi-million dollar facilities and a diverse fleet of aircraft. The club is staffed by 30 qualified flight instructors and pilots, ensuring high standards of safety and proficiency. RACWA offers a range of training programs, including Private Pilot Licences, Commercial Pilot Licences, instrument ratings, and instructor ratings, all delivered through a partnership with the Western Australian Aviation College. Known for its friendly and relaxed environment, RACWA provides personal attention to its members while offering access to top-notch facilities and comprehensive training options. Whether you aspire to fly for recreation or as a career, RACWA is dedicated to helping you achieve your aviation dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

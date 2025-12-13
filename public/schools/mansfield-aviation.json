@@ -1,0 +1,22 @@
+{
+  "id": "48c1392e-83c4-4280-a3ea-e3a58d7d4053",
+  "slug": "mansfield-aviation",
+  "name": "Mansfield Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "VT",
+  "city": "",
+  "baseAirport": "BTV -Patrick Leahy Burlington International Airport",
+  "website": "https://www.mansfieldaviation.com/",
+  "email": "tina@mansfieldheliflight.com",
+  "phone": "(802) 893-1003",
+  "about": "Mansfield Heliflight Inc., operating since 1986, is a reputable flight school and aviation service provider based in Milton, Vermont. Specializing in rotary wing training, the school offers certifications for Private Pilot, Commercial Pilot, and add-ons, as well as Airline Transport Pilot (ATP) and Flight Instructor (CFI) certifications. Our instructors are highly experienced and dedicated to providing top-notch training. In addition to flight training, Mansfield Heliflight also provides aircraft maintenance and sales services. With a strong focus on safety and professionalism, we ensure that our students receive comprehensive and quality instruction to prepare them for successful careers in aviation. Our commitment to excellence and community involvement has established us as a trusted name in the aviation industry.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nDrone/UAS\\nExaminer\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nGlider\\nInstrument\\nMulti-Engine\\nRotary Wing\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

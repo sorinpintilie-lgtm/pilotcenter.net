@@ -1,0 +1,22 @@
+{
+  "id": "86d4f579-8514-4944-a53c-ee6aeeb89b3a",
+  "slug": "spring-city-aviation",
+  "name": "Spring City Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "WI",
+  "city": "Milwaukee",
+  "baseAirport": "Milwaukee Mitchell International Airport",
+  "website": "https://springcityaviation.com/",
+  "email": "info@flymilwaukee.com",
+  "phone": "'+1 414-461-3222",
+  "about": "Spring City Aviation, based in Southeastern Wisconsin, is a premier flight school and aviation services provider. With over 25 years of experience, we have grown from a one-man operation to one of the top 10 largest flight schools in Wisconsin. We operate out of three locations: Waukesha County Airport, Milwaukee Timmerman Airport, and Burlington Municipal Airport. Our team of experienced instructors offers comprehensive training programs for student, private, instrument, commercial, and instructor levels, as well as specialized training for tailwheel, complex, and multi-engine endorsements. Safety is our top priority, with stringent safety protocols and a commitment to exceeding industry standards. We provide a supportive and engaging learning environment, ensuring every student is well-prepared for their aviation journey. Contact us today to learn more about our flight school programs and become a part of the Spring City Aviation family.",
+  "icao": "KMKE",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

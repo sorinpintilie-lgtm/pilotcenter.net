@@ -1,0 +1,22 @@
+{
+  "id": "e4ea8081-84a0-42ca-951c-6c188fd24c27",
+  "slug": "fly-maui",
+  "name": "Fly Maui",
+  "continent": "North America",
+  "country": "United",
+  "state": "HI",
+  "city": "",
+  "baseAirport": "OGG -Kahului Airport",
+  "website": "https://www.flymauihi.com/",
+  "email": "leslie@caubble.com",
+  "phone": "(808) 280-3290",
+  "about": "At Fly Maui, we offer friendly, affordable, and fun flight training in the beautiful Hawaiian Islands. Our mission is to provide excellence in training at competitive rates, enabling anyone with a passion for flight to become a pilot. Whether you're flying for fun or pursuing a career in aviation, our FAA-certified instructors guide you through various certifications, including Private Pilot, Instrument Rating, and Commercial Pilot. We cater to both locals and visiting pilots, offering scenic flight lessons and the opportunity to experience Maui's stunning landscapes from the air. Join us to fulfill your dream of flying in a tropical paradise.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

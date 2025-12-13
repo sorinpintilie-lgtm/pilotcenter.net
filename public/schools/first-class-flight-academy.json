@@ -1,0 +1,22 @@
+{
+  "id": "8630324d-c9c1-49af-b1cb-3dcaec4f6fbb",
+  "slug": "first-class-flight-academy",
+  "name": "First Class Flight Academy, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MD",
+  "city": "",
+  "baseAirport": "MTN -Martin State Airport",
+  "website": "https://flyfcfa.com/",
+  "email": "hello@flyfcfa.com",
+  "phone": "(443) 815-3932",
+  "about": "First Class Flight Academy, LLC is a premier flight school dedicated to providing customer-centric, luxury flight training without the luxury price tag. Our mission is to nurture your career from your first discovery flight through obtaining your hours and transitioning you to airline or corporate organizations. We prioritize safety, using a fleet of modern, all-glass cockpit Cirrus aircraft and ensuring meticulous maintenance. Our highly qualified instructors offer personalized training plans, and we provide ongoing support and career transition programs. With a focus on safety, innovation, and accessibility, we help you achieve your aviation goals, whether as a private pilot or a professional airline pilot. Join us to take your training to new heights and start your journey to a successful aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

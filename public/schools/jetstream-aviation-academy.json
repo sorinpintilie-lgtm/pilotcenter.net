@@ -1,0 +1,22 @@
+{
+  "id": "bad5c1ca-12c3-4b54-85d1-ed698f26dd01",
+  "slug": "jetstream-aviation-academy",
+  "name": "JETSTREAM Aviation Academy",
+  "continent": "Europe",
+  "country": "Greece",
+  "state": "",
+  "city": "Athens",
+  "baseAirport": "Athens International Airport",
+  "website": "https://www.jetstream.gr/",
+  "email": "info@jetstream.gr",
+  "phone": "'+30 2106025700",
+  "about": "JETSTREAM Aviation Academy is a well-established Approved Training Organisation (ATO) and certified Flight and Type Rating Training Organisation (FTO/TRTO) under EASA regulations. With 25 years of experience in aviation training, the academy operates two main training centers in Athens, Greece, and Dubai, UAE. It offers a comprehensive range of courses, including the Airline First Officer course with ATPL and type ratings for aircraft such as the A320, A330, B737, and more. Additional training programs include TRI/SFI courses, MCC, helicopter pilot training, aircraft maintenance engineering, and cabin crew training. JETSTREAM regularly conducts selection and training for major airlines and aviation entities globally, ensuring high-quality training to meet the demands of the aviation industry. The academy is known for its motivated staff, high-standard facilities, and commitment to delivering exceptional training.",
+  "icao": "LGAV",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

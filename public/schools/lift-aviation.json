@@ -1,0 +1,22 @@
+{
+  "id": "f118c2b9-4900-4c2e-93cf-3afc3de4f0ec",
+  "slug": "lift-aviation",
+  "name": "Lift Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "SRQ -Sarasota/Bradenton International Airport",
+  "website": "https://www.flyliftair.com/",
+  "email": "info@flyliftair.com",
+  "phone": "(941) 351-5340",
+  "about": "LIFT Academy, owned by Republic Airways, is a U.S.-based commercial aviation pilot training school headquartered in Indianapolis. It provides state-of-the-art training using a curriculum that combines flight, flight simulator, online, and in-classroom instruction. Students train on advanced aircraft from Diamond Aircraft Industries and utilize Aviation Advanced Training Devices and immersive virtual reality technology. With locations in Indianapolis, Indiana; Columbus, Indiana; Galveston, Texas; and Myrtle Beach, South Carolina, LIFT offers a defined pathway to a career as a commercial pilot at Republic Airways, including partnerships with Purdue Global for college credits. LIFT ensures students learn the skills and culture necessary for a successful aviation career from day one. For more information, visit www.flywithlift.com. LIFT Academy is committed to training the next generation of commercial airline pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

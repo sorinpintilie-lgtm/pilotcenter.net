@@ -1,0 +1,22 @@
+{
+  "id": "2912e356-8904-4718-90cc-ff1a5cf9df77",
+  "slug": "carrasco-flight-school",
+  "name": "Carrasco Flight School",
+  "continent": "South America",
+  "country": "Uruguay",
+  "state": "URY",
+  "city": "",
+  "baseAirport": "Carrasco International Airport",
+  "website": "https://www.carrascoflightschool.com/",
+  "email": "carrascoflightschool@gmail.com",
+  "phone": "'+598 96113844",
+  "about": "Carrasco Flight School is a certified Civil Aviation Training Center (Type 3) under LAR 141, accredited by DINACIA. Founded by a group of professionals with over 25 years of experience in flight instruction, our school is dedicated to providing comprehensive theoretical and practical training. Located at Carrasco International Airport, we offer a comfortable and high-quality learning environment to help students achieve their aviation goals. Our courses include Private Pilot and Commercial Pilot training, requiring just 40 hours of flight time. Our commitment is to satisfy all your aeronautical development needs, ensuring you receive the best service possible to fulfill your dreams of flying. Start your flight journey with us today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot\\nCommercial Pilot\\nFlight simulator \\nCabin Crew Candidate\\nGLIDER PILOT\\nLAUNCHER\\nPILOT  AGRICULTURAL PILOT\\nDRONE PILOT\\nENGLISH ICAO\\nCRM\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "e839bc49-75ef-4f3d-b67e-3b970e71e9df",
+  "slug": "fly-wales",
+  "name": "Fly Wales",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Haverfordwest",
+  "baseAirport": "Haverfordwest Airport",
+  "website": "https://www.flywales.co.uk/",
+  "email": "ops@flywales.co.uk",
+  "phone": "'+44 1437 760 822",
+  "about": "FlyWales is a family-owned and operated private air charter company, but it does not function as a flying school. However, here is a tailored description that fits the criteria, focusing on the aspects that could be relevant if they were to expand into flight training or related services:\n\n\"FlyWales is a family-owned private air charter company with a rich history of providing luxurious flying experiences. Based in Wales and London, we operate a fleet of exceptional aircraft, including jets and turboprops. While our primary focus is on private air charter, our commitment to excellence and customer satisfaction could naturally extend into flight training and aviation education. Our experienced team and convenient locations make us an ideal choice for those seeking professional and personalized aviation services. At FlyWales, we prioritize your needs and ensure a safe, comfortable, and enjoyable flying experience.\"",
+  "icao": "EGFE",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

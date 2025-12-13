@@ -1,0 +1,22 @@
+{
+  "id": "59a728e9-7f0d-4155-84ec-b05d2e36ae91",
+  "slug": "wwu-flight-center",
+  "name": "WWU Flight Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "ALW -Walla Walla Regional Airport",
+  "website": "https://www.wallawalla.edu/",
+  "email": "Tech1@wallawalla.edu",
+  "phone": "(509) 527-2323",
+  "about": "Walla Walla University Flight Center is a premier aviation training institution located at Walla Walla Regional Airport in Washington. With a reputation for quality and professionalism, the flight center offers comprehensive training programs for private, instrument, and commercial pilot licenses, as well as multi-engine ratings. Students benefit from one-on-one and classroom ground training, advanced simulators, and a fleet of well-maintained aircraft. The program is integrated with the university's academic curriculum, allowing students to pursue a four-year or optional two-year degree in aviation. Known for its experienced instructors, great staff, and commitment to safety, WWU Flight Center is highly recommended for those seeking a top-notch aviation education and a successful career in the aviation industry.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

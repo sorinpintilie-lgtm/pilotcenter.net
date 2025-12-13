@@ -1,0 +1,22 @@
+{
+  "id": "be5e8773-93f5-4eeb-a7bd-6a0dce584cab",
+  "slug": "air-gisborne",
+  "name": "Air Gisborne Ltd",
+  "continent": "Australia",
+  "country": "New Zealand",
+  "state": "NZ",
+  "city": "",
+  "baseAirport": "Gisborne Airport",
+  "website": "https://www.airgis.co.nz/",
+  "email": "air.gis@xtra.co.nz",
+  "phone": "0800 866 006",
+  "about": "Air Gisborne Ltd is a reputable flying school based in Gisborne, New Zealand. Established with a commitment to excellence in aviation training, the school offers a range of programs including private pilot and commercial pilot training. Our experienced instructors, many of whom hold NZ CAA Pilot Licences and medical certifications, provide personalized and comprehensive training. Located at Gisborne Airport, we offer a supportive and safe learning environment, ensuring students receive the highest quality education to kickstart their aviation careers. With a focus on safety, professionalism, and student success, Air Gisborne Ltd is dedicated to empowering the next generation of pilots. Join us to embark on a journey to achieve your aviation dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"TRIAL FLIGHT\\nFLYING SOLO\\nPRIVATE PILOT LICENCE\\nCOMMERCIAL PILOT LICENCE\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

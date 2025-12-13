@@ -1,0 +1,22 @@
+{
+  "id": "d8c39391-9fa6-4777-b1d7-7d704ee917b2",
+  "slug": "american-wings-flight-academy",
+  "name": "American Wings Flight Academy",
+  "continent": "North America",
+  "country": "United",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "X51 -Miami Homestead General Aviation Airport",
+  "website": "https://www.americanwingsflightacademy.com/",
+  "email": "rvalentino@americanwingsflightacademy.com",
+  "phone": "(786) 506-5997",
+  "about": "American Winds Flight Academy, located at Akron Fulton Airport in Ohio, is a nationally accredited vocational flight training school dedicated to providing personalized and comprehensive aviation training. Founded in 2007, the academy is SEVIS and TSA certified, allowing it to issue I-20s for international students. It offers a \"Fast Track\" training program that includes both Part 61 and Part 141 competencies, ensuring students meet all FAA requirements. With a focus on safety, hard work, and professionalism, American Winds provides affordable and flexible training options, including an Associate Degree in Applied Science of Aeronautics. The academy maintains a fleet of 11 planes and a state-of-the-art flight simulator, ensuring a safe and effective learning environment. American Winds is committed to making your flying experience outstanding, each and every time.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nDrone/UAS\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "794e6eb3-2144-436a-8f6f-f2cd53d64ab1",
+  "slug": "aero-sphere-flight-training-center",
+  "name": "Aero-Sphere Flight Training Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CO",
+  "city": "",
+  "baseAirport": "LMO -Vance Brand Airport",
+  "website": "https://aero-sphere.com/",
+  "email": "customerservice@aero-sphere.com",
+  "phone": "(303) 990-9886",
+  "about": "Aero-Sphere Flight Training Center is a premier aviation education facility dedicated to providing comprehensive and safe flight training. Led by Shane C. Warner, with over 14,300 hours of flight experience, our instructors are highly experienced professionals committed to making your training fun, efficient, and safe. We offer both in-the-air and on-the-ground training systems, allowing you to learn at your own pace. Our courses are designed to cater to both new and seasoned pilots, whether you're seeking initial certifications or additional ratings. With a strong focus on safety and professionalism, our staff is here to guide you every step of the way, ensuring a top-notch flight training experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

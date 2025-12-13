@@ -1,0 +1,22 @@
+{
+  "id": "50351091-5110-44c9-8b12-fb609662c7a0",
+  "slug": "ifr-flight-training-school",
+  "name": "IFR Flight Training School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "GTU -Georgetown Exec Airport",
+  "website": "https://www.flyifr.com/",
+  "email": "wilson@flyifr.com",
+  "phone": "(512) 751-6275",
+  "about": "At IFR Flight Training School™, we are dedicated to training pilots to optimum standards and proficiency in all levels of pilot certification, from Student Pilot to Airline Transport Pilot (ATP). Located at the Georgetown Municipal Airport in Texas, our school offers a comprehensive range of courses, including Instrument Rating, Commercial Pilot, and Certified Flight Instructor programs. Our experienced instructors, many of whom are former military aviators, provide personalized and efficient training using top industry syllabi and advanced simulation tools like the ELITE PI-135 Professional BATD Flight Sim. We emphasize safety, confidence, and mastery of IFR procedures, ensuring our students are well-prepared for any flying conditions. With a commitment to quality and thorough training, we help aspiring aviators achieve their goals and fly safely with confidence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

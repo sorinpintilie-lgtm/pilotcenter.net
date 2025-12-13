@@ -1,0 +1,22 @@
+{
+  "id": "a5cff406-07e2-4aba-979a-0e8747585211",
+  "slug": "letourneau-university",
+  "name": "LeTourneau University",
+  "continent": "North America",
+  "country": "USA",
+  "state": "TX",
+  "city": "Longview",
+  "baseAirport": "East Texas Regional Airport",
+  "website": "https://www.letu.edu/academics/aviation/",
+  "email": "admissions@letu.edu",
+  "phone": "'+1 903-233-3000 /  1-800-759-8811",
+  "about": "LeTourneau University's College of Aviation & Aeronautical Science offers a comprehensive and renowned aviation education program, established in 1956. As the only comprehensive aviation training program in Texas, it provides hands-on training in a state-of-the-art facility, the Paul & Betty Abbott Aviation Center. Students can pursue degrees in Professional Flight, Mission Aviation, and other aviation fields, earning certifications such as Private Pilot, Instrument Rating, and Commercial Pilot certificates. The program is distinguished by its Christian values, integrated faith and work ethos, and partnerships with regional airlines. With a legacy of excellence and a commitment to producing industry-ready graduates, LeTourneau University is a premier choice for aspiring aviation professionals.",
+  "icao": "KGGG",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "F-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

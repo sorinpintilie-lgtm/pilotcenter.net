@@ -1,0 +1,22 @@
+{
+  "id": "3cb41a0d-c9ea-41b0-bd57-d57323f88ed3",
+  "slug": "lets-fly-san-diego",
+  "name": "Let's Fly San Diego",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "MYF -Montgomery-Gibbs Exec Airport",
+  "website": "https://letsflysandiego.com/",
+  "email": "bruceelig@letsflysandiego.com",
+  "phone": "(619) 518-5794",
+  "about": "Let's Fly San Diego is a comprehensive resource for aspiring and experienced pilots in the San Diego area. We provide detailed information on pilot training, flight training, and the opportunities available through both traditional flight schools and independent instruction. Our goal is to educate viewers on the various paths to obtaining a pilot's license, including integrated flight training and the benefits of working with independent flight instructors. We offer guidance on how to interview a flight instructor, the cost savings of independent instruction, and the steps to take an introductory flight lesson. Whether you are seeking quality training, affordability, or a personalized learning experience, Let's Fly San Diego is your go-to resource for all your flying needs. We are dedicated to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

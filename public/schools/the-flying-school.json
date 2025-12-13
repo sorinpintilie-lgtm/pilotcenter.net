@@ -1,0 +1,22 @@
+{
+  "id": "bb63871b-318d-4e22-a92e-8941cb1d5ff6",
+  "slug": "the-flying-school",
+  "name": "The Flying School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CO",
+  "city": "",
+  "baseAirport": "FNL -Northern Colorado Regional Airport",
+  "website": "https://www.theflyingschool.com/",
+  "email": "csr@theflyingschool.com",
+  "phone": "(970) 203-9980",
+  "about": "The Flying School, located in Loveland, Colorado, and Cheyenne, Wyoming, is a premier institution for commercial pilot training. Founded by Danny and Kelly Freeland in 2016 to support their sons' aviation dreams, the school offers comprehensive programs from private pilot licenses to certified flight instructor certifications. With experienced instructors like Brooke Jones, Dave Johnson, and Melia Barlow, the school focuses on fostering a high standard of airmanship and safety. The Flying School has a successful track record, with graduates hired by major airlines such as United, Frontier, and Skywest. The school's accelerated programs and flexible training schedules make it an ideal choice for aspiring pilots seeking a lucrative and fulfilling career in aviation. The Flying School is committed to helping students achieve their aviation goals with professionalism and dedication.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

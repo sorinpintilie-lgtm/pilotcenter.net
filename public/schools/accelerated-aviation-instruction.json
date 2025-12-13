@@ -1,0 +1,22 @@
+{
+  "id": "af2755d6-147a-467e-9989-e5f538d64e62",
+  "slug": "accelerated-aviation-instruction",
+  "name": "Accelerated Aviation Instruction",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MN",
+  "city": "",
+  "baseAirport": "OWA -Owatonna Degner Regional Airport",
+  "website": "https://accelerated-aviation.com/",
+  "email": "jim@accelerated-aviation.com",
+  "phone": "(507) 383-5710",
+  "about": "Accelerated Aviation Instruction is a premier flight school dedicated to rapid and efficient aviation training. We offer a range of accelerated programs, including Private Pilot, Instrument Rating, Commercial Pilot, and Flight Instructor certifications, all designed to be completed in significantly less time than traditional flight schools. Our programs ensure continuous training with no delays for instructors or aircraft, often dedicating one instructor to each student. Located at the Owatonna Airport, our training environment includes access to ILS, VOR, and RNAV approaches, as well as proximity to Class B and D airspace for comprehensive experience. Our goal is to get you flying faster and at a lower cost, allowing you to reach your aviation goals quickly and effectively. With a focus on speed, seniority, and quality training, Accelerated Aviation Instruction is the ideal choice for those eager to start their aviation career promptly.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

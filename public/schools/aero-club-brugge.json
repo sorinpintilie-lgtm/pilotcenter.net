@@ -1,0 +1,22 @@
+{
+  "id": "40eb778d-e450-4801-b3ce-91f672a240e0",
+  "slug": "aero-club-brugge",
+  "name": "Aero Club Brugge",
+  "continent": "Europe",
+  "country": "Belgium",
+  "state": "BELG",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.aeroclub-brugge.be/",
+  "email": "info@aeroclub-brugge.be",
+  "phone": "'+329 374 25 75",
+  "about": "Aero Club Brugge is a reputable flying school located in Ursel, Belgium, offering comprehensive aviation training. With a focus on both recreational and professional pilot training, the club provides a range of courses including Private Pilot Licences (PPL) and Commercial Pilot Licences (CPL). Our experienced instructors are dedicated to ensuring students receive high-quality theoretical and practical training. The club's fleet is well-maintained, and our commitment to safety is paramount. Whether you are flying for pleasure or pursuing a career in aviation, Aero Club Brugge is a trusted choice for your flight training needs. We are dedicated to helping you achieve your flying goals in a safe and supportive environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"A ULM training\\nA PPL training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

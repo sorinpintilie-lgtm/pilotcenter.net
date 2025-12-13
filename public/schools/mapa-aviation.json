@@ -1,0 +1,22 @@
+{
+  "id": "2fae1a38-7ec8-4c2b-908a-47f6130c6c00",
+  "slug": "mapa-aviation",
+  "name": "Mapa Aviation",
+  "continent": "Africa",
+  "country": "Morocco",
+  "state": "MAR",
+  "city": "",
+  "baseAirport": "Aéroport de Benslimane",
+  "website": "https://mapa-aviation.com/en/home/",
+  "email": "contact@mapa-aviation.com",
+  "phone": "'+212 5 23 29 05 55/56",
+  "about": "MAPA Aviation, or Morocco Aviation Private Academy, is a premier flight training institution dedicated to nurturing the next generation of airline pilots. With a comprehensive ATPL (Airline Transport Pilot Licence) program, MAPA offers an integrated ab-initio training course designed for candidates with no prior aeronautical experience, as well as those with previous flying background. The training encompasses 10 key modules totaling 1300 hours of theoretical instruction, ensuring a thorough and professional education. MAPA’s unique partnership with airlines provides graduates with exclusive recruitment opportunities, setting them on a direct path to a successful aviation career. By integrating trainees into a professional environment from the outset, MAPA ensures they are well-prepared to launch their careers as airline pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot\\nPrivate Pilot License\\nTMA / EASA\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

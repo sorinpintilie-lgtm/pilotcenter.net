@@ -1,0 +1,22 @@
+{
+  "id": "dc705c56-c452-472c-a2bc-041b436e3622",
+  "slug": "capital-city-aviation",
+  "name": "Capital City Aviation Inc.",
+  "continent": "North America",
+  "country": "USA",
+  "state": "OH",
+  "city": "Colubmus",
+  "baseAirport": "Ohio State University Airport-KOSU",
+  "website": "https://capitalcityaviation.com/",
+  "email": "info@capitalcityaviation.com",
+  "phone": "'+1 614-459-2541",
+  "about": "Capital City Aviation Inc is a non-profit flight training and aircraft rental club based at the Ohio State University Airport (KOSU) in Columbus, Ohio. Our primary mission is to develop safe and proficient pilots through tailored flight training programs that exceed Federal Aviation Administration standards. We offer Private Pilot Certificates, Instrument Ratings, Commercial Ratings, and Certified Flight Instructor Ratings, among others. As a Certified Cirrus Training Center, our instructors are experts in Cirrus Aircraft and follow the Cirrus Approach to training. Our fleet includes modern aircraft from Cessna, Beechcraft, and Cirrus, equipped with advanced avionics and safety features. Membership includes access to our online scheduling system, quality rental fleet, and comprehensive training resources. Join us to achieve your aviation goals with quality, value, and dedicated instruction.",
+  "icao": "KOSU",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

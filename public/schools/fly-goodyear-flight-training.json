@@ -1,0 +1,22 @@
+{
+  "id": "819f4386-620c-4784-ab85-af4029117979",
+  "slug": "fly-goodyear-flight-training",
+  "name": "FLY Goodyear Flight Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "GYR -Phoenix Goodyear Airport",
+  "website": "https://www.flygoodyear.com/our-team",
+  "email": "",
+  "phone": "(623) 469-4422",
+  "about": "FLY Goodyear Flight Training, formerly known as Buckeye Flight Experience, has been training pilots in the Phoenix Valley for over 15 years. Since moving to the Goodyear Airport in 2013, we have provided a quality and personalized learning environment. We offer single-engine and multi-engine flight training for both recreational and career-oriented pilots, including Private Pilot, Instrument Rating, Commercial Pilot, and Certified Flight Instructor certifications. Our fleet includes Cessna 172s and Piper Seneca I and II aircraft. We emphasize flexible, one-on-one instruction and online ground school to accommodate various schedules. With competitive rates and financing options available, we ensure that flight training is both rewarding and fun. Our experienced instructors are dedicated to helping you achieve your aviation goals. Contact us to start your flight training journey today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

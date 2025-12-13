@@ -1,0 +1,22 @@
+{
+  "id": "c811ee35-db81-45d8-a51f-3e1905770d74",
+  "slug": "abilene-flying-service",
+  "name": "Abilene Flying Service",
+  "continent": "North America",
+  "country": "United States",
+  "state": "KS",
+  "city": "",
+  "baseAirport": "K78 -Abilene Municipal Airport",
+  "website": "https://www.abilenecityhall.com/379/Airport",
+  "email": "jim@abilenecityhall.com",
+  "phone": "(785) 263-3970",
+  "about": "Abilene Flying Service, located in Abilene, Kansas, is a comprehensive aviation provider serving the Abilene Municipal Airport (K78). As a Fixed Base Operator (FBO), we offer a range of services including aircraft rental, airframe and powerplant maintenance, and ground transportation. Our facility includes amenities such as internet access, a pilot lounge, and courtesy cars. We specialize in pilot training under FAR Part 61, ensuring aspiring pilots receive top-notch instruction. With a focus on customer satisfaction and quality service, Abilene Flying Service is dedicated to meeting all your aviation needs. We guarantee our work and your satisfaction, making us a trusted choice in the region.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nSport Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

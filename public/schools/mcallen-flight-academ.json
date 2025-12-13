@@ -1,0 +1,22 @@
+{
+  "id": "3bab9509-f0ad-472a-8772-54531949df38",
+  "slug": "mcallen-flight-academ",
+  "name": "McAllen Flight Academy",
+  "continent": "North America",
+  "country": "United",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "MFE -Mc Allen International Airport",
+  "website": "https://www.mcallenflightacademy.com/",
+  "email": "mcallenflightacademy@hotmail.com",
+  "phone": "(956) 533-1570",
+  "about": "McAllen Flight Academy is a premier aviation training institution dedicated to cultivating future leaders in the aviation industry. With a strong commitment to education, we offer a range of rigorous and hands-on training programs, including Private Pilot Certificates, Instrument Ratings, Commercial Ratings, and Commercial Multi-Engine certifications. Our academy also provides specialized training in Flight Instructor Certificates and Commercial Drone Operations. Partnering with McAllen ISD, we support high school students in earning their private pilot and drone licenses through state-funded programs. Our expert instructors and carefully crafted training programs ensure students are well-prepared for successful careers in aviation. We are proud to contribute to the development of skilled and knowledgeable professionals, ready to meet the growing demand for pilots and aviation professionals. Join us to embark on a journey to the skies and a fulfilling career in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nDrone/UAS\\nGround School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

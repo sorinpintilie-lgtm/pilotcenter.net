@@ -1,0 +1,22 @@
+{
+  "id": "874a5dc1-f304-4199-99d8-f03dca380783",
+  "slug": "emerald-coast-aviation",
+  "name": "Emerald Coast Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "CEW -Bob Sikes Airport",
+  "website": "https://www.emeraldcoastaviation.com/",
+  "email": "info@emeraldcoastaviation.com",
+  "phone": "(850) 398-6749",
+  "about": "Emerald Coast Aviation, located at Crestview Bob Sikes Airport (KCEW) in Northwest Florida, offers comprehensive flight training and full-service Fixed Base Operator (FBO) amenities. We provide training for Private Pilot, Commercial Pilot, Instrument Rating, Multi-Engine, and Flight Instructor certifications. Our modern 5,000 sf terminal features a comfortable lounge area with complimentary refreshments. We pride ourselves on high-quality aircraft maintenance, full-service fueling, and a secure tie-down area. Our team, comprising experienced professionals including former military and airline personnel, ensures technical proficiency and safety. As a family-owned local company, we are dedicated to serving commercial, private, corporate, and military customers with quintessential southern hospitality. We strive to be your home away from home on the Emerald Coast.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

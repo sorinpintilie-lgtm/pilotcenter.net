@@ -1,0 +1,22 @@
+{
+  "id": "fb27e04e-3618-47ef-8f1b-ca339e79a5e4",
+  "slug": "northpoint-aviation",
+  "name": "NorthPoint Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MN",
+  "city": "",
+  "baseAirport": "BRD -Brainerd Lakes Regional Airport",
+  "website": "https://northpointaviation.net/",
+  "email": "frontdesk@northpointaviation.net",
+  "phone": "(218) 829-3398",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

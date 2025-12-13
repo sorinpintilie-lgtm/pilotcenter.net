@@ -1,0 +1,22 @@
+{
+  "id": "8d724403-ae74-4a44-84e9-0c717659e0db",
+  "slug": "tas-aviation",
+  "name": "TAS Aviation Inc.",
+  "continent": "North America",
+  "country": "USA",
+  "state": "OH",
+  "city": "Defiance",
+  "baseAirport": "Defiance County Airport",
+  "website": "https://tas-aviation.com/",
+  "email": "info@tas-aviation.com / Marla@TAS-Aviation.com",
+  "phone": "'+1 419-658-4444",
+  "about": "TAS Aviation, located at the Defiance Memorial Airport in Defiance, Ohio, is a premier flight training provider since 1976. Specializing in tailored aviation courses, TAS Aviation offers a range of programs from private pilot training to commercial certifications and instrument ratings. With a fleet of modern aircraft, including Cessna models, and experienced instructors, the school ensures a personalized and safe learning experience. TAS Aviation also provides maintenance, sales, and acquisition services, particularly for Twin Cessna aircraft. Committed to excellence and customer satisfaction, TAS Aviation helps aspiring pilots achieve their flying goals with confidence and proficiency. Contact us today to start your journey to the skies.",
+  "icao": "KDFI",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

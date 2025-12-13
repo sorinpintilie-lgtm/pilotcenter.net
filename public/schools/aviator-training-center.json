@@ -1,0 +1,22 @@
+{
+  "id": "bbe4d0b2-400a-4fd5-bd0c-54fb760097e8",
+  "slug": "aviator-training-center",
+  "name": "Aviator Training Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "FXE -Fort Lauderdale Exec Airport",
+  "website": "https://www.flyatc.us/",
+  "email": "admin@flyatc.us",
+  "phone": "(954) 686-1359",
+  "about": "At Aviator Training Center, located on the north side of Lantana Airport in South Florida, we offer a comprehensive and affordable flight training experience. As a FAA-certified Part 141 and Part 61 program, we provide competitive prices, fast-track programs, and a safe learning environment. Our highly qualified and patient flight instructors are dedicated to helping you achieve your pilot goals. We cater to your schedule with full staff availability 7 days a week. By owning our own aircraft and performing our own maintenance, we keep costs low for our students. Whether you're starting with a discovery flight or pursuing a private pilot certificate, Aviator Training Center is committed to making your aviation dreams a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

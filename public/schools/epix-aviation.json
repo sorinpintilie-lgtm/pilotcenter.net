@@ -1,0 +1,22 @@
+{
+  "id": "10d705c6-201c-470f-8389-700afabacad5",
+  "slug": "epix-aviation",
+  "name": "Epix Aviation",
+  "continent": "North America",
+  "country": "United",
+  "state": "VA",
+  "city": "",
+  "baseAirport": "CPK -Chesapeake Regional Airport",
+  "website": "https://epixaviation.com/",
+  "email": "dispatch@epixaviation.com",
+  "phone": "(757) 421-4973",
+  "about": "Epix Aviation, based at the Chesapeake Regional Airport (KCPK), offers professional flight training, reliable aircraft rental, and first-rate maintenance services. Our team of experienced aviation professionals is committed to safety and customer service, ensuring an enjoyable and unforgettable experience. We provide a range of training options, including complex aircraft training and tailwheel endorsements, using a diverse fleet that includes Cessna 172s, Piper Archers, and Citabrias. Our services are conveniently located near Norfolk and Virginia Beach, making us an ideal choice for pilots in the region. With a focus on safety and excellence, Epix Aviation is dedicated to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

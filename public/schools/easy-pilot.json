@@ -1,0 +1,22 @@
+{
+  "id": "85e2e75d-5903-4c21-814a-abc2ef29175d",
+  "slug": "easy-pilot",
+  "name": "Easy-Pilot Ltd.",
+  "continent": "Europe",
+  "country": "Hungary",
+  "state": "HUNG",
+  "city": "",
+  "baseAirport": "Airport Tokol",
+  "website": "https://www.easy-pilot.com/",
+  "email": "info@easy-pilot.com",
+  "phone": "'+36 70 144 3042",
+  "about": "Easy-Pilot Ltd., based in Budapest, Hungary, is a leading EASA-approved Approved Training Organization (ATO) dedicated to making flight training simple, efficient, and accessible. Founded and managed by active professional pilots, Easy-Pilot specializes in EASA exams and license conversions. The school offers comprehensive, flexible, and innovative training programs, supported by a team of knowledgeable instructors and a proactive administrative staff. With a focus on practical knowledge and real-life examples, Easy-Pilot ensures students receive personalized attention and mentorship, resulting in a 92% exam success rate. Their global student base benefits from regularly scheduled online classes, a vast test question bank, and convenient exam centers worldwide. Easy-Pilot is committed to providing high-quality education and support, fostering a supportive and encouraging atmosphere for aspiring pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"EASA Aerobatic Flight Training\\nLicense Conversion\\nATPL Theory Course\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

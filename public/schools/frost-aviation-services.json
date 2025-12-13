@@ -1,0 +1,22 @@
+{
+  "id": "f4a09be3-d168-4d9d-b4c2-637b935dacbd",
+  "slug": "frost-aviation-services",
+  "name": "Frost Aviation Services",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NM",
+  "city": "",
+  "baseAirport": "LRU -Las Cruces International Airport",
+  "website": "https://frostaviation.com/",
+  "email": "frostaviationservices@gmail.com",
+  "phone": "(575) 521-8000",
+  "about": "Frost Aviation Services, Inc. is a Part 61 Flight School located at Las Cruces International Airport in New Mexico. We offer a comprehensive range of flight training programs, including Private Pilot, Instrument Rating, Commercial Pilot, and Certified Flight Instructor certifications. Our fleet includes Piper Archers, Arrows, and Aztecs, ensuring students have access to well-maintained and diverse aircraft. Led by Gold Seal Flight Instructor Chris Frost, our team is dedicated to stretching students' training dollars and helping them achieve their aviation goals. We provide 24/7 self-serve AVGAS 100LL, convenient facilities, and a supportive learning environment. Frost Aviation is a member of the NM Pilot Association, EAA, and AOPA, and we are committed to preparing students for career or pleasure flying with excellent instructors and affordable rates. Join us to start your aviation journey today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

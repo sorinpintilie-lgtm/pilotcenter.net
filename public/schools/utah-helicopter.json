@@ -1,0 +1,22 @@
+{
+  "id": "de701f7b-4f34-4a29-94c0-3ec207393dbb",
+  "slug": "utah-helicopter",
+  "name": "Utah Helicopter",
+  "continent": "North America",
+  "country": "United States",
+  "state": "UT",
+  "city": "",
+  "baseAirport": "SPK -Spanish Fork Muni/Woodhouse Field",
+  "website": "https://utahhelicopter.com/",
+  "email": "info@utahhelicopter.com",
+  "phone": "(801) 794-2480",
+  "about": "Utah Helicopter is Utah's premier flight school, offering comprehensive helicopter training in the heart of Utah County and the Salt Lake City metropolitan area. Our programs focus on flying Robinson R22 and R44 helicopters in varied and spectacular airspace, including high-altitude mountainous environments that demand greater finesse and better energy management. With two convenient locations in Spanish Fork and West Jordan, we provide one-on-one instruction, flexible scheduling, and a pay-as-you-go payment system. Our training includes ground school, hands-on flights, and specialized courses such as mountain operations and night vision training. We are committed to creating an ideal flight training environment, ensuring each student receives personalized attention and satisfaction. Schedule a Discovery Flight to experience our exceptional training style and meet our phenomenal staff. At Utah Helicopter, we are dedicated to helping you achieve your pilot career goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

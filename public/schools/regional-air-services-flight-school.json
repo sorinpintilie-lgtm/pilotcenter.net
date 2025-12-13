@@ -1,0 +1,22 @@
+{
+  "id": "b631a1f5-021f-4faa-ab61-11d088a93fd1",
+  "slug": "regional-air-services-flight-school",
+  "name": "Regional Air Services Flight School",
+  "continent": "Europe",
+  "country": "Romania",
+  "state": "ROM",
+  "city": "",
+  "baseAirport": "Tuzla Airport",
+  "website": "https://www.regional-air-school.com/",
+  "email": "office@regional-air.ro",
+  "phone": "'+40 375 390 390",
+  "about": "Regional Air Services is a dynamically expanding flight school located in Tuzla, Romania, owned and operated by experienced airline pilots. We are certified as an Approved Training Organization (RO/ATO-06) by the Romanian Civil Aeronautical Authority and comply with EU Regulation 1178/2011. Our school offers a range of EASA-approved modular training programs, including Private Pilot Licence (PPL), Commercial Pilot Licence (CPL), and Airline Transport Pilot Licence (ATPL). Our instructors, many of whom have professional experience in major airlines, provide high-quality training using modern procedures, equipment, and materials. We cater to both aspiring professional pilots and those who fly for leisure, ensuring comprehensive and integrated training. With a strong track record of placing graduates in airlines such as Ryanair, Wizzair, and TAROM, Regional Air Services is a prestigious institution for aviation training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"FI – Flight Instructor\\nIR – Instrument Rating\\nTEA – Test of English for Aviation (for ELP)\\nNQ – Night Rating\\nATPL Airline Transport Pilot Licence\\nPPL(A)/SEP – Private Pilot Licence\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

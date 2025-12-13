@@ -1,0 +1,22 @@
+{
+  "id": "fc9cbc59-f2ee-46bc-8515-98861cfb14f5",
+  "slug": "astonfly",
+  "name": "Astonfly",
+  "continent": "Europe",
+  "country": "France",
+  "state": "FR",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://astonfly.com/",
+  "email": "contact@astonfly.com",
+  "phone": "'+ 33 (0) 1 39 56 05 26",
+  "about": "Astonfly, founded in 2004 by Charles Clair and part of the Clair Group, is France's leading flight school, training over 150 pilots annually. Certified by the Direction Générale de l´Aviation Civile (DGAC) and compliant with European Aviation Safety Agency (EASA) directives, Astonfly offers both Modular and Integrated training programs. As Ryanair's exclusive partner for the Ryanair Mentored Programme, Astonfly prepares students for careers with over 50 airlines worldwide. With a modern campus at Toussus-le-Noble, the school features a fleet of 40 aircraft, three simulators, and a rigorous training framework that ensures 96% of graduates find employment within 12 months. Astonfly's commitment to excellence and student support makes it a premier choice for aspiring airline pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Post-Training Skills Maintenance\\nOptimized employability\\nTraining Successful\\nor Refunded\\nFirst\\nAirline Pilot Trainer in France\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

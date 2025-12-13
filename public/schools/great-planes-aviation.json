@@ -1,0 +1,22 @@
+{
+  "id": "ccf7d62d-002e-4566-8e65-6575e5230240",
+  "slug": "great-planes-aviation",
+  "name": "Great Planes Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MN",
+  "city": "",
+  "baseAirport": "RST -Rochester International Airport",
+  "website": "https://www.flygreatplanes.com/",
+  "email": "info@flygreatplanes.com",
+  "phone": "(507) 218-4700",
+  "about": "At Great Planes Aviation, we are dedicated to shaping the future of aviation by nurturing the aspirations of tomorrow's pilots. Our Pilot Academy offers a comprehensive range of training programs, including the Pro-Pilot Track, Custom Track, and Accelerated Flight Training, all designed to transform aviation enthusiasts into fully licensed commercial pilots. With a strong emphasis on ground school education and hands-on training, our students benefit from highly experienced and FAA-certified flight instructors. We provide clean, updated aircraft and a full-service FAA-licensed maintenance department at the Rochester International Airport. Our commitment to precision, safety, and reliability makes us more than just a flying school; we are a partner in your aviation journey. Join us to turn your aspirations into reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

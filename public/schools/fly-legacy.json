@@ -1,0 +1,22 @@
+{
+  "id": "aaaab0fc-074b-4276-b62b-62af297bca60",
+  "slug": "fly-legacy",
+  "name": "Fly Legacy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "PA",
+  "city": "Philadelphia",
+  "baseAirport": "Northeast Philadelphia Airport",
+  "website": "https://flylegacyaviation.com/",
+  "email": "info@flywithlegacy.com",
+  "phone": "'+1 215-969-0311",
+  "about": "Fly Legacy Aviation is a reputable flight school approved by the United States Government, catering to students from around the world. Our comprehensive programs include introductory flight lessons, private pilot training, twin-engine ratings, and instrument instruction, all following FAA-approved syllabi. We offer flexible scheduling, allowing students to progress at their own pace, with personalized instruction and the use of new Piper Pilot 100i aircraft. Our upgraded flight simulator, X-Plane 11, provides an immersive and realistic flying experience. We also offer aircraft rentals, including Piper Archer and Piper Warrior models. Located near several rental apartment complexes, we facilitate easy access for our students. With a focus on quality instruction and a supportive learning environment, Fly Legacy Aviation is dedicated to helping aspiring pilots achieve their aviation goals.",
+  "icao": "KPNE",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

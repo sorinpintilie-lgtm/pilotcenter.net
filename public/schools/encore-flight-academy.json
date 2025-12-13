@@ -1,0 +1,22 @@
+{
+  "id": "923bc2fa-8e6a-44e1-b240-d583afbc72de",
+  "slug": "encore-flight-academy",
+  "name": "Encore Flight Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "VNY -Van Nuys Airport",
+  "website": "https://encoreflight.com/",
+  "email": "info@encoreflight.com",
+  "phone": "(818) 994-2004",
+  "about": "Encore Flight Academy, located at Van Nuys Airport, is a prominent flight school established in 2005 by enthusiastic pilots. We offer a range of programs from Private Pilot licenses to Commercial Pilot Training, designed by commercial airline pilots for comprehensive and cost-efficient education. Our fleet includes sophisticated Diamond Aircraft models and four FAA-approved flight simulators. With highly qualified instructors from reputable institutes like Embry-Riddle Aeronautical University, we provide top-notch ground and flight training. Van Nuys Airport's ideal weather and complex airspaces make it an excellent location for unmatched flight instruction. Our goal is to make your learning experience memorable and successful.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

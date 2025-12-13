@@ -1,0 +1,22 @@
+{
+  "id": "ceda9c01-368c-4f1b-ac93-38b8bd18dd9e",
+  "slug": "east-hill-flying-club",
+  "name": "East Hill Flying Club",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NY",
+  "city": "",
+  "baseAirport": "ITH -Ithaca Tompkins International Airport",
+  "website": "https://www.flyeasthill.org/",
+  "email": "info@flyeasthill.org",
+  "phone": "(607) 257-1313",
+  "about": "East Hill Flying Club, established in 1952 by employees of Robinson Airlines, is a multi-faceted group of aviators and aviation enthusiasts. As a not-for-profit organization, it includes the East Hill Aviation Foundation and Aviation Explorer Post 62. The club offers FAA Part 141 flight training with ten certified instructors and nine aircraft, including Cessna 152 and 172 models, equipped with the latest technology such as Garmin ADS-B transponders. Members can enjoy fly-outs, scenic flights over Ithaca and the Finger Lakes, and various community activities. The club provides a Discovery Flight introduction to flying and accommodates schedules with seven-day training. East Hill Flying Club has been teaching flying in Ithaca for over 60 years, making flying accessible and enjoyable for its members.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nComputerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nSimulator\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "50701cd7-3c04-47b5-b900-ae64eb2165b7",
+  "slug": "rainier-flight-service",
+  "name": "Rainier Flight Service",
+  "continent": "North America",
+  "country": "USA",
+  "state": "WA",
+  "city": "Renton",
+  "baseAirport": "Renton Municipal Airport",
+  "website": "https://www.rainierflightservice.com/",
+  "email": "admin@rainierflight.com",
+  "phone": "'+1 425-610-6293",
+  "about": "Rainier Flight Service is the largest flight school in Washington State and a nationally recognized leader in the flight training industry. With a mission to provide the highest quality of flight training in a safe, efficient, and fun environment, we offer comprehensive programs for both career and leisure pilots. Our fleet includes over 50 aircraft, primarily late-model Cessna 162 and 172s with modern glass cockpit instrumentation. We operate from four premier locations in the Puget Sound area, including Renton, Everett, Auburn, and Tacoma. Our experienced instructors teach in-class ground school courses and offer discovery flights, simulators, and pilot supplies. We emphasize safety and customer service, making us the best flight school in the Seattle area for achieving your aviation goals.",
+  "icao": "KRNT",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nSeaplane Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

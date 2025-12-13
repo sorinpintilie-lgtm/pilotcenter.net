@@ -1,0 +1,22 @@
+{
+  "id": "6765408c-beb8-460d-b526-df800d63a9a1",
+  "slug": "oslo-flight-academy",
+  "name": "Oslo Flight Academy",
+  "continent": "Europe",
+  "country": "Norway",
+  "state": "NORW",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://osloflightacademy.no/",
+  "email": "hei@osloflightacademy.no",
+  "phone": "'+47 91 81 00 60",
+  "about": "Oslo Flight Academy (OFA) is an EASA Approved Training Organisation (NO.ATO.025) and Declared Training Organisation (NO.DTO.0036), offering various modular flight training and theoretical knowledge courses, including PPL, CB-IR(A), ATPL(A), and ATPL(H)/IR. Led by experienced professionals like Ole Martin, with over 15 years in the industry and 6000 flight hours, and Kjersti, with a diverse background in European regulations, OFA ensures the highest degree of safety and compliance. The academy provides comprehensive training programs, including the FAA & EASA Airline Pilot Program in collaboration with Pacific States Aviation, and advanced simulator training on aircraft like the B737NG. With a strong focus on safety and regulatory adherence, OFA prepares students for successful careers as commercial pilots. Contact us to embark on your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private pilot\\nInstrument\\nCommercial pilot\\nAPS MCC Course\\nCrediting\\nFAA/ICAO conversion\\nSEP class right\\nMEP class right\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

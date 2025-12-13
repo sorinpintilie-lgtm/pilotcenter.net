@@ -1,0 +1,22 @@
+{
+  "id": "068d41f5-9425-4414-a56d-540d13054291",
+  "slug": "fundamentals-flight-training",
+  "name": "Fundamentals Flight Training",
+  "continent": "North America",
+  "country": "USA",
+  "state": "PA",
+  "city": "Erie",
+  "baseAirport": "Erie International Airport",
+  "website": "https://www.fundamentalsflight.com/",
+  "email": "fundamentalsflight@gmail.com",
+  "phone": "'+1 814-580-8351",
+  "about": "Fundamentals Flight Training, based at the Erie International Airport, offers high-quality, affordable, and safe flight training programs from private pilot to commercial licenses. We provide both Part 141 and Part 61 training, ensuring flexibility and compliance with FAA standards. Our experienced instructors, including CFIs and CFII/MEIs, are dedicated to tailoring the learning experience to each student's needs and goals. We emphasize safety, meticulous pre-flight checks, and emergency procedures. Our training includes private pilot, instrument rating, commercial pilot, certified flight instructor, and multi-engine rating certifications. Take a discovery flight for just $150 to experience flying with our instructors and start your aviation journey. At Fundamentals Flight Training, we are committed to making you a confident and skilled pilot.",
+  "icao": "KERI",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

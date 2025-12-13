@@ -1,0 +1,22 @@
+{
+  "id": "86fb5c34-065e-4ead-9b0c-2ca0f566cc4b",
+  "slug": "brown-aero-technologies",
+  "name": "Brown Aero Technologies, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AL",
+  "city": "",
+  "baseAirport": "ALX -Thomas C Russell Field",
+  "website": "https://brownaero.com/",
+  "email": "support@brownaero.com",
+  "phone": "(334) 787-9610",
+  "about": "Brown Aero Technologies, LLC is a reputable aviation company based in Lanett, Alabama, operating out of the Lanett Municipal Airport. We are committed to helping aspiring pilots achieve their flying dreams through comprehensive training programs. Our offerings include Ground School, Private Pilot, Commercial Pilot, Instrument Rating, and CFI/CFII Training. We also provide housing for full-time students to ensure a seamless learning experience. With a focus on personalized training and development, Brown Aero Technologies is dedicated to equipping students with the skills and knowledge necessary to succeed in the aviation industry. Our experienced instructors and supportive environment make us an ideal choice for those pursuing a career in flight.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

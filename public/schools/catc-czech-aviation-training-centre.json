@@ -1,0 +1,22 @@
+{
+  "id": "74f29301-c34d-49e7-84a8-c7543c84be29",
+  "slug": "catc-czech-aviation-training-centre",
+  "name": "CATC Czech Aviation training Centre",
+  "continent": "Europe",
+  "country": "Czech Republic",
+  "state": "",
+  "city": "Prague",
+  "baseAirport": "Václav Havel Airport Prague",
+  "website": "https://www.catc.cz/",
+  "email": "info@catc.cz",
+  "phone": "'+420-222-101-222",
+  "about": "The CATC Czech Aviation Training Centre, located at Vaclav Havel International Airport in Prague, Czech Republic, is a premier institution for aviation training in Central Europe. With over 15 years of experience, CATC offers high-quality training programs for both new and experienced aviators. Equipped with the latest technology and simulators, CATC provides top-notch training in accordance with European aviation standards. The centre is renowned for its professional and friendly instructors, and its programs include pilot training, cabin crew attestation, and aircraft maintenance licenses, all of which are valid and transferable within the European Union. CATC is committed to producing thoroughly trained airline pilots and maintains strong partnerships to enhance its training portfolio. Join CATC to embark on a successful aviation career.",
+  "icao": "LKPR",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nSeaplane Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

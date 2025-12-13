@@ -1,0 +1,22 @@
+{
+  "id": "e3f2b8c7-7388-419c-9e8d-3614d5db4493",
+  "slug": "nw-wings-aviation",
+  "name": "NW Wings Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OR",
+  "city": "",
+  "baseAirport": "HIO -Portland-Hillsboro Airport",
+  "website": "https://www.nwwafly.com/",
+  "email": "mminch@nwwafly.com",
+  "phone": "(503) 906-0945",
+  "about": "NW Wings Aviation is a premier flight training institution dedicated to providing flexible and personalized learning experiences. Our programs cater to aspiring pilots aiming for private or commercial licenses, offering ground training in aircraft systems, navigation, and weather charts. With industry-leading instructors and a safe, reliable fleet that exceeds FAA airworthiness certification, we ensure a high-quality education. Our discovery flights and adaptive teaching methods make learning to fly accessible and enjoyable. We pride ourselves on our commitment to safety and student satisfaction, as testified by our highly recommended instructors. Start your aviation journey with NW Wings Aviation and achieve your dreams of flight.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

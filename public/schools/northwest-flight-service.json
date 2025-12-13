@@ -1,0 +1,22 @@
+{
+  "id": "f75c3e92-189d-4754-bb71-a16013d2a1fd",
+  "slug": "northwest-flight-service",
+  "name": "Northwest Flight Service",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "SFF -Felts Field",
+  "website": "http://www.nwflightservice.com",
+  "email": "info@nwflightservice.com",
+  "phone": "(509) 458-2359",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nInstrument\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

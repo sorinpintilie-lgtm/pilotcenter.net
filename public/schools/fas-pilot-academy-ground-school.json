@@ -1,0 +1,22 @@
+{
+  "id": "e0af16b3-d807-4c0a-842e-8d845819b90d",
+  "slug": "fas-pilot-academy-ground-school",
+  "name": "F.A.S. PILOT ACADEMY - Ground School",
+  "continent": "Europe",
+  "country": "Greece",
+  "state": "GRC",
+  "city": "",
+  "baseAirport": "Athens International Airport",
+  "website": "https://www.faspilotacademy.aero/",
+  "email": "support@fas.gr",
+  "phone": "'+30 22990 49814",
+  "about": "FAS Pilot Academy, one of the oldest EASA Approved Training Organizations (ATO) in Greece, boasts over 15 years of expertise in pilot training. With multiple locations in Greece, including Rhodes, Megara, and Markopoulo, the academy leverages the country's ideal flying weather, with approximately 320 days of perfect conditions annually. FAS Pilot Academy offers comprehensive training programs for Commercial and Air Transport Pilot Licenses, as well as Airbus A320 Type Rating. The academy is committed to flight safety, holding approvals for maintenance and continuing airworthiness management. It also serves as an ICAO / TOEFA © Examination Centre. With a state-of-the-art aircraft fleet and experienced instructors, FAS Pilot Academy ensures professional and efficient training, preparing students for successful careers in aviation. Choose FAS Pilot Academy for a legacy of excellence and superior training facilities.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"ATPL(A) Theoretical Knowledge Course\\nCommercial Pilot CPL(A) Modular course\\nMCC - Multi Crew Cooperation Course\\nFlight Instructor (FI) course\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

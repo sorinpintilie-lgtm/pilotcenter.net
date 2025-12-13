@@ -1,0 +1,22 @@
+{
+  "id": "294061f2-a1a1-4142-b9a1-f47f641c425b",
+  "slug": "king-air-academy",
+  "name": "King Air Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "DVT -Phoenix Deer Valley Airport",
+  "website": "https://kingairacademy.com/",
+  "email": "info@kingairacademy.com",
+  "phone": "(602) 551-8100",
+  "about": "King Air Academy is a premier flight training institution specializing in King Air aircraft. We offer comprehensive Initial and Recurrent training programs, designed for both professional pilots and owner pilots, with a focus on insurance-approved certification. Our training is based on the procedures and techniques outlined by Tom Clements, and each new student receives an electronic copy of \"The King Air Book – Volume 1.\" We utilize a variety of static and motion simulators, as well as in-aircraft training, to provide realistic and safe learning environments. Additional services include Pre-Purchase Flight Evaluations and Post Maintenance Acceptance Flights to ensure aircraft readiness. Our experienced instructors and state-of-the-art simulators ensure that pilots receive the highest quality training, making King Air Academy a trusted name in aviation education.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nSimulator\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "92c40c2b-2f12-435c-a4ed-90c4487ce08b",
+  "slug": "one-air-diamond-flight-center",
+  "name": "ONE AIR Diamond Flight Center",
+  "continent": "Europe",
+  "country": "Spain",
+  "state": "",
+  "city": "Málaga",
+  "baseAirport": "Málaga International Airport",
+  "website": "https://www.oneair.es/",
+  "email": "info@oneair.es",
+  "phone": "'+34 951 21 13 33",
+  "about": "One Air, located at Malaga International Airport in Spain, is a flight training centre approved by the Spanish Aviation Safety and Security Agency (AESA) and certified by the European Aviation Safety Agency (EASA) as Approved Training Organisation E-ATO 190. Founded in 2010 by commercial pilots and instructors, One Air is dedicated to providing top-end technologies and the highest standards of safety. Our fleet includes modern Diamond, Cirrus, and Tecnam aircraft, equipped with state-of-the-art avionics and glass cockpits. We offer comprehensive training programs, including Multi-Engine Rating, Instrument Rating, and Crew Resource Management, with the added benefit of training at a 24-hour international airport. Our students and instructors are recruited by leading airlines worldwide, and we pride ourselves on a supportive environment and rigorous safety standards, making One Air an ideal place to achieve your aviation goals.",
+  "icao": "LEMG",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nInstrument Rating (IR)\\nNight Rating\\nEASA ATPL Ground School\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

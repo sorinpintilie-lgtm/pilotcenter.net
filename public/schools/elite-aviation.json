@@ -1,0 +1,22 @@
+{
+  "id": "19d02deb-ccb2-4de8-b764-5493eb3d5b9c",
+  "slug": "elite-aviation",
+  "name": "Elite Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MO",
+  "city": "",
+  "baseAirport": "SUS -Spirit of St Louis Airport",
+  "website": "https://eliteaviation-spirit.com/elite-aviation-home",
+  "email": "EliteInfo@EliteKSUS.com",
+  "phone": "(636) 778-4400",
+  "about": "Elite Aviation, located at the Spirit of St. Louis Airport, is a family-owned business specializing in flight training, aircraft maintenance, and more. We prioritize a superior standard of service, offering outstanding instructors and excellently maintained airplanes. Our training includes the use of the Redbird Full-Motion flight simulator and a fleet of meticulously maintained Cessna 172s with high-tech G1000 Glass Cockpits. We provide a comprehensive Test Flight Program and ensure safety is our primary focus. With full insurance and a commitment to excellence, we are the safest decision for your aviation needs. Your safety is our focus, and we are dedicated to providing an exceptional flying experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

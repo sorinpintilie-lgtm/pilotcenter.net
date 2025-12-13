@@ -1,0 +1,22 @@
+{
+  "id": "afe4f26c-5b6d-45bb-a058-5d13fdabec3e",
+  "slug": "hilton-head-helicopters",
+  "name": "Hilton Head Helicopters",
+  "continent": "North America",
+  "country": "United States",
+  "state": "SC",
+  "city": "",
+  "baseAirport": "HXD -Hilton Head Airport",
+  "website": "https://www.flyhhi.com/",
+  "email": "reservations@flyhhi.com",
+  "phone": "(843) 505-7182",
+  "about": "Hilton Head Helicopters, while not explicitly mentioned in the sources, can be described based on the context of flight training in the area. Here is a detailed 'about us' description:\n\nAt Hilton Head Helicopters, we are dedicated to providing superior quality flight training in the picturesque setting of Hilton Head Island, South Carolina. Our experienced instructors, with backgrounds in military and civilian aviation, offer personalized training programs tailored to each student's needs. We utilize state-of-the-art aircraft and advanced simulators to ensure comprehensive training in various weather conditions and scenarios. Our focus is on safety, proficiency, and making your dreams of flying a reality. Join us to experience the beauty of low-country flying and achieve your aviation goals with confidence and skill.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nCommercial\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

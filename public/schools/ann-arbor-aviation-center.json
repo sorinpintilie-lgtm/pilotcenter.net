@@ -1,0 +1,22 @@
+{
+  "id": "9eb05c56-353f-487e-bfbb-462e58362cfb",
+  "slug": "ann-arbor-aviation-center",
+  "name": "Ann Arbor Aviation Center Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MI",
+  "city": "",
+  "baseAirport": "ARB -Ann Arbor Municipal Airport",
+  "website": "https://www.aviationcenter.aero/",
+  "email": "info@aviationcenter.aero",
+  "phone": "(734) 662-6806",
+  "about": "Ann Arbor Aviation Center, Inc. is a comprehensive flying school based at the Ann Arbor Airport. We offer high-quality flight training and rental aircraft, ensuring students receive the best education in aviation. Our experienced instructors provide personalized training, emphasizing safety and continuing education. With a focus on affordability and excellence, we cater to a wide range of aviation needs, from initial flight lessons to advanced ratings. Join us for a superior flying experience and take the first step towards your aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

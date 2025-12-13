@@ -1,0 +1,22 @@
+{
+  "id": "1a9b8200-5f67-4140-b0a3-3a502e2a4e0d",
+  "slug": "bay-flying-services",
+  "name": "Bay Flying Services",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MI",
+  "city": "",
+  "baseAirport": "HYX -Saginaw County/H W Browne Airport",
+  "website": "https://www.bayflyingservices.com/",
+  "email": "bayflyingllc@gmail.com",
+  "phone": "",
+  "about": "Bay Flying Services is a comprehensive flight training facility headquartered in the Tri Cities area. We offer a range of programs, including Recreational, Private, Commercial, and Flight Instructor certificate training, as well as Instrument Ratings. Our technically advanced aircraft are certified for commercial pilot training, ensuring students receive the highest quality education. With a focus on student success, our experienced instructors provide both ground school and flight instruction tailored to meet the needs of all pilots, from beginners to seasoned aviators. We are committed to providing excellent education, training, and resources to help our students thrive in today's competitive aviation industry. Bay Flying Services is dedicated to making your flight training journey both effective and enjoyable.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

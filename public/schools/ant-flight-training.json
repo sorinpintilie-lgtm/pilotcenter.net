@@ -1,0 +1,22 @@
+{
+  "id": "597d283e-c846-49cf-8868-b5fc786bb021",
+  "slug": "ant-flight-training",
+  "name": "ANT Flight Training",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Blackpool",
+  "baseAirport": "Blackpool Airport",
+  "website": "https://www.airnav.co.uk/",
+  "email": "fly@airnav.co.uk",
+  "phone": "'+44 1253 345 396",
+  "about": "ANT Flight Training is a premier aviation academy dedicated to providing comprehensive and safety-focused flight education. Our experienced instructors, with thousands of hours of flight time, guide students through a tailored training process to ensure they become the safest and most skilled pilots. We offer FAA Part 141 approved programs, including private pilot ratings and professional helicopter pilot certifications. Our state-of-the-art facilities, including a dedicated helicopter traffic pattern at Long Beach Airport, ensure a hands-on and engaging learning environment. With a 100% pass rate and 100% safety record, we are committed to helping aspiring pilots achieve their dreams through flexible financing options and a supportive, professional team. At ANT Flight Training, we strive to make every student a confident and proficient pilot.",
+  "icao": "EGNH",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

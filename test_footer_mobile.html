@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Mobile Footer Test</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+        /* Simulate mobile viewport */
+        @media (max-width: 599px) {
+            body::before {
+                content: "MOBILE VIEW (≤599px)";
+                display: block;
+                background: #f0f0f0;
+                padding: 10px;
+                text-align: center;
+                font-weight: bold;
+            }
+        }
+
+        @media (min-width: 600px) {
+            body::before {
+                content: "DESKTOP VIEW (>600px)";
+                display: block;
+                background: #f0f0f0;
+                padding: 10px;
+                text-align: center;
+                font-weight: bold;
+            }
+        }
+
+        /* Test the footer CSS */
+        .footer-grid {
+            display: grid;
+            gap: 20px;
+            grid-template-columns: repeat(5, 1fr);
+        }
+
+        .footer-col {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .footer-row {
+            display: contents;
+        }
+
+        @media (max-width: 599px) {
+            /* Mobile footer reorganization - 3 rows */
+            .footer-grid {
+                display: flex;
+                flex-direction: column;
+                gap: 20px;
+            }
+
+            /* Hide individual columns on mobile */
+            .footer-col {
+                display: none;
+            }
+
+            /* Show row containers on mobile */
+            .footer-row {
+                display: flex;
+                width: 100%;
+            }
+
+            /* First row - single column */
+            .footer-row-1 {
+                display: block;
+            }
+
+            /* Show the links column in the first row */
+            .footer-row-1 .footer-col {
+                display: block;
+                text-align: center;
+            }
+
+            /* Second and third rows - two columns side by side */
+            .footer-row-2,
+            .footer-row-3 {
+                display: flex;
+                gap: 20px;
+            }
+
+            /* Mobile column styling */
+            .footer-row-2 .footer-col,
+            .footer-row-3 .footer-col {
+                display: block;
+                flex: 1;
+                min-width: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Footer Links Visibility Test</h1>
+
+    <div style="border: 1px solid #ccc; padding: 20px; margin: 20px 0;">
+        <div class="footer-grid">
+            <!-- Row 1: Links (single column on mobile) -->
+            <div class="footer-row footer-row-1">
+                <div class="footer-col">
+                    <h4>Links</h4>
+                    <ul>
+                        <li><a href="#">FAQ</a></li>
+                        <li><a href="#contact">Contact Us</a></li>
+                        <li><a href="#">How to Become a Pilot Routes</a></li>
+                        <li><a href="#">How to Become a Pilot In Different Countries</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Row 2: Miami and California Offices (side by side on mobile) -->
+            <div class="footer-row footer-row-2">
+                <div class="footer-col">
+                    <h4>Miami Office</h4>
+                    <p>PilotCenter.net</p>
+                    <p>14261 SW 120th St</p>
+                </div>
+                <div class="footer-col">
+                    <h4>California Office</h4>
+                    <p>PilotCenter.net</p>
+                    <p>5708 Hollister Ave</p>
+                </div>
+            </div>
+
+            <!-- Row 3: London Office and Contact Numbers (side by side on mobile) -->
+            <div class="footer-row footer-row-3">
+                <div class="footer-col">
+                    <h4>London Office</h4>
+                    <p>PilotCenter.net</p>
+                    <p>275 New North Road Islington</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Contact Numbers</h4>
+                    <p>+1 (305) 786 0210</p>
+                    <p>+1 (305) 786 0211</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div style="margin-top: 20px; padding: 10px; background: #f5f5f5; border-radius: 5px;">
+        <h3>Test Instructions:</h3>
+        <ol>
+            <li>Resize your browser window to be less than 600px wide to simulate mobile view</li>
+            <li>The "Links" section should be visible in the first row</li>
+            <li>All footer links (FAQ, Contact Us, How to Become a Pilot Routes, How to Become a Pilot In Different Countries) should be visible</li>
+            <li>Office information should be visible in subsequent rows</li>
+        </ol>
+    </div>
+</body>
+</html>

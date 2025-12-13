@@ -1,0 +1,22 @@
+{
+  "id": "3c4c0b18-9c4f-46c2-ad25-402dc4093f87",
+  "slug": "north-iowa-air-service",
+  "name": "North Iowa Air Service",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IA",
+  "city": "",
+  "baseAirport": "MCW -Mason City Municipal Airport",
+  "website": "https://northiowaair.com/",
+  "email": "info@northiowaair.com",
+  "phone": "(641) 424-9366",
+  "about": "North Iowa Air Service, established in 2001, is a comprehensive aviation center serving the Mason City / Clear Lake Area. Our flight training department, led by Vice-President Christopher Schrodt, offers training for all Land Airplane Ratings, from Private Pilot to Airline Transport Pilot. We provide top-quality service seven days a week, with a team of expert pilots and mechanics. Our services include air charter, aircraft rental, and maintenance. We also offer a 6-week Private Pilot Ground School. With three FBOs across Iowa, we are committed to helping you achieve your flying dreams with enthusiasm and professionalism. Realizing your dream of flying may be closer than you think.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

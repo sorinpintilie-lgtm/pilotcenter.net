@@ -1,0 +1,22 @@
+{
+  "id": "fb1cbdd2-ae4b-4d64-9f26-ba7a49fdd165",
+  "slug": "learn-2-fly-ct",
+  "name": "Learn 2 Fly CT, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CT",
+  "city": "",
+  "baseAirport": "42B -Goodspeed Airport",
+  "website": "https://learn2flyct.com/",
+  "email": "info@learn2flyct.com",
+  "phone": "(860) 849-2226",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nDrone/UAS\\nGround School\\nIntro Flight\\nPart 107 Drone Testing\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "913dc395-5db7-4f8d-b537-f088a9bc27cf",
+  "slug": "fly-natal",
+  "name": "Fly Natal",
+  "continent": "South America",
+  "country": "Brazil",
+  "state": "BR",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.flynatal.com.br/",
+  "email": "contato@flynatal.com.br",
+  "phone": "(84) 2020-0040",
+  "about": "Fly Natal Flying School, located in the heart of Natal, Brazil, is a premier aviation training institution dedicated to producing highly skilled and professional pilots. Our comprehensive flight training programs include the Private Pilot Licence, Night Rating, Commercial Pilot Licence, and Instrument Rating, with additional options for Multi-Engine and Instructor Ratings. With a focus on one-on-one training, our experienced instructors ensure each student develops the necessary skills to excel in the aviation industry. Our state-of-the-art facilities and modern fleet of aircraft provide an ideal learning environment. At Fly Natal, we are committed to helping aspiring pilots achieve their dreams and succeed in their careers. We believe in fostering a supportive and rigorous training environment that prepares our students for the demands of professional aviation. Join us to reach new heights in your flying career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airport Agent\\nPrivate Pilot\\nFlight Attendant\\nCommercial Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

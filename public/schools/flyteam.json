@@ -1,0 +1,22 @@
+{
+  "id": "17590ee4-0324-4978-89eb-b02affd8d16e",
+  "slug": "flyteam",
+  "name": "FlyTeam",
+  "continent": "Europe",
+  "country": "Hungary",
+  "state": "",
+  "city": "Budapest",
+  "baseAirport": "Budapest-Tököl Airport",
+  "website": "https://flyteam.hu/",
+  "email": "info@flyteam.hu",
+  "phone": "\"+36 70 622 6304",
+  "about": "FlyTeam is a renowned EASA-approved flight school located in Hungary, operating at Szeged Airport and Budapest Tököl Airport. As the first EASA-approved Flight School ATO in the Middle-Europe region, we offer a comprehensive range of courses including EASA Private Pilot License, Commercial Pilot License, Instrument Rating, and Multi-Engine Piston Class Rating. Our multicultural learning environment attracts students from around the world, providing a unique intercultural competency. We pride ourselves on a 99.5% successful CAA exam performance and a reliable fleet maintained by our EASA 145 approved Aircraft Maintenance Centre. Our carrier-oriented training programs, including an Airline Job Interview Course, ensure 100% of our students achieve their goals and become successful airline pilots. With a focus on safety, innovation, and customer satisfaction, FlyTeam is dedicated to creating professional and safety-conscious flight crew members.",
+  "icao": "LHTL",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

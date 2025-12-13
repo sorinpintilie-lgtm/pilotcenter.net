@@ -1,0 +1,22 @@
+{
+  "id": "2c8e072a-b0d0-4910-8357-43ea75b012f9",
+  "slug": "airquest-aviation",
+  "name": "AirQuest Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "PA",
+  "city": "",
+  "baseAirport": "BTP -Pittsburgh/Butler Regional Airport",
+  "website": "https://www.airquestaviation.com/",
+  "email": "info@airquestaviation.com",
+  "phone": "(724) 586-6023",
+  "about": "AirQuest Aviation, located just north of Pittsburgh, is a premier flight school and full-service Fixed Base Operator (FBO) dedicated to excellence in aviation. Our flight school offers a comprehensive 3-phase lesson structure for earning your Private Pilot License and beyond, including Commercial Pilot and Flight Instructor certifications. With a personal approach to flight training, we pride ourselves on using high-quality airplanes and focusing on the aviation experience. Our team, including factory-trained technicians, provides top-notch maintenance services for various aircraft types. We also offer scenic flights, aircraft rental, sales, and charter services. At AirQuest, we build trust through absolute quality and safety, ensuring our customers have a great experience in every aspect of aviation. We strive to make aviation accessible and enjoyable for the community.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nComputerized Testing\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

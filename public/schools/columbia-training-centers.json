@@ -1,0 +1,22 @@
+{
+  "id": "493ad20f-436c-42f7-b44f-fd3fd2bc0a37",
+  "slug": "columbia-training-centers",
+  "name": "Columbia Training Centers",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MD",
+  "city": "",
+  "baseAirport": "VKX -Potomac Airfield",
+  "website": "https://www.ctc-usa.org/",
+  "email": "ctc@ctc-usa.org",
+  "phone": "(301) 248-1440",
+  "about": "At Columbia Training Centers, we offer a comprehensive and professional flight training program designed to help aspiring pilots achieve their aviation goals. Located at the Columbia Metropolitan Airport, our flight school utilizes the latest generation Cessna 172SP aircraft equipped with Garmin Avionics. Our team of FAA Certified Flight Instructors provides efficient and thorough training, combining ground school with extensive instructional and solo flight time. We offer a Discovery Flight program, a no-obligation introductory lesson, to give prospective students a hands-on experience. Whether you're flying for business, pleasure, or personal fulfillment, our well-maintained aircraft and dedicated instructors ensure you gain the knowledge and skills necessary to become a safe and competent pilot. Contact us today to start your journey to the skies.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

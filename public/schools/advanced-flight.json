@@ -1,0 +1,22 @@
+{
+  "id": "590ac62a-45d8-492d-b7af-4e9cbe7d1887",
+  "slug": "advanced-flight",
+  "name": "Advanced Flight Limited",
+  "continent": "Australia",
+  "country": "New Zealand",
+  "state": "NZ",
+  "city": "",
+  "baseAirport": "",
+  "website": "http://fly@advancedflight.co.nz",
+  "email": "fly@advancedflight.co.nz",
+  "phone": "'+64 9 636 0509",
+  "about": "Advanced Flight Limited is a premier flight training institution dedicated to providing top-notch aviation education. Established with a commitment to excellence, our school offers a comprehensive range of courses, including Commercial Pilot Licence, Instrument Rating, Multi-Engine Piston Rating, and Instructor Ratings. Our experienced instructors, based at Sherburn Aerodrome near Leeds, West Yorkshire, ensure personalized and professional training. With a focus on safety and efficiency, we equip students with the skills and knowledge necessary to succeed in the aviation industry. Advanced Flight Limited is your trusted partner for achieving your flying aspirations.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Flight Simulator\\nPrivate Pilots Licence (PPL)\\nCommercial Pilots Licence (CPL)\\nTrial Flights\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

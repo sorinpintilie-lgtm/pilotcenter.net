@@ -1,0 +1,22 @@
+{
+  "id": "1400358f-eb72-4fe2-9d6b-e8a84c47ba20",
+  "slug": "flycarolina-concord",
+  "name": "FlyCarolina - Concord",
+  "continent": "North America",
+  "country": "United States",
+  "state": "",
+  "city": "",
+  "baseAirport": "JQF -Concord-Padgett Regional Airport",
+  "website": "http://flycarolina.com/",
+  "email": "training@flycarolina.com",
+  "phone": "(704) 400-0945",
+  "about": "FlyCarolina, based in Concord, NC, is a professional FAA-certified flight school and air carrier with over 25 years of experience in aviation. We offer FAA Part 61 flight training, allowing students to learn at their own pace. Our programs include introductory flights, private pilot certificates, instrument ratings, and advanced training in various aircraft, including Cessna 172s and complex, high-performance planes. Our certified instructors provide personalized training schedules, and we utilize a Redbird FMX full motion simulator for additional training hours. We also offer financing options through third-party providers. With a focus on safety, affordability, and reliability, FlyCarolina is dedicated to helping students achieve their aviation goals efficiently and effectively. Our experienced staff ensures a comfortable and hassle-free learning environment, making FlyCarolina your ideal choice for flight training in the Charlotte area.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

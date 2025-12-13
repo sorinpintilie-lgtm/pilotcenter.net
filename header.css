@@ -1,0 +1,45 @@
+header {
+    background-color: var(--wst-color-fill-accent-1);
+    color: var(--wst-color-fill-background-primary);
+    padding: 10px 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.logo img {
+    height: 40px;
+    width: auto;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin-left: 20px;
+}
+
+a {
+    color: var(--wst-color-fill-background-primary);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: var(--wst-color-fill-background-primary);
+}

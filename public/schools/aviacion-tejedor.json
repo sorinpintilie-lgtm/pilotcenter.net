@@ -1,0 +1,22 @@
+{
+  "id": "04e483e2-5401-46e5-b046-62da38f174ef",
+  "slug": "aviacion-tejedor",
+  "name": "Aviacion Tejedor",
+  "continent": "South America",
+  "country": "Argentina",
+  "state": "AR",
+  "city": "",
+  "baseAirport": "San Rafael Airport",
+  "website": "http://www.aviaciontejedor.com/#",
+  "email": "info@aviaciontejedor.com",
+  "phone": "'+54 9 260 466 5985",
+  "about": "Aviación Tejedor, located in San Rafael, Argentina, is a premier government-subsidiary flight school dedicated to generating an aeronautical culture oriented towards professional development. With a commitment to excellence, we boast a fleet of over 15 aircraft and have earned a reputation as one of the best performing flying schools. Our student body includes individuals from more than 13 countries, reflecting our global appeal and diverse learning environment. At Aviación Tejedor, we insist on high standards and comprehensive training to ensure our graduates are well-prepared for successful careers in aviation. We are proud to contribute to the development of future aviation professionals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Integrated Zero To CPL\\nPrivate Pilot License\\nCommercial Pilot License\\nCertified Flight Instructor\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

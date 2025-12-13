@@ -1,0 +1,22 @@
+{
+  "id": "414e2f38-a613-4e78-b673-fed262f3cf62",
+  "slug": "quality-fly",
+  "name": "QUALITY FLY",
+  "continent": "Europe",
+  "country": "Spain",
+  "state": "",
+  "city": "Madrid",
+  "baseAirport": "Cuatro Vientos Airport",
+  "website": "https://www.qualityfly.com/",
+  "email": "customer@qualityfly.com",
+  "phone": "'+34 914 11 77 94",
+  "about": "Quality Fly is a premier flight school based in Madrid, Spain, renowned for its innovative and comprehensive airline pilot training programs. We offer the EASA Integrated ATPL course, featuring cutting-edge modules such as APS MCC, UPRT, and KSA, along with training in a state-of-the-art glass cockpit fleet and an A320 Full Flight Simulator Level D. With a highly international student body from over 35 nationalities, our training is delivered 100% in English. Our fleet includes new generation aircraft like the Tecnam P2006T and Cessna 172S, ensuring high efficiency and safety. We pride ourselves on a 90% first-time pass rate in theoretical knowledge and 95% in flight training, with a dedicated team providing one-to-one reinforcement and career advice. Quality Fly is committed to operational excellence, making us the ideal choice for aspiring pilots seeking a high-quality, affordable education. Join us to embark on a journey to excellence in aviation.",
+  "icao": "LECU",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

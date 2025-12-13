@@ -1,0 +1,22 @@
+{
+  "id": "4759b019-6e13-41b2-8c07-00116d28e860",
+  "slug": "noir-aviation",
+  "name": "Noir Aviation",
+  "continent": "Europe",
+  "country": "Slovakia",
+  "state": "SVK",
+  "city": "",
+  "baseAirport": "Zilina Airport",
+  "website": "https://noirflightacademy.com/",
+  "email": "training@noirflightacademy.com",
+  "phone": "'+36 70 677 2 555",
+  "about": "Noir Flight Academy is a premier flight training institution in Europe, offering EASA-approved programs for aspiring pilots. With campuses in Slovakia and Hungary, we provide comprehensive training from Private Pilot Licence (PPL) to Commercial Pilot Licence (CPL), including Instrument Rating (IR) and ATPL Theory online courses. Our modular and integrated training models cater to different learning styles and financial needs, ensuring flexibility and affordability. Founded by aviation enthusiasts, Noir Flight Academy is committed to producing self-confident and decision-making pilots. Our experienced instructors and state-of-the-art facilities ensure the best quality flight training experience. We also offer aircraft rental services and ICAO English Language Proficiency exams. At Noir Flight Academy, we treat our students as future colleagues, guiding them towards successful aviation careers.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nTime Building\\nATPL Theory\\nNVFR Training\\nCPL\",\"MEP\",\"IR\\nFlight Instructor (FI)\\nMCC + JOC\\nICAO English Exam\\nICAO Training (Annex 1-17)\\nEASA Training (Regulation 1139\",1178,923,\"965)\"]",
+  "visaInsurance": "Other",
+  "fleetSize": "",
+  "logoUrl": ""
+}

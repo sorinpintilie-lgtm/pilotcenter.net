@@ -1,0 +1,22 @@
+{
+  "id": "6396570e-2263-4a7e-9a64-54aa7385e9ec",
+  "slug": "twin-oaks-airpark",
+  "name": "Twin Oaks Airpark, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OR",
+  "city": "",
+  "baseAirport": "7S3 -Stark's Twin Oaks Airpark",
+  "website": "https://www.twinoaksairpark.com/",
+  "email": "twinoaksairpark@gmail.com",
+  "phone": "(503) 451-3480",
+  "about": "Twin Oaks Airpark, Inc., located 20 minutes southwest of Portland, Oregon, offers a unique and personalized flight training experience. With a family-friendly atmosphere, our small flight school focuses on individualized attention and a strong commitment to safety. Our certified flight instructors provide high-quality training for Sport, Private, and Commercial pilot certificates, as well as Instrument and Multi-Engine ratings. We utilize a modern fleet of well-maintained aircraft, including Cessna and Piper models, and offer flexible scheduling to accommodate each student's needs. The average cost to obtain a private pilot license is between $7,000 to $8,000, and students can progress at their own pace. At Twin Oaks, we are dedicated to helping you achieve your flying dreams in a supportive and professional environment. Choose Twin Oaks for a comprehensive and enjoyable flight training experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nGround School\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nMulti-Engine\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

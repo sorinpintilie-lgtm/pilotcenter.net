@@ -1,0 +1,22 @@
+{
+  "id": "d0d013fd-3685-4576-9f6f-eeb26c5ccb2b",
+  "slug": "wings-academy",
+  "name": "Wings Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OR",
+  "city": "",
+  "baseAirport": "SLE -McNary Field",
+  "website": "https://www.wingsflightacademy.com/",
+  "email": "virgil.royer@gmail.com",
+  "phone": "(503) 369-8946",
+  "about": "Wings Academy is a boutique flight school located at Salem Airport in Oregon, offering personalized and professional flight training. We help students achieve their aviation goals, whether it's becoming a private or commercial pilot. Our program, operated under Part-61 regulations, allows flexible payment plans as you progress through your training. We use the Piper Tomahawk (PA-38-112) for training, emphasizing safety and efficiency. Our curriculum is customizable to fit individual needs, and we provide comprehensive lesson plans and support. With a focus on safety and effective learning, Wings Academy is dedicated to helping you reach your flying aspirations. We look forward to guiding you on your journey to becoming a licensed pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot\\nCommercial\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

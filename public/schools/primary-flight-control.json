@@ -1,0 +1,22 @@
+{
+  "id": "7c3b2db8-ad74-4bf3-a77c-a0945a07c332",
+  "slug": "primary-flight-control",
+  "name": "Primary Flight Control",
+  "continent": "North America",
+  "country": "United",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "HEG -Herlong Recreational Airport",
+  "website": "https://www.primaryflightcontrol.com/",
+  "email": "jay@primaryflightcontrol.com",
+  "phone": "(904) 894-9903",
+  "about": "At Primary Flight Control, our mission is to provide comprehensive and accessible flight training programs tailored to various aviation goals. We offer certifications for Sport Pilots, Recreational Pilots, Private Pilots, and Commercial Pilots, each requiring specific hours of flight time and training from authorized instructors. Our programs are designed to equip students with the skills and knowledge necessary for safe and proficient flying, whether for personal enjoyment or professional purposes. With a focus on clear instruction and practical experience, we help aspiring pilots achieve their certifications and fulfill their aviation aspirations. Our commitment is to make the process of learning to fly quick, easy, and rewarding.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nExaminer\\nInstrument Proficiency Check\\nIntro Flight\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nGlider\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

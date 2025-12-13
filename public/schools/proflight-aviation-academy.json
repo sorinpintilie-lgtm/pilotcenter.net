@@ -1,0 +1,22 @@
+{
+  "id": "1e90bd75-0d37-49d3-9602-0972afd89425",
+  "slug": "proflight-aviation-academy",
+  "name": "ProFlight Aviation Academy",
+  "continent": "South America",
+  "country": "Argentina",
+  "state": "AR",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.proflight.com.ar/",
+  "email": "info@proflight.com.ar",
+  "phone": "'+54 9 11 5731-4227",
+  "about": "ProFlight Aviation Academy is dedicated to training the next generation of professional aviators with a focus on safety, innovation, and excellence. Founded by experienced airline pilots, our academy offers a rigorous training program that prepares students for careers in the ever-changing airline industry. Our state-of-the-art fleet and meticulous maintenance standards ensure that every aspect of training is conducted with the highest safety standards. Students can earn private and commercial pilot certificates, instrument ratings, and even become certified flight instructors. With a strong emphasis on leadership, technical excellence, decision-making, and teamwork, our graduates are well-equipped to succeed in the aviation industry. We are committed to developing highly skilled and career-ready pilots who will be a positive force in global aviation. At ProFlight Aviation Academy, we empower our students to reach their full potential and take to the skies with confidence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Airplane Pilot\\nCommercial Airplane Pilot\\nMulti-engine flight qualification\\nFlight instructor\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

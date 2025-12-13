@@ -1,0 +1,22 @@
+{
+  "id": "f9d10544-990f-4b81-8fd3-ebef7c7f2e6f",
+  "slug": "pietermaritzburg-aero-club-cc",
+  "name": "Pietermaritzburg Aero Club CC",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "NL",
+  "city": "",
+  "baseAirport": "Pietermaritzburg Airport",
+  "website": "https://www.pmbaeroclub.co.za/",
+  "email": "pmbaeroclub.co.za",
+  "phone": "'+27 33 386 3952",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Class Rating\\nCPL - (Modular - A)\\nFlight Instructor \\nInstrument Rating\\nNight Rating\\nNPL - Class Rating\\nTailwheel Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "deab1a3d-5ade-46af-9c19-7ce6e26a59ca",
+  "slug": "national-airways",
+  "name": "National Airways Corporation",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "GT",
+  "city": "",
+  "baseAirport": "Lanseria International Airport",
+  "website": "https://www.nac.co.za/",
+  "email": "info@nac.co.za",
+  "phone": "'+27 11 267 5000",
+  "about": "National Airways Corporation (NAC) is the largest general aviation company in Africa, established in 1946. Based at Lanseria International Airport in Johannesburg, NAC offers a comprehensive range of aviation services, including helicopter pilot training, aircraft maintenance, and international operations. The company's helicopter pilot training is conducted at the Ultimate Heliport and Rand Airport, providing training from ab-initio to advanced commercial qualifications. NAC is accredited by the South African Civil Aviation Authority (SACAA) and the Transport Education Training Authority (TETA). With extensive experience and state-of-the-art facilities, NAC's graduates have become captains with helicopter operators worldwide. NAC is committed to providing market-leading, cost-effective solutions tailored to clients' specific needs.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Class Rating \\nType Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

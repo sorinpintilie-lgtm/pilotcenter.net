@@ -1,0 +1,22 @@
+{
+  "id": "c0f0b24e-491f-440d-bdee-b4acf7f54bc2",
+  "slug": "10g",
+  "name": "10G, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "GA",
+  "city": "",
+  "baseAirport": "SAV -Savannah/Hilton Head International Airport",
+  "website": "https://www.uprt-usa.com/",
+  "email": "king@10gLLC.com",
+  "phone": "(910) 448-0089",
+  "about": "10G, LLC is a specialized flight school focused on upset prevention and recovery training, located at the Savannah/Hilton Head International Airport (KSAV). Our courses employ a methodical approach, integrating psychology, physiology, and advanced aircraft control techniques. Led by Creed King Evans, our training programs are designed to enhance pilots' skills in handling unusual flight attitudes and recovering from unexpected situations. With a commitment to safety and comprehensive training, 10G, LLC provides pilots with the expertise and confidence to handle any aerodynamic challenge. Our mission is to equip pilots with the skills necessary to navigate the most demanding flight scenarios safely and effectively.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

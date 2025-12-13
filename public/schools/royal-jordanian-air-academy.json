@@ -1,0 +1,22 @@
+{
+  "id": "655aaae4-a371-4ca6-8fe9-67a4227a0bcb",
+  "slug": "royal-jordanian-air-academy",
+  "name": "Royal Jordanian Air Academy",
+  "continent": "Middle East",
+  "country": "Jordan",
+  "state": "",
+  "city": "",
+  "baseAirport": "Amman Civil Airport",
+  "website": "https://royalflight.com/",
+  "email": "info@royalflight.com",
+  "phone": "'+962 6-489-4677",
+  "about": "The Royal Jordanian Air Academy (RJAA), established in 1966, is the regional leader in flight training in the Middle East and North Africa. Certified by the Jordanian Civil Aviation Regulatory Commission (JCARC) and recognized by the International Civil Aviation Organization (ICAO), RJAA offers a range of programs including Private Pilot License (PPL), Commercial Pilot License (CPL), Airline Transport Pilot License, and specialized courses like Aircraft Dispatcher and Aircraft Maintenance Engineering. With state-of-the-art facilities, including simulators and technical workshops, RJAA trains students to meet the highest international standards, enabling them to join international airlines and other aviation roles. RJAA is committed to excellence in aviation training, ensuring its graduates are highly qualified and ready for the industry.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "a8801134-1c84-41c6-922e-0d37f3105787",
+  "slug": "aerostar-world",
+  "name": "Aerostar World, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AL",
+  "city": "",
+  "baseAirport": "DHN -Dothan Regional Airport",
+  "website": "https://www.aerostarworld.com/",
+  "email": "don@aerostarworld.com",
+  "phone": "(334) 693-4949",
+  "about": "AeroStar Training Services, LLC, located in the Greater Orlando area, is a FAA Certified 141 & 142 Training Center founded by aviation professionals in 2008. We provide high-quality, affordable, and flexible airline pilot training, including Private Pilot, Instrument, Commercial, and ATP CTP certifications, as well as type ratings for Airbus A320 and Boeing 737. Our state-of-the-art facilities and experienced instructors ensure comprehensive training from zero hours to complete Airline Transport Pilot Licenses. We welcome international students and offer support with visa applications and housing. AeroStar is committed to producing well-trained pilots with a passion for teaching and a hands-on, interactive approach. We are dedicated to addressing the aviation pilot shortage and providing a complete training experience under one roof.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

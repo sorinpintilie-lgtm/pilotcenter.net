@@ -1,0 +1,22 @@
+{
+  "id": "794ce88b-696f-4ef0-91fd-ccab51bbc14b",
+  "slug": "code-1-flight-training",
+  "name": "Code 1 Flight Training",
+  "continent": "North America",
+  "country": "USA",
+  "state": "TX",
+  "city": "McKinney",
+  "baseAirport": "McKinney National Airport",
+  "website": "https://code1flighttraining.com/",
+  "email": "norm@code1flighttraining.com",
+  "phone": "'+1 903-802-6243 / +1 210-884-2559",
+  "about": "Code 1 Flight Training, based at the Van Zandt County Regional Airport in East Texas, is a renowned flight school and aircraft rental facility. We offer high-quality flight training services, including pilot certifications, flight reviews, and simulations, conducted by highly experienced instructors who reside at Tailwind Airpark in Edgewood, TX. Our programs cater to individuals of all ages and skill levels, ensuring thorough instruction and preparation for oral and flight exams. We are proud recipients of multiple awards from AOPA, including Best Flight Instructor and Distinguished Flight School. Financing options are available through Pilot Finance for part-time students. Contact us to schedule an intro flight or for more information. We are committed to providing exceptional aviation education and services.",
+  "icao": "KTKI",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

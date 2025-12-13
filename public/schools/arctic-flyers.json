@@ -1,0 +1,22 @@
+{
+  "id": "412b52d9-cb12-4c09-8c68-4ae1298b237b",
+  "slug": "arctic-flyers",
+  "name": "Arctic Flyers",
+  "continent": "North America",
+  "country": "USA",
+  "state": "AK",
+  "city": "Anchorage",
+  "baseAirport": "Lake Hood Seaplane Base",
+  "website": "https://arcticflyers.net/",
+  "email": "rruess@gci.net",
+  "phone": "'+1 907-243-3953",
+  "about": "Arctic Flyers is a family-owned and operated flight school based in Anchorage, Alaska, run by Hermann, Heidi, and their son Rick. With years of flying and instructing experience, the school specializes in emergency, taildragger, and float plane instruction. Arctic Flyers offers comprehensive flight training for Private, Commercial, Instrument, and ATP certificates, including both wheels, floats, and skis. Their programs are designed to ensure students not only learn to fly but also understand aircraft systems thoroughly. The school is committed to providing high-quality flight and ground instruction, preparing students for a wide range of aviation careers and personal flying adventures in Alaska's unique and challenging environment. Arctic Flyers is dedicated to fostering a passion for flying and ensuring each student achieves their aviation goals.",
+  "icao": "PALH",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\\nSeaplane Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

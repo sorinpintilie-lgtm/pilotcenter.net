@@ -1,0 +1,22 @@
+{
+  "id": "e65798df-d3da-4134-b766-2aa842bdae27",
+  "slug": "gate-one",
+  "name": "Gate One",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "CHD -Chandler Municipal Airport",
+  "website": "https://gateone.com/",
+  "email": "",
+  "phone": "(480) 963-6420",
+  "about": "Gate One Flying School is a premier aviation training institution dedicated to nurturing the next generation of pilots. Our programs are designed to provide a comprehensive and structured path to becoming a professional pilot, emphasizing safety, competency, and career readiness. Partnering with industry leaders like CAE, we offer rigorous training that includes private pilot through commercial multi-engine certifications, jet training, and instructor training. Our students benefit from early exposure to multi-crew/multi-engine operations, full-motion simulator training, and critical management skills. With a focus on predictability and affordability, our programs are tailored to meet the FAA's 1,500 flight-hour requirement. At Gate One, we are committed to providing nonstop support and mentorship, ensuring our graduates are well-prepared to join top airlines like JetBlue. We strive to make your aviation dreams a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nExaminer\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

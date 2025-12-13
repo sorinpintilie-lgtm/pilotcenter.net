@@ -1,0 +1,22 @@
+{
+  "id": "03bd3392-e3e9-4097-9423-60d6d038b4d6",
+  "slug": "mountain-lion-aviation",
+  "name": "Mountain Lion Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "TRK -Truckee-Tahoe Airport",
+  "website": "https://www.mountainlion.aero/flight-school",
+  "email": "info@mountainlion.aero",
+  "phone": "(530) 655-1100",
+  "about": "Mountain Lion Aviation, established in 2017, operates as both a charter service and a flight school with locations in California and Texas. We offer a personalized approach to meet the unique needs of travelers and aspiring pilots. Our flight school is a Cirrus Certified Training center, providing top-notch instruction with a focus on safety and efficiency. Our team, led by experienced aviation professionals, is committed to helping individuals take back control of their schedules and spend more time on what truly matters. We pride ourselves on delivering flexible, convenient, and safe aviation services, whether for charter flights or flight training. At Mountain Lion Aviation, we are dedicated to helping you achieve your aviation goals efficiently and effectively.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Simulator\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

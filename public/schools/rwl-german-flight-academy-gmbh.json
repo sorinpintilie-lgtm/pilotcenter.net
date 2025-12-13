@@ -1,0 +1,22 @@
+{
+  "id": "702e77dd-892b-469e-896d-7f589f0aeb5a",
+  "slug": "rwl-german-flight-academy-gmbh",
+  "name": "RWL German Flight Academy GmbH",
+  "continent": "Europe",
+  "country": "Germany",
+  "state": "GER",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.rwl-flight.de/",
+  "email": "info@rwl-flight.de",
+  "phone": "'+49 21 61 - 68 90 0",
+  "about": "RWL German Flight Academy GmbH, established in 1972, is one of the largest independent flying schools in Germany. With over 45 years of experience, the academy offers comprehensive flight training from private pilot licenses (PPL) to integrated and modular Airline Transport Pilot Licenses (ATPL). The training includes theoretical and practical phases, with a strong emphasis on multi-crew cooperation and simulator training using advanced simulators such as the Boeing 737 and Airbus A320. Located at Mönchengladbach Airport, the academy has a fleet of 25 aircraft and four simulators, ensuring continuous and high-quality training. RWL is certified as an Approved Training Organisation (ATO) and Combined Airworthiness Organisation (CAO), providing students with the best conditions for a successful aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"ATPL integrated + modular – Airline Transport Pilot License \\nATPL + Studies – Airline Transport Pilot License\\nCB-IR – Competency Based Instrument Rating\\nCPL – Commercial Pilot License\\nPPL – Private Pilot License\\nUPRT – Upset Prevention and Recovery Training\\nIRI – Instrument Rating Instructor\\nCRI – Class Rating Instructor\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

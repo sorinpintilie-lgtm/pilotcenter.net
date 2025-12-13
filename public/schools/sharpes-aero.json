@@ -1,0 +1,22 @@
+{
+  "id": "ad63de15-46c2-4f0b-9683-d4681f9fa799",
+  "slug": "sharpes-aero",
+  "name": "Sharpes Aero, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NM",
+  "city": "",
+  "baseAirport": "ABQ -Albuquerque International Sunport Airport",
+  "website": "https://sharpesaero.com/wp01/",
+  "email": "chief_cfi@sharpesaero.com",
+  "phone": "(505) 259-6583",
+  "about": "Sharpes Aero, LLC is a dedicated flight school committed to providing top-notch aviation education. As a Part 141 approved flight school by the Federal Aviation Administration, we offer a comprehensive range of pilot certifications, including Private, Instrument, and Commercial Pilot ratings. Our modern fleet of Cessna aircraft, equipped with the latest glass panel technology, ensures students receive training on state-of-the-art equipment. With a focus on both ground school and flight training, our expert instructors guide students through every step of their aviation journey. We also offer additional programs, such as flight reviews and proficiency training, as well as maintenance services for piston aircraft. At Sharpes Aero, LLC, we are passionate about redefining the flying experience and helping our students achieve their aviation goals. We are dedicated to delivering exceptional flight training and maintaining a supportive environment for all our students.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

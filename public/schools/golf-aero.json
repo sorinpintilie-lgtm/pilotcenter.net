@@ -1,0 +1,22 @@
+{
+  "id": "197bfb3c-76be-4e8f-803a-a54ca0952793",
+  "slug": "golf-aero",
+  "name": "Golf Aero",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "GKY -Arlington Municipal Airport",
+  "website": "https://golfaero.com/",
+  "email": "info@golfaero.com",
+  "phone": "(682) 216-6426",
+  "about": "Golf Aero Corp is a premier flight school in Dallas, Texas, dedicated to providing exceptional flight training programs. With a steadfast commitment to safety, quality instruction, and student success, we offer a range of programs including private pilot, commercial pilot, and airline pilot training. Our team of experienced instructors utilizes modern teaching technology and a comprehensive curriculum to ensure students receive the highest quality of instruction. We prioritize flexibility, offering tailored training schedules to fit busy lifestyles. Safety is paramount, with routine inspections of our aircraft and instructors to guarantee student safety. Join Golf Aero to embark on an exciting journey towards becoming a skilled pilot, where we make your dreams of flight a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

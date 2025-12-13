@@ -1,0 +1,22 @@
+{
+  "id": "fbb83057-3622-4963-b5d5-0c0747756ba5",
+  "slug": "aamro-aviation",
+  "name": "Aamro Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "LNA -Palm Beach County Park Airport",
+  "website": "https://aamroaviation.com/",
+  "email": "operationsf45@aamroaviation.com",
+  "phone": "(561) 694-9282",
+  "about": "Aamro Aviation, located in the heart of Palm Beach County, Florida, is a premier flight training institution. With over 350 successful students and more than 50,000 flight training hours, we offer innovative and creative learning techniques under the guidance of certified, experienced instructors. Our fleet includes IFR-certified aircraft such as the Diamond DA40, DA42, Cessna 172N and 172S, and Piper Archer TX. We maintain a 1:1 student-trainer ratio to ensure personalized attention. Aamro Aviation provides additional ground school and seminars, and is partnered with PSI Testing Center for FAA exams. Our strategic airport locations and breathtaking infrastructure facilitate top-notch training. Safety and quality are our utmost priorities, ensuring students achieve their aviation goals in one of the most beautiful flying environments in the United States. Contact us to start your aviation journey today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "a7edb786-f58f-4360-bfbf-24cc4bcbe6c8",
+  "slug": "ideal-aviation",
+  "name": "Ideal Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "CPS -St Louis Downtown Airport",
+  "website": "https://idealaviationstl.com/",
+  "email": "info@idealaviationstl.com",
+  "phone": "(618) 215-5824",
+  "about": "Ideal Aviation, located at St. Louis Downtown Airport, is the St. Louis area’s only privately owned FAA Part 141 certified flight school. We offer comprehensive training in both helicopters and airplanes, with a fleet that includes Guimbal Cabri helicopters and a variety of fixed-wing aircraft such as Cessna 172s and Piper Seminoles. Our experienced instructors, state-of-the-art facilities, and meticulous maintenance ensure high-quality training. We provide personalized programs for private pilot certificates, multi-engine training, and certified flight instructor certifications. With a strong emphasis on safety and individual attention, Ideal Aviation has been the starting point for many pilots who have gone on to successful careers in aviation. Join our community of pilots and start your aviation journey with confidence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

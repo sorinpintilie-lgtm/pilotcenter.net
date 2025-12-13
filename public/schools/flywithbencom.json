@@ -1,0 +1,22 @@
+{
+  "id": "7a6778dc-3c21-4448-a483-2b1b90546d99",
+  "slug": "flywithbencom",
+  "name": "Flywithben.com",
+  "continent": "North America",
+  "country": "United",
+  "state": "TN",
+  "city": "",
+  "baseAirport": "XNX -Music City Exec Airport",
+  "website": "https://flywithben.com/",
+  "email": "ben@flywithben.com",
+  "phone": "(615) 364-2902",
+  "about": "At Flywithben.com, we are dedicated to providing top-notch flight training in a safe, supportive, and professional environment. Established with a passion for aviation, our flight school offers personalized instruction tailored to each student's needs. Our FAA-certified instructors have extensive experience and a commitment to safety, ensuring you receive the highest quality training. We utilize a comprehensive online syllabus to track your progress and prepare you for each flight. With a variety of aircraft available, including Cessna 152s and Cessna 172s, you can choose the best fit for your training goals. Whether you aspire to become a private pilot or pursue a career in aviation, we are here to guide you every step of the way. Join our aviation community and take to the skies with confidence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Tailwheel\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

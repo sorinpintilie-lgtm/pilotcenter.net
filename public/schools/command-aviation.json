@@ -1,0 +1,22 @@
+{
+  "id": "139b80df-c7f5-4a79-a7db-7f7c4319bf1f",
+  "slug": "command-aviation",
+  "name": "Command Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "BLI -Bellingham International Airport",
+  "website": "https://www.commandaviation.net/",
+  "email": "customerservice@commandaviation.net",
+  "phone": "(360) 733-3174",
+  "about": "Command Aviation, operating out of Bellingham International Airport, is a full-service aviation facility offering exceptional flight training and maintenance services. Since 2009, our experienced team of flight instructors has been helping students obtain pilot certificates, add-on ratings, and complete endorsements for technically advanced aircraft. We also provide aircraft rentals and biannual flight reviews. Our maintenance department, staffed by A&P/IA mechanics, handles annual inspections, avionics installations, and other repair services. Dedicated to excellence in aviation, Command Aviation is the go-to choice for the Pacific Northwest aviation community, ensuring top-notch training and maintenance for all your aviation needs.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nRecreational Pilot\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2e390b6d-2457-4ea0-a0f7-0681e87fba38",
+  "slug": "fly-san-diego",
+  "name": "Fly San Diego",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "MYF -Montgomery-Gibbs Exec Airport",
+  "website": "https://www.iflysd.com/",
+  "email": "jamie@iflysd.com",
+  "phone": "(858) 414-9155",
+  "about": "Fly San Diego, also known as iFlySD, is a premier flight instruction school in San Diego, dedicated to providing high-quality training to aspiring pilots. Owned and operated by experienced flight instructors, the school focuses on developing safe and confident pilots. iFlySD offers a comprehensive range of programs, including private pilot licenses, instrument ratings, and commercial certifications. With a detailed and structured approach, the school guides students through every step of the training process, ensuring they are well-prepared for their aviation careers. Whether you are flying for recreation or aiming for a professional pilot career, Fly San Diego's expert instructors and personalized training programs make it an ideal choice for achieving your flight goals. At Fly San Diego, we are committed to helping you soar to new heights.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

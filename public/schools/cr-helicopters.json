@@ -1,0 +1,22 @@
+{
+  "id": "3099d44d-4ef9-4ac1-a21b-456ff7b09c19",
+  "slug": "cr-helicopters",
+  "name": "CR Helicopters",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NH",
+  "city": "",
+  "baseAirport": "ASH -Boire Field",
+  "website": "https://www.crhelicopters.com/",
+  "email": "pilot@crhelicopters.com",
+  "phone": "(603) 881-4356",
+  "about": "C-R Helicopters, located at the Nashua Airport in Nashua, New Hampshire, is a premier helicopter flight training institution in New England. Our facility features spacious classrooms and a heated hangar, all under one roof, ensuring easy and quick access to our aircraft for hands-on learning and comfort. We offer a comprehensive range of training programs, including Private Pilot Certificate, Night Rating, and Commercial Pilot Certificate. As a trusted authority in helicopter flight training, C-R Helicopters has trained many of the region's professional pilots. Our commitment to excellence and safety makes us the go-to choice for aspiring helicopter pilots. With a focus on both theoretical knowledge and practical skills, we provide a well-rounded education to prepare students for successful careers in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nInstrument Proficiency Check\\nIntro Flight\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

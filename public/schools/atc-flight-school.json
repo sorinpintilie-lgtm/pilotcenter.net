@@ -1,0 +1,22 @@
+{
+  "id": "55d0a417-dda0-48bf-a99b-e134f5106198",
+  "slug": "atc-flight-school",
+  "name": "ATC Flight School",
+  "continent": "South America",
+  "country": "Argentina",
+  "state": "AR",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://atcflightschool.com/",
+  "email": "info@atcflightschool.net",
+  "phone": "'+54 9 351 358-5524",
+  "about": "ATC Flight School is dedicated to providing exceptional training and education for aspiring private, commercial, and missionary pilots. Our mission is to develop highly skilled, knowledgeable, and professional aviators through comprehensive and innovative flight training programs. We emphasize the highest standards of safety and instill Christian values of integrity, discipline, and service. Our fast-track 0 to CPL program includes instrument and multi-engine ratings, complying with EASA or FAA requirements. We offer full accommodation and transportation services, ensuring a seamless learning experience. With a focus on safety and community impact, we prepare our graduates to excel in the aviation industry and make a positive difference in their communities. We are committed to helping you achieve your dream of becoming a pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private pilot license\\nCommercial pilot license\\nLicense conversion\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "a2a87421-726b-4678-986e-93c1a2aa9cc7",
+  "slug": "bravo-flight-training",
+  "name": "Bravo Flight Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WV",
+  "city": "",
+  "baseAirport": "MRB -Eastern Wv Regional/Shepherd Field",
+  "website": "https://bravoflighttraining.com/",
+  "email": "brenda@bravoflighttraining.com",
+  "phone": "(304) 267-1367",
+  "about": "Bravo Flight Training, established in 2016 in Frederick, MD, is dedicated to providing an unmatched flight training experience. Founded by Brenda Tibbs, who fell in love with aviation after an introductory flight at Frederick Municipal Airport, the school offers all levels of flight instruction, including private pilot, instrument, commercial, and flight reviews. Our instructors, passionate about safety and aviation, tailor training to each student's unique goals. With a growing fleet including Cessna 150, Cessna 172, and upcoming additions like the Piper Arrow and Cirrus, we ensure personalized attention and superior training in complex airspace. Located just outside Washington D.C.’s Special Flight Rules Area, Bravo Flight Training is committed to sharing the joy and thrill of aviation with every student.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

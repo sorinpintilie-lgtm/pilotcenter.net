@@ -1,0 +1,22 @@
+{
+  "id": "dd22754a-a6cc-4dc7-b69f-6bacaa755b67",
+  "slug": "horizon-aviation-services",
+  "name": "Horizon Aviation Services, Inc.",
+  "continent": "North America",
+  "country": "United",
+  "state": "VA",
+  "city": "",
+  "baseAirport": "CPK -Chesapeake Regional Airport",
+  "website": "https://horizonflightcenter.com/",
+  "email": "info@horizonflightcenter.com",
+  "phone": "(757) 421-9000",
+  "about": "Horizon Aviation is a Part 141 FAA-approved flight school with locations in the Providence and Boston metro areas. We guide students from their first lesson to becoming FAA-licensed pilots, whether for personal enjoyment, time-saving, or a professional career. Our fleet includes 13 Cessna airplanes, and we are an official Cessna Pilot Center, ensuring thorough and safety-focused training. International students from over 60 countries have also benefited from our programs, with assistance in obtaining necessary government approvals. Our experienced instructors, many of whom are former airline and private jet pilots, provide a supportive and professional environment. We are committed to making your dream of flying a reality. Contact us today to begin your journey towards becoming a pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

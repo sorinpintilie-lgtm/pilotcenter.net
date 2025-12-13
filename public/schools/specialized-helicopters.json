@@ -1,0 +1,22 @@
+{
+  "id": "1aa617c1-c29e-40b7-af44-db26f1535a1b",
+  "slug": "specialized-helicopters",
+  "name": "Specialized Helicopters",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CA",
+  "city": "Watsonville",
+  "baseAirport": "Watsonville Municipal Airport",
+  "website": "https://www.specializedheli.com/",
+  "email": "support@spheli.com",
+  "phone": "'+1 831-763-2244",
+  "about": "Specialized Helicopters, located in the San Francisco Bay Area and Monterey Bay area, offers comprehensive helicopter and airplane training programs. With nearly two decades of experience, we provide safe and unique aerial experiences through training, charter, tours, and maintenance services. Our diverse fleet and experienced staff ensure a broad skill set for students, including training in various terrain types and aerial services such as tours, charters, and aerial film. We offer personalized, flexible, and structured training programs, including private pilot, instrument, commercial, and certified flight instructor certifications. Our commitment to safety, enjoyment, and excellence makes us a premier choice for aspiring pilots. Join us for a discovery flight and start your aviation journey with confidence.",
+  "icao": "KWVI",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "f895ea3f-9d6c-4d4f-81db-fa105d9b2e0d",
+  "slug": "avolo-aeronautica",
+  "name": "Avolo Aeronáutica",
+  "continent": "Central America",
+  "country": "Mexico",
+  "state": "",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://avolo.mx/",
+  "email": "info@avolo.mx",
+  "phone": "'+52-442-253-3302",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

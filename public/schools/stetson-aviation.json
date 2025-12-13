@@ -1,0 +1,22 @@
+{
+  "id": "9d719dfe-24e0-4416-aebb-1aed49b69a67",
+  "slug": "stetson-aviation",
+  "name": "Stetson Aviation, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "2R9 -Kenedy Regional Airport",
+  "website": "https://www.stetsonaviation.com/",
+  "email": "ronhyde7@gmail.com",
+  "phone": "(830) 583-9884",
+  "about": "Stetson Aviation, Inc., located at the DeLand Municipal Airport (2R9), offers a comprehensive range of flight training services. Our certifications include Flight Instructor (CFI) and Multi-Engine Instructor (MEI), with ratings in Multi-Engine flying. We are dedicated to providing high-quality flight instruction, whether you are aiming for a private pilot's license or advanced certifications. Our experienced instructors ensure a safe and supportive learning environment, helping students achieve their aviation goals. At Stetson Aviation, we are committed to excellence in flight training, guiding you every step of the way to become a skilled and confident pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nFlight Instructor CFI\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

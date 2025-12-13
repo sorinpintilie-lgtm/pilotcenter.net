@@ -1,0 +1,22 @@
+{
+  "id": "15ac7eb1-a688-40e8-aaec-d48d502acbb6",
+  "slug": "xl-aviation",
+  "name": "XL Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "LVK -Livermore Municipal Airport",
+  "website": "https://www.xlaviationtailwheel.com/",
+  "email": "xlaviation.klvk@gmail.com",
+  "phone": "(925) 961-6135",
+  "about": "XL Aviation is a premier flying school based in Livermore, California, with additional operations in Silicon Valley. Our mission is to train pilots to be better and safer in the air and on the ground. We offer a wide range of training programs, including primary flight training, commercial aviation training, and specialized courses in aerobatics, onset upset recovery, and air combat maneuvering. Our fleet of aircraft and expert flight instructors, many of whom are USAF, Navy, and NASA-trained, provide top-notch instruction. We cater to diverse students, from beginners and hobbyists to commercial pilots and military personnel. With a stellar safety record and competitive pricing, XL Aviation is committed to helping you achieve your aviation dreams efficiently and safely. We also offer financing options through Stratus Financial to support your flight training goals. At XL Aviation, we are dedicated to making your flying experience exceptional and affordable.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

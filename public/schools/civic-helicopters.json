@@ -1,0 +1,22 @@
+{
+  "id": "883ae4ee-24e7-4501-bdc1-f22fdc42be8c",
+  "slug": "civic-helicopters",
+  "name": "Civic Helicopters, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "CRQ -Mc Clellan-Palomar Airport",
+  "website": "http://dev.civichelicopters.com/",
+  "email": "info@civichelicopters.com",
+  "phone": "(760) 438-8424",
+  "about": "Civic Helicopters, Inc., located at Palomar Airport in Carlsbad, California, has been a premier helicopter training school for over 30 years. We offer a comprehensive range of training programs, including Private Pilot, Commercial Pilot, and Flight Instructor certifications. Our highly experienced instructors provide one-on-one training, ensuring each student receives personalized attention and guidance. We conduct both flight and ground school concurrently, utilizing FAA-approved syllabi and state-of-the-art simulators. Our mission is to equip students with the knowledge and skills to safely operate helicopters in various environments, from urban areas to mountains and deserts. With a strong focus on safety, convenience, and individualized instruction, Civic Helicopters is dedicated to helping students achieve their aviation goals in a comfortable and supportive environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nPart 107 Drone Testing\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

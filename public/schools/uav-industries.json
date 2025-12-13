@@ -1,0 +1,22 @@
+{
+  "id": "3996c499-2af6-4a5b-8f33-57dcf7cd95a8",
+  "slug": "uav-industries",
+  "name": "UAV Industries",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "CT",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://flyuavi.co/",
+  "email": "info@flyuavi.co",
+  "phone": "087 095 1892",
+  "about": "UAV Industries is a licensed drone pilot training company, certified by the South African Civil Aviation Authority (SACAA) as an Aviation Training Organisation. With training facilities in Cape Town, Pretoria, and Alberton, we have trained over 1000 drone pilots since 2016. Our Remote Pilot Licence (RPL) training includes classroom and practical components, preparing students for commercial drone operations. We also offer Beyond Visual Line of Sight (BVLOS) training, Instructor Pilot Licence (IPL) courses, and additional ratings such as night operations and observer training. Our goal is to provide high-quality training at competitive prices, ensuring our graduates are well-equipped for professional drone piloting careers. UAV Industries is committed to delivering exceptional training and supporting the growth of the drone industry in South Africa.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"BVLOS \\nRPC (A)\\nRPC (H)\\nRPC (MR)\\nRPL - INSTRUCTOR RATING\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

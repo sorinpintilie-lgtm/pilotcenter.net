@@ -1,0 +1,22 @@
+{
+  "id": "423b5836-32fd-4e45-9b86-98b9dfdf9207",
+  "slug": "skynova-aviation",
+  "name": "Skynova Aviation",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "QC",
+  "city": "",
+  "baseAirport": "St-Jean-sur-Richelieu Airport (CYJN)",
+  "website": "https://skynovaaviation.com/",
+  "email": "info@skynovaaviation.com",
+  "phone": "'+1 514-633-7186",
+  "about": "Skynova Aviation is a family-owned flight school located at the Saint-Jean-sur-Richelieu Airport in the Montreal area. With over 20 years of experience, we offer a unique and high-quality pilot training environment. Our programs include the Private Pilot Licence (PPL), Night Rating, and Commercial Pilot Licence (CPL), among others. We are committed to providing comprehensive flight training and flying experiences, making us a renowned choice for aspiring pilots. Our dedication to excellence and safety ensures that our students receive the best possible education in aviation. At Skynova Aviation, we are passionate about helping you achieve your flying dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

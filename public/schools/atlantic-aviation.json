@@ -1,0 +1,22 @@
+{
+  "id": "376c79d9-af37-4e6d-a4b5-69f7abd820a2",
+  "slug": "atlantic-aviation",
+  "name": "Atlantic Aviation, Inc",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "HEG -Herlong Recreational Airport",
+  "website": "http://www.flyatlanticaviationinc.com/",
+  "email": "admin@flyatlanticaviationinc.com",
+  "phone": "(904) 378-3259",
+  "about": "Atlantic Aviation, Inc., is a comprehensive aviation service provider that includes a flight school component. While the primary focus of Atlantic Aviation is on general aviation services with a personal touch, their facilities often host on-site flight schools. At Atlantic Aviation, the emphasis is on excellence and customer care, reflected in their \"Atlantic Attitude\" which values diversity and inclusion, creating a welcoming and inclusive environment for all. Their services are extensive, including ground support, charter handling, and amenities such as pilot lounges and shuttle services. With a strong commitment to customer satisfaction, Atlantic Aviation ensures a high-quality experience for all aviation needs. They pride themselves on world-class service, making every interaction a positive one.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

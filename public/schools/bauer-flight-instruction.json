@@ -1,0 +1,22 @@
+{
+  "id": "fa19306c-92ac-43fe-b846-0e655cb63110",
+  "slug": "bauer-flight-instruction",
+  "name": "Bauer Flight Instruction, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NY",
+  "city": "",
+  "baseAirport": "4G2 -Hamburg Airport",
+  "website": "https://www.bauerflightinstruction.com/",
+  "email": "bill_michele@live.com",
+  "phone": "(716) 583-1903",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

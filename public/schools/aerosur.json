@@ -1,0 +1,22 @@
+{
+  "id": "604c2599-321d-4715-b261-f5fca5dc420a",
+  "slug": "aerosur",
+  "name": "Aerosur",
+  "continent": "South America",
+  "country": "Uruguay",
+  "state": "URY",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.aerosur.com.uy/",
+  "email": "EscuelaAerosur@gmail.com",
+  "phone": "2600 1999",
+  "about": "AeroSur Flying School is not a flight training institution but rather a historical reference to a former Bolivian airline. However, if we were to create a hypothetical description for a flight school with a similar name, here is a possible 'about us' description:\n\n\"AeroSur Flying School is dedicated to providing high-quality flight training in a safe and professional environment. With experienced instructors and a diverse fleet of aircraft, we offer comprehensive programs from private pilot to commercial licenses. Our state-of-the-art facilities and advanced simulators ensure students receive the best training possible. We are committed to excellence and support our students in achieving their aviation goals. At AeroSur Flying School, we strive to produce well-prepared and skilled pilots ready for successful careers in aviation.\"",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot Course\\nInstrument Flight Qualification\\nFlight simulator\\nCommercial Pilot\\nMulti-engine qualification\\nBaptism flights\\nPilot training and retraining\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

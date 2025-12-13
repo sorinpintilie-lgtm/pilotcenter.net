@@ -1,0 +1,22 @@
+{
+  "id": "44c43bc7-4a0f-4155-915e-147f4bf284c3",
+  "slug": "enstone-flying-club",
+  "name": "Enstone Flying Club",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Chipping Norton",
+  "baseAirport": "Enstone Airfield",
+  "website": "https://www.enstoneflyingclub.co.uk/",
+  "email": "info@enstoneflyingclub.co.uk",
+  "phone": "'+44 1608 678 204",
+  "about": "Enstone Flying Club, located in Church Enstone, Oxfordshire, is a comprehensive flying school and active flying club. We offer airplane flight training, including trial flying lessons, private pilot's licences (PPL), and conversions for glider pilots to motorglider licences. Our facility operates 7 days a week, with both tarmac and grass runways, providing unrestricted UK airspace for optimal training. Our clubhouse features refreshment facilities, classrooms for pre/post flight briefings, and social areas. We host monthly barbecues and special events, fostering a friendly and welcoming community. With a focus on safety, our experienced instructors ensure a secure and enjoyable flying experience. Whether you're a novice or experienced pilot, Enstone Flying Club is the ideal place to pursue your flying dreams. Contact us to arrange a flying programme tailored to your needs.",
+  "icao": "EGTN",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

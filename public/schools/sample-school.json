@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "slug": "sample-school",
+  "name": "Sample Flight School",
+  "city": "Sample City",
+  "country": "Sample Country",
+  "logoUrl": "https://example.com/logo.png",
+  "rating": 4.5,
+  "continent": "North America",
+  "state": "Sample State",
+  "fleetSize": "Small",
+  "visaInsurance": "F-1",
+  "about": "This is a sample flight school with detailed information about our programs and facilities.",
+  "services": "Flight training, Ground school, Simulator training",
+  "website": "https://example.com",
+  "email": "info@example.com",
+  "phone": "+1-123-456-7890",
+  "address": "123 Main St",
+  "baseAirport": "Sample Airport"
+}

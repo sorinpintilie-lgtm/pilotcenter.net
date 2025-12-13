@@ -1,0 +1,22 @@
+{
+  "id": "e190a862-f897-4e90-8af9-404ab407081f",
+  "slug": "west-desert-flight",
+  "name": "West Desert Flight",
+  "continent": "North America",
+  "country": "United States",
+  "state": "UT",
+  "city": "",
+  "baseAirport": "UT9 -West Desert Airpark",
+  "website": "https://www.westdesertflight.com/",
+  "email": "Fly@westdesertflight.com",
+  "phone": "(801) 523-4224",
+  "about": "West Desert Flight is a specialized flight school located at West Desert Airpark (UT9), focusing on tailwheel instruction and backcountry training. We provide a unique flying experience, emphasizing safety, ground school training, and customized flight schedules for each student. Our experienced instructors are dedicated to creating a fun and safe learning environment, helping students master the skills needed for flying in diverse terrain. Whether you're a novice or an experienced pilot, West Desert Flight offers the ideal setting to enhance your aviation skills and explore the beauty of backcountry flying. Join us to embark on an exciting aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nPrivate Pilot\\nSport Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "f8c377ec-a572-460e-8525-d727e464818f",
+  "slug": "cp-aviation",
+  "name": "CP Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SZP -Santa Paula Airport",
+  "website": "https://www.cpaviation.com/",
+  "email": "judy@cpaviation.com",
+  "phone": "(805) 525-2138",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

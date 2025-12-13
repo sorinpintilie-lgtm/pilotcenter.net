@@ -1,0 +1,22 @@
+{
+  "id": "5059b718-8f00-400f-8264-a27e88c51288",
+  "slug": "dc-flight-simulation",
+  "name": "DC Flight Simulation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "CCB -Cable Airport",
+  "website": "https://dcflightsimulation.com/",
+  "email": "Admin@dcflightsimulatiin.com",
+  "phone": "(909) 816-5885",
+  "about": "DC Flight Simulation is a premier facility dedicated to providing advanced aviation training through state-of-the-art equipment. Located in the Washington D.C. area, our facility offers 24/7 access to two FAA-certified Redbird FMX full motion flight simulators, configured as Cessna 172 and Beechcraft Barron 58 models. These Advanced Aviation Training Devices (AATD) allow students to log significant hours towards their certifications, including 2.5 hours for Private Pilot, 20 hours for Instrument Rating, and 50 hours for Commercial Pilot. Our facility is a bring-your-own CFI or self-use environment, with private briefing rooms equipped with internet, whiteboards, and large monitors. We are committed to creating accessibility to advanced aviation training for the general aviation community.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nSimulator\\nTime Building Programs\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

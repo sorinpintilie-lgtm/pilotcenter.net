@@ -1,0 +1,22 @@
+{
+  "id": "8986ee50-6877-4bf1-9ea9-ca272942020a",
+  "slug": "flysky-morocco-aeroclub",
+  "name": "Flysky Morocco Aeroclub",
+  "continent": "Africa",
+  "country": "Morocco",
+  "state": "MAR",
+  "city": "",
+  "baseAirport": "Tit Mellil Airport",
+  "website": "https://www.flyskymorocco.com/",
+  "email": "contact@flyskymorocco.com",
+  "phone": "'+212 714 111 991",
+  "about": "FlySky Morocco Aeroclub is a premier flight training institution dedicated to providing high-quality aviation education. Located in Morocco, our school offers comprehensive training programs for aspiring private pilots, combining theoretical and practical instruction. Our curriculum includes 140 hours of theoretical courses, structured into 9 regulatory modules, and 39 hours of practical flight training, which includes instruction, solo flights, and navigation exercises. With qualified instructors and modern aircraft equipped with full glass cockpits, we ensure a seamless learning experience. Our programs are designed to be flexible, with options for evening, weekend, and weekday classes, and we offer financing options to make training accessible. At FlySky Morocco, we aim to equip students with the skills and knowledge necessary to obtain their Private Pilot License (PPL) within four months, ensuring they are well-prepared for a safe and successful flying career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nTheoretical training\\nPractical training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

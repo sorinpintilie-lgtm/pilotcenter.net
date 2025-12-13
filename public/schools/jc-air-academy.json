@@ -1,0 +1,22 @@
+{
+  "id": "81eeef2e-e755-45e8-b057-be2c22f033c2",
+  "slug": "jc-air-academy",
+  "name": "JC Air Academy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CA",
+  "city": "Stockton",
+  "baseAirport": "Stockton Metropolitan Airport",
+  "website": "https://www.jcairacademy.com/",
+  "email": "info@jcairacademy.com",
+  "phone": "'+1 209-915-0525",
+  "about": "JC Air Academy, located in Stockton, California, is a renowned flight school with a 22-year history specializing in international pilot training. As a FAA Part 141 Flight Academy and an SEVP-approved institution (offering I-20 for student visas), we are dedicated to producing high-quality pilots. Our management team boasts a combined training experience of 24 years, ensuring standardized and rigorous training programs. We pride ourselves on our passion for safe, quality, and caring instruction, utilizing new airplanes with state-of-the-art avionics and strict safety-first maintenance standards. With over 400 of our graduates currently flying for airlines worldwide, we are committed to supporting our students in achieving their aviation careers. At JC Air Academy, we are ready to make you the best pilot.",
+  "icao": "KSCK",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

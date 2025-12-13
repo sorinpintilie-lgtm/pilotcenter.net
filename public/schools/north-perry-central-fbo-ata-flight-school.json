@@ -1,0 +1,22 @@
+{
+  "id": "50cd1bf1-043e-42ad-932d-0e59ec09954e",
+  "slug": "north-perry-central-fbo-ata-flight-school",
+  "name": "North Perry Central FBO / ATA Flight School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "HWO -North Perry Airport",
+  "website": "https://www.ataflightschool.com/",
+  "email": "ataflightschoolnp@gmail.com",
+  "phone": "(305) 303-8127",
+  "about": "North Perry Central FBO / ATA Flight School, located at North Perry Airport in Hollywood, Florida, is a comprehensive aviation training facility managed by pilots for pilots. We offer a range of flight training programs, including Private Pilot License, Instrument Rating, Commercial Pilot License, and Multi-Engine Rating. Our school also provides certification for Flight Instructors and accelerated flight training options to become a Private Pilot or Instrument Rated in 60 days. With a friendly and welcoming environment, we provide aviation fuel services, aircraft rental, and aerial tours. Our commitment is to curate a personalized flight training experience, helping students evolve from novice pilots to professional aviators. We pride ourselves on our dedicated staff and excellent service, ensuring a supportive and educational journey for all our students.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

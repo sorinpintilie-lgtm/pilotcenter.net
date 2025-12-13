@@ -1,0 +1,22 @@
+{
+  "id": "8b4eabea-94bf-4359-bd3a-576b8891ef16",
+  "slug": "harmony-air",
+  "name": "Harmony Air",
+  "continent": "North America",
+  "country": "United",
+  "state": "TN",
+  "city": "",
+  "baseAirport": "JWN -John C Tune Airport",
+  "website": "https://www.harmonyair.com/",
+  "email": "info@harmonyair.com",
+  "phone": "(615) 350-8550",
+  "about": "Harmony Air, based in Nashville, is a premier flight school and air charter service. We offer top-notch pilot training programs, guiding students through the steps to obtain a Private Pilot’s Certificate, including discovery flights, ground instruction, and FAA checkrides. Our fleet includes safe and well-maintained aircraft such as Cessna 172s, Cirrus SR20s and SR22s, and Beechcraft models. As one of only 26 Platinum Training Centers worldwide, we specialize in Cirrus Transition Training for all Cirrus models. Our expert instructors and strict adherence to FAA standards ensure a safe and effective learning environment. Join hundreds of pilots who have chosen Harmony Air to fulfill their aviation dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

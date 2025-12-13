@@ -1,0 +1,22 @@
+{
+  "id": "ae537706-a0c4-4eb3-a27b-bd740721fd54",
+  "slug": "crosswinds-aviation",
+  "name": "Crosswinds Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "MI",
+  "city": "Waterford",
+  "baseAirport": "Oakland County International Airport",
+  "website": "https://www.crosswindsaviation.com/",
+  "email": "info@crosswindsaviation.com",
+  "phone": "'+1 517-552-1101",
+  "about": "Crosswinds Aviation is a premier flying school located in the Howell and Lansing, Michigan area, offering top-notch private pilot training. With a fleet of new aircraft, including the Diamond DA20 and Cessna 172, we provide a comprehensive flight training program that meets all FAA requirements. Our program includes a minimum of 40 hours of in-flight training, with an average of 55 hours, and covers cross-country flying, instrument flight, and night flight. We offer a Discovery Flight to introduce you to our training, and our online scheduling system allows for flexible flight lesson planning. Our highly-trained instructors and meticulous aircraft maintenance ensure a safe and professional learning environment. We also have a high school flight program that exposes students to the aviation industry and career opportunities. Whether you're a beginner or aspiring to be a professional pilot, Crosswinds Aviation is dedicated to helping you achieve your aviation goals.",
+  "icao": "KPTK",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

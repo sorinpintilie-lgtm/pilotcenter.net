@@ -1,0 +1,22 @@
+{
+  "id": "ae4e799d-9cf2-4bb7-8d84-10c974d50f64",
+  "slug": "skinner-aviation",
+  "name": "Skinner Aviation Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OR",
+  "city": "",
+  "baseAirport": "S03 -Ashland Muni/Sumner Parker Field",
+  "website": "http://www.skinneraviation.com/",
+  "email": "bob@skinneraviation.com",
+  "phone": "(541) 482-7675",
+  "about": "Skinner Aviation Inc., located at the Ashland Municipal Airport in Ashland, Oregon, is a comprehensive General Aviation Fixed Base Operator (FBO) and flight school. Our experienced and highly qualified instructors provide airplane flight training in a Cessna 172, configured for instrument instruction, catering to students at all levels. We offer certifications in Private Pilot, Commercial, Flight Instructor (CFI), and Flight Instructor Instrument (CFII). With friendly and knowledgeable staff, we provide 100LL and Jet-A fuel, self-service or by truck, as well as tie-downs and other essential services for pilots in transit. Enjoying over 300 flyable days a year in a beautiful setting, Skinner Aviation is an ideal place to learn and fly, with easy access to the charming town of Ashland. We are committed to providing top-notch training and services in a welcoming and professional environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

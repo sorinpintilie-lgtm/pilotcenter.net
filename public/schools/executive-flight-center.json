@@ -1,0 +1,22 @@
+{
+  "id": "088d65f2-b518-4d1a-a2cc-8481d90d0305",
+  "slug": "executive-flight-center",
+  "name": "Executive Flight Center, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AL",
+  "city": "",
+  "baseAirport": "MDQ -Huntsville Exec Tom Sharp Jr Field",
+  "website": "https://www.executiveflightcenter.com/",
+  "email": "donna@executiveflightcenter.com",
+  "phone": "(256) 828-1403",
+  "about": "Executive Flight Center, Inc. is a premier aviation service provider specializing in private and corporate aviation. Located at the Madison County Executive Airport (KMDQ) in Huntsville, Alabama, the center offers a range of services including flight training, pilot and passenger amenities, and efficient quick turns. Their flight training program is designed to provide a comfortable and convenient learning environment, focusing on the needs of both pilots and passengers. With a commitment to comfort and convenience, Executive Flight Center ensures a seamless experience for all aviation needs, making it an ideal choice for those seeking professional and personalized aviation services.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nExaminer\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "03f24cf0-8349-4640-9e76-db6926c1a10b",
+  "slug": "alfa-pilots-club",
+  "name": "Alfa Pilot’s Club",
+  "continent": "Europe",
+  "country": "Lithuania",
+  "state": "",
+  "city": "Kaunas",
+  "baseAirport": "Kaunas S.Darius and S.Girėnos Airfield",
+  "website": "https://pilotai.lt/",
+  "email": "info@pilotai.lt",
+  "phone": "'+370 640 37375",
+  "about": "Alfa Pilots Club, located in Kaunas, Lithuania, offers comprehensive airplane flight training. Situated at the Kauno aleksotas S. Dariaus ir S. Gireno airport (EYKS), the school provides a professional and supportive environment for aspiring pilots. With a dedicated team and modern facilities, Alfa Pilots Club ensures high-quality training, preparing students for successful careers in aviation. For inquiries, contact us at +370 61126064 or email info@pilotai.lt. Join Alfa Pilots Club to take the first step towards your flying career.",
+  "icao": "EYKS",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

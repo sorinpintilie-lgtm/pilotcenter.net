@@ -1,0 +1,22 @@
+{
+  "id": "d90f7f1f-e32a-4868-9220-fbb82513cde1",
+  "slug": "rantzair",
+  "name": "RantzAir",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "EAT -Pangborn Memorial Airport",
+  "website": "https://rantzair.com/",
+  "email": "rantzair@gmail.com",
+  "phone": "(509) 679-0768",
+  "about": "At RantzAir, we are committed to providing a comprehensive and safe flight training experience. Our instructional approach is educational, relaxed, and professional, ensuring that our students receive the highest quality training. Located at Pangborn Memorial Airport, we serve the aviation community with a focus on safety and excellence. Our experienced instructors guide students through each phase of their flight training, from initial lessons to advanced certifications. With a strong emphasis on safety and a supportive learning environment, RantzAir is dedicated to helping aspiring pilots achieve their aviation goals. We are proud to be a part of the aviation community, contributing to the development of skilled and confident pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

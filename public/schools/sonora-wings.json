@@ -1,0 +1,22 @@
+{
+  "id": "f00bc703-8eea-4f28-ae68-52e1179d9f5b",
+  "slug": "sonora-wings",
+  "name": "Sonora Wings, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "A39 -Ak-Chin Regional Airport",
+  "website": "https://sonorawings.com/",
+  "email": "fly@sonorawings.com",
+  "phone": "(480) 251-1515",
+  "about": "Sonora Wings, LLC is a premier hang gliding school located in Arizona, dedicated to providing safe, proven, and enjoyable flight training. Our certified and experienced instructors guide students from zero flying experience to solo flights. We offer comprehensive lesson packages and tandem training methods, ensuring a fun and safe learning environment. Soar up to a mile high over the beautiful Sonoran Desert with our expert guidance. Join us to experience the thrill of hang gliding with the highest standards of safety and instruction.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nUltralight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

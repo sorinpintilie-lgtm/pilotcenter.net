@@ -1,0 +1,22 @@
+{
+  "id": "b5d2b08c-56f1-4870-98f4-3366205cb221",
+  "slug": "epic-helicopters",
+  "name": "Epic Helicopters, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "FTW -Fort Worth Meacham International Airport",
+  "website": "https://www.epichelicopters.com/",
+  "email": "info@epichelicopters.com",
+  "phone": "(817) 625-1800",
+  "about": "Epic Helicopters, LLC, based in Fort Worth, Texas, is a leading provider of professional airplane and helicopter flight instruction. We offer initial, recurrent, transition, and advanced training programs, including a renowned Professional Pilot Program. Our state-of-the-art facilities, spanning 14,000 square feet, feature integrated smart classroom technology, student housing, and transportation. We operate a fleet of reliable Robinson helicopters and provide training in both fixed-wing and rotary-wing aircraft. With a strong focus on safety, Epic Helicopters maintains an accident-free record and employs certified instructors who tailor training to individual needs. Our curriculum is designed to ease learning plateaus and prepare students for real-world aviation careers. We are committed to producing safety-minded, confident, and competent aviators with the highest level of integrity and safety. Join us at Epic Helicopters to achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

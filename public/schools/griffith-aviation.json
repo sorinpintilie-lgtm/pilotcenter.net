@@ -1,0 +1,22 @@
+{
+  "id": "0e4b7c7a-15f2-4646-8022-047ebec56342",
+  "slug": "griffith-aviation",
+  "name": "Griffith Aviation, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IN",
+  "city": "",
+  "baseAirport": "05C -Griffith-Merrillville Airport",
+  "website": "https://www.griffithaviationinc.com/",
+  "email": "info@griffithaviationinc.com",
+  "phone": "(219) 924-0207",
+  "about": "Griffith Aviation, Inc., located at the Griffith-Merrillville Airport in Indiana, is a full-service Fixed Base Operator (FBO) and professional flight training school. Established in 1984, the school has a rich history of training pilots, including foreign pilot programs with SAS Airlines and Chinese airlines. Approved for both FAA Part 61 and Part 141 training, Griffith Aviation offers comprehensive flight instruction for all stages of pilot certification, including Private Pilot, Instrument Rating, and Commercial Pilot licenses. The school is also VA approved and provides specialized training such as Certified Flight Instructor (CFI, CFII, MEI) and Instrument Proficiency Check (IPC). With highly skilled instructors, modern facilities, and two X-SPEC Flight Simulators, Griffith Aviation ensures a high-quality learning environment. The school operates seven days a week, allowing students to fly at their convenience. Griffith Aviation is committed to making your flying dreams a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nComputerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

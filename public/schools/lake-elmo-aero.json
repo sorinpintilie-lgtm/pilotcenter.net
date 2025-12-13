@@ -1,0 +1,22 @@
+{
+  "id": "6ff81809-8684-45c1-8cec-8c8491058773",
+  "slug": "lake-elmo-aero",
+  "name": "Lake Elmo Aero",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MN",
+  "city": "",
+  "baseAirport": "21D -Lake Elmo Airport",
+  "website": "https://www.lakeelmoaero.com/",
+  "email": "info@lakeelmoaero.com",
+  "phone": "(651) 777-1399",
+  "about": "Lake Elmo Aero is a comprehensive flight school and Fixed-Base Operator (FBO) located at Lake Elmo Airport in Minnesota. We offer a wide range of flight training programs, including Private Pilot Certificate, Commercial Pilot Certificate, and Flight Instructor ratings. Our services also include aircraft rental, aerial photography, and aircraft maintenance. Additionally, we provide aviation fuel, ground handling, oxygen service, and hangar facilities. With a commitment to quality and safety, Lake Elmo Aero is your one-stop-shop for all aviation needs, ensuring a professional and supportive environment for aspiring pilots. We are dedicated to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

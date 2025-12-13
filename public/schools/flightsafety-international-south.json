@@ -1,0 +1,22 @@
+{
+  "id": "f4b6a83d-85b3-48ed-9a68-8c1369165fc5",
+  "slug": "flightsafety-international-south",
+  "name": "FlightSafety International - South",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "DFW -Dallas-Fort Worth International Airport",
+  "website": "https://www.flightsafety.com/locations/dallas-south-learning-center/",
+  "email": "info@flightsafety.com",
+  "phone": "(817) 554-6400",
+  "about": "FlightSafety International is the world's premier professional aviation training company, providing elite training programs for business, corporate, private, and commercial pilots. With facilities in 40 locations globally, including the United States, Australia, Brazil, Canada, China, France, Japan, South Africa, the Netherlands, and the United Kingdom, we offer training on a wide variety of aircraft. Our programs include mission-critical training for military and government organizations, as well as technical support and advanced full flight simulators. We train over a million hours annually for pilots, technicians, and aviation professionals from 167 countries. At FlightSafety International, we empower aviation professionals with the skills and composure needed for all situations, ensuring they stay sharp and always prepared.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Simulator\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

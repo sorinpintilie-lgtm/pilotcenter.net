@@ -1,0 +1,22 @@
+{
+  "id": "d6b57f4a-af91-4032-bf40-8c940cf7665e",
+  "slug": "henley-air-pty",
+  "name": "Henley Air (Pty) Ltd",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "GT",
+  "city": "",
+  "baseAirport": "Rand Airport",
+  "website": "https://www.henleyair.co.za/",
+  "email": "info@henleyair.co.za",
+  "phone": "'+27 (0)11 827 5503",
+  "about": "Henley Air (Pty) Ltd is a fully licensed and equipped Air Training Organisation (ATO) based at Hangar 6, Rand Airport, Johannesburg. Established in 1995, Henley Air is dedicated to excellence in helicopter charter and flight training within the South African aviation industry. We offer a comprehensive range of training programs, including those approved by the South African Civil Aviation Authority (SACAA), such as Night Vision Imaging System (NVIS) training. Our diverse fleet of helicopters and specialized services, including corporate charters, scenic flights, and aeromedical operations, support our commitment to providing top-tier aviation solutions. Proudly BARS accredited, Henley Air ensures the highest standards of safety and training excellence. We are your premier choice for helicopter flight training and aviation services in Africa.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Flight Instructor\\nInstrument Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "daa3a51a-ccbb-449d-8011-33530306f9ec",
+  "slug": "wiseman-aviation",
+  "name": "Wiseman Aviation, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "FLG -Flagstaff Pulliam Airport",
+  "website": "https://flywise.com/?locinfo=flg",
+  "email": "flytoflagstaff@flywise.com",
+  "phone": "(928) 779-9585",
+  "about": "Wiseman Aviation, Inc., located at the Flagstaff Pulliam Airport, is a family-owned and operated fixed-base operator (FBO) that offers a comprehensive range of aviation services. We provide fueling and ground services, including high-speed internet, a pilot lounge, catering assistance, oxygen service, and aircraft maintenance. Our flight training program is designed to meet the needs of aspiring pilots, offering FAA-approved instruction and a supportive learning environment. Additionally, we supply pilot essentials and maintain a commitment to traditional aviation products and services, distinguishing us from many modern FBOs that outsource non-fuel related services. Our dedication to continuity in operations and personalized service sets us apart, making Wiseman Aviation a trusted name in general aviation. We are proud to serve the aviation community with integrity and excellence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nPrivate Pilot\\nRecreational Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

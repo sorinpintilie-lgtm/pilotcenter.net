@@ -1,0 +1,22 @@
+{
+  "id": "4335a587-1029-4d0d-ba51-d6ac7710d369",
+  "slug": "aeroflota-del-noroeste-sl",
+  "name": "AEROFLOTA DEL NOROESTE, S.L.",
+  "continent": "Europe",
+  "country": "Spain",
+  "state": "ESP",
+  "city": "",
+  "baseAirport": "Coruña airport",
+  "website": "https://afngrupo.com/en/",
+  "email": "informacion@afngrupo.es",
+  "phone": "(+34) 881 103 330",
+  "about": "Aeroflota del Noroeste (AFN) is a premier aviation pilot school located at A Coruña airport in Galicia, Spain. We offer comprehensive training programs for aspiring pilots, including Private Pilot Licence (PPL), Commercial Pilot Licence (CPL), and various flight instructor licenses such as FI, IRI, and CRI. Our ab initio training requires no prior aeronautical experience, making it accessible to all. With state-of-the-art simulators and professional airspaces, our students learn with the latest technology. All qualifications and licenses obtained are valid across the European Union and recognized globally. Our goal is to educate the professional pilots of the future, and we take pride in the successful careers of our alumni, who fly for major airlines around the world. Join us to embark on a journey to become a professional pilot and pursue your passion for flying.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot\\nPrivate pilot\\nTheoretical airline transport pilot (ATPL)\\nCommercial pilot\\nInstrument flight rating\\nMCC / JOC Course\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

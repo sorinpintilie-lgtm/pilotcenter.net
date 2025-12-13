@@ -1,0 +1,22 @@
+{
+  "id": "e91c8028-3ab2-45e7-ae49-cdb5bc63178b",
+  "slug": "oman-aviation-academy-oaa",
+  "name": "Oman Aviation Academy (OAA)",
+  "continent": "Asia",
+  "country": "Oman",
+  "state": "OM",
+  "city": "",
+  "baseAirport": "Suhar Airport",
+  "website": "https://omanaviation.com/",
+  "email": "info@omanaviation.com",
+  "phone": "968 9061 0611",
+  "about": "Oman Aviation Academy (OAA) is the premier flight training institution in Oman, established as a joint venture between Oman National Investment Corporation and other strategic partners. Located in Suhar, just 200 km north of Muscat, OAA benefits from a strategic location close to Dubai and Abu Dhabi, offering a unique blend of cultural experiences and diverse environments. Equipped with cutting-edge training technology, a modern fleet of aircraft, flight simulators, and comprehensive instructional resources, OAA provides an immersive and effective learning environment for aspiring aviators. Committed to the highest safety and quality standards, OAA offers world-class pilot training programs, including CAA/EASA ATPL(A) certifications. With a vision to be at the forefront of flight training in the region, OAA nurtures talent and provides a platform for growth and success in the aviation industry. Join us on this journey to become a beacon for flight training excellence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"CAA ATPL(A)\\n EASA ATPL(A)\\n PPL PROGRAMME\"]",
+  "visaInsurance": "Other",
+  "fleetSize": "",
+  "logoUrl": ""
+}

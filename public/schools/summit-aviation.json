@@ -1,0 +1,22 @@
+{
+  "id": "cede0f54-3c4e-4774-8d58-c62b858f9734",
+  "slug": "summit-aviation",
+  "name": "Summit Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "MT",
+  "city": "Bozeman",
+  "baseAirport": "Bozeman Yellowstone International Airport",
+  "website": "https://flysummit.com/",
+  "email": "info@flysummit.com",
+  "phone": "'+1 406-388-8359",
+  "about": "Summit Aviation is a full-service, award-winning Part 141 and Part 61 flight school located in Bozeman, Montana. We offer a comprehensive range of flight training programs, from introductory discovery flights to advanced courses such as Mountain Flying, G1000 Glass Panel familiarization, and Multi-engine Ratings. Our professional instructors, many of whom are Master Flight Instructors, provide student-focused training to ensure confidence and success in aviation careers. We are the exclusive flight training partner for the Gallatin College-MSU Aviation Degree Program and boast a modern fleet of Diamond and Cessna aircraft, known for their safety and fuel efficiency. With a commitment to safety and excellence, Summit Aviation is dedicated to helping you achieve your aviation goals. Contact us today to start your flight training journey.",
+  "icao": "KBZN",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

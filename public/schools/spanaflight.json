@@ -1,0 +1,22 @@
+{
+  "id": "f96daf17-b7b1-49f4-b429-6f10964ae1de",
+  "slug": "spanaflight",
+  "name": "SpanaFlight",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "OLM -Olympia Regional Airport",
+  "website": "https://spanaflight.com/",
+  "email": "admin@spanaflight.com",
+  "phone": "(360) 515-0001",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4fec82d9-1500-4d8f-b55a-060f2d55b722",
+  "slug": "airplanes-attitude",
+  "name": "Airplanes & Attitude",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "T31 -Aero Country Airport",
+  "website": "https://www.airplanesandattitude.com/",
+  "email": "contact@airplanesandattitude.com",
+  "phone": "(942) 793-2391",
+  "about": "At Airplanes & Attitude, located in McKinney, Texas, we offer comprehensive flight training programs tailored to meet your unique goals and schedule. Our experienced instructors create personalized training plans to ensure you achieve your aviation aspirations, whether you're pursuing a Private Pilot License, Instrument Rating, or Commercial Pilot Certificate. We provide transparent cost estimates and flexible payment options to make your flight training journey smooth and affordable. With a focus on safety and efficiency, our modern aircraft and advanced training facilities ensure a high-quality learning environment. Contact us to connect with an instructor and start your aviation journey today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

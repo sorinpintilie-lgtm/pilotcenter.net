@@ -1,0 +1,22 @@
+{
+  "id": "43f35b35-1f52-44b8-b4dc-9621660b9124",
+  "slug": "flightline-air-service",
+  "name": "Flightline Air Service",
+  "continent": "North America",
+  "country": "United States",
+  "state": "LA",
+  "city": "",
+  "baseAirport": "2L0 -Pineville Municipal Airport",
+  "website": "http://www.flightlineairservice.com/",
+  "email": "info@flightlineairservice.com",
+  "phone": "(318) 448-3934",
+  "about": "Flightline Air Service is a reputable flying school based in Louisiana, USA, offering a comprehensive range of flight training programs. We provide certifications for Private Pilot, Commercial Pilot, Flight Instructor (CFI), and Instrument Rating, as well as the Airline Transport Pilot (ATP) certificate. Our training is designed to be affordable, with flexible payment options and discounts for cash customers. With a focus on safety and professionalism, we equip students with the skills and knowledge necessary to succeed in their aviation careers. Our experienced instructors and modern training facilities ensure that students receive high-quality education, preparing them for various roles in the aviation industry. At Flightline Air Service, we are committed to helping aspiring pilots achieve their goals and reach new heights in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "b09f961d-f286-4438-96d4-07f3c950e1e8",
+  "slug": "cableair-school-of-flight",
+  "name": "CableAir - School of Flight",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "CCB -Cable Airport",
+  "website": "https://www.cableairflight.com/",
+  "email": "contact@cableairflight.com",
+  "phone": "(909) 254-6507",
+  "about": "CableAir - School of Flight, located in Upland, California, is a premier aviation training institution dedicated to providing comprehensive flight training for various general aviation needs. Our fleet includes well-maintained aircraft such as the Cessna 152, 172, 182, and Piper PA28, ensuring students have access to a diverse range of training options. Our FAA-approved certified flight instructors are experienced and committed to helping students achieve their aviation goals, whether it be earning a Private Pilot Certificate, an instrument rating, or a multi-engine rating. The school boasts a lounge-style facility available 24/7, along with friendly office staff and competitive aircraft rates. At CableAir, we are passionate about helping aspiring pilots make their dreams a reality through high-quality training and supportive instruction. Join us to start your flying journey today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

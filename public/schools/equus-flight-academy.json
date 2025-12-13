@@ -1,0 +1,22 @@
+{
+  "id": "d1f0ddea-6cd0-4f11-9fdc-c0871b9e5218",
+  "slug": "equus-flight-academy",
+  "name": "Equus Flight Academy, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IN",
+  "city": "",
+  "baseAirport": "I83 -Salem Municipal Airport",
+  "website": "https://www.equusflightacademy.com/",
+  "email": "contact@equusflightacademy.com",
+  "phone": "(502) 888-2945",
+  "about": "Equus Flight Academy, LLC is a premier flight training institution dedicated to providing high-quality aviation education. Located at several airports, we offer FAA Part 141 Private Pilot Flight Training Programs, which are structured to take students from zero experience to a Private Pilot Certificate in as little as 35 hours. Our programs are designed to be completed in 6 months, with the option to finish in as little as 3 months. We also provide Certified Flight Instructor (CFI) training, preparing pilots to become effective and knowledgeable instructors. With a strong emphasis on safety, professionalism, and student success, Equus Flight Academy fosters a community of enthusiastic and skilled aviators. Join us to experience the thrill of flying and embark on a rewarding aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nExaminer\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

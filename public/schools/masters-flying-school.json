@@ -1,0 +1,22 @@
+{
+  "id": "a12cbcde-5e97-4bc7-8b51-fbb7fc042e8b",
+  "slug": "masters-flying-school",
+  "name": "MASTERS FLYING SCHOOL, INC",
+  "continent": "Asia",
+  "country": "Philippines",
+  "state": "PSC",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.mastersflyingschool.com/",
+  "email": "info@mastersflyingschool.com",
+  "phone": "'+63 2 851 7042",
+  "about": "Masters Flying School (MFS) was founded in 1994 and is registered with the Civil Aviation Authority of the Philippines (CAAP) and the Technical Education and Skills Development Authority (Tesda). Affiliated with the Philippine Air Force Air Reserve Command, MFS is dedicated to upholding and enhancing aviation standards. The school offers training for Private Pilot Licenses, Night Ratings, and Commercial Pilot Licenses with Instrument Ratings. With a diverse student body including international students from various countries, MFS has produced professional pilots now serving in airlines and general aviation globally. The school operates from its main office in Pasay City and its hangar at Plaridel Airport, Bulacan, ensuring high-quality training and adherence to CAAP policies. MFS is committed to rearing students to the highest standards, making them valuable assets to society.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot Ground & Flight Training Course\\nCommercial Pilot Ground & Flight Training Course\\nPrivate Helicopter Pilot Ground & Flight\\nCommercial Helicopter Pilot Ground & Flight\\nMulti Engine Course\\nInstrument Rating Course\\nFlight Instructor Course\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "a19f324c-3874-4dd4-840a-64f4c9a9884d",
+  "slug": "blue-skies-flying-services",
+  "name": "Blue Skies Flying Services",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "3CK -Lake in the Hills Airport",
+  "website": "https://flyblueskies.com/",
+  "email": "info@flyblueskies.com",
+  "phone": "(815) 356-8121",
+  "about": "Blue Skies Flying Services, located at Lake in the Hills Airport (3CK), is a renowned flight school and full-service aviation provider. Voted #1 Flight School in the Midwest in 2017 and 2018, and recognized by AOPA as a Distinguished Flight School for nine consecutive years, we pride ourselves on exceptional flight training. Our instructors are highly experienced and adaptable, offering training for Private Pilot, Instrument Rated, Commercial Pilot, and CFI certificates. We utilize a well-maintained fleet of general aviation aircraft and an FAA-approved flight simulator. At Blue Skies, we believe flying should be fun and professional, making every student feel part of our aviation family. Our commitment to excellence and customer satisfaction has earned us top accolades, and we are dedicated to helping you achieve your aviation dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

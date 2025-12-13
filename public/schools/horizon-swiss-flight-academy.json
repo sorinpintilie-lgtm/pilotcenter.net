@@ -1,0 +1,22 @@
+{
+  "id": "4c030919-7804-44f6-bfd9-28fa11525d79",
+  "slug": "horizon-swiss-flight-academy",
+  "name": "Horizon Swiss Flight Academy",
+  "continent": "Europe",
+  "country": "Switzerzerland",
+  "state": "",
+  "city": "Kloten",
+  "baseAirport": "Zurich International Airport",
+  "website": "https://www.horizon-sfa.ch/en",
+  "email": "info@horizon-sfa.ch",
+  "phone": "'+41 44 862 07 07",
+  "about": "Horizon Swiss Flight Academy, founded in 1979, is the largest Swiss-owned flight school and an Approved Training Organisation (CH.ATO.0146) by the Federal Office of Civil Aviation. As a sister company of Helvetic Airways, it trains aspiring pilots from beginners to airline professionals, complying with EASA Part-FCL and Part-147 regulations. With over 4,000 successfully trained pilots, many now fly for renowned airlines like Singapore Airlines, British Airways, and Lufthansa. The academy offers comprehensive programs including Private Pilot License, Commercial Pilot License, Flight Instructor Certification, and specialized training like Multi-Engine Rating and helicopter licenses. Located in Kloten, Switzerland, Horizon Swiss Flight Academy is known for its state-of-the-art training tools, distance learning options, and a strong track record of placing graduates in top aviation roles.",
+  "icao": "LSZH",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

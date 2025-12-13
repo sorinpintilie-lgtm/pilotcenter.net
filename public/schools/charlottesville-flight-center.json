@@ -1,0 +1,22 @@
+{
+  "id": "9db13402-b6fc-4a62-979f-ee661655d310",
+  "slug": "charlottesville-flight-center",
+  "name": "Charlottesville Flight Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "VA",
+  "city": "",
+  "baseAirport": "CHO -Charlottesville-Albemarle Airport",
+  "website": "https://www.flycfc.co/",
+  "email": "cfcaviation@gmail.com",
+  "phone": "(434) 964-1474",
+  "about": "Charlottesville Flight Center, located at the Charlottesville Albemarle Airport, is a premier flight training institution serving Central Virginia. With over 10 years of experience, CFC has produced hundreds of safe and highly skilled pilots. We offer comprehensive Part 61 flight training from private pilot to commercial and certified flight instructor certifications. Our services include aircraft rentals, aerial sightseeing, and professional photo/video platforms. CFC is known for its well-maintained aircraft and competent instructors, making it an ideal choice for both hobbyists and aspiring professional pilots. We also offer financing options through our program with Blue Ridge Community College. Whether you're starting a new career or seeking an exciting hobby, Charlottesville Flight Center is your destination for quality aviation training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

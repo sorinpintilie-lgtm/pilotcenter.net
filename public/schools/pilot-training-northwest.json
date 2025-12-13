@@ -1,0 +1,22 @@
+{
+  "id": "290ce3f5-ae90-4fcb-85da-e161a1b3ff01",
+  "slug": "pilot-training-northwest",
+  "name": "Pilot Training Northwest",
+  "continent": "North America",
+  "country": "United States",
+  "state": "ID",
+  "city": "",
+  "baseAirport": "SZT -Sandpoint Airport",
+  "website": "https://www.pilottrainingnw.com/",
+  "email": "Info@PilotTrainingNW.com",
+  "phone": "(208) 450-5038",
+  "about": "Pilot Training Northwest is a premier flight training institution dedicated to helping aspiring pilots achieve their aviation goals. Our comprehensive and efficient training programs are tailored to each student's schedule and learning style. We offer a Discovery Flight, a 45-minute introductory experience that includes a pre-flight briefing, aircraft tour, and a 30-minute flight with an FAA Certified Flight Instructor. Our primary flight training program includes at least 40 hours of flight instruction, passing the FAA Knowledge Exam, and the Oral and Practical Flying Exam. With a focus on safety, comfort, and collaboration, our instructors guide students through every step of their journey to becoming a pilot. Contact us today to schedule your first flight lesson and start flying towards your dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nPrivate Pilot\\nInstrument\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

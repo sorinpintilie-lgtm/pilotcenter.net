@@ -1,0 +1,22 @@
+{
+  "id": "70f1071a-a448-49b7-b391-0a8376096fc9",
+  "slug": "bell-helicopter-training-academy",
+  "name": "Bell Helicopter Training Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "0TE2 -Bell Helicopter Hurst",
+  "website": "https://www.bellflight.com/support/commercial/training/united-states-academy",
+  "email": "BTAAdmin@bellflight.com",
+  "phone": "(800) 368-2355",
+  "about": "The Bell Helicopter Training Academy, located in Fort Worth, Texas, is a global hub for commercial and military pilot and technical training. With over 75 years of experience, the academy offers comprehensive training programs certified by the FAA. Our instructors, many of whom are U.S. veterans with extensive military and commercial backgrounds, provide expert guidance in normal and emergency flight procedures. Utilizing a fleet of Bell-owned aircraft and advanced simulators, we ensure hands-on training and state-of-the-art courseware. Our facility includes a dedicated 17-acre training area for critical emergency landing maneuvers and a full-time maintenance staff to maintain the highest standards. We are committed to providing innovative, world-class training solutions to enhance our customers' ability to safely and efficiently perform their missions.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nAnnual Recurrent Training\\nGround School\\nSimulator\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

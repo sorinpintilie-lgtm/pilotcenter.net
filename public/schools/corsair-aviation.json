@@ -1,0 +1,22 @@
+{
+  "id": "fe84aa15-bdd1-4718-b0cc-b2658abac6e7",
+  "slug": "corsair-aviation",
+  "name": "Corsair Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CA",
+  "city": "Van Nuys",
+  "baseAirport": "Van Nuys Airport",
+  "website": "https://www.corsairaviation.com/",
+  "email": "info@corsairaviation.comm",
+  "phone": "'+1 818-9064024",
+  "about": "Corsair Aviation, a Cessna Pilot Center located in Van Nuys, CA, offers a comprehensive range of aviation services including flight training, aircraft rental, private air tours, air taxi and charter, and aerial film and photography. With decades of experience and a proven curriculum, Corsair Aviation provides industry-leading flight training programs certified by the FAA under Part 141. Our fleet is equipped with state-of-the-art glass cockpit avionics, and our instructors are highly experienced and dedicated to safety and excellence. We cater to various training needs, from private and instrument ratings to commercial pilot and flight instructor certifications. Known for our professional, safety-focused, and personalized approach, Corsair Aviation is a trusted choice for aspiring pilots in the greater Los Angeles area. Join us to make your flying dreams a reality.",
+  "icao": "KVNY",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

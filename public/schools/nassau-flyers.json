@@ -1,0 +1,22 @@
+{
+  "id": "8992e51e-bcc2-4a38-b611-1892d59f3bfd",
+  "slug": "nassau-flyers",
+  "name": "Nassau Flyers",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NY",
+  "city": "",
+  "baseAirport": "FRG -Republic Airport",
+  "website": "https://www.nassauflyers.com/",
+  "email": "info@flynfi.com",
+  "phone": "(631) 454-0626",
+  "about": "Nassau Flyers, located at Republic Airport in Farmingdale, New York, is a premier Cirrus Training Center and Platinum Partner for New York City and Long Island. With over 40 years of experience, we offer advanced flight training programs, aircraft management, and a full-service FAA-approved Cirrus Factory Authorized Service center. Our fleet features the latest Cirrus SR20, SR22, and SF50 (Vision Jet) models, renowned for their safety, innovation, and comfort. Our instructors are fully licensed by the FAA with hundreds of flight hours, ensuring a safe and comprehensive learning environment. We provide a range of training programs, including private, instrument, commercial, and CFI certifications, supported by online learning systems and an FAA-approved flight simulator. At Nassau Flyers, we are committed to delivering exceptional aviation services and experiences, making every takeoff the beginning of something extraordinary.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

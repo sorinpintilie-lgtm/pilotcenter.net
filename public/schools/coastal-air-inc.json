@@ -1,0 +1,22 @@
+{
+  "id": "47d88d9c-365b-4ccb-998a-765587925074",
+  "slug": "coastal-air-inc",
+  "name": "Coastal Air, Inc,",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CT",
+  "city": "",
+  "baseAirport": "GON -Groton-New London Airport",
+  "website": "https://www.flycoastalair.com/",
+  "email": "info@flycoastalair.com",
+  "phone": "(860) 445-7315",
+  "about": "Coastal Air, Inc., located at the Groton/New London Airport (GON) in Connecticut, offers comprehensive flight training with stunning views of the Southeastern Connecticut shoreline. Our programs include training for the private pilot license, instrument rating, and commercial pilot certificate, as well as flight instructor certifications. We provide a supportive and professional environment, ensuring each student receives personalized attention and high-quality instruction. With a focus on safety and excellence, Coastal Air Inc. is dedicated to helping aspiring pilots achieve their aviation goals. Join us for a rewarding and scenic flight training experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

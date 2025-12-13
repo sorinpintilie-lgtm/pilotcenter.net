@@ -1,0 +1,22 @@
+{
+  "id": "a836e3f1-c231-4c00-9e1b-41f0260a2ea2",
+  "slug": "us-aviation-academy",
+  "name": "US Aviation Academy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "TX",
+  "city": "Denton",
+  "baseAirport": "Denton Municipal Airport (KDTO)",
+  "website": "https://www.usaviationacademy.com/",
+  "email": "admissions@usaviationacademy.com",
+  "phone": "'+1 940-279-6419 / '+1 866-383-2400",
+  "about": "US Aviation Academy, established in 2006, is a premier flight training institution dedicated to producing highly competent and safe aviators. With locations in Fort Worth, Texas, and Wappinger Falls, New York, the academy offers a comprehensive range of programs including Private Pilot, Instrument Rating, Commercial Single-Engine and Multi-Engine certifications, as well as Certified Flight Instructor training. US Aviation Academy is FAA Part 141 and Part 147 accredited, ensuring rigorous and standardized training. The academy boasts experienced instructors, state-of-the-art facilities, and partnerships with top airline cadet programs. Students benefit from personalized instruction, accelerated training options, and financial aid customized to their needs. With a strong commitment to safety and a proven track record, US Aviation Academy is the ideal choice for those aspiring to a career in aviation. Join us to embark on a journey to become a skilled and confident pilot.",
+  "icao": "KDTO",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

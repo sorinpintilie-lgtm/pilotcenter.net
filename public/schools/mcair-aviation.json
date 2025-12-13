@@ -1,0 +1,22 @@
+{
+  "id": "d71ac9f5-2123-4b5c-a7f1-80e0641ae0b9",
+  "slug": "mcair-aviation",
+  "name": "McAir Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CO",
+  "city": "Broomfield",
+  "baseAirport": "Rocky Mountain Metropolitan Airport (BJC)",
+  "website": "https://mcairaviation.com/",
+  "email": "support@mcairaviation.com",
+  "phone": "'+1 303-466-873",
+  "about": "McAir Aviation is an FAA-Certified Part 141 flight school dedicated to delivering FAA-approved flight training. We pride ourselves on a student-focused culture, training tomorrow's pilots with industry-relevant technology and advanced training equipment. Our fleet includes Cessna 172S aircraft with Garmin G1000 Glass Panels and Piper Seminoles, as well as state-of-the-art simulators like the Frasca TruFlite and Redbird MCX. We offer flexible training schedules, online materials, and partnerships with colleges and universities, including MSU Denver, to support degree programs. McAir is a participating school in several Airline Pilot Pathways and is approved to offer VA benefit training. With a commitment to diversity and inclusivity, we aim to provide comprehensive and accessible training to aspiring pilots. At McAir, you can achieve your aviation goals in as few as 13 months.",
+  "icao": "KBJC",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "986aa08e-1756-4dcd-b374-7d6d928ba7c9",
+  "slug": "elon-aviation",
+  "name": "Elon Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "NC",
+  "city": "Burlington",
+  "baseAirport": "Burlington-Alamance Regional Airport (KBUY)",
+  "website": "https://www.elonaviation.com/",
+  "email": "info@elonaviation.com",
+  "phone": "'+1 336-221-9393",
+  "about": "Elon Aviation, established in 2014, is a premier flight school based in Burlington and Greensboro, North Carolina. From humble beginnings with one instructor and one airplane, we have grown into one of the most respected flight schools in the region. Our mission is to provide excellent customer service, safe, well-maintained aircraft, and cost-effective flight instruction. We offer a wide range of training programs, including private pilot, commercial pilot, flight instructor, and remote pilot certificates, as well as instrument and multi-engine ratings. Our experienced instructors have nearly 30,000 hours of incident-free flight time, and our on-site maintenance team ensures all aircraft are airworthy. We are open seven days a week and offer accelerated training plans, introductory flights, and various community events. Choose Elon Aviation for a safe, efficient, and positive flight training experience.",
+  "icao": "KBUY",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

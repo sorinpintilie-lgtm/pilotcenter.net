@@ -1,0 +1,22 @@
+{
+  "id": "dc1a2f0e-8aed-46f8-b774-c5562fe730b7",
+  "slug": "iato-aviation-services",
+  "name": "iATO Aviation Services",
+  "continent": "Europe",
+  "country": "Ireland",
+  "state": "IRE",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.iatoas.com/",
+  "email": "office@iatoas.com",
+  "phone": "'+353 87 256 4398",
+  "about": "iATO Aviation Services is a dedicated flying school committed to providing high-quality flight training. Located in Dublin, Ireland, our institution is staffed by experienced instructors and equipped with modern facilities to ensure a comprehensive learning environment. We offer approved flying training, synthetic flight instruction, and theoretical knowledge courses for both private and commercial pilot qualifications. Our training programs are tailored to meet the specific needs of each student, ensuring they achieve their aviation goals efficiently and safely. With a focus on excellence and a commitment to regulatory compliance, iATO Aviation Services is your trusted partner in aviation education. We strive to equip our students with the skills and knowledge necessary to succeed in the aviation industry.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Type Rating Training\\nRenewal/Revalidation\\nInstructor and Examiner Training\\nCRM / UPRT\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "1d424f04-e9c7-43a5-bde3-21280aad629b",
+  "slug": "southern-wings",
+  "name": "Southern Wings",
+  "continent": "Australia",
+  "country": "New Zealnd",
+  "state": "NZ",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.southernwings.co.nz/",
+  "email": "info@southernwings.co.nz",
+  "phone": "'+64 3 218 6171",
+  "about": "Southern Wings is one of New Zealand's leading flight training schools, with a long-standing reputation since 1935. Based in Invercargill with a secondary base in Auckland, we offer professional pilot training for various careers, including airline, mountain flying, and instructor ratings, as well as private and commercial pilot licensing. Our fleet includes well-maintained fixed-wing aircraft and simulators, ensuring comprehensive training. Partnered with Air New Zealand as a Preferred Flight Training Organisation, we are committed to excellence and delivering high-quality pilots equipped to handle the aviation industry's demands. With comfortable teaching facilities and a unique training environment in Southland, we provide an ideal setting for pilots to gain diverse weather and flying experiences. Southern Wings is dedicated to producing superior quality pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Integration Course\\nNew Zealand Diploma In Aviation\\nEntry Requirements\\nPrivate Pilot License (PPL)\\nCommercial Pilot License\\nInstrument Rating\\nProspectus\\nCourse Theory Timetable\\nIntroductory Programmes\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

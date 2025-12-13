@@ -1,0 +1,22 @@
+{
+  "id": "5872a577-6fce-401a-9b34-7893f398f78e",
+  "slug": "bitterroot-aviation",
+  "name": "Bitterroot Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MT",
+  "city": "",
+  "baseAirport": "32S -Stevensville Airport",
+  "website": "http://www.bitterrootaviation.com",
+  "email": "BitavMark@yahoo.com",
+  "phone": "(406) 777-0409",
+  "about": "Bitterroot Aviation, located in Stevensville, Montana, is a reputable flying school dedicated to providing comprehensive flight training and aviation services. Our facility, situated at 3941 Flying Lane, offers a range of programs including Private Pilot Certificate, Commercial Pilot Certificate, Flight Instructor, and Instrument Rating. Additional ground school and seminars are also available to ensure our students receive a well-rounded education. With experienced instructors like Mark, who is highly praised by students, we strive to make flying accessible and enjoyable for everyone, whether you're pursuing a career in aviation or just wanting to experience the thrill of flight. Our commitment to safety, quality instruction, and customer satisfaction makes Bitterroot Aviation an excellent choice for aspiring pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

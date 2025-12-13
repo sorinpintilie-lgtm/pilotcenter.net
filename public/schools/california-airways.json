@@ -1,0 +1,22 @@
+{
+  "id": "bb93858c-34b9-4364-9c3a-08e483e460f9",
+  "slug": "california-airways",
+  "name": "California Airways",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "HWD -Hayward Exec Airport",
+  "website": "https://www.california-airways.com/",
+  "email": "chris@california-airways.com",
+  "phone": "(510) 887-7686",
+  "about": "California Airways, the San Francisco Bay Area's oldest flight school and flying club, has been training pilots for over 53 years. As a FAA-approved Part 141 flight school, it offers comprehensive and affordable flight instruction from student pilot to Airline Transport Pilot (ATP) certifications. The school provides training programs for both domestic and international students, including those on M-1 Student visas. California Airways features a diverse fleet of well-maintained aircraft, FAA-approved flight simulators, and computerized testing to reduce training costs. With no initiation fees and flexible monthly dues, the school is committed to safety, excellence, and making aviation accessible to all. Whether you're pursuing a career in aviation or a recreational flying experience, California Airways is dedicated to guiding you every step of the way. Contact them today to launch your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

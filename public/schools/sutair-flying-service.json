@@ -1,0 +1,22 @@
+{
+  "id": "810ced6d-d678-4f8a-97e1-5f1aeb2d5def",
+  "slug": "sutair-flying-service",
+  "name": "SutAir Flying Service",
+  "continent": "North America",
+  "country": "United States",
+  "state": "GA",
+  "city": "",
+  "baseAirport": "JES -Jesup-Wayne County Airport",
+  "website": "https://www.sutair.com/",
+  "email": "info@sutair.com",
+  "phone": "(912) 266-2234",
+  "about": "At SutAir Flying Service, we are dedicated to providing top-notch flight training in a friendly and professional environment. Since our establishment, we have helped numerous individuals achieve their aviation goals, whether recreational or professional. As a FAA Certified Part 141 flight school, we offer comprehensive training programs that include ground school and flight training, utilizing state-of-the-art equipment and late-model aircraft. Our highly trained instructors tailor their teaching to each student's learning style, ensuring a safe and effective learning experience. We also offer various financing options and partnerships with reputable airlines to support our students' career aspirations. With a strong focus on safety, meticulous pre-flight checks, and emergency procedures, we equip our students to become confident and skilled pilots. Join us at SutAir Flying Service to start your journey to the skies.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "1756327c-2e30-406b-b899-9083dcb18f52",
+  "slug": "adirondack-flying-service",
+  "name": "Adirondack Flying Service",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NY",
+  "city": "",
+  "baseAirport": "LKP -Lake Placid Airport",
+  "website": "https://flyanywhere.com/",
+  "email": "info@flyanywhere.com",
+  "phone": "(518) 523-2473",
+  "about": "Adirondack Flying Service, located in Lake Placid, NY, has been a cornerstone of aviation in the Adirondack Region for over 40 years. We offer a range of services including scenic air tours, charter flights, and flight instruction. Our scenic flights, available in 20 and 45-minute durations, as well as sunrise and sunset tours, provide breathtaking aerial views of the Adirondacks, including the Saranac Chain of Lakes and the Olympic venues. As a full-time flight school, Adirondack Aviation Academy, we also provide flight instruction, from introductory lessons to full private pilot licenses. Our commitment to safety and customer satisfaction makes us the go-to choice for both recreational and instructional aviation needs in the region. Whether you're seeking a memorable scenic tour or pursuing a career in aviation, Adirondack Flying Service is here to serve you.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

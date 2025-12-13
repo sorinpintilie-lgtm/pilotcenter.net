@@ -1,0 +1,22 @@
+{
+  "id": "68ba0d7e-166b-4c7a-b926-2c6790d20106",
+  "slug": "atlantic-helicopters",
+  "name": "Atlantic Helicopters, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "COI -Merritt Island Airport",
+  "website": "https://www.atlantic-helicopters.com/",
+  "email": "info@atlantic-helicopters.com",
+  "phone": "(321) 454-3090",
+  "about": "Atlantic Helicopters, LLC is a premier flying school dedicated to providing top-notch helicopter pilot training. Located in a strategic aviation hub, our school boasts a team of experienced instructors with extensive backgrounds in various helicopter operations, including search and rescue, commercial flying, and private aviation. Our state-of-the-art facilities include advanced simulators and a fleet of well-maintained helicopters, ensuring students receive comprehensive and safe training. With a strong focus on safety, we utilize rigorous flight risk assessment tools and adhere to FAA Part 135 and 141 standards. Our curriculum is designed to meet the needs of both aspiring professional pilots and recreational flyers, offering personalized training programs to suit each student's goals. At Atlantic Helicopters, LLC, we are committed to excellence in flight training, ensuring our graduates are well-prepared for a successful career in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

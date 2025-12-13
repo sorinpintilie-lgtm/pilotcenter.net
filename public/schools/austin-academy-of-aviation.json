@@ -1,0 +1,22 @@
+{
+  "id": "ba22f7ff-7961-419e-b9cd-dbb56fe1fe71",
+  "slug": "austin-academy-of-aviation",
+  "name": "Austin Academy of Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "HYI -San Marcos Regional Airport",
+  "website": "https://www.flyaus.com/",
+  "email": "austinacademyofaviation@gmail.com",
+  "phone": "(512) 216-6615",
+  "about": "Austin Academy of Aviation, founded in 1993 by Virgil Kennedy, a veteran with over 11,000 hours of flight experience in the U.S. Air Force, is a premier flight training institution. Located at San Marcos Regional Airport, the academy offers a full spectrum of certification levels, from Private Pilot to Commercial Pilot and beyond. With a fleet of ADS-B and Auto-Pilot equipped, IFR certified Cessna 172s, the school maintains an outstanding safety record and has helped over 3,000 students achieve their flying dreams. The academy's professional team, led by Virgil Kennedy, is committed to providing high-quality instruction and well-maintained aircraft. Students have gone on to fly for airlines, corporate/charter aircraft, military, and law enforcement. Austin Academy of Aviation is dedicated to delivering comprehensive flight training with a focus on safety, innovation, and customer service.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nAnnual Recurrent Training\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

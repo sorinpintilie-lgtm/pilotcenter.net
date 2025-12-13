@@ -1,0 +1,22 @@
+{
+  "id": "59f11b6e-a0c4-46cc-b07c-671a408fa00f",
+  "slug": "huntsville-aviation",
+  "name": "Huntsville Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "UTS -Huntsville Municipal Airport",
+  "website": "https://huntsvilleaviationfbo.com/",
+  "email": "wairco@yahoo.com",
+  "phone": "(936) 295-8136",
+  "about": "Huntsville Aviation, located at the Huntsville International Airport (KUTS), is a comprehensive flight training facility dedicated to providing high-quality aviation education. We offer a range of programs, including private pilot, instrument rating, commercial pilot, and flight instructor certifications. Our fleet includes various aircraft such as Cessna 172s and Piper Warriors, equipped with advanced avionics like Garmin 430 and 530 systems. Our experienced Certified Flight Instructors ensure students receive thorough ground school and flight training, preparing them for FAA exams and real-world flying scenarios. As an Authorized CATS Testing Center, we also provide convenient FAA testing services. Our goal is to equip aspiring pilots with the skills, knowledge, and confidence necessary to succeed in the aviation industry. We strive to be the first choice for flight training in the region, offering a safe, supportive, and professional learning environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Flight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

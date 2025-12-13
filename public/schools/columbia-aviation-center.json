@@ -1,0 +1,22 @@
+{
+  "id": "35b8e8f4-d2ec-45b0-acbf-842dbcf8bcd2",
+  "slug": "columbia-aviation-center",
+  "name": "Columbia Aviation Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OR",
+  "city": "",
+  "baseAirport": "SPB -Scappoose Airport",
+  "website": "https://www.oregonflighttraining.com/",
+  "email": "twintimeflyer@aol.com",
+  "phone": "(503) 522-4842",
+  "about": "Columbia Aviation Center, located in Scappoose, Oregon, is a comprehensive flight school offering a wide range of aviation training programs. We provide instruction for private pilot, instrument, commercial, and ATP certifications, as well as all fixed wing instructor ratings. Our programs are designed to meet the needs of aspiring pilots, from initial licensure to advanced professional certifications. With a focus on safety, education, and mentoring, our experienced instructors guide students through rigorous training to ensure they are well-prepared for their aviation careers. We are committed to delivering high-quality flight training in a supportive and professional environment. At Columbia Aviation Center, we strive to help our students achieve their aviation goals with excellence and confidence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nRotary Wing\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "cb0d0894-19fe-4f4e-9467-4a981673b662",
+  "slug": "crystal-air",
+  "name": "Crystal Air",
+  "continent": "North America",
+  "country": "United",
+  "state": "TN",
+  "city": "",
+  "baseAirport": "CHA -Lovell Field",
+  "website": "https://www.flycrystalair.com/",
+  "email": "info@flycrystalair.com",
+  "phone": "(423) 236-5100",
+  "about": "Crystal Air, a family-owned and operated aviation company based at the Chattanooga Metropolitan Airport, has been providing comprehensive aviation services since 1993. We offer flight training, aircraft maintenance, and charter flights across the United States. Our team of experienced Certified Flight Instructors, with over 50,000 hours of combined flight training experience, ensures personalized and effective instruction. We provide several training aircraft equipped with glass cockpit instrumentation and flexible scheduling to accommodate our students' needs. Whether you're pursuing a career in aviation or flying for leisure, Crystal Air is dedicated to helping you achieve your goals with professionalism and excellence. Start your aviation journey with us today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

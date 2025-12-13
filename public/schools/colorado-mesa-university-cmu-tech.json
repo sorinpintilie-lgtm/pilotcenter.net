@@ -1,0 +1,22 @@
+{
+  "id": "ec36f521-b906-4d1d-9dc1-429ca605dcd9",
+  "slug": "colorado-mesa-university-cmu-tech",
+  "name": "Colorado Mesa University (CMU Tech)",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CO",
+  "city": "",
+  "baseAirport": "GJT -Grand Junction Regional Airport",
+  "website": "https://www.coloradomesa.edu/tech/programs/aviation.html",
+  "email": "tech@coloradomesa.edu",
+  "phone": "(970) 255-2600",
+  "about": "Colorado Mesa University (CMU Tech) Aviation Technology program is a comprehensive flying school designed to prepare students for careers in aviation. The two-year Associate of Applied Science degree includes FAA certification as a Private Pilot, Commercial Pilot with an Instrument Rating, and as a Certified Flight Instructor. The program combines traditional classes with ground and flight training, emphasizing technical skills, aeronautical knowledge, and safety protocols. Students gain expertise in areas such as aviation meteorology, crew resource management, and multi-engine operations. Admission requires a secondary application, a flight physical exam, and acceptance into CMU. Upon completion, graduates are well-prepared for professional pilot roles and further education in aviation technology. CMU Tech's aviation program is dedicated to fostering skilled and safety-conscious pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

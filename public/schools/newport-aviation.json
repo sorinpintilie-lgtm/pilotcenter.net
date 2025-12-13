@@ -1,0 +1,22 @@
+{
+  "id": "e3043d8e-2135-4811-82b0-8bddc86fc2c1",
+  "slug": "newport-aviation",
+  "name": "Newport Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "RI",
+  "city": "",
+  "baseAirport": "UUU -Newport State Airport",
+  "website": "https://www.flynewportri.com/",
+  "email": "hdcorson@aol.com",
+  "phone": "(401) 846-2359",
+  "about": "Newport Aviation is a premier flight school located in Rhode Island, USA, offering a comprehensive range of pilot training programs. We provide certifications for Private Pilot, Commercial Pilot, Flight Instructor, and Airline Transport Pilot (ATP) licenses. Our training includes ground school, computerized testing, and simulator training to ensure well-rounded education. Prospective students can start with a $199 \"Discovery Flight\" to experience the basics of aviation under the guidance of certified flight instructors. With a requirement of 40 hours of flight training for private pilots, we ensure that our students are thoroughly prepared for their licensing exams. At Newport Aviation, we are committed to helping aspiring pilots achieve their aviation goals in a safe and supportive environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

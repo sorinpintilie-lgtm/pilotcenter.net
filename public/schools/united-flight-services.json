@@ -1,0 +1,22 @@
+{
+  "id": "b0d29ab2-2fc3-4a8f-a095-d2f597f5cef3",
+  "slug": "united-flight-services",
+  "name": "United Flight Services",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "WVI -Watsonville Municipal Airport",
+  "website": "https://united-flight.com/",
+  "email": "info@united-flight.com",
+  "phone": "(831) 722-4155",
+  "about": "United Flight Services, located at the Watsonville Airport in the Monterey Bay Area, has been a stalwart in flight instruction since 1966. As the longest-running business on the airport, our team of Certified Flight Instructors provides comprehensive training in private pilot, instrument, and advanced flight instruction. We offer a fleet of well-maintained Cessna aircraft for rental, and our services include annual inspections, engine repairs, and other general aviation maintenance needs. With a commitment to safety and excellence, we teach students everything they need to become competent and safe pilots. Our experienced instructors and supportive environment make United Flight Services an ideal place to begin or advance your aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

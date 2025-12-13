@@ -1,0 +1,22 @@
+{
+  "id": "2ab8e358-a780-47c0-aaa6-ef920475a751",
+  "slug": "fna-aviation",
+  "name": "FNA Aviation",
+  "continent": "Asia",
+  "country": "Israel",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "Herzliya Airport",
+  "website": "https://www.fnaviation.co.il/",
+  "email": "",
+  "phone": "'+972 9-957-7717",
+  "about": "At FNA Aviation, we offer top-notch flight training programs tailored to meet the diverse needs of aspiring pilots. With a rich history dating back to our founding, we have established a reputation for providing high-quality educational facilities and highly trained staff. Our programs range from private pilot to commercial and airline transport pilot certifications, ensuring a structured and comprehensive learning experience. We utilize modern, fuel-efficient aircraft with excellent safety records, similar to those offered by Diamond Aircraft. Our instructors, many of whom are experienced airline pilots and retired military aviators, provide personalized one-on-one instruction to ensure each student achieves flight proficiency. We are proud to be a Part 141 approved school, subject to regular FAA inspections, and we offer veteran benefits and foreign national flight training programs. Join us at FNA Aviation and embark on a journey to the skies with confidence and excellence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Set up multi-engine\\nInstructor course\\nCommercial course\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

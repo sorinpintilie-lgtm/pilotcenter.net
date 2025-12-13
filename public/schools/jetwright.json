@@ -1,0 +1,22 @@
+{
+  "id": "cfee80c1-140f-4be8-b453-9c446a0ead87",
+  "slug": "jetwright",
+  "name": "JetWright",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "PRC -Prescott Regional - Ernest A Love Field",
+  "website": "https://www.jetwright.com/",
+  "email": "jet@jetwright.com",
+  "phone": "(623) 202-6910",
+  "about": "At JetWright, we specialize in providing accelerated and personalized jet flight training programs, tailored to meet the unique needs of each pilot. Our courses are designed for those seeking a Citation CJ Series type rating, whether it's a Single Pilot CE-525S or a Crew Type Rating CE-525. Our training includes an advanced self-study package followed by one-on-one flight and ground instruction, conducted by FAA Designated Pilot Examiners. The 12-day full immersion program is split into two 5-day periods, separated by 2 days of self-study, ensuring comprehensive preparation for the practical examination. With flexible scheduling and the option to train at our Arizona locations or at your own site, we offer the best possible training environment. Our dedicated instructors ensure you receive the highest quality education, preparing you to excel in jet operations. At JetWright, we commit to your success in achieving your jet type rating.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nExaminer\\nInstrument Proficiency Check\\nSimulator\\nTime Building Programs\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

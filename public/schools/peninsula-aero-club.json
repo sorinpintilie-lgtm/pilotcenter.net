@@ -1,0 +1,22 @@
+{
+  "id": "52785952-84b0-4034-b0ea-ea2ce74dcb54",
+  "slug": "peninsula-aero-club",
+  "name": "Peninsula Aero Club",
+  "continent": "Oceania",
+  "country": "Australia",
+  "state": "",
+  "city": "",
+  "baseAirport": "Mornington Peninsula Airport",
+  "website": "https://pac.asn.au/",
+  "email": "pac@pac.asn.au",
+  "phone": "'+61 3-5977-4406",
+  "about": "Peninsula Aero Club is a renowned flying training school and club located at Tyabb Airport on the Mornington Peninsula in Australia. With nearly 60 years of experience, the club offers comprehensive flight training for all license levels, from Private to Commercial. The training includes both single-engine and multi-engine aircraft, as well as additional ground school and seminars. The club is dedicated to providing high-quality instruction and a supportive environment for aspiring pilots, whether they are pursuing careers in commercial aviation or private and recreational flying. Peninsula Aero Club is committed to excellence in aviation education and training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

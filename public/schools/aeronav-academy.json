@@ -1,0 +1,22 @@
+{
+  "id": "3bca49a9-a32d-4cd2-8a38-61f027b267b6",
+  "slug": "aeronav-academy",
+  "name": "Aeronav Academy",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "",
+  "city": "",
+  "baseAirport": "Lanseria Airport",
+  "website": "https://www.aeronav.co.za/",
+  "email": "",
+  "phone": "'+27 11 701 3862",
+  "about": "Aeronav Academy, established 35 years ago, is a renowned Aviation Training Academy in South Africa, accredited by the South African Civil Aviation Authority since 2005. We offer comprehensive training from Private Pilot Licence (PPL) to Airline Transport Pilot Licence (ATPL) using a modern fleet of Diamond DA20s, Cessna 182s, and a Diamond Twinstar Multi-engine. Our ground school is staffed with highly qualified lecturers, and we recently introduced an Alsim ALX flight simulator. We strive to provide safe, quality training in well-maintained aircraft, ensuring a safe and enjoyable experience for our students. Located at Lanseria International Airport, Aeronav Academy is dedicated to meeting the highest standards in aviation training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PRIVATE PILOTS LICENCE\\nCOMMERCIAL PILOT LICENCE\\nAIRLINE TRANSPORT PILOT LICENCE\\nFOREIGN LICENCE VALIDATIONS AND CONVERSIONS\\nPPL GROUND SCHOOL\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

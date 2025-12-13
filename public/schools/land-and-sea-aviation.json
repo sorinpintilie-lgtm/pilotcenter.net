@@ -1,0 +1,22 @@
+{
+  "id": "4c90dfa8-104b-445b-acd7-db44d6974c27",
+  "slug": "land-and-sea-aviation",
+  "name": "Land and Sea Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "AK",
+  "city": "Anchorage",
+  "baseAirport": "Merrill Field Airport",
+  "website": "https://www.landandseaaviationalaska.com/",
+  "email": "landandseaalaska@gmail.com",
+  "phone": "'+1 907-274-2544",
+  "about": "Land and Sea Aviation, located at Merrill Field Airport in Anchorage, Alaska, offers comprehensive airplane and seaplane flight training. Our highly qualified instructors provide an exciting and enjoyable learning experience, catering to a diverse range of aspiring pilots. We offer both Part 141 and Part 61 training programs to accommodate various learning approaches and schedules. In addition to flight training, we provide aircraft rentals, FAA written exams, and additional ground school seminars. Our commitment to customer service and extensive instructor experience make us a standout in the Anchorage area. We strive to create a supportive and engaging environment for all our students to achieve their aviation goals.",
+  "icao": "PAMR",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nSeaplane Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

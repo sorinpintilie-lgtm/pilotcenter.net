@@ -1,0 +1,22 @@
+{
+  "id": "18e628e4-8453-4433-a12a-894ea8a68c55",
+  "slug": "blue-river-aviation",
+  "name": "Blue River Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "AK",
+  "city": "Palmer",
+  "baseAirport": "Palmer Municipal Airport",
+  "website": "https://www.blueriveraviation.com/",
+  "email": "fly@blueriveraviation.com",
+  "phone": "'+1 907-414-0371",
+  "about": "Blue River Aviation, located in Palmer, Alaska, is a premier flight school dedicated to professional aviation training. Founded by Jamie Hastings, who began flight instructing in 2009, the school offers a wide range of courses, including Private Pilot License, Commercial Pilot License, Instrument Rating, and specialized training in floatplanes, seaplanes, and ski planes. With a focus on preparing students for careers from airline piloting to off-airport backcountry flying, Blue River Aviation provides personalized training in diverse Alaskan flying conditions. The school is supported by a skilled team and a fleet of advanced aircraft, ensuring top-notch instruction and a commitment to safety. Blue River Aviation attracts students worldwide with its unique Alaskan flying experience and comprehensive aviation services.",
+  "icao": "PAAK",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nSeaplane Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

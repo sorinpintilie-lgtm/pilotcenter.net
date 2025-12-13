@@ -1,0 +1,22 @@
+{
+  "id": "1c9d9be3-411a-4a53-b5cd-eb66f67d8e22",
+  "slug": "flight-training-by-jim-pitman",
+  "name": "Flight Training by Jim Pitman",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "SDL -Scottsdale Airport",
+  "website": "https://flywithjim.com/",
+  "email": "jim@jimpitman.com",
+  "phone": "(623) 252-0145",
+  "about": "Flight Training by Jim Pitman is a premier aviation education facility led by Jim Pitman, a seasoned aviation professional with over three decades of experience. Since starting his flying career in 1992, Jim has been a flight instructor since 1997, an airline pilot for SkyWest Airlines since 2016, and an FAA Designated Pilot Examiner (DPE) since 2019. With numerous accolades, including being named the 2020 Regional Flight Instructor of the Year and Arizona Flight Instructor of the Year in 2006 and 2020, Jim brings a wealth of knowledge and dedication to his students. His training programs are characterized by a supportive, positive, and detail-oriented approach, ensuring a relaxed yet rigorous learning environment. Jim’s expertise includes customized training, flexibility, and a passion for helping others achieve their aviation goals. At Flight Training by Jim Pitman, students benefit from his extensive experience and commitment to excellence in aviation education.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

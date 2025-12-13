@@ -1,0 +1,22 @@
+{
+  "id": "c98d2c15-7304-4aad-8bea-2d12434d7ea7",
+  "slug": "coastal-skies-aero-club",
+  "name": "Coastal Skies Aero Club",
+  "continent": "North America",
+  "country": "United",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "LVJ -Pearland Regional Airport",
+  "website": "https://coastalskies.com/",
+  "email": "fly@coastalskies.com",
+  "phone": "(281) 993-1151",
+  "about": "Coastal Skies Aero Club is a premier flying school in the Galveston/Houston area, dedicated to uniting pilots and flight instructors in a fun, friendly environment. We offer a large and diverse fleet of aircraft, including Piper Arrow, Piper Cherokee, and Piper Archer II models, for both flight training and recreational flying. Our club provides a comprehensive range of services, including aircraft rental and professional flight instruction, catering to the needs of aspiring pilots and seasoned aviators alike. With a focus on safety, quality training, and community building, Coastal Skies Aero Club is the ideal place to pursue your aviation dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

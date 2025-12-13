@@ -1,0 +1,22 @@
+{
+  "id": "17c2e1b3-ed81-4b05-8a20-65ff4c34b814",
+  "slug": "bay-aviation",
+  "name": "Bay Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "VA",
+  "city": "",
+  "baseAirport": "W75 -Hummel Field",
+  "website": "https://bayaviationonline.com/",
+  "email": "mkuhnert01@gmail.com",
+  "phone": "(804) 436-2977",
+  "about": "Bay Aviation provides quality flight instruction at reasonable rates, utilizing our Cessna 172 aircraft to get you on the fast track to earning your private pilot license. Located in Virginia's beautiful northern neck, we offer first-class flight instruction and scenic flights. Our highly experienced instructors and well-maintained aircraft ensure a safe and effective learning environment. Whether you're flying for fun or starting a professional aviation career, Bay Aviation's flexible scheduling and affordable rates make flight training accessible to all. Join us for a rewarding and thrilling experience in the skies.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "3ea9c898-bb01-4c7b-9d45-250b75e51eeb",
+  "slug": "oc-flight-lessons",
+  "name": "OC Flight Lessons",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SNA -John Wayne/Orange County Airport",
+  "website": "https://www.ocflightlessons.com/",
+  "email": "omar@ocflightlessons.com",
+  "phone": "(949) 520-3852",
+  "about": "OC Flight Lessons, established in 2003, is a premier FAA-approved flight training academy based at John Wayne Airport in California. Owned and operated by Omar Amin, a former airline captain and chief flight instructor, the school offers personalized and professional training from certified instructors. With a focus on safety and excellence, OC Flight Lessons provides programs ranging from Private Pilot to Commercial and Airline Pilot certifications. The school is known for its individualized classroom settings, state-of-the-art RedBird simulator training, and a commitment to helping students achieve their aviation goals. OC Flight Lessons is dedicated to making flight training enjoyable, affordable, and free of hidden costs, ensuring a seamless journey for aspiring pilots. Join us to start your flying career with a team that prioritizes your success.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "8d396abe-d945-4ec7-a0c6-63fb5465376f",
+  "slug": "university-of-zilina",
+  "name": "University of Zilina",
+  "continent": "Europe",
+  "country": "Slovakia",
+  "state": "",
+  "city": "Žilina",
+  "baseAirport": "Žilina Airport",
+  "website": "https://www.uniza.sk/",
+  "email": "No email",
+  "phone": "'+421 41 513 5001",
+  "about": "The University of Zilina's Aviation Training and Educational Centre, established in 1974, is a premier institution for aviation training in Slovakia. Located at the international Airport Zilina – Dolný Hričov, the school offers comprehensive programs for pilots and air transport managers. It provides airplane flight training, aviation college degrees, and certifications, adhering to JAR-FCL and ICAO standards. The centre includes modern facilities, maintenance and repair workshops, hangars, and research laboratories. With a rich history of training over 353 CPL(A) and 156 CPL/IR licenses, the University of Zilina is committed to innovation and excellence, preparing students for successful careers in aviation. Whether you aspire to be a pilot or a leader in air transport management, the University of Zilina has the tools and expertise to support your journey.",
+  "icao": "LZZI",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

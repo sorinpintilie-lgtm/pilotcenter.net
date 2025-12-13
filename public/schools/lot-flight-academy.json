@@ -1,0 +1,22 @@
+{
+  "id": "aae753a4-64c7-4846-b814-f777b4215edb",
+  "slug": "lot-flight-academy",
+  "name": "LOT Flight Academy",
+  "continent": "Europe",
+  "country": "Poland",
+  "state": "POL",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://lotflightacademy.pl/",
+  "email": "lfa@pal.aero",
+  "phone": "'+48 788 950 520",
+  "about": "LOT Flight Academy, established by LOT Polish Airlines in 2015, is a premier flying school located in Warsaw, Poland. As part of the Polish Aviation Academy, it offers a comprehensive range of flight training programs, including ab initio training, cadet programs, type rating training, and more. The academy utilizes a modern fleet of Tecnam aircraft and state-of-the-art simulators. Instruction is provided by experienced airline pilots and aviation specialists. With training bases in Piotrków Trybunalski and Toruń, and theoretical classes in Warsaw, LOT Flight Academy ensures students receive rigorous and professional training in accordance with EASA regulations. While employment is not guaranteed, the academy provides substantial support and preparation for the recruitment process, helping many graduates secure roles as airline pilots. LOT Flight Academy combines passion for flying with decades of experience to offer a top-tier aviation education.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"0-ATPL (A)\\nMEP(L)\\nJOC\\nLicense conversion\\nPPL(A)\\nCPL(A)\\nUPRT\\nVFR NIGHT\\nIR/ME\\nFI(A)\\n100KSA ATPL(A)\\nMCC\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

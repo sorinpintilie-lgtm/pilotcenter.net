@@ -1,0 +1,22 @@
+{
+  "id": "66725171-5c53-4d18-bffc-7b0d076c204a",
+  "slug": "star-flight-training",
+  "name": "Star Flight Training",
+  "continent": "North America",
+  "country": "USA",
+  "state": "VA",
+  "city": "Roanoke",
+  "baseAirport": "Roanoke-Blacksburg Regional Airport",
+  "website": "https://starflighttraining.com/",
+  "email": "fly@starflighttraining.com",
+  "phone": "'+1 540-855-8186",
+  "about": "Star Flight Training, located at the Roanoke-Blacksburg Regional Airport, is a comprehensive flight training institution dedicated to helping students achieve their aviation goals. We offer primary, advanced, and recurrency flight training for both career-path pilots and weekend enthusiasts, along with aircraft rentals and FAA computerized testing. Our fleet includes modern Diamond aircraft, known for their safety record, cost-effectiveness, and reliability, equipped with Garmin glass panel avionics. Experienced instructors provide a systematic approach to flight training, ensuring students receive uncompromising customer service. We also offer discovery flights, private pilot ground school, and specialized courses such as the Military Pilot Training Prep Course. With a focus on safety, efficiency, and customer satisfaction, Star Flight Training is committed to helping you achieve your aviation dreams.",
+  "icao": "KROA",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

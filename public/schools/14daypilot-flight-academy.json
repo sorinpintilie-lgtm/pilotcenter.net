@@ -1,0 +1,22 @@
+{
+  "id": "13c120d7-978b-47d3-8b82-41e346c6a1aa",
+  "slug": "14daypilot-flight-academy",
+  "name": "14DAYPILOT FLIGHT ACADEMY",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "VNY -Van Nuys Airport",
+  "website": "https://www.14daypilot.com/",
+  "email": "info@14daypilot.com",
+  "phone": "(747) 777-9552",
+  "about": "14DAYPILOT Flight Academy, based at Van Nuys Airport in Los Angeles, is a leading provider of accelerated flight training in the U.S. Designed for executives and serious pilots, our program offers luxury VIP flight instruction with a 1:1 student-to-instructor ratio and dedicated aircraft for each student. Our senior instructors are available up to 6 hours daily, ensuring personalized and intensive training. The academy is known for its fast-track programs, allowing students to achieve their pilot ratings in as little as a few weeks. With a focus on checkride readiness and support from experienced instructors and designated pilot examiners, 14DAYPILOT ensures a comprehensive and efficient aviation training experience. Despite recent updates indicating the academy is closed, its legacy as an industry leader in accelerated flight training remains.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

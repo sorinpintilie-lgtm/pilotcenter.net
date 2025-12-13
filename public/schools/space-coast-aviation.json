@@ -1,0 +1,22 @@
+{
+  "id": "54a82674-2d1e-4656-99de-23b4c0d5356a",
+  "slug": "space-coast-aviation",
+  "name": "Space Coast Aviation",
+  "continent": "North America",
+  "country": "United",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "COI -Merritt Island Airport",
+  "website": "https://www.spacecoastaviation.com/",
+  "email": "desk@spacecoastaviation.com",
+  "phone": "(321) 453-2222",
+  "about": "Space Coast Aviation, located at the Merritt Island Airport (KCOI), is a premier flight training institution specializing in accelerated career pilot training. We offer comprehensive programs from basic private pilot to commercial certifications. Our training is tailored to help students achieve their aviation goals efficiently. With competitive fuel prices, a refreshment area, and on-site maintenance, we provide a supportive environment for all your aviation needs. We are conveniently close to Cocoa Beach, Kennedy Space Center, and Port Canaveral, making us an ideal choice for pilots in the region. Our focus on safety and quality ensures that our students receive the best possible training to succeed in their aviation careers.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nComputerized Testing\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "5662cefa-c1ab-49c3-a28d-43569a157ab8",
+  "slug": "frederick-flight-center",
+  "name": "Frederick Flight Center, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MD",
+  "city": "",
+  "baseAirport": "FDK -Frederick Municipal Airport",
+  "website": "https://advanced-aviation-group.com/",
+  "email": "frontdesk@frederickflightcenter.com",
+  "phone": "(240) 529-5500",
+  "about": "Frederick Flight Center, Inc., located at the Frederick Municipal Airport in Maryland, is a premier flight school dedicated to safety, professionalism, and high-quality education. We offer a comprehensive range of flight training programs, including private pilot, instrument, commercial, multi-engine, and certified flight instructor certifications. Our training includes both ground school and flight instruction, utilizing single-engine and multi-engine aircraft as well as simulators. Our fleet is maintained to the highest industry standards by FAA-certified technicians in our own on-site maintenance facility. We provide a friendly and welcoming atmosphere, ensuring that our students receive expert training in a safe and supportive environment. Whether you are aspiring to become a professional pilot or simply want to fly for recreation, Frederick Flight Center is committed to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nComputerized Testing\\nExaminer\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

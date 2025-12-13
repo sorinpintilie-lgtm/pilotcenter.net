@@ -1,0 +1,22 @@
+{
+  "id": "6fd3d09d-53bd-4b0d-a785-b808c3b7ab5e",
+  "slug": "learn-to-fly",
+  "name": "Learn To Fly",
+  "continent": "Oceania",
+  "country": "Australia",
+  "state": "",
+  "city": "",
+  "baseAirport": "Moorabbin Airport",
+  "website": "https://learntofly.edu.au/",
+  "email": "hello@learntofly.edu.au",
+  "phone": "'+61 3-9580-4096",
+  "about": "At Learn To Fly, we are dedicated to providing comprehensive and engaging flight training for aspiring pilots. Established with a commitment to safety and excellence, our flight school offers a wide range of programs tailored to meet the goals of both recreational and professional pilots. Our experienced FAA Certified Flight Instructors guide students through ground school and hands-on flight training, covering essential topics such as aircraft systems, aerodynamics, weather patterns, and Federal Aviation Regulations. We offer introductory flying lessons, discovery flights, and advanced training in various aircraft types. Our state-of-the-art facilities and moderate weather conditions ensure a conducive learning environment. Join us to turn your dream of flying into a reality with confidence and professionalism. Start your journey to becoming a proficient pilot today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nATP-CTP Course\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

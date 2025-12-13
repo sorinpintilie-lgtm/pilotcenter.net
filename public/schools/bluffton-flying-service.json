@@ -1,0 +1,22 @@
+{
+  "id": "e183fb41-99c4-4c37-97cf-73932ff66a8e",
+  "slug": "bluffton-flying-service",
+  "name": "Bluffton Flying Service",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OH",
+  "city": "",
+  "baseAirport": "5G7 -Bluffton Airport",
+  "website": "https://www.blufftonflyingservice.com/",
+  "email": "blufftonflyingservice@gmail.com",
+  "phone": "(419) 358-7045",
+  "about": "Bluffton Flying Service, located at the Bluffton Airport in Bluffton, Ohio, is a comprehensive flight training institution dedicated to helping aspiring pilots achieve their aviation goals. The school offers a range of training programs, including Private Pilot Certificate, Commercial Pilot Certificate, and Flight Instructor certifications, as well as Instrument ratings. With experienced instructors and a supportive learning environment, Bluffton Flying Service provides students with the knowledge and skills necessary to succeed in aviation. Whether you are just starting your flying journey or advancing your career, Bluffton Flying Service is committed to making your dreams of becoming a pilot a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

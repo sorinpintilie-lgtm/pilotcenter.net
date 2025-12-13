@@ -1,0 +1,22 @@
+{
+  "id": "2a80bc70-4456-46b8-9313-ec20914beab5",
+  "slug": "proflight",
+  "name": "ProFlight",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "CRQ -Mc Clellan-Palomar Airport",
+  "website": "https://trusimulation.com/",
+  "email": "info@proflight.aero",
+  "phone": "(760) 929-9627",
+  "about": "ProFlight is the European market leader for flights in Full Flight Simulators, offering over 45 simulators in five locations: Berlin, Essen, Frankfurt, Munich, and Vienna. Founded by former Lufthansa Captain Walter Drasl, ProFlight combines professional flight training with enthusiast experiences using Lufthansa Aviation Training’s simulators. Our instructors are experienced, active airline pilots with thousands of hours of flight experience. We provide highly realistic simulations certified to JAR-FCL1A specifications, ensuring an authentic flying experience. ProFlight also offers unique business training and aviation events through its partnerships. With a strong focus on safety and realism, ProFlight delivers an unparalleled flying experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nSimulator\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

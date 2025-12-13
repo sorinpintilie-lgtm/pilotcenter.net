@@ -1,0 +1,22 @@
+{
+  "id": "5b686294-1277-4775-ab6a-39454795559d",
+  "slug": "smoketown-flight-center",
+  "name": "Smoketown Flight Center, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "PA",
+  "city": "",
+  "baseAirport": "S37 -Smoketown Airport",
+  "website": "https://www.smoketownflightcenter.com/",
+  "email": "smoketownflightcenter@gmail.com",
+  "phone": "(717) 344-4871",
+  "about": "Smoketown Flight Center, LLC, located in Lancaster, PA, is a veteran-owned flight school dedicated to providing top-notch airplane flight training. Established in 2014, our facility is run by a team of experienced pilots, mechanics, and aviation enthusiasts. We offer a comprehensive range of training programs, from beginner lessons to advanced certifications, all designed to help students earn their pilot's license. Our mission is to make flying accessible, safe, and enjoyable for everyone. With a focus on personalized instruction and a commitment to excellence, we strive to create a rewarding and exciting flight training experience for all our students. Join us to discover the thrill of flying and achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "7b0fdc91-9e6e-4804-a134-bcd1e7072c10",
+  "slug": "air-service-training",
+  "name": "Air Service Training Ltd",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Perth",
+  "baseAirport": "Perth Airport",
+  "website": "https://www.airservicetraining.co.uk/",
+  "email": "info@airservicetraining.co.uk",
+  "phone": "'+44 1738 877 105",
+  "about": "Air Service Training Ltd (AST), founded in 1931 by John Davenport Siddeley, is one of the oldest and most respected aviation training institutions globally. Based in Perth, Scotland, AST is a wholly owned subsidiary of Perth College UHI, part of the University of the Highlands and Islands. With a rich history of training renowned aviators such as Mrs Victor Bruce, Amy Johnson, and Sir Alan Cobham, AST specializes in training professional pilots and aeronautical maintenance engineers to the highest safety standards. The school offers comprehensive training programs approved by ARB/CAA/JAA/EASA, utilizing state-of-the-art facilities at Perth Airport and the Perth College UHI campus. AST's collaborative approach with ACS Flight Training ensures high-quality flight instruction and competitive hour-building opportunities. Dedicated to excellence, AST continues to be a world leader in aviation education.",
+  "icao": "EGPT",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

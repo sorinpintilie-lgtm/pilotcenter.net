@@ -1,0 +1,22 @@
+{
+  "id": "f8bc1f15-56ec-4128-b1de-f5246913a7df",
+  "slug": "avz-aviation",
+  "name": "AVZ Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TN",
+  "city": "",
+  "baseAirport": "TYS -Mc Ghee Tyson Airport",
+  "website": "https://www.avzflightacademy.com/",
+  "email": "info@avzflightacademy.com",
+  "phone": "(865) 233-5226",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

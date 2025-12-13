@@ -1,0 +1,22 @@
+{
+  "id": "e266c2a6-f5c7-4ec2-89f9-6601ea1d8d1d",
+  "slug": "axiom-aviation",
+  "name": "Axiom Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "UT",
+  "city": "",
+  "baseAirport": "OGD -Ogden-Hinckley Airport",
+  "website": "http://www.flyaxiom.com",
+  "email": "info@flyaxiom.com",
+  "phone": "(262) 297-4568",
+  "about": "Axiom Aviation is a premier flight school with locations in Ogden and St. George, Utah. Founded on principles of transparency and safety, we offer comprehensive programs for aspiring airline pilots and those seeking a Private Pilot's License. Our Commercial Pilot Career Program and Zero to Hero Program include full-time training, access to online study materials, and guaranteed flight instructor positions. We are an Elite Partner of the SkyWest Airlines Pilot Pathway Program, providing graduates a head start in their aviation careers. With a commitment to leadership, innovation, and advanced skills, our flexible programs are led by top-notch instructors. Choose Axiom Aviation for a world-class flight training experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

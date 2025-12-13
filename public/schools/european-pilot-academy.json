@@ -1,0 +1,22 @@
+{
+  "id": "b9beb819-8f38-4688-b24a-cc1ba09432a9",
+  "slug": "european-pilot-academy",
+  "name": "European Pilot Academy",
+  "continent": "Europe",
+  "country": "Malta",
+  "state": "",
+  "city": "Luqa",
+  "baseAirport": "Malta International Airport",
+  "website": "https://europeanpilotacademy.com/",
+  "email": "matthew@falconalliance.com",
+  "phone": "(+356) 21 257127 / 8",
+  "about": "The European Flight Academy, part of the Lufthansa Group, is a premier flight school dedicated to training future pilots to the highest standards. Since 2017, the academy has leveraged over 60 years of Lufthansa's flight training experience to provide comprehensive ab-initio training. Using modern aircraft and state-of-the-art simulators in Germany and Switzerland, students are prepared for careers within Lufthansa Group and other airlines. The academy emphasizes practical airline relevance, sustainable flying practices, and offers a 'Take-off-Promise' ensuring job placement or partial reimbursement of training costs. With a rigorous selection process and close ties to airline operations, the European Flight Academy ensures its graduates are highly sought after in the industry. Our commitment to quality training and career support makes us the ideal choice for aspiring pilots.",
+  "icao": "LMML",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

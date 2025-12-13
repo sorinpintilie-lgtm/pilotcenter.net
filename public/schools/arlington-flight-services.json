@@ -1,0 +1,22 @@
+{
+  "id": "143cb3ab-3b16-4a14-b479-acb8973fa00c",
+  "slug": "arlington-flight-services",
+  "name": "Arlington Flight Services, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "AWO -Arlington Municipal Airport",
+  "website": "http://www.arlingtonflightservices.com",
+  "email": "business@arlingtonflightservices.com",
+  "phone": "(360) 435-5700",
+  "about": "Arlington Flight Services, Inc., located at Arlington Municipal Airport in Washington, is a comprehensive full-service FBO offering a wide range of aviation services. We provide flight training for Sport, Private, Instrument, and Commercial ratings, as well as aircraft rental, aerial tours, and aircraft charters. Our facility includes a passenger terminal and lounge, aviation fuel services available 24/7, and a maintenance division for major and minor repairs. Our experienced instructors, including CFIs and CFII MEIs, ensure personalized and expert guidance. We also offer pilot supplies, crew cars, and line services. With a commitment to exceptional service and satisfaction, Arlington Flight Services is your go-to destination for all your aviation needs. We look forward to helping you achieve your flight training goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

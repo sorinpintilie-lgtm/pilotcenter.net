@@ -1,0 +1,22 @@
+{
+  "id": "ebf9d1f9-9cad-412e-8a2d-7dcead075bdb",
+  "slug": "flt-academy",
+  "name": "FLT Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "UT",
+  "city": "",
+  "baseAirport": "SPK -Spanish Fork Muni/Woodhouse Field",
+  "website": "https://fltacademy.com/",
+  "email": "info@fltacademy.com",
+  "phone": "(801) 896-4470",
+  "about": "FLT Academy is a premier aviation training institution based in Utah, renowned for its comprehensive and professional flight training programs. With a commitment to quality and safety, FLT Academy offers a range of certifications, including private pilot, instrument rating, commercial pilot, and multi-engine add-ons. Our Career-Track programs, in partnership with SkyWest Airlines, provide a direct pathway to a career in aviation, complete with mentorship and guaranteed interviews. Our state-of-the-art fleet of modern aircraft, equipped with advanced avionics, and in-person ground schools ensure students receive the best possible training. With a 4.9 out of 5 rating from over 1100 reviews, FLT Academy is Utah’s top-rated flight school, dedicated to helping students achieve their aviation goals with personalized instruction and a supportive learning environment. Join FLT Academy to embark on a successful career in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

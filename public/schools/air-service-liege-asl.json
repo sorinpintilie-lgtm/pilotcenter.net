@@ -1,0 +1,22 @@
+{
+  "id": "19470f10-d896-491c-84a9-6ea02a31f30b",
+  "slug": "air-service-liege-asl",
+  "name": "Air Service Liège (ASL)",
+  "continent": "Europe",
+  "country": "Belgium",
+  "state": "BELG",
+  "city": "",
+  "baseAirport": "Liège Airport",
+  "website": "https://www.aslairlines.be/",
+  "email": "",
+  "phone": "'+32 4 239 30 00",
+  "about": "Air Service Liège (ASL) is not primarily a flying school but a comprehensive aviation services group. However, here is a description that aligns with the information available about ASL's aviation activities:\n\n\"Air Service Liège (ASL) is part of the ASL Aviation Holdings group, a global leader in aviation services. Based in Liège, Belgium, ASL operates under various brands, including ASL Airlines Belgium, which manages a fleet of aircraft including B737 and Boeing 747-400ERF freighters. ASL provides extensive aviation services, including ground handling, maintenance through X-air Services, and cargo operations for major express integrators. With a strong focus on excellence, efficiency, and safety, ASL employs a diverse team dedicated to delivering high-quality services globally. ASL's commitment to process excellence and a 'can do' mentality ensures reliable and efficient aviation solutions.\"",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Scheduled\\nChartered\\nACMI\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

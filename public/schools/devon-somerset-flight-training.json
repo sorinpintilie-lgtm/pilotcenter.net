@@ -1,0 +1,22 @@
+{
+  "id": "30888f4c-442d-4343-8e5f-9f5505f64e25",
+  "slug": "devon-somerset-flight-training",
+  "name": "Devon & Somerset Flight Training Ltd",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Honiton",
+  "baseAirport": "Dunkeswell Aerodrome",
+  "website": "https://www.dsft.co.uk/",
+  "email": "info@dsft.co.uk",
+  "phone": "'+44 1404 891 643",
+  "about": "Devon & Somerset Flight Training Ltd is a leading flying school based in the beautiful Devon countryside, operating from Dunkeswell Aerodrome. We specialize in training for the Private Pilot Licence (PPL) and its additional ratings, but do not offer commercial training. Our programs include ground exams, medical certifications, dual and solo flight training, radio telephony lessons, and flight tests. We recommend training in the Cessna 152 for its cost-effectiveness and forgiving nature. We also offer aircraft hire, night qualification, IR(R) and differences training on complex and tailwheel aircraft. Our flexible training schedules can be tailored to suit individual needs, with options for intensive or weekly lessons. For those looking to expand their flying skills, we provide additional courses and Radio Telephony training. Contact us for more information on how to start your flying journey.",
+  "icao": "EGTU",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

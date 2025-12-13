@@ -1,0 +1,22 @@
+{
+  "id": "cfd77c61-19ce-469b-9961-54bbaa33c32d",
+  "slug": "bartow-flying-service",
+  "name": "Bartow Flying Service",
+  "continent": "North America",
+  "country": "USA",
+  "state": "FL",
+  "city": "Bartow",
+  "baseAirport": "Bartow Executive Airport",
+  "website": "https://bartow-airport.com/",
+  "email": "info@bartow-airport.com",
+  "phone": "'+1 863-533-1195",
+  "about": "Bartow Flying Service, located at the Bartow Executive Airport in Florida, is a municipal-owned and operated Flight Base Operation (FBO) and flight school with over 45 years of service. Our team of experienced and professional flight instructors are dedicated to providing efficient and safe training, utilizing modern, well-maintained aircraft such as the Cessna 172N, 172 SP, 172SP(G1000), and a Piper Arrow. We operate seven days a week from 6am to 6pm, with eight instructors available to accommodate your schedule. Known for our friendly staff, clean facilities, and competitive rates, Bartow Flying Service is highly recommended for both beginners and experienced pilots looking to enhance their skills. We pride ourselves on creating a welcoming and professional environment, making your aviation journey a pleasurable experience.",
+  "icao": "KBOW",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

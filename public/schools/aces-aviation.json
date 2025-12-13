@@ -1,0 +1,22 @@
+{
+  "id": "5b630105-a681-483f-addd-f45f7a836f56",
+  "slug": "aces-aviation",
+  "name": "ACES Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "PA",
+  "city": "",
+  "baseAirport": "BVI -Beaver County Airport",
+  "website": "https://www.acesbvi.com/",
+  "email": "dispatch@acesbvi.com",
+  "phone": "(724) 891-2237",
+  "about": "At ACES Aviation, located in Laurel, Montana, we offer comprehensive and certified flight instruction to aspiring pilots from zero hours to commercial pilot certification. Our experienced and credentialed instructors are dedicated to providing high-quality training, ensuring students become safe and competent pilots. We pride ourselves on a personalized approach, tailoring our programs to meet the unique goals and needs of each student. Whether you are starting your aviation journey or advancing your skills, ACES Aviation is committed to helping you achieve your flying dreams with professionalism and excellence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

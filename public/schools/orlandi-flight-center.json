@@ -1,0 +1,22 @@
+{
+  "id": "66cb6835-6286-479c-9423-8c77263409a4",
+  "slug": "orlandi-flight-center",
+  "name": "Orlandi Flight Center, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "FD77 -Wimauma Air Park",
+  "website": "https://www.orlandiflightcenter.com/",
+  "email": "go@orlandiflightcenter.com",
+  "phone": "(201) 874-5458",
+  "about": "Orlandi Flight Center, LLC, founded by Geoffrey Orlandi in 2012, is dedicated to enhancing lives through aviation. With locations in Blairstown, NJ, and Wimauma, FL, the school offers comprehensive flight training from introductory flights to commercial and ATP certifications. Our experienced instructors, including Geoffrey Orlandi with over 9,200 hours of flying experience, provide self-paced and accelerated training programs. We boast a diverse fleet, including a 1947 Piper J3 Cub and a 1969 Cessna 172, as well as a Redbird JAY Flight simulator. Recognized for excellence, Orlandi Flight Center has received the AOPA Flight Training Excellence award multiple times. Our mission is to deliver the most rewarding flying experience, making aviation accessible and enjoyable for all. Join us to enhance your life through the joy of flying.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

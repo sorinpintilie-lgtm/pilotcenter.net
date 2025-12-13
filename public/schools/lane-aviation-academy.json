@@ -1,0 +1,22 @@
+{
+  "id": "c8e20460-d9ab-4c36-973f-6f069de6e36d",
+  "slug": "lane-aviation-academy",
+  "name": "Lane Aviation Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OR",
+  "city": "",
+  "baseAirport": "EUG -Mahlon Sweet Field",
+  "website": "http://www.lanecc.edu/aviationacademy",
+  "email": "flightapply@lanecc.edu",
+  "phone": "(541) 463-4195",
+  "about": "Lane Aviation Academy, located at Lane Community College in Eugene, Oregon, offers a comprehensive Aviation Professional Pilot Program designed to launch students into rewarding careers in aviation. The program provides students with the necessary FAA certifications, including Private Pilot, Instrument Rating, Commercial Pilot, Multi Engine Rating, and Certified Flight Instructor certificates. Students can earn stackable certificates and specialize in various areas of aviation. The academy provides training in a rich environment, allowing students to fly a variety of aircraft and prepare for careers such as bush flying, aerial firefighting, or becoming a captain at a major airline. With a focus on safe and legal flight operations, the program ensures students are well-equipped to handle various aviation challenges and make sound decisions in flight operations. Lane Aviation Academy is committed to providing high-quality training to help students achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Drone/UAS\\nGround School\\nPart 107 Drone Testing\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

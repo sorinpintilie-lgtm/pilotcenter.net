@@ -1,0 +1,22 @@
+{
+  "id": "f20404cc-6844-4943-88eb-08198ce76b94",
+  "slug": "aviation-flight-center-gmbh",
+  "name": "Aviation Flight Center GmbH",
+  "continent": "Europe",
+  "country": "Austria",
+  "state": "AUST",
+  "city": "",
+  "baseAirport": "Wiener Neustadt Ost Airport",
+  "website": "https://www.aviationflightcenter.at/",
+  "email": "loan.office(at)aviationacademy.at",
+  "phone": "'+43 5 9449 900",
+  "about": "Aviation Flight Center GmbH, part of the Aviation Academy Austria Group, is a premier flight school dedicated to providing high-quality flight training. Located at the airfield in Wiener Neustadt (LOAN), we offer a wide range of courses including Private Pilot License (PPL), Instrument Rating, Multi Engine Rating, and Advanced UPRT. Our experienced team, with years of expertise in ATPL integrated pilot training, ensures personalized attention and professional guidance. We also provide aircraft charter services and maintenance, ensuring all our planes are safety-inspected and commercially insured. Whether you're a beginner or looking to advance your flying skills, our well-trained team is committed to helping you achieve your aviation goals. We look forward to welcoming you at the airfield in Wr. Neustadt.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PPL private pilot license\\nMEP Multi Engine Piston Rating\\nIR Instrument Rating\\nAdvanced UPRT\\nATPL theory\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "e5186204-9a11-44de-ab9d-47166d17f083",
+  "slug": "centennial-flight-centre",
+  "name": "Centennial Flight Centre",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "AB",
+  "city": "",
+  "baseAirport": "Villeneuve Airport",
+  "website": "https://centennial.ca/",
+  "email": "info@centennial.ca",
+  "phone": "'+1 780-451-7676",
+  "about": "Centennial Flight Centre, located at the Villeneuve Airport in Sturgeon County, Alberta, Canada, has been a premier flight training institution since 1967. We offer a comprehensive range of programs, including Private Pilot Licence, Night Rating, and Commercial Pilot Licence. Our training includes extensive ground school courses covering subjects such as Canadian Aviation Regulations, Aerodynamics, Meteorology, and more. Students benefit from advanced training in instrument flying, multi-engine ratings, and specialized courses like Mountain Flying and Turbine Engine Operations. With a focus on both theoretical knowledge and practical skills, Centennial Flight Centre is dedicated to preparing students for successful careers in aviation. Our experienced instructors and state-of-the-art facilities ensure that students receive the highest quality training. Centennial Flight Centre is committed to redefining the aviation industry through exceptional training and education.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "16a4c218-338d-4dc5-bb5d-dcb9c582e92b",
+  "slug": "king-schools",
+  "name": "King Schools",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "MYF -Montgomery-Gibbs Exec Airport",
+  "website": "https://kingschools.com/",
+  "email": "custserv@kingschools.com",
+  "phone": "(800) 854-1001",
+  "about": "King Schools is a renowned aviation training institution founded by John and Martha King in 1971. With a commitment to safety and excellence, King Schools offers a comprehensive range of flight training programs, from private pilot to ATP, as well as specialized courses in aircraft systems, weather, and aviation regulations. Their innovative online learning platform provides interactive video lessons, practice exams, and personalized progress tracking. Known for their engaging and effective teaching methods, King Schools has helped thousands of pilots achieve their aviation goals. Dedicated to making flying safer and more accessible, King Schools continues to set the standard in aviation education.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

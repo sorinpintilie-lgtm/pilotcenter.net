@@ -1,0 +1,22 @@
+{
+  "id": "fd789ffc-5731-4ea6-98bb-7c4464205fb4",
+  "slug": "volare-helicopters",
+  "name": "Volare Helicopters",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "RYN -Ryan Field",
+  "website": "https://www.volarehelicopters.com/",
+  "email": "tasha@volarehelicopters.com",
+  "phone": "(520) 917-0337",
+  "about": "Volare Helicopters, located in Southern Arizona, offers comprehensive flight training and sightseeing tours. Established in 2015, we provide courses from Private Pilot to Certified Flight Instructor and Instrument Ratings, using a 4-seat Robinson R44 helicopter. Our students enjoy breathtaking views of the Sonoran Desert while gaining valuable high-density altitude experience. We also offer photo flights, aerial services, and tours of Saguaro National Park, Tucson Mountains, and Mt. Lemmon. With a strong commitment to safety and excellence, Volare Helicopters is dedicated to transforming beginners into professional pilots in as little as 12 months. Join us to embark on a journey to the skies with precision and confidence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

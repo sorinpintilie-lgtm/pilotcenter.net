@@ -1,0 +1,22 @@
+{
+  "id": "c01b3027-171a-4ac5-a9ee-98eb4a1f8865",
+  "slug": "true-course-flight-school",
+  "name": "True Course Flight School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NY",
+  "city": "",
+  "baseAirport": "SYR -Syracuse Hancock International Airport",
+  "website": "https://truecourseflighttraining.com/",
+  "email": "info@truecourseflighttraining.com",
+  "phone": "(315) 598-4482",
+  "about": "True Course Flight School is a small, highly experienced flight training institution based at Syracuse Hancock Airport in New York. With a team of five dedicated and experienced instructors, we provide personalized, one-on-one flight training in a relaxed and supportive environment. Our students train on carefully maintained aircraft, ensuring safety and optimal learning conditions. We specialize in airplane flight training, offering a comprehensive and tailored approach to help students achieve their aviation goals. Our commitment to quality instruction and student success makes us an excellent choice for aspiring pilots. At True Course Flight School, we are dedicated to helping you take to the skies with confidence and skill.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "edf93132-c8e1-4009-ac91-837bbdf16f1b",
+  "slug": "aerotec",
+  "name": "Aerotec",
+  "continent": "Europe",
+  "country": "Spain",
+  "state": "",
+  "city": "Madrid",
+  "baseAirport": "Cuatro Vientos Airport",
+  "website": "https://aerotec.es/",
+  "email": "comercial@aerotec.es / marketing@aerotec.es",
+  "phone": "'+34 915 08 03 59 / +34 91 764 4 81",
+  "about": "Aerotec Flight School, located at Madrid Airport Cuatro Vientos (ECV) and with a base in Sevilla, offers a comprehensive range of aviation training programs. These include integrated and modular courses such as the Airline Transport Pilot License (ATPL), Private Pilot License (PPL), Commercial Pilot License (CPL), Instrument Rating (IR), and Multi-Engine Rating (ME). Specialized courses include Performance-Based Navigation (PBN), Flight Instructor Course, Jet Orientation Course (JOC), and Upset Prevention and Recovery Training (UPRT). Aerotec utilizes a fleet of training aircraft including Piper PA34 Seneca, Piper PA-28 Arrow, Cessna C-172, and Diamond DA40-180, along with advanced simulators to enhance training effectiveness. The school is committed to safety and professionalism, adhering to European EASA regulations, making it an ideal choice for aspiring pilots. Aerotec provides a supportive and well-equipped environment for students to achieve their aviation goals.",
+  "icao": "LECU",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

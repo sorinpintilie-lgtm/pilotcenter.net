@@ -1,0 +1,22 @@
+{
+  "id": "9d9f81d3-7da3-42ba-8053-6dff41e8ac4e",
+  "slug": "curtis-aviation",
+  "name": "Curtis Aviation",
+  "continent": "Oceania",
+  "country": "Australia",
+  "state": "",
+  "city": "",
+  "baseAirport": "Camden Airport",
+  "website": "https://curtisaviation.com.au/",
+  "email": "admin@curtisaviation.com.au",
+  "phone": "'+61 2-4655-6789",
+  "about": "Curtis Aviation, established in 1993, is a renowned flying school based at Camden Airport in Sydney. Founded by passionate instructors, we specialize in providing high-quality, personalized flight training. Our commitment to solid stick and rudder skills, professionalism, and camaraderie in general aviation has earned us a respected position in the industry. With a fleet of modern and well-maintained aircraft, including Citabrias, Pipers, Cessnas, and Cirrus models, we offer a comprehensive learning environment from initial flights to advanced aerobatic maneuvers. Our family-run business prides itself on a friendly club atmosphere, avoiding the delays and stress of larger aerodromes. We have helped hundreds achieve their Commercial Pilot Licence and pursue aviation careers, and we look forward to helping you take to the skies.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "f5669521-b44f-421e-8d53-79bb9acccbef",
+  "slug": "dcs-school-of-flying",
+  "name": "DCS School of Flying",
+  "continent": "North America",
+  "country": "United States",
+  "state": "PA",
+  "city": "",
+  "baseAirport": "THV -York Airport",
+  "website": "http://dcsflyingschool.com/",
+  "email": "info@DCSflyingschool.com",
+  "phone": "(717) 586-9648",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nIntro Flight\\nCommercial\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

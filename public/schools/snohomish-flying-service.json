@@ -1,0 +1,22 @@
+{
+  "id": "c5c69862-250b-4b48-a527-503e6a03a89e",
+  "slug": "snohomish-flying-service",
+  "name": "Snohomish Flying Service, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "S43 -Harvey Field",
+  "website": "http://www.snohomishflying.com",
+  "email": "snofly@harveyfield.com",
+  "phone": "(360) 568-1541",
+  "about": "Snohomish Flying Service, Inc., established in 1950, is a renowned leader in FAA Approved Fixed Wing Flight Training Programs. Located on Harvey Field in the Snohomish River Valley, just 20 miles north of Seattle, SFS offers a comprehensive range of aviation services. These include flight training from Private Pilot to Career Professional Pilot, air charter, scenic flights, and air tours. The facility features FAA designated written testing, medical and pilot examiner services, and a maintenance division providing major and minor aircraft repairs. With a 24/7 fuel dispensing system and daily line operations, SFS is committed to excellence in aviation education and services. Whether you aspire to a career in aviation or personal flying, Snohomish Flying Service is your trusted partner in achieving your flight goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

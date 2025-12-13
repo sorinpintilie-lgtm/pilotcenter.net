@@ -1,0 +1,22 @@
+{
+  "id": "4399c984-1f0f-4bb4-9f03-1aa300cbebfa",
+  "slug": "veracity-aviation",
+  "name": "Veracity Aviation",
+  "continent": "North America",
+  "country": "United",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "LVJ -Pearland Regional Airport",
+  "website": "https://www.veracityaviation.com/",
+  "email": "info@veracityaviation.com",
+  "phone": "(830) 379-9800",
+  "about": "Veracity Aviation, established in 2008, is a helicopter flight school and service provider committed to truthfulness and excellence in aviation. Founded by Derrick Smith, the company has grown from two instructors and one location to three locations in Texas, including Seguin, Georgetown (now Taylor), and Pearland, with a degree program at Tarrant County College in Fort Worth. Veracity offers customized, one-on-one flight training for all ages and skill levels, from private pilot licenses to commercial and certified flight instructor ratings. The school emphasizes safety, with rigorous instructor training, FAA Part 135 and Part 141 standards, and a fleet of well-maintained Robinson R22 and R44 helicopters. Veracity is dedicated to producing safe, hireable pilots and provides support for veterans and international students. With a focus on customer satisfaction and professionalism, Veracity Aviation aims to be the go-to choice for helicopter services and flight training in Texas.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "a8ca6ee9-bc0e-4a25-bf53-6585b65aa530",
+  "slug": "brett-aviation",
+  "name": "Brett Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MD",
+  "city": "",
+  "baseAirport": "MTN -Martin State Airport",
+  "website": "https://www.brettaviation.com/",
+  "email": "info@brettaviation.com",
+  "phone": "(410) 391-0210",
+  "about": "Brett Aviation, located in Middle River, Maryland, is Baltimore's premier flight school, operating since 1978. With over 34 years of experience, the school has trained thousands of students from various backgrounds. Brett Aviation offers training in the newest, state-of-the-art aircraft with FAA Certified instructors and the latest flight training technology. The school provides programs for private pilot, commercial pilot, and flight instructor certifications, as well as VA-approved flight training for eligible service members and veterans. Under the leadership of President Helen Frado, who has managed the school for over 38 years, Brett Aviation ensures a comprehensive and safe learning environment. The school's commitment to individualized training and continuous support helps students achieve their aviation goals efficiently. Whether flying for recreation, business, or a career, Brett Aviation is dedicated to providing a top-notch aviation education.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nComputerized Testing\\nExaminer\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

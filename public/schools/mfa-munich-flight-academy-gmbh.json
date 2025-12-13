@@ -1,0 +1,22 @@
+{
+  "id": "d21f3349-44f4-429b-bd63-bdbf4327c11d",
+  "slug": "mfa-munich-flight-academy-gmbh",
+  "name": "MFA Munich Flight Academy GmbH",
+  "continent": "Europe",
+  "country": "Germany",
+  "state": "GER",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.mfa.aero/",
+  "email": "info@mfa.aero",
+  "phone": "0821 – 747 24 60",
+  "about": "MFA Munich Flight Academy, based at Augsburg Airport in Germany, is a renowned flight training institution with over 20 years of experience. We offer comprehensive and professional flight training programs, from Private Pilot Licenses (PPL/A) and Light Aircraft Pilot Licenses (LAPL) to Airline Transport Pilot Licenses (ATPL). Our training is conducted in accordance with EASA and German Federal Aviation Authority guidelines, ensuring high safety and professional standards. We utilize state-of-the-art aircraft, including the Cirrus and Cessna models, and provide personalized training tailored to each student's needs and schedule. Additional training options include night flight qualification, instrument flight basics, and language proficiency training. With a commitment to innovation and excellence, MFA Munich Flight Academy is dedicated to helping aspiring pilots achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Pilot (ATPL)\\nPrivate Pilot (PPL / LAPL)\\nInstrument Rating (IR\",\"EIR\",\"CB-IR)\\nFlight Instructor FI\",\"CRI\",\"IRI\\nPilot Ratings\\nTraining – Emergency – Skills\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

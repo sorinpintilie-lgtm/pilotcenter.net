@@ -1,0 +1,22 @@
+{
+  "id": "830cd797-e593-40ef-933c-af5cace82ce6",
+  "slug": "shark-aviation",
+  "name": "Shark Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "KY",
+  "city": "",
+  "baseAirport": "MOR -Moore-Murrell Airport",
+  "website": "https://www.flytheshark.com/",
+  "email": "info@flytheshark.com",
+  "phone": "(859) 800-7081",
+  "about": "Shark Aviation, based at Blue Grass Airport in Lexington, Kentucky, specializes in seaplane tours and training. Using a Cessna 185 on amphibious floats, we offer private and commercial seaplane ratings. Our operations are primarily conducted at Lake Cumberland and the Ohio River, providing a unique flying experience. We can accommodate up to three passengers per flight for our 20-minute seaplane tours. With a focus on safety and comprehensive training, Shark Aviation is dedicated to helping aspiring pilots achieve their seaplane certifications. Whether you're interested in recreational flying or a professional career, Shark Aviation is your premier choice for seaplane training and tours.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nIntro Flight\\nCommercial\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

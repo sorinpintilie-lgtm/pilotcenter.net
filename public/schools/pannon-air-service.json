@@ -1,0 +1,22 @@
+{
+  "id": "cb4b79a2-fe11-4055-93a9-4d845a165ea6",
+  "slug": "pannon-air-service",
+  "name": "Pannon Air Service",
+  "continent": "Europe",
+  "country": "Hungary",
+  "state": "HUNG",
+  "city": "",
+  "baseAirport": "Airport Tokol",
+  "website": "https://pannonair.hu/",
+  "email": "info@pannonair.hu",
+  "phone": "'+36 70 618 3431",
+  "about": "Pannon Air Service, established in 1998, is a premier flight school located at Tököl Airport in Hungary. With decades of aerial experience, our highly qualified instructors, many with backgrounds in civilian and military aviation, provide top-quality training. We offer a wide range of courses from Private Pilot License (PPL) to Airline Transport Pilot License (ATPL), including Night Rating, Instrument Rating, and Multi Engine Piston Class Rating. Our fleet includes modern Diamond aircraft equipped with Garmin G1000 avionics. We also utilize a DA42 FNPT II simulator for instrument procedures training. Pannon Air Service is an EASA-approved training organisation, ensuring you receive the best education to pursue your aviation dreams. Join us for a comprehensive and professional aviation training experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Light Aircraft Pilot License – LAPL\\nPrivate Pilot License – PPL\\nEASA Commercial Pilot License – CPL\\nZero to Airline Pilot Program\\nNight Rating – NVFR\\nSingle Engine Instrument Rating – SE-IR\\nMulti Engine Piston Class Rating – MEP CR\\nMulti Engine Instrument Rating – ME IR\\nATPL Theory\\nFlight Instructor – FI\\nEASA Time Building\\nFormation Flying Endorsement\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

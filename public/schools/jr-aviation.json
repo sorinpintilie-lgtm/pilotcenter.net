@@ -1,0 +1,22 @@
+{
+  "id": "76c6795b-a79e-423a-8533-830c74d21cec",
+  "slug": "jr-aviation",
+  "name": "J.R. Aviation, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IN",
+  "city": "",
+  "baseAirport": "JVY -Clark Regional Airport",
+  "website": "https://www.jraviation.com/",
+  "email": "info@jraviation.com",
+  "phone": "(812) 246-5761",
+  "about": "J.R. Aviation, Inc., located at Clark Regional Airport in Sellersburg, Indiana, is a dedicated flight training institution. We offer a range of certifications and ratings, including the Commercial Pilot Certificate and the Airline Transport Pilot (ATP) Certificate for single-engine aircraft. Although we do not currently offer Part 141 training, our programs are designed to meet the needs of aspiring pilots under Part 61 regulations. Our services include training for various endorsements and certifications, ensuring students receive comprehensive aviation education. With a focus on quality instruction and a supportive learning environment, J.R. Aviation, Inc. is committed to helping students achieve their aviation goals. We pride ourselves on providing a professional and structured approach to flight training, ensuring our students are well-prepared for their careers in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

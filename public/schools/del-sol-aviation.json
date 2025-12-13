@@ -1,0 +1,22 @@
+{
+  "id": "8c64523a-adda-44fa-9a20-bd35009b2561",
+  "slug": "del-sol-aviation",
+  "name": "Del Sol Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "NM",
+  "city": "Albuquerque",
+  "baseAirport": "Albuquerque International Sunport",
+  "website": "https://www.delsolaviation.com/",
+  "email": "fly@delsolaviation.com",
+  "phone": "'+1 505-242-2701",
+  "about": "Del Sol Aviation, located in Albuquerque, New Mexico, is a premier flight training institution dedicated to helping aspiring aviators achieve their ambitions. Our highly motivated and FAA-certified instructors provide personalized attention and professional training, ensuring students receive a level of education unobtainable at smaller area airports. We offer a comprehensive range of programs, including private pilot, instrument rating, commercial pilot, multi-engine, and specialty courses such as mountain flying and drone pilot certification. Partnered with major airlines like Piedmont, Go Jet Airlines, Sierra West Airlines, and Ameriflight, Del Sol Aviation is committed to training the most advanced pilots in the industry. Our mission is to provide safe, fun, and reliable flight training, helping students earn degrees and achieve their flying careers with success. At Del Sol Aviation, we are dedicated to excellence in flight training.",
+  "icao": "KABQ",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

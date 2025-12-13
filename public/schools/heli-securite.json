@@ -1,0 +1,22 @@
+{
+  "id": "06b21526-1e66-41f1-8840-42d7147ac412",
+  "slug": "heli-securite",
+  "name": "Héli Sécurité",
+  "continent": "Europe",
+  "country": "Monaco",
+  "state": "MON",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://helisecurite.fr/",
+  "email": "contact@elisecureti.fr",
+  "phone": "'+33 9 78 46 00 09",
+  "about": "Héli Sécurité is a comprehensive aviation service provider specializing in helicopter management, training, and maintenance. We guide clients through every step of helicopter acquisition, from market studies and inspections to negotiations and after-sales service. Our academy offers ongoing training for personal pilots, ensuring they meet and exceed regulatory standards. We maintain a fleet of helicopters, including Airbus, Bell, Robinson, and Guimbal models, and provide certified training for pilots and dedicated crew members. Our services also include marketing and operating private flights, particularly in the South of France and the Alps. With a strong focus on safety and operational excellence, Héli Sécurité ensures your helicopter is always ready and operational, making your investment both profitable and secure.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot Licence\\nCommercial Pilot Licence\\nMountain Course\\nNight flight qualification\\nConversion of foreign flight licence\\nFlight instructor training\\nRobinson safety training\\nType qualification\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

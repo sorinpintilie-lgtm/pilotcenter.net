@@ -1,0 +1,22 @@
+{
+  "id": "3c1ddd92-57f2-43be-84f0-c3f1873d72de",
+  "slug": "airways-flygutbildning",
+  "name": "Airways Flygutbildning",
+  "continent": "Europe",
+  "country": "Sweden",
+  "state": "SE",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.airways.nu/",
+  "email": "",
+  "phone": "'+46 (0)70 386 45 70",
+  "about": "Airways Aviation, operating as Airways Flygutbildning, brings over 45 years of aviation education and training experience to students, cadets, and the industry. With certified EASA, CASA, ICAO, IATA, and CAAC facilities, we offer comprehensive programs including ATPLs, CPLs, Bachelor's Degrees, Diplomas, and Certificate Courses. Our training encompasses airline pilots, military pilots, cabin crew, ground handlers, aircraft maintenance technicians, and university-qualified administrators. We design and deliver advanced practical and theoretical techniques to meet the global demand for civil and military aviation professionals, ensuring our students are well-prepared for successful careers in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Single Engine Piston Country\\nMulti Engine Piston Land\\nInstrument Rating SE\\nInstrument Rating ME\\nPiper PA46\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

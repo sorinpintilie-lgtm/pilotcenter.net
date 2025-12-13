@@ -1,0 +1,22 @@
+{
+  "id": "dfb5096e-89ea-4281-98a6-5608545775ff",
+  "slug": "chinook-flight-services",
+  "name": "Chinook Flight Services",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "PAE -Seattle Paine Field International",
+  "website": "http://www.chinookflight.com",
+  "email": "chinookflightltd@gmail.com",
+  "phone": "(425) 777-0671",
+  "about": "Chinook Flight Services, based in Abbotsford, BC, is a renowned flying school with a rich history dating back to 1945. Founded by Franz McTavish after his service in the RCAF, the school has evolved to offer comprehensive training programs for both airplane and helicopter pilots. Chinook provides a commercial pilot licence program that can be completed in as little as 10 months, along with private pilot licences and extensive ground school programs. With a focus on quality instruction and one-on-one training, Chinook prepares students for successful careers in aviation. Our experienced instructors and strict training syllabus ensure that students not only meet the necessary requirements but also enjoy the joy of flying. At Chinook Flight Services, we are committed to delivering top-notch aviation training to help our students achieve their flying dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nnstrument Proficiency Check\\nIntro Flight\\nPart 107 Drone Testing\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

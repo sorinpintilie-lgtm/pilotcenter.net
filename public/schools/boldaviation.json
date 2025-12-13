@@ -1,0 +1,22 @@
+{
+  "id": "c56b3d40-7b31-47e8-8fc3-7c07ba25575e",
+  "slug": "boldaviation",
+  "name": "BOLDAviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IN",
+  "city": "",
+  "baseAirport": "HFY -Indy South Greenwood Airport",
+  "website": "https://flyboldaviation.com/",
+  "email": "info@flyboldaviation.com",
+  "phone": "(317) 745-4422",
+  "about": "BOLDAviation is a veteran-owned and operated aviation solutions company specializing in pre-flown aircraft sales, maintenance, flight training, charter, and aircraft management. Our team of experienced professionals is dedicated to providing top-notch services, from introducing your aircraft to global prospects to handling maintenance and charter flights. We offer comprehensive flight instruction, guiding aspiring pilots to become licensed with the support of expert instructors and well-maintained aircraft. With a passion for aviation and a commitment to client care, BOLDAviation ensures your aviation needs are met with excellence and reliability. Trust us to help you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

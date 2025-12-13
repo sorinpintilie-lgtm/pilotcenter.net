@@ -1,0 +1,22 @@
+{
+  "id": "45988a2a-f474-4278-869d-870176036246",
+  "slug": "buzz-flying",
+  "name": "Buzz Flying",
+  "continent": "Europe",
+  "country": "Malta",
+  "state": "MLTA",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://buzzflying.com/buzzwp/",
+  "email": "info@buzzflying.com",
+  "phone": "'+356 790 52 708",
+  "about": "Buzz Air Flight Academy, located in Tennessee, offers comprehensive airplane flight training with a focus on personalized instruction. At our facilities in Clarksville and Lawrenceburg, students receive one-on-one lessons with qualified instructors, ensuring a tailored learning experience. Our program includes a minimum of 60 hours of ground school, covering essential subjects to prepare students for their flying careers. With a commitment to high standards and safety, Buzz Air Flight Academy provides the ideal environment for aspiring pilots to achieve their private pilot, commercial pilot, and flight instructor certifications. Our dedicated team and favorable training conditions make us a top choice for aviation education.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"The National Private Pilot’s License for Microlights (NPPL)\\nRestricted License\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

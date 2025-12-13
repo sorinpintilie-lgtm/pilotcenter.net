@@ -1,0 +1,22 @@
+{
+  "id": "193fb5f9-806c-4aa8-b68e-dcc02531eda3",
+  "slug": "nairobi-flight-training",
+  "name": "Nairobi Flight Training Ltd",
+  "continent": "Africa",
+  "country": "Kenya",
+  "state": "KENY",
+  "city": "",
+  "baseAirport": "Wilson Airport",
+  "website": "https://nairobiflighttraining.com/",
+  "email": "info@nairobiflighttraining.com",
+  "phone": "'+254729607737",
+  "about": "Nairobi Flight Training Ltd, established in 2007, is a premier flying school based at Wilson Airport in Nairobi, Kenya. We are renowned for providing exceptional flight training with modern aircraft and a team of highly experienced instructors. Our courses are tailored to meet individual needs, including Private Pilot Licenses, Commercial Pilot Licenses, and Instrument Rating certifications. Our Modular Flight Training Program ensures students log a total of 250 flight hours, preparing them for the job market. With a commitment to excellence and state-of-the-art facilities, we have established a reputation as the best flying school in Kenya. We welcome aspiring pilots and those seeking to advance their skills to join our next generation of flight training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial Pilot Licence\\nPrivate Pilots Licence\\nInstrument Rating (ME or SE)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "e15a64f8-147d-4fbc-9907-90f4fafa9871",
+  "slug": "flyit-academy",
+  "name": "FLYIT Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "1W1 -Grove Field",
+  "website": "https://www.flyitacademy.com/",
+  "email": "info@flyitacademy.com",
+  "phone": "360-818-4224",
+  "about": "FLYIT Academy is a vibrant community of pilots dedicated to transforming dreams of flying into reality. Located in the Portland area, we are passionate about teaching the next generation of aviators. Our comprehensive flight training programs include certifications for Private Pilot, Light Sport, Instrument, and Commercial Pilot licenses. We offer flight instruction, airplane rentals, and maintenance services to ensure a well-rounded educational experience. Our curriculum includes ground school, biennial flight reviews, and instrument proficiency checks. At FLYIT Academy, we believe in fostering a supportive environment where every student can succeed and reach their full potential. We are here to help you take to the skies with confidence and skill.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

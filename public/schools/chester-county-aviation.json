@@ -1,0 +1,22 @@
+{
+  "id": "85edbc79-bad5-45e3-a2e9-e9c6d99d8ef6",
+  "slug": "chester-county-aviation",
+  "name": "Chester County Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "PA",
+  "city": "",
+  "baseAirport": "MQS -Chester County G O Carlson Airport",
+  "website": "https://chestercountyaviation.com/",
+  "email": "fly@chestercountyaviation.com",
+  "phone": "(610) 384-9005",
+  "about": "Chester County Aviation, located at the Chester County G.O. Carlson Airport (KMQS), is a premier flight training center recognized for its state-of-the-art programs. We offer a full range of flight instruction services, from initial private pilot certification to advanced ratings such as Certified Flight Instructor and Airline Transport Pilot. Our fleet includes modern, well-maintained aircraft from Cessna, Piper, Cirrus, and Robinson. We also provide aircraft rental, maintenance, and inspection services for all General Aviation needs. Our knowledgeable and accommodating instructors create a friendly and comfortable learning environment, utilizing an interactive online curriculum. Chester County Aviation is committed to making flight training fun, convenient, and affordable, helping you realize your dreams of flying.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

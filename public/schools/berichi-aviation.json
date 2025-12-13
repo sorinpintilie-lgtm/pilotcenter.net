@@ -1,0 +1,22 @@
+{
+  "id": "cad91ede-1e7f-4b23-b160-663157bcef05",
+  "slug": "berichi-aviation",
+  "name": "Berichi Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "FXE -Fort Lauderdale Exec Airport",
+  "website": "https://berichiaviation.com/",
+  "email": "info@berichiaviation.com",
+  "phone": "(954) 247-4924",
+  "about": "Berichi Aviation, located at Fort Lauderdale Executive Airport (KFXE), is a fully accredited FAA Part 141 flight school and the exclusive Cessna Pilot Center in the area. Founded by pilots for pilots, our mission is to be the best flight school in the country. We offer comprehensive flight training programs, including private, instrument, commercial, and multi-engine ratings, with accelerated programs that can take you from zero to ATP in as little as four months. Our fleet includes state-of-the-art aircraft such as the Cirrus SR-20, Cessna Skyhawk C172SP, Diamond DA62, and Piper Arrow. With a 100% safety rating and a 100% employment placement rate for our graduates, we are committed to providing expert training and real-world flight experience. Our dedicated instructors work closely with students to ensure they meet their career goals efficiently and safely. At Berichi Aviation, we prioritize your success and safety, making us the ideal choice for aspiring pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

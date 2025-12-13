@@ -1,0 +1,22 @@
+{
+  "id": "66f086bb-fe73-4d0d-a6ce-918910c468c3",
+  "slug": "cirrus-orlando",
+  "name": "Cirrus Orlando",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "ORL -Exec Airport",
+  "website": "https://cirrusaircraft.com/",
+  "email": "learntofly@cirrusaircraft.com",
+  "phone": "(218) 529-7200",
+  "about": "Cirrus Orlando, located in the southeast region, offers expert personalized flight training in the latest Cirrus aircraft. As part of Cirrus Aircraft's global network, we provide world-class training programs, including the new Private Pilot Program with 11 modules and 40 engaging lessons. Our training includes pre-study material, ground instruction, and flight instruction, all led by dedicated Cirrus Standardized Instructor Pilots. We are committed to innovation and safety, featuring advanced avionics and the Cirrus Airframe Parachute System® (CAPS®). Our training facilities and instructors ensure a comprehensive and safe learning experience, making Cirrus Orlando an ideal choice for aspiring pilots. We are dedicated to helping you achieve your flying goals with the highest level of skill and safety.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

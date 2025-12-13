@@ -1,0 +1,22 @@
+{
+  "id": "fca6a726-d394-440e-bc70-a5c00c10c9c7",
+  "slug": "mid-island-air-service",
+  "name": "Mid Island Air Service",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NY",
+  "city": "",
+  "baseAirport": "ISP -Long Island Mac Arthur Airport",
+  "website": "https://www.midislandair.com/",
+  "email": "info@midislandair.com",
+  "phone": "(631) 588-5400",
+  "about": "Mid Island Air Service, Inc., a renowned flight school on Long Island, New York, has been providing comprehensive flight training for over 60 years. Established in 1946 by Louis Mancuso, the school has a rich history of training pilots, including veterans under the GI Bill. Operating under FAA Part 141 and 61 rules, Mid Island offers primary and advanced pilot training, from Sport Pilot to Certified Flight Instructor ratings, using standardized techniques and uniformly equipped Cessna and Bristell aircraft. The school is a Cessna Service Center and provides aircraft maintenance, rentals, and sales. Known for its safety protocols, including the \"Personal Limitations Checklist,\" Mid Island also hosts free monthly FAA seminars and supports foreign student training. With a commitment to customer satisfaction and continuous improvement, Mid Island Air Service remains a leader in aviation education and services.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

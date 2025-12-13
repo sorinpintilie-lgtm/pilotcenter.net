@@ -1,0 +1,22 @@
+{
+  "id": "a9983658-7ae1-4a90-a6d7-2a347bd69a8f",
+  "slug": "aero-elite-flight-training",
+  "name": "Aero Elite Flight Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "VA",
+  "city": "",
+  "baseAirport": "JYO -Leesburg Exec Airport",
+  "website": "https://aeflight.com/",
+  "email": "info@aeflight.com",
+  "phone": "(571) 831-3170",
+  "about": "Aero Elite Flight Training is Northern Virginia’s premier flight school, offering private pilot license training, instrument ratings, and other aviation certifications. Located in the main terminal of Leesburg Airport (KJYO) and with additional locations in Winchester, Manassas, and Norfolk, we provide easy access to top-notch flight instruction. Our team of over 20 professional flight instructors, all with current FAA credentials and extensive experience, ensure a personalized and expert learning environment. We offer discovery flights, aircraft rentals, and a range of training programs tailored to individual schedules and goals. With the recent acquisition of GT Aviation, we have expanded our services to the DC and Maryland regions, solidifying our position as the largest and top-rated flight training school in the National Capital Region. At Aero Elite, we are dedicated to turning your dreams of flying into reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

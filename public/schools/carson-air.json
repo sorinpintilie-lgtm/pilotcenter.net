@@ -1,0 +1,22 @@
+{
+  "id": "19b00070-6e21-4499-bedf-97e316a57dc5",
+  "slug": "carson-air",
+  "name": "Carson Air Ltd.",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "BC",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://carsonair.com/",
+  "email": "careers@carsonair.com",
+  "phone": "'+1 800-766-7779 / +1 250-765-7776",
+  "about": "At Carson Air Ltd., our flying school, operating through the Southern Interior Flight Centre in Kelowna, is dedicated to excellence in aviation education. We offer a range of programs, including Recreational Permits, Private and Commercial Pilot Licenses, and a Commercial Aviation Diploma in partnership with Okanagan College. Our fleet includes Cessna 172s, a Beech Duchess, and a Piper Seneca V, along with advanced simulators. Our experienced instructors provide comprehensive training in multi-engine and instrument ratings, preparing students for careers in airline, commuter, medevac, and private aviation. With a strong commitment to safety, service, and education, we foster a dynamic and respectful learning environment, ensuring our students are well-equipped for successful aviation careers.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

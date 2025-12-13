@@ -1,0 +1,22 @@
+{
+  "id": "1fce4574-eb9f-4dfb-b8d0-3efdf74f3767",
+  "slug": "osm-aviation-academy",
+  "name": "OSM Aviation Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "FXE -Fort Lauderdale Exec Airport",
+  "website": "https://flyosm.com/",
+  "email": "info@osmaviationacademy.com",
+  "phone": "(954) 267-9394",
+  "about": "OSM Aviation Academy, established in 1963, is one of the largest and leading aviation academies in Europe and the USA. With training locations in Norway, Sweden, and Fort Lauderdale, Florida, we offer 'Airline Ready' flight training programs tailored to prepare students for careers in aviation. Our integrated programs, including FAA Part 141 and Part 61 courses, take students from little or no flying experience to holding all necessary licenses and ratings, such as EASA CPL(A), IR, MEP, and ATPL(A) Theory, within 20 months. We have a 99% pass rate on pilot exams and have trained over 1500 professional pilots. Our collaboration with airlines like Norse Atlantic Airways ensures a seamless transition from education to employment. Choose OSM Aviation Academy for a comprehensive and career-focused aviation education.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

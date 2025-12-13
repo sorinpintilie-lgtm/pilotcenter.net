@@ -1,0 +1,22 @@
+{
+  "id": "06114a40-cee7-45a8-b4cb-bff53f3d8c91",
+  "slug": "holiday-airways",
+  "name": "Holiday Airways",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "06C -Schaumburg Regional Airport",
+  "website": "https://www.flyholidayairways.com/",
+  "email": "sean@flyholidayairways.com",
+  "phone": "(847) 812-7000",
+  "about": "Holiday Airways, located at Schaumburg Airport in Schaumburg, Illinois, is a premier flight training institution specializing in tailwheel transition and various other types of flight training. Founded with a passion for aviation, we aim to provide a fun, safe, and enriching experience for our students. We offer Sport Pilot training and are expanding our services to include aerobatics, spin, and upset recovery training. Our fleet consists of clean, reliable, and mechanically sound aircraft. We also provide training in customers' own tailwheel airplanes. Safety is our highest priority, and we are committed to delivering an exceptional training experience. Join us for a journey that will take you beyond your daily routine and leave you with a lasting grin.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Tailwheel\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

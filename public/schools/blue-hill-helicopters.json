@@ -1,0 +1,22 @@
+{
+  "id": "8161ed70-0327-4dae-9d77-327a691c66d4",
+  "slug": "blue-hill-helicopters",
+  "name": "Blue Hill Helicopters",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MA",
+  "city": "",
+  "baseAirport": "OWD -Norwood Memorial Airport",
+  "website": "https://bluehillhelicopters.com/",
+  "email": "info@bluehillhelicopters.com",
+  "phone": "(781) 688-0263",
+  "about": "Blue Hill Helicopters, located in Norwood, Massachusetts, just outside of Boston, is a premier helicopter flight school founded by seasoned instructors. We offer comprehensive helicopter flight training for both recreational and professional students. Our programs include the Professional Pilot Program, Private Pilot, Commercial Pilot, Instrument Rating, and Certified Flight Instructor certifications. Our Turbine Transition Course is designed to help pilots transition to turbine helicopters with a focus on power management and scanning techniques. Training in New England's diverse weather conditions and varied terrain prepares our students for operations in almost any location. We provide a supportive, close-knit aviation community and real-world training environments, ensuring our graduates are well-equipped for their aviation careers. Contact us to start your journey to becoming a helicopter pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

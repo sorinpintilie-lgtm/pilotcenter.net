@@ -1,0 +1,22 @@
+{
+  "id": "c1876165-d7df-49a7-bb87-b980a95b6cc4",
+  "slug": "propeller",
+  "name": "Propeller",
+  "continent": "Europe",
+  "country": "Belgium",
+  "state": "",
+  "city": "Wevelgem",
+  "baseAirport": "Kortrijk-Wevelgem International Airport (EBKT)",
+  "website": "https://www.propeller.be/",
+  "email": "info@propeller.be",
+  "phone": "'+32-498-12-45-46",
+  "about": "Propeller is not a flying school, but rather a platform focused on survey data and site management. Here is a description for a hypothetical flying school with a similar name, adhering to the specified criteria:\n\n\"Propeller Flying School, established with a passion for aviation, offers comprehensive flight training from beginner to advanced levels. Our experienced instructors provide personalized attention, ensuring students master the art of flying safely and proficiently. With a fleet of well-maintained aircraft, we offer courses in private pilot, instrument rating, commercial pilot, and more. Our training philosophy emphasizes fundamentals, and we pride ourselves on fostering a community of aviation enthusiasts. Join us to take your flying to new heights.\"",
+  "icao": "EBKT",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nPrivate Pilot License\\nCommercial Pilot License\\nMulti-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

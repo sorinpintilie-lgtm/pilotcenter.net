@@ -1,0 +1,22 @@
+{
+  "id": "cd619784-6f54-4073-b36e-3f2d1741129a",
+  "slug": "fly-mk-leighton",
+  "name": "Fly M.K. Leighton",
+  "continent": "North America",
+  "country": "United States",
+  "state": "SC",
+  "city": "",
+  "baseAirport": "SPA -Spartanburg Downtown Meml/Simpson Field",
+  "website": "https://www.flymkleighton.net/",
+  "email": "flymkleighton@gmail.com",
+  "phone": "(561) 704-2008",
+  "about": "Fly M.K. Leighton is a prestigious flying school led by Master Instructor Michael Leighton, who has been teaching people to fly since 1989. With over 9,000 hours of flight experience, Michael is a three-time Master CFI (Certified Flight Instructor) and MEI (Multi-Engine Instructor), as well as an ATP (Airline Transport Pilot). He offers high-quality flight instruction from private pilot to ATP, including instrument flying, multi-engine flying, commercial flying, and aerobatics. The school provides initial and recurrent training for most makes and models of piston and turbine single and twin-engine aircraft, and is insurance accepted. Michael's extensive expertise and dedication ensure students receive comprehensive and personalized training to achieve their aviation goals. At Fly M.K. Leighton, we are committed to your success in the skies.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

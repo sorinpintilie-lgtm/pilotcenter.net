@@ -1,0 +1,22 @@
+{
+  "id": "7aad0c4a-1c36-4509-9489-3a216121c6fc",
+  "slug": "infinite-air-center",
+  "name": "Infinite Air Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OR",
+  "city": "",
+  "baseAirport": "S12 -Albany Municipal Airport",
+  "website": "http://www.InfiniteAirCenter.com",
+  "email": "thann@InfiniteAirCenter.com",
+  "phone": "(541) 730-3345",
+  "about": "Infinite Air Center, located at 525 Aviation Way in Albany, Oregon, is a premier flight training facility offering a comprehensive range of aviation services. We provide Part 61 and Part 141 curriculum for Private Pilot, Instrument Rating, Commercial Rating, and Flight Instructor certifications. Our state-of-the-art facilities include an FAA-approved AATD simulator from one-G Simulation. Our experienced and passionate instructors ensure a positive and supportive learning environment, with a focus on regular and consistent training to achieve competency. We also offer reasonably priced aircraft rentals and a crew car for convenience. With a strong commitment to student success, Infinite Air Center is highly recommended by its students for its professionalism, friendliness, and dedication to aviation excellence. We are dedicated to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

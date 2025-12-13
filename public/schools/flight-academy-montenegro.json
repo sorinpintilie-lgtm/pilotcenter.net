@@ -1,0 +1,22 @@
+{
+  "id": "97e91c1a-63be-42ab-bb85-244cc9760415",
+  "slug": "flight-academy-montenegro",
+  "name": "Flight Academy Montenegro",
+  "continent": "Europe",
+  "country": "Montenegro",
+  "state": "MNE",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://fam.co.me/",
+  "email": "flightacademymontenegro@gmail.com",
+  "phone": "+382 69 018 119",
+  "about": "Flight Academy Montenegro is a premier flight training institution dedicated to producing highly skilled and safety-conscious pilots. Located in the heart of Montenegro, our academy is approved by the Civil Aviation Agency of Montenegro and adheres to international aviation standards. We offer a range of programs, including Private Pilot License (PPL), Commercial Pilot License (CPL), and Airline Transport Pilot License (ATPL), tailored to meet the diverse needs of aspiring pilots. Our state-of-the-art facilities, modern fleet, and experienced instructors ensure a comprehensive and supportive learning environment. We are committed to fostering a community of professional pilots who are equipped to excel in the global aviation industry. Join us to embark on a journey to the skies with excellence and safety at the forefront of our mission.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PPL (A)\\nNR (NIGHT RATING)\\nSE/IR (A)\\nCPL (A)\\nMEP\\nME/IR\\nFI (A)\\nCRI(SPA)/MEP\\nTR C501/551\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

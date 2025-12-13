@@ -1,0 +1,22 @@
+{
+  "id": "ef8a34e8-30d2-4a10-9dc2-400e21571820",
+  "slug": "educhem",
+  "name": "Educhem Limited",
+  "continent": "Australia",
+  "country": "New Zealand",
+  "state": "NZ",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://educhem.co.nz/",
+  "email": "info@educhem.co.nz",
+  "phone": "0800 338 2436",
+  "about": "Educhem Limited is a certified flight training organization based in Pukekohe, New Zealand. We specialize in providing high-quality aviation training programs that adhere to strict safety and regulatory standards. Our curriculum is designed to equip students with the necessary skills and knowledge to excel in the aviation industry. With a focus on both theoretical and practical training, we ensure our students are well-prepared for their careers as professional pilots. Educhem Limited is committed to delivering exceptional flight instruction and supporting the development of future aviation leaders. We strive to maintain a safe and supportive learning environment, ensuring our students achieve their full potential.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Pattern Testing\\nCompliance Certification\\nSprayer Calibration\\nSprayer Repairs\\nAgricultural Operations\\nOperational Competency Assessment (OCA)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

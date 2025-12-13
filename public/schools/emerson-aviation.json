@@ -1,0 +1,22 @@
+{
+  "id": "a8b43ac5-6319-45aa-ba10-c7450f5fca2f",
+  "slug": "emerson-aviation",
+  "name": "Emerson Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "NH",
+  "city": "Gilford",
+  "baseAirport": "Laconia Airport",
+  "website": "https://www.emersonaviation.com/",
+  "email": "emersoninfo@emersonaviation.com",
+  "phone": "'+1 603-293-7980",
+  "about": "Emerson Aviation, established in 1976 by Alan and Brenda Emerson, is the longest family-run fixed base operator in New Hampshire. Located in the beautiful Lakes Region, the school offers airplane flight training in Cessna 172 and Cessna 172 G1000 aircraft. With friendly and experienced instructors, many of whom have been with the school for over five years, Emerson Aviation provides personal, professional, and safe aviation services. The school offers various certifications, including Private Pilot, Commercial Pilot, and Multi-Engine Ratings, as well as ATP certificates. Known for efficient training, students often achieve their certificates below the national average. Emerson Aviation welcomes both domestic and international students and looks forward to providing quality aviation education in a stunning location.",
+  "icao": "KLCI",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nInstrument Rating (IR)\\nSeaplane Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

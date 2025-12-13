@@ -1,0 +1,22 @@
+{
+  "id": "d787a112-daf7-4789-8fbb-7cf26ba3ec4c",
+  "slug": "goodrich-aviation",
+  "name": "Goodrich Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NY",
+  "city": "",
+  "baseAirport": "BGM -Greater Binghamton/Edwin A Link Field",
+  "website": "https://goodrichaviation.com/",
+  "email": "doug@goodrichaviation.com",
+  "phone": "(607) 821-2982",
+  "about": "Goodrich Aviation, located at the Greater Binghamton Airport, is a multifaceted aviation services company offering comprehensive flight training, aircraft rental, sales, and maintenance services. Since 1998, our Pilot Training Center has provided a fun and rewarding learning experience, emphasizing affordability and quality. We use the Cessna 172, equipped with state-of-the-art GPS navigation, and offer flexible payment plans. Our professional instructors cater to various schedules, and our maintenance shop ensures top-notch aircraft condition. We provide training for private, commercial, instrument, and flight instructor certificates, as well as additional services like flight reviews and multi-engine training. With a commitment to quality and customer satisfaction, Goodrich Aviation is your trusted partner in achieving your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

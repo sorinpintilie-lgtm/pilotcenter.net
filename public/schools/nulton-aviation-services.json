@@ -1,0 +1,22 @@
+{
+  "id": "fdd286b2-1f2e-45fa-ab6e-75355f9d9c9b",
+  "slug": "nulton-aviation-services",
+  "name": "Nulton Aviation Services, Inc.",
+  "continent": "North America",
+  "country": "USA",
+  "state": "PA",
+  "city": "Johnstown",
+  "baseAirport": "John Murtha Johnstown-Cambria County (PA) Airport",
+  "website": "https://www.nultonaviation.com/",
+  "email": "info@nultonaviation.com",
+  "phone": "'+1 814-361-3500",
+  "about": "Nulton Aviation Services, Inc., located at the John Murtha Johnstown-Cambria County Airport in Johnstown, Pennsylvania, is a premier flight school and fixed-base operator (FBO) serving private, commercial, and military aircraft. Founded in 2015, the school is committed to safety and standardization, offering a comprehensive range of flight training programs tailored for both novice students and experienced pilots. In partnership with Saint Francis University, Nulton Aviation provides an Interdisciplinary Specialization in Aviation, enabling students to combine flight training with a Bachelor’s degree in various fields. The school also offers full-service refueling, aircraft maintenance, and a supportive learning environment. With a dedicated and helpful staff, Nulton Aviation Services empowers students to realize their aviation dreams and prepares them for careers in aviation. Contact them at 469 Airport Road, Johnstown, PA 15904, or call (814) 361-2410 to start your aviation journey.",
+  "icao": "KJST",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

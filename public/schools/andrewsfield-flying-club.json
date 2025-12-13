@@ -1,0 +1,22 @@
+{
+  "id": "8f9c88c2-7a1c-4528-abc5-ffad41e6aa84",
+  "slug": "andrewsfield-flying-club",
+  "name": "Andrewsfield Flying Club",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Braintree",
+  "baseAirport": "Andrewsfield Aerodrome",
+  "website": "https://andrewsfield.com/",
+  "email": "info@andrewsfield.com",
+  "phone": "'+44 1371 856 744",
+  "about": "Andrewsfield Flying Club, located in Essex, UK, is a comprehensive flying training organisation. We offer a wide range of courses from Private Pilot’s Licence (PPL) and Commercial Pilot’s Licence (CPL) to advanced training such as Flight Instructor ratings, Formation, and Aerobatics. As a licensed airfield, we provide training for use at busy airports and smaller strips, with links to Cambridge and Southend for instrument training. Our facilities include a comfortable clubhouse with a licensed bar and restaurant, fully equipped briefing rooms, a pilot shop, and offices. We are open seven days a week and also feature a Boeing 737 flight simulator. We partner with Naples Air Center, Florida, for UK CAA and FAA training. Our friendly team and first-rate instructors ensure a supportive and professional learning environment.",
+  "icao": "EGSL",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

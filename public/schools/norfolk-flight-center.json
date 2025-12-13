@@ -1,0 +1,22 @@
+{
+  "id": "319d5aae-9343-4a5a-b719-d5db07339562",
+  "slug": "norfolk-flight-center",
+  "name": "Norfolk Flight Center, LLC",
+  "continent": "North America",
+  "country": "United",
+  "state": "VA",
+  "city": "",
+  "baseAirport": "PVG -Hampton Roads Exec Airport",
+  "website": "https://www.norfolkflightcenter.com/",
+  "email": "fly@norfolkflightcenter.com",
+  "phone": "(757) 405-0005",
+  "about": "Norfolk Flight Center, LLC, located in Coastal Virginia, is a premier flight training facility serving students from many colleges and universities in the region. We offer top-quality professional flight and ground instruction for various certifications, including Private Pilot, Instrument Rating, Commercial Pilot, Airline Transport Pilot (ATP), and Flight Instructor (CFI) and Instrument Instructor (CFII) ratings. Our comprehensive training programs include Single and Multi-Engine Airplane training, as well as additional ground school and seminars. With a focus on excellence and safety, Norfolk Flight Center provides a supportive and professional environment for aspiring pilots to achieve their aviation goals. We are committed to helping our students succeed in their aviation careers.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

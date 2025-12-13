@@ -1,0 +1,22 @@
+{
+  "id": "bf0b5bbd-b25b-4073-b2ff-8409556c19ce",
+  "slug": "flight-school-olimpia-air",
+  "name": "Flight School Olimpia Air",
+  "continent": "Europe",
+  "country": "Bulgaria",
+  "state": "BULG",
+  "city": "",
+  "baseAirport": "Airfield “Bohot-LM” ICAO",
+  "website": "https://flight-school.bg/",
+  "email": "olimpia_air@flight-school.bg",
+  "phone": "'+359 878 239 532",
+  "about": "Flight School Olympia Air, located at the Olympia Regional Airport, is a premier aviation training institution in the Pacific Northwest. We offer comprehensive flight training programs for private, commercial, instrument, and certified flight instructor licenses. Our fleet includes the Cessna 152, 172, and 172RG, as well as the Robinson R22 and R44 helicopters. With experienced instructors and an FAA examiner on staff, we ensure high-quality instruction and convenient access to FAA Lasergrade written tests. Our commitment to safety, professionalism, and customer service makes us an ideal choice for aspiring pilots. We are dedicated to helping you achieve your aviation goals in a supportive and well-equipped environment. Join us to embark on your flying journey with confidence and excellence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PPL(A) Course\\nCPL(A) Modular Course\\nATPL(A) Modular Theoretical Knowledge Course\\nIR(A) (SE/ME) Modular Course\\nFI(A) Course\\nCRI(A) Course\\nSEP(Land) Class Rating Course\\nMEP(Land) Class Rating Course\\nNight Rating Course\\nLAPL(A) Course\\nPBN Course\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

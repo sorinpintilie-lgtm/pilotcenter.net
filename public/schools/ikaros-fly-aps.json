@@ -1,0 +1,22 @@
+{
+  "id": "f894a857-0441-4a1d-97cf-0612b2527344",
+  "slug": "ikaros-fly-aps",
+  "name": "Ikaros Fly ApS",
+  "continent": "Europe",
+  "country": "Denmark",
+  "state": "DK",
+  "city": "",
+  "baseAirport": "Roskilde Airport",
+  "website": "https://www.ikaros.dk/",
+  "email": "ikaros@ikaros.dk",
+  "phone": "46 14 18 70",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Flight instructor\\nInstrument Rating\\nCommercial Pilot Certificate\\nNIGHT – VFR right\\nPrivate Pilot License\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

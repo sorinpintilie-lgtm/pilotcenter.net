@@ -1,0 +1,22 @@
+{
+  "id": "a4174d4d-3981-4432-9ef3-5da0f9250452",
+  "slug": "cfi-bootcamp",
+  "name": "CFI Bootcamp",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "PAO -Palo Alto Airport",
+  "website": "https://www.cfibootcamp.com/",
+  "email": "Info@cfibootcamp.com",
+  "phone": "(650) 600-1021",
+  "about": "CFI Bootcamp is a pioneering flight instructor training facility with locations in Palo Alto, California, and Miami, Florida. Our accelerated CFI training program is designed to help aspiring instructors achieve their certification in just three weeks. Developed by industry leaders, including a former FAA and CAA examiner, our training system is structured into online, ground, and flight segments. The program includes a 42-hour online course, a 7-day immersive ground school, and intensive flight training with pre and post-flight briefings. Our comprehensive approach covers all technical subject areas, lesson plan creation, and complex regulations, ensuring students' fundamental knowledge, teaching methods, and flight proficiency exceed industry standards. With a strong track record of success, CFI Bootcamp is committed to guiding students to achieve their CFI certification efficiently and effectively.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nInstrument Proficiency Check\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nMulti-Engine\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

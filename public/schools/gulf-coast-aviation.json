@@ -1,0 +1,22 @@
+{
+  "id": "57a9ff5d-ad03-4ec6-a0fe-a1e897d6b32e",
+  "slug": "gulf-coast-aviation",
+  "name": "Gulf Coast Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "LA",
+  "city": "",
+  "baseAirport": "NEW -Lakefront Airport",
+  "website": "https://www.gulfcoastaviation.com/",
+  "email": "info@gulfcoastaviation.com",
+  "phone": "(504) 246-2700",
+  "about": "Gulf Coast Aviation, located at New Orleans Lakefront Airport, is the only Cessna Pilot Center in the state, offering modern, well-maintained aircraft, including Garmin G1000 equipped planes. We provide comprehensive flight training from Private Pilot to Commercial licenses, utilizing a state-of-the-art, scenario-based training program developed by John and Martha King. Our curriculum integrates ground school with flight lessons, ensuring efficient and confident learning. We cater to diverse needs, including international students and veterans, and offer financial aid through partnerships with Liberty University and other providers. Our commitment to excellence is backed by a guarantee of the best training experience, with a focus on individual growth and customer satisfaction. Join us to achieve your flying dreams with top-notch instructors and facilities.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nComputerized Testing\\nDrone/UAS\\nExaminer\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nPart 107 Drone Testing\\nSimulator\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nMulti-Engine\\nInstrument\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

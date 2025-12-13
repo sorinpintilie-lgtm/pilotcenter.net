@@ -1,0 +1,22 @@
+{
+  "id": "25a950c7-6b18-4092-88c9-986c7824ea24",
+  "slug": "proteus-air-services",
+  "name": "Proteus Air Services",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CA",
+  "city": "Santa Monica",
+  "baseAirport": "Santa Monica Airport",
+  "website": "https://proteus.aero/",
+  "email": "ksmo@proteus.aero",
+  "phone": "'+1 310-398-6929",
+  "about": "Proteus Air Services, located at the Santa Monica Municipal Airport, has been providing comprehensive flight training and aircraft rental services since 1995. We specialize in personalized flight instruction for all levels, from casual flyers to aspiring professional pilots. Our training programs include Private Pilot Certificate, Commercial Pilot Certificate, and Flight Instructor certifications, as well as Airline Transport Pilot (ATP) training. With a friendly and knowledgeable staff, we offer ground school, intro flights, and sightseeing flights. Our mission is to deliver the best flight training and customer service, ensuring a safe and enjoyable learning experience for all our students and clients. We pride ourselves on our well-maintained fleet and efficient rental process, making flying accessible and enjoyable for everyone.",
+  "icao": "KSMO",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

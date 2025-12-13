@@ -1,0 +1,22 @@
+{
+  "id": "fc6e9fca-64d9-4f42-9dc5-b774951a4fd5",
+  "slug": "empyrean-aero",
+  "name": "Empyrean Aero",
+  "continent": "North America",
+  "country": "United States",
+  "state": "KS",
+  "city": "",
+  "baseAirport": "OJC -Johnson County Exec Airport",
+  "website": "https://empyreanaero.com/",
+  "email": "ifly@empyreanaero.com",
+  "phone": "(913) 948-5111",
+  "about": "Empyrean Aero is a reputable flight training institution dedicated to providing comprehensive and flexible aviation education. Our training programs are conducted under a Part 141 approved syllabus, ensuring rigorous and standardized instruction. We offer a range of courses, including the Commercial Pilot Certificate, which enables graduates to fly aircraft for hire, carrying cargo or passengers. With a commitment to meeting individual needs, Empyrean Aero provides a supportive and professional environment for aspiring pilots to achieve their aviation goals. Our services also extend to aircraft sales and various aviation services, making us a one-stop solution for all your aviation needs. At Empyrean Aero, we are passionate about helping you take to the skies with confidence and skill.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

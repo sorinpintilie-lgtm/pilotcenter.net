@@ -1,0 +1,22 @@
+{
+  "id": "11d7584b-db4c-49eb-8ad4-d39c0c3b86ca",
+  "slug": "helicopter-institute",
+  "name": "Helicopter Institute Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "FTW -Fort Worth Meacham International Airport",
+  "website": "https://www.helicopterinstitute.com/",
+  "email": "info@helicopterinstitute.com",
+  "phone": "(817) 224-2500",
+  "about": "Helicopter Institute Inc. is a leading provider of advanced helicopter pilot training, founded in 2009 and headquartered in Fort Worth, TX. Our instructors are experts in their field, recognized by the Helicopter Association International (HAI) with multiple 'Dub' Blessing Flight Instructor of the Year Awards. We offer a diverse range of training programs, including Private Pilot through ATP Certification, Night Vision Goggle operations, Turbine Transition, and specialized courses like Mountain Operations and Firefighting. Our fleet includes Bell, Airbus, and MD helicopters, and we utilize state-of-the-art flight simulation devices to enhance training. Partnering with Embry-Riddle Aeronautical University, we provide cost-effective and comprehensive training, focusing on safety and critical decision-making. Our goal is to improve helicopter safety, one pilot at a time.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

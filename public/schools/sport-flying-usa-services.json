@@ -1,0 +1,22 @@
+{
+  "id": "a7b5ff8a-6f66-40c1-b2c9-732b0ead169f",
+  "slug": "sport-flying-usa-services",
+  "name": "Sport Flying USA Services",
+  "continent": "North America",
+  "country": "United States",
+  "state": "PA",
+  "city": "",
+  "baseAirport": "LNS -Lancaster Airport",
+  "website": "https://sportflyingusaservices.com/",
+  "email": "info@sportflyingusaservices.com",
+  "phone": "(717) 735-1600",
+  "about": "Sport Flying USA Services is a comprehensive flight training institution based at Lancaster Airport. We offer a range of programs, including Private Pilot, Commercial, Flight Instructor, and Sport Pilot certifications, all led by FAA Certified Flight Instructors. Our training is conducted in Bristell aircraft, known for their safety and performance. We provide Discovery Flights, allowing prospective students to experience flying firsthand, and our instructors are dedicated to helping students achieve their aviation goals. With a focus on safety and customer satisfaction, we also offer aircraft maintenance and sales services. Join us to take to the skies and start your journey to becoming a skilled pilot today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

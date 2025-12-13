@@ -1,0 +1,22 @@
+{
+  "id": "069e1378-e8ab-46bc-b6a4-f5bc74ac4c04",
+  "slug": "panamedia-international-flight-school",
+  "name": "Panamedia International Flight School",
+  "continent": "Europe",
+  "country": "Spain",
+  "state": "",
+  "city": "Valencia",
+  "baseAirport": "Son Bonet Airport",
+  "website": "https://panamedia.org/",
+  "email": "panamedia@panamedia.org",
+  "phone": "'+34 971 601 749",
+  "about": "Panamedia International Flight School is a premier institution for professional pilot training, located in Mallorca and Valencia, Spain. We offer high-quality theoretical and practical training tailored to airline requirements. Our programs include Private Pilot Licence (PPL), Commercial Pilot Licence (CPL), and Flight Instructor training. The school is equipped with an Airbus A320 simulator for Multi-Crew Cooperation (MCC) training, ensuring our students receive comprehensive and industry-relevant education. With a strong focus on excellence, Panamedia International Flight School prepares its students to meet the highest standards in aviation, providing them with the skills and knowledge necessary for a successful career in the aviation industry.",
+  "icao": "LEVC",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nEASA ATPL Ground School\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

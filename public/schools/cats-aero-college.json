@@ -1,0 +1,22 @@
+{
+  "id": "7400ce4f-0c22-497f-adb2-3086e36a4a03",
+  "slug": "cats-aero-college",
+  "name": "CATS AERO COLLEGE",
+  "continent": "Asia",
+  "country": "Philippines",
+  "state": "CEB",
+  "city": "",
+  "baseAirport": "Lahug Airport",
+  "website": "https://www.cats.edu.ph/index-5.html",
+  "email": "info@cats.edu.ph",
+  "phone": "'+63.32.233-0002",
+  "about": "CATS Aero College, formerly known as Cebu Aeronautical Technical School, is an institution of higher learning located in Lahug, Cebu City. We offer both 2 and 4-year programs tailored to equip students with the skills and knowledge necessary for a career in aviation. Our curriculum includes a mix of theoretical studies and practical training, ensuring students are well-prepared for the industry. With a focus on quality education and hands-on experience, CATS Aero College is committed to producing competent and skilled aviation professionals. We strive to provide a comprehensive and supportive learning environment that fosters the growth and success of our students.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Aeronautical Engineering\\nAirline Management\\nAircraft Maintenance Technology\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

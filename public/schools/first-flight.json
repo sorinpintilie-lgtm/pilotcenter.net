@@ -1,0 +1,22 @@
+{
+  "id": "82c329f0-997a-4eba-bc2c-2077ce2ad818",
+  "slug": "first-flight",
+  "name": "First Flight Corporation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SDM -Brown Field Municipal",
+  "website": "https://www.firstflightcorp.net/",
+  "email": "firstflightcorp@yahoo.com",
+  "phone": "(619) 661-6522",
+  "about": "First Flight Corporation, located at Brown Field Airport in San Diego, is a full-service Fixed Base Operator (FBO) dedicated to all aspects of aviation. We offer comprehensive flight training, aircraft rentals for both the U.S. and Mexico, and thorough aircraft maintenance services. Our facility provides 100LL and Jet A fuel, ramp parking, and other amenities to ensure a seamless aviation experience. Our experienced instructors, including Pete, Steve, and Fred, are committed to providing top-notch training from private pilot certification to advanced ratings. We pride ourselves on flexible scheduling, competitive rates, and a family-like atmosphere, making us an ideal choice for aspiring pilots and aviation enthusiasts alike. With a focus on quality service and safety, First Flight Corporation is your trusted partner in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

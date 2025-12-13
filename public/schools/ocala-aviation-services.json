@@ -1,0 +1,22 @@
+{
+  "id": "47c2d025-10fe-4bf0-9ff0-cd9ad2cf263b",
+  "slug": "ocala-aviation-services",
+  "name": "Ocala Aviation Services, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "OCF -Ocala International-Jim Taylor Field",
+  "website": "https://usflighttraining.com/",
+  "email": "OcalaAviation@yahoo.com",
+  "phone": "(352) 861-7484",
+  "about": "At Ocala Aviation Services, Inc., we are dedicated to providing first-class flight training at a reasonable cost. Located at Taylor Field in Ocala, Florida, our flight school offers a flexible schedule and a focused approach to ensure your success. We provide a range of training programs, including Private Pilot, Instrument, Commercial, Multi-Engine, and Flight Instructor (CFI and CFII) certifications. Our experienced instructors are committed to making your aviation goals our top priority. With accelerated training options available, we are here to help you achieve your flying aspirations efficiently and effectively. Contact us today to start your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

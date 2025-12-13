@@ -1,0 +1,22 @@
+{
+  "id": "f54f5f0a-7ecd-4a1a-84bf-0f3f680b1cfb",
+  "slug": "sierra-charlie-aviation",
+  "name": "Sierra Charlie Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "AZ",
+  "city": "Scottsdale",
+  "baseAirport": "Scottsdale Airport",
+  "website": "https://sierracharlieaviation.com/",
+  "email": "info@sierracharlieaviation.com / info@iFlySCA.com",
+  "phone": "'+1 480-474-4115",
+  "about": "Sierra Charlie Aviation, based in Scottsdale, Arizona, is a premier flight school dedicated to excellence in aviation training. Founded on principles of honesty, trust, and collaboration, we offer a high-quality fleet of state-of-the-art Cessna 172s with Garmin G1000 avionics and a Piper Seminole for multi-engine training. Our team of experienced instructors, with thousands of hours of pilot training experience, provides top-notch instruction in a fun and family-oriented atmosphere. With 350 days of good flying weather annually, our facility at Scottsdale Airport ensures efficient and cost-effective training. We are part of the Cessna Pilot Center network, guaranteeing the highest standards in aviation training. Our Aviator Career Program takes students from beginners to experienced pilots in just 18 months, with a 91% first-time pass rate. Sierra Charlie Aviation is committed to turning aspiring pilots into skilled aviators, making it the best choice for your aviation journey.",
+  "icao": "KSDL",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

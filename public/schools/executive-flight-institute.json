@@ -1,0 +1,22 @@
+{
+  "id": "3f1754df-67d4-488b-a69e-4408017d04ba",
+  "slug": "executive-flight-institute",
+  "name": "Executive Flight Institute",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "F70 -French Valley Airport",
+  "website": "https://flyefi.com/",
+  "email": "info@flyefi.com",
+  "phone": "(951) 304-9639",
+  "about": "Executive Flight Training, headquartered in Beaufort, SC, offers insurance-approved, personalized training for professional pilots. Our programs include Cessna Citation and King Air initial and recurrent training, tailored to meet FAA and insurance requirements. With over 30 years of experience, our instructors, led by Douglas Carmody, a former airline Captain with 30,000 flight hours, provide accelerated and thorough training using online e-books, simulators, and in-aircraft instruction. We analyze recent accidents, incidents, and procedural errors to enhance safety and efficiency. Our training accommodates your schedule, and we offer locations in Savannah, GA, and Austin, TX. Join us for top-notch aviation training that prioritizes safety and proficiency.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

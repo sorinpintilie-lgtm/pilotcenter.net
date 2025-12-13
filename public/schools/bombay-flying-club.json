@@ -1,0 +1,22 @@
+{
+  "id": "a8b72c00-857d-406b-a6ec-a5dc03dce8f5",
+  "slug": "bombay-flying-club",
+  "name": "Bombay Flying Club",
+  "continent": "Asia",
+  "country": "India",
+  "state": "IN",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://thebombayflyingclub.com/",
+  "email": "pilotinfo@bfcaviation.com",
+  "phone": "",
+  "about": "The Bombay Flying Club, established in 1928, is the oldest flying club in India, located at Juhu aerodrome, Mumbai. It is approved by the Directorate General of Civil Aviation (DGCA) and offers comprehensive programs in pilot training, Aircraft Maintenance Engineering, and cabin crew training. The club provides a unique B.Sc. (Aeronautics) degree program, combining pilot training with a university education from the University of Mumbai. It also offers Commercial Pilot Licence (CPL) and Private Pilot Licence (PPL) courses, along with specialized programs in aviation safety and hospitality. The club has a rich history, having trained notable figures like J.R.D. Tata, and continues to provide high-standard training with state-of-the-art facilities, including a DGCA-approved synthetic simulator and an exclusive airport in Dhule for flying training. With a commitment to excellence, the Bombay Flying Club prepares students for successful careers in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Pilot Training (PPL & CPL)\\nAircraft Maintenance Engineering (AME)\\nBSc. Aviation Degree \\nAirhostess / Cabin Crew\\nDrone Flying (RPAS)\\nHobby Flying ( Executive PPL )\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

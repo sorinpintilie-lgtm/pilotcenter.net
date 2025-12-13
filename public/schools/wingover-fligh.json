@@ -1,0 +1,22 @@
+{
+  "id": "7718e005-b744-4495-8fd8-df5e1d1dbbd8",
+  "slug": "wingover-fligh",
+  "name": "Wingover Flight",
+  "continent": "North America",
+  "country": "United",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "TFP -Ingleside Regional Airport",
+  "website": "https://www.wingoverflight.com/",
+  "email": "wingoverflight@gmail.com",
+  "phone": "(361) 596-3490",
+  "about": "At Wingover Flight School, we specialize in advanced flight training, focusing on aerobatic maneuvers such as the wingover. This intricate maneuver involves a steep climb, a sharp bank, and a level out in the opposite direction, demanding precision and comprehensive aerodynamic knowledge. Our programs are designed to enhance flying proficiency, emphasizing pilot skill and aircraft agility. With experienced instructors and a rigorous training curriculum, we prepare students for the highest standards in aviation, ensuring they master the artistry and precision of advanced flying. Join us to elevate your flying skills and pursue excellence in the aviation community.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nExaminer\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

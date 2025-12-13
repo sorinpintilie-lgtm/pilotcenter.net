@@ -1,0 +1,22 @@
+{
+  "id": "ce1b9641-f1c9-485f-807f-9458af52e513",
+  "slug": "escuela-de-vuelo-eagle-aviation-training-centre",
+  "name": "Escuela de Vuelo Eagle Aviation Training Centre",
+  "continent": "North America",
+  "country": "Mexico",
+  "state": "MEX",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://eatc.mx/",
+  "email": "info@eatc.mx",
+  "phone": "55-9388-6449",
+  "about": "Eagle Aviation Training Centre is a reputable flying school dedicated to providing comprehensive and efficient flight training. Located at the Columbia Metropolitan Airport, our facility offers professional instruction from FAA Certified Flight Instructors and utilizes well-maintained airplanes equipped with the latest technology, such as the Cessna 172SP with Garmin Avionics. We combine thorough ground training with extensive instructional and solo flight time to ensure students become safe and competent pilots. Our structured yet flexible training program allows students to choose their own schedules, and we offer a no-obligation Discovery Flight for new students to experience flying firsthand. With a focus on efficiency and safety, Eagle Aviation is your one-stop-shop for all your aviation needs, helping you achieve your flying goals with confidence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Fixed Wing Aviator Pilot\\nCFIT\",\"ALAR and CRM courses\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

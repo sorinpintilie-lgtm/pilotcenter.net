@@ -1,0 +1,22 @@
+{
+  "id": "d9cfd1aa-cac2-4fda-bbd2-0f2a3589cf67",
+  "slug": "oklahoma-aeronautics-academy",
+  "name": "Oklahoma Aeronautics Academy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "OK",
+  "city": "El Reno",
+  "baseAirport": "El Reno Airport",
+  "website": "https://www.okaero.net/",
+  "email": "okaeroacad@gmail.com",
+  "phone": "'+1 405-919-6784",
+  "about": "Oklahoma Aeronautics Academy, located at the El Reno Municipal Airport, is a veteran-owned flying school dedicated to providing comprehensive, one-on-one ground and flight training for private, instrument, and commercial pilot students. Our experienced instructors and well-maintained aircraft ensure quality training, focusing on academic knowledge and practical skills. We offer individualized ground school instruction, flight reviews, and simulation training, emphasizing safety and efficiency. Our curriculum includes thorough coverage of FAA requirements, aeronautical knowledge, and flight operations, preparing students to be safe and proficient pilots. With a commitment to quality over expediency, we strive to produce well-rounded, professional pilots.",
+  "icao": "KRQO",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Instrument Rating (IR)\\nPrivate Pilot License\\nCommercial Pilot License\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

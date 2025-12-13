@@ -1,0 +1,22 @@
+{
+  "id": "ccef8be5-ffb4-44d9-8dbd-759aeda7606d",
+  "slug": "pia-flight-academy",
+  "name": "PIA Flight Academy",
+  "continent": "Asia",
+  "country": "Pakistan",
+  "state": "PK",
+  "city": "",
+  "baseAirport": "Karachi Airport",
+  "website": "https://piaflightacademy.weebly.com/",
+  "email": "sbbfa@piac.aero",
+  "phone": "92-21-99043755",
+  "about": "PIA Flight Academy, located in Karachi, Pakistan, is a premier aviation school offering a comprehensive range of training courses. Established in August 2011, the academy provides a professional environment for students to acquire both technical and flying knowledge. With a minimum education qualification of Intermediate/FSc/A-Levels and an age requirement of 18 years, students are guided by a skilled and dedicated staff. The academy's mission is to equip students with the skills necessary to excel in the aviation industry, ensuring they are well-prepared for a successful career in flying. PIA Flight Academy is committed to delivering high-quality training, making it an ideal choice for those aspiring to become professional pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License (PPL)\\nCommercial Pilot License (CPL)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "d5b79ec4-1adf-47fc-95c8-192c82400f4a",
+  "slug": "mccreery-co",
+  "name": "McCREERY Co., Inc.",
+  "continent": "North America",
+  "country": "USA",
+  "state": "TX",
+  "city": "McAllen",
+  "baseAirport": "McAllan Miller International Airport",
+  "website": "https://www.mccreeryaviation.com/",
+  "email": "csr@mccreeryaviation.com",
+  "phone": "'+1 956-686-1774",
+  "about": "McCreery Aviation Co., Inc., located in McAllen, Texas, is a renowned full-service General Aviation Center with a rich history spanning over 78 years. As a leader in South Texas, we offer comprehensive flight training through our Flight Academy, utilizing the Cessna Flight Training Curriculum and training students in the Cessna 172. Our programs include Private Pilot Certificate, Commercial Pilot Certificate, and Flight Instructor certifications. In addition to flight training, we provide a range of services including fuel and hangar facilities, aircraft maintenance, avionics, and parts. Our dedication to customer service has established us as a trusted name in aviation, making McCreery Aviation the ideal choice for aspiring pilots and aviation professionals alike.",
+  "icao": "KMFE",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

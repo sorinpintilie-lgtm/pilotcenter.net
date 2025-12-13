@@ -1,0 +1,22 @@
+{
+  "id": "376cb360-ea87-4efb-9396-b8c77f88d73c",
+  "slug": "fremont-aviation",
+  "name": "Fremont Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NE",
+  "city": "",
+  "baseAirport": "FET -Fremont Municipal Airport",
+  "website": "https://www.fremontaviation.com/",
+  "email": "fet_aviation@hotmail.com",
+  "phone": "(402) 721-4520",
+  "about": "Fremont Aviation, located in Fremont, Nebraska, is a comprehensive flight training and aviation services provider. We offer a range of programs including Private Pilot Certificate, Commercial Pilot Certificate, Flight Instructor, and Instrument Rating. Our facility also provides additional ground school and seminars to ensure well-rounded education. Alongside flight training, we offer skilled aircraft maintenance services to meet all your aerial and aviation needs. Our dedicated team is committed to providing high-quality training and support to help you achieve your aviation goals. Whether you are a novice pilot or an experienced aviator, Fremont Aviation is your trusted partner in the skies.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nGround School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

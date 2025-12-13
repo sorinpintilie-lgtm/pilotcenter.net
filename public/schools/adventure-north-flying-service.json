@@ -1,0 +1,22 @@
+{
+  "id": "5a8311c1-bac0-4171-a813-db152c1feece",
+  "slug": "adventure-north-flying-service",
+  "name": "Adventure North Flying Service, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MN",
+  "city": "",
+  "baseAirport": "AIT -Aitkin Muni/Steve Kurtz Field",
+  "website": "https://www.adventurenorthflyingservice.com/",
+  "email": "adventurenorthllc@gmail.com",
+  "phone": "(218) 927-4104",
+  "about": "Adventure North Flying Service, LLC is a comprehensive aviation training and services provider based in Aitkin, Minnesota, and also operating at Baudette International Airport. Our flight school offers a range of training opportunities, including ground school, introductory flights, and certifications for Airline Transport Pilot (ATP), Commercial Pilot, and Flight Instructor (CFI). We provide computerized testing facilities to support our students' learning journey. In addition to flight instruction, we offer aircraft charters, maintenance services, and avionics sales. With a dedicated team and state-of-the-art facilities, Adventure North Flying Service is committed to delivering high-quality aviation education and services. Whether you are aspiring to become a professional pilot or simply looking to experience the thrill of flying, we are here to help you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

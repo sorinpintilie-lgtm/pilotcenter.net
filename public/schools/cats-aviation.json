@@ -1,0 +1,22 @@
+{
+  "id": "ac70b824-b67d-4986-8f7e-52d62ae0336c",
+  "slug": "cats-aviation",
+  "name": "CATS Aviation",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.catsaviation.com/",
+  "email": "info@catsaviation.com",
+  "phone": "'+44 1582 434 222",
+  "about": "CATS Aviation is a premier provider of theoretical training for aspiring pilots, based in Luton, United Kingdom. Specializing in ATPL Theoretical Knowledge Training, CATS offers both in-house and virtual courses, ensuring students can complete the 13 UK and/or EASA ATPL theoretical knowledge exams. With a commitment to quality, CATS adheres to the ISO 9001 standard, ensuring high-quality education that meets customer and regulatory needs. The school provides updated study guides, audio-video content, and overview lectures to support comprehensive learning. CATS Aviation is dedicated to helping students achieve their aviation goals through rigorous and well-structured training programs.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nInstrument Rating (IR)\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

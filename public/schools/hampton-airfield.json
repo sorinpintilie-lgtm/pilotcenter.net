@@ -1,0 +1,22 @@
+{
+  "id": "b042700f-c803-4766-9dd4-8ac470e31d3d",
+  "slug": "hampton-airfield",
+  "name": "Hampton Airfield, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NH",
+  "city": "",
+  "baseAirport": "7B3 -Hampton Airfield",
+  "website": "https://hamptonairfield.com/",
+  "email": "flightdesk@hamptonairfield.com",
+  "phone": "(603) 964-6749",
+  "about": "Hampton Airfield, Inc. is a vibrant aviation community established in 1946 as a training center for World War II veterans. Located in Hampton, New Hampshire, between Boston and Portsmouth, the airfield offers a rich seacoast atmosphere and a variety of aviation services. Our flight school, led by certified and experienced instructors, provides comprehensive training for Sport Pilot and Private Pilot licenses, including introductory flights, ground school, and flight reviews. With a strong focus on community and safety, Hampton Airfield features a turf and asphalt runway, aircraft rentals, maintenance services, and an award-winning cafe. We are dedicated to fostering a welcoming and supportive environment for students of all ages, making learning to fly both fun and rewarding. Join our family of aviation enthusiasts and let your dreams take flight.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nPrivate Pilot\\nSport Pilot\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

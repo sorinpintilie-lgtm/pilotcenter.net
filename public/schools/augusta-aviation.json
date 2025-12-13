@@ -1,0 +1,22 @@
+{
+  "id": "90ced4cf-c56a-4e62-ae8b-b3fb1977ea55",
+  "slug": "augusta-aviation",
+  "name": "Augusta Aviation, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "GA",
+  "city": "",
+  "baseAirport": "DNL -Daniel Field",
+  "website": "https://augustaaviation.com/",
+  "email": "info@augustaaviation.com",
+  "phone": "(706) 733-8970",
+  "about": "Augusta Aviation, Inc., founded in 1940 by W.M. Boshears, is a premier aviation service provider based at Daniel Field Airport in Augusta, Georgia. With a rich history spanning over 80 years, the company has evolved from its humble beginnings as the Augusta School of Aviation to become the oldest Fixed Base Operator in the Southeast. Augusta Aviation offers comprehensive flight training programs for various ratings, including Private, Commercial, Instrument, CFI, and CFII, utilizing state-of-the-art equipment like a full-motion flight simulator. The company also specializes in air charter services, aircraft maintenance, fuel sales, and aerial tours. Known for its commitment to service excellence and community involvement, Augusta Aviation is dedicated to promoting general aviation and raising awareness for critical health issues. Trust in their legacy of innovation, resilience, and superior service to elevate your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

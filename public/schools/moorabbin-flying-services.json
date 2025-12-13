@@ -1,0 +1,22 @@
+{
+  "id": "b18fb0ab-7781-48af-afd1-6156d2df5369",
+  "slug": "moorabbin-flying-services",
+  "name": "Moorabbin Flying Services",
+  "continent": "Oceania",
+  "country": "Australia",
+  "state": "",
+  "city": "",
+  "baseAirport": "Moorabbin Airport",
+  "website": "https://mfs.com.au/",
+  "email": "fly@mfs.com.au",
+  "phone": "'+61 3-9580-8822",
+  "about": "Moorabbin Flying Services (MFS) is a government-accredited flight training provider based in Melbourne, Australia. With over 25 years of experience, MFS offers a comprehensive range of pilot training courses from ab-initio to the Air Transport Pilot Licence (ATPL), including Recreational Pilot Licence (RPL), Private Pilot Licence (PPL), Commercial Pilot Licence (CPL), and Multi-Crew Cooperation (MCC) courses. MFS is renowned for its high-quality training, utilizing Australia’s newest fleet of single and multi-engined Piper training aircraft, with an average age of under three years. The school has been awarded the Flying Training Organisation of the Year by the Australian Division of the Royal Aeronautical Society and Australian Flying magazine in 2017 and 2018. MFS is committed to inspiring new pilots to achieve their goals, providing structured courses and flexible training options to suit every aspiring and professional pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

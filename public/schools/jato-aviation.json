@@ -1,0 +1,22 @@
+{
+  "id": "39457987-6ac2-4738-bc95-2d1aeab65319",
+  "slug": "jato-aviation",
+  "name": "JATO Aviation",
+  "continent": "North America",
+  "country": "United",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "HWD -Hayward Exec Airport",
+  "website": "https://jatoaviation.com/",
+  "email": "ops@jatoaviation.com",
+  "phone": "(650) 654-5286",
+  "about": "JATO Aviation, a Cirrus Aircraft Platinum Authorized Training Center, offers premier flight training and aircraft rentals in the San Francisco Bay Area. Founded in 2004 by April Gafford, JATO combines advanced technology with a structured approach to training, emphasizing safety and proficiency. With a fleet of the newest Cirrus and Cessna aircraft, JATO provides training from private pilot licenses to jet prep, utilizing industry-leading programs and standardized instructor practices. The school operates at San Carlos, Palo Alto, and Hayward airports, offering flexible scheduling and comprehensive support, including ground school and aircraft management services. JATO is committed to producing safe, skilled pilots through its integrated suite of services and expert instruction. Whether you're a novice or an experienced pilot, JATO Aviation is dedicated to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

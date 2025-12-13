@@ -1,0 +1,22 @@
+{
+  "id": "c7ecf6fe-6067-43c6-8eaf-5dc6adb60997",
+  "slug": "skybound-aviation",
+  "name": "Skybound Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "GA",
+  "city": "Atlanta",
+  "baseAirport": "Dekalb Airport",
+  "website": "https://www.skybnd.com/",
+  "email": "SKYBNDCO@SKYBND.COM",
+  "phone": "'+1 678-691-3283",
+  "about": "Skybound Aviation is a premier flight training and aircraft rental company based in the Atlanta area and the Triad region of North Carolina. We offer comprehensive flight training programs for Private, Instrument, and Commercial licenses, as well as certifications for Certified Flight Instructors and Airline Transport Pilots. Our fleet includes Cessna 172s, Piper Warriors, and Piper Arrows, all meticulously maintained to ensure safety. Our experienced and friendly Certified Flight Instructors provide personalized training on your schedule. We operate out of DeKalb-Peachtree Airport in Atlanta and PTI Airport in Greensboro, both offering ideal training environments with towered airport experiences. At Skybound Aviation, we prioritize a safety-first culture and are dedicated to helping you achieve your aviation dreams. We invite you to take a discovery flight and start your journey to becoming a pilot.",
+  "icao": "KPDK",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

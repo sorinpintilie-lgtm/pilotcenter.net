@@ -1,0 +1,22 @@
+{
+  "id": "ee5c180c-d21e-4924-9e05-3241d68ae947",
+  "slug": "florida-flight-training-center",
+  "name": "Florida Flight Training Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "VNC -Venice Municipal Airport",
+  "website": "https://www.fftc.info/",
+  "email": "Dispatch@fftc.info",
+  "phone": "(941) 484-3771",
+  "about": "Florida Flight Training Center, established in 1992, is a premier institution for training future airline pilots. With over 30 years of experience, our programs combine adventure and professional guidance, ensuring an unparalleled learning journey. Our management team, comprised of former airline professionals, guarantees a quality-driven education. We boast 18 certified FAA instructors, a 92% first-time pass rate for FAA 141 courses, and partnerships with over 15 airlines. Our modern, state-of-the-art facility provides an ideal environment for students to fulfill their aviation dreams. We specialize in training pilots to meet and exceed airline standards, making us a trusted name in the industry. Join us to seize the opportunity in the midst of a global pilot shortage and start your aviation career today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nComputerized Testing\\nExaminer\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

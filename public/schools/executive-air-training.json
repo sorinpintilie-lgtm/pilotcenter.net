@@ -1,0 +1,22 @@
+{
+  "id": "f95174a6-ac79-43f8-8c0a-86b6e88e94a6",
+  "slug": "executive-air-training",
+  "name": "Executive Air Training",
+  "continent": "Africa",
+  "country": "Zimbabwe",
+  "state": "ZI",
+  "city": "",
+  "baseAirport": "Charles Prince Airport",
+  "website": "https://www.execair.co.zw/",
+  "email": "",
+  "phone": "(+263) 8677 007 547",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School Training\\nFlight Training\\nPrivate Pilot Training\\nAircraft Maintenance\\nBanner Towing\\nHangarage\\nHandling Services\\nMedical Evacuations\\nCargo\\nPrivate Charters\\nDynamic Propeller Balancing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

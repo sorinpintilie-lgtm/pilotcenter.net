@@ -1,0 +1,22 @@
+{
+  "id": "4965d0c6-068b-453a-8ea0-bd3011b525d2",
+  "slug": "ptc-aviation-pty",
+  "name": "PTC Aviation (Pty) Ltd",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "EC",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.ptcaviation.co.za/",
+  "email": "info@ptcaviation.co.za",
+  "phone": "'+27 (0)87 943 7100",
+  "about": "PTC Aviation (Pty) Ltd is a premier aviation training institution dedicated to producing highly skilled and industry-ready aviation professionals. Established with a commitment to excellence, PTC Aviation offers a range of specialized courses, including flight attendant, aircraft maintenance, and flight dispatch training. Utilizing state-of-the-art facilities such as a full Airbus A320 Cabin Mockup, we provide world-class training aligned with global standards. Partnerships with renowned entities like Jeppesen and AirportCollege.com enhance our programs, ensuring trainees receive internationally recognized certifications. Our faculty is trained to deliver practical skills and industry-specific knowledge, giving our students a competitive edge in the aviation industry. Located conveniently near major airports, PTC Aviation is your gateway to a successful career in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"ACAS/TCAS\\nATPL (Modular - A)\\nCabin Type Rating\\nClass Rating\\nCPL - (Modular - A)\\nCrew Resource Management (Pilot)\\nFlight Instructor\\nInstrument Rating\\nType Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

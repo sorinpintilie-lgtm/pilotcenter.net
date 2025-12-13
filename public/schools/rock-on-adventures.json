@@ -1,0 +1,22 @@
+{
+  "id": "1eae823c-04bf-45aa-b290-052ab16dcac3",
+  "slug": "rock-on-adventures",
+  "name": "Rock on Adventures",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "CT",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://rockonadventures.co.za/",
+  "email": "info@rockonadventures.co.za",
+  "phone": "'+27 72 252 1678",
+  "about": "At Rock Solid Aviation, we are dedicated to providing comprehensive and professional flight training programs. Located in Lake Charles, DeRidder, New Orleans, and Beaumont, we offer a range of certifications from private pilot to commercial licenses and flight instructor training. Our accelerated programs and 100% financing options make aviation careers more accessible. With a fleet of technologically advanced aircraft, including Garmin-equipped Cessna 172s and RV12s, our students receive instruction from highly qualified pilots. We prioritize safety, guidance, and support, ensuring that every student soars into the skies with confidence and proficiency. Join us to begin your aviation adventure and transform your dreams into reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"NPL - Class Rating\\nNPL - National FI Rating\\nNPL - Type Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

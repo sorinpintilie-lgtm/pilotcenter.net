@@ -1,0 +1,22 @@
+{
+  "id": "9c9be56a-ad7b-4eff-9aea-6956cb76f4be",
+  "slug": "specialized-aero-works",
+  "name": "Specialized Aero Works",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OR",
+  "city": "",
+  "baseAirport": "BDN -Bend Municipal Airport",
+  "website": "https://www.specializedaeroworks.com/",
+  "email": "admin@fly-SAW.com",
+  "phone": "(541) 728-3620",
+  "about": "Specialized Aero Works is a premier flying school located at the Bend, OR airport, offering specialized flight training in areas such as Upset Prevention and Recovery Training (UPRT), aerobatics, tailwheel training, and emergency maneuvering. Our mission is to provide the best specialty flight training, reducing Loss of Control Inflight (LOC-I) mishaps and enhancing pilots' \"stick-and-rudder\" and aeronautical decision-making skills. With highly experienced instructors, we strive for excellence, integrity, and customer satisfaction, ensuring every training experience is both effective and enjoyable. We are committed to making better all-around pilots while promoting a fun and rewarding flying environment. At Specialized Aero Works, we are dedicated to helping you become a better pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Simulator\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

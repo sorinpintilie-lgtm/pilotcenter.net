@@ -1,0 +1,22 @@
+{
+  "id": "20e79d48-fac3-4b9d-958f-b14c7b557127",
+  "slug": "helicopter-experts",
+  "name": "Helicopter Experts, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "1TT8 -Bulverde Airpark",
+  "website": "https://www.helicopterexperts.com/",
+  "email": "sales@helicopterexperts.com",
+  "phone": "(210) 930-0125",
+  "about": "Helicopter Experts, Inc., based in Bulverde, Texas, is a full-service helicopter company offering aircraft charter, maintenance, and comprehensive flight training. Established since February 1994, we provide FAA part 61 and 141 training using Bell 47, Robinson R44, and R66 helicopters. Our mission is to deliver the safest and most reliable services, meeting the highest standards. We offer private pilot courses, commercial pilot certificates, and instrument ratings, with flexible ground-training curricula and one-on-one instruction. Our excellent safety record, satisfied customers, and successful passing rates on flight tests and pilot certificates underscore our commitment to quality. Contact us to learn more about our helicopter rides, flight training, and other services. We look forward to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

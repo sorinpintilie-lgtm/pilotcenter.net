@@ -1,0 +1,22 @@
+{
+  "id": "15fbbf5e-6945-48aa-8ed7-db4756b03a85",
+  "slug": "interstate-helicopters",
+  "name": "Interstate Helicopters, Inc.",
+  "continent": "North America",
+  "country": "United",
+  "state": "OK",
+  "city": "",
+  "baseAirport": "PWA -Wiley Post Airport",
+  "website": "https://robinsonhelicopterdealers.com/",
+  "email": "admin@interstatehelicopters.com",
+  "phone": "(405) 440-1053",
+  "about": "Interstate Helicopters, Inc. is a premier flight training institution based in Bethany, Oklahoma. We offer comprehensive helicopter training programs, including Private Pilot Licenses, Commercial Pilot Licenses, and Flight Instructor Certificates. Our fleet includes the Robinson R22 Beta II, Robinson R44 Raven II, and occasionally the Robinson R66, all equipped with advanced glass-cockpit avionics. Our certified flight instructors provide personalized training, ensuring students gain hands-on experience and crucial instrument skills. We also offer Discovery Flights and add-on training for those with existing licenses. With a focus on safety and excellence, Interstate Helicopters Inc. is dedicated to helping aspiring pilots achieve their aviation goals. Contact us to start your flying journey today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

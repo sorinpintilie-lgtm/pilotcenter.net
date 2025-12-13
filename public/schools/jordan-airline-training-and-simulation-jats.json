@@ -1,0 +1,22 @@
+{
+  "id": "a8624ef6-2a36-432e-9f9b-b49220a0a59a",
+  "slug": "jordan-airline-training-and-simulation-jats",
+  "name": "Jordan Airline Training and Simulation (JATS)",
+  "continent": "Asia",
+  "country": "Jordan",
+  "state": "JO",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.jats.com.jo/",
+  "email": "INFO@JATS.COM.JO",
+  "phone": "'+962 (0) 6 445 1888",
+  "about": "Jordan Airline Training and Simulation (JATS) is a premier aviation training center in the MENA region, offering comprehensive training programs for cockpit, cabin crew, and aviation technical professionals. With over 50 years of experience, JATS provides high-quality training solutions, including type rating training, maintenance courses approved by EASA Part 147 and JCARC, and cabin crew safety training. The facility features 6 full-flight simulators, CBT labs, and a range of training devices. JATS ensures a pleasant training experience with scheduling assistance, hotel accommodations, free transportation, and a warm welcome. Known for its professional and friendly hospitality, JATS is strategically located in Amman, Jordan, serving both local and international airline industries effectively.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Pilot Training\\nAircraft Maintenance Training\\nIn-Flight Training\\nadditional Training\\nSimulators\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

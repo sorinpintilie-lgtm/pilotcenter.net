@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile Alignment Test</title>
+    <style>
+        /* Simulate the mobile view */
+        @media (max-width: 768px) {
+            body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+            }
+
+            .test-container {
+                background-color: #f5f5f5;
+                padding: 20px;
+            }
+
+            .hero-section {
+                background-color: #cce0ff;
+                padding: 30px 20px 40px;
+                text-align: center;
+                border-radius: 8px;
+                margin-bottom: 20px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .hero-kicker {
+                font-size: 16px;
+                font-weight: bold;
+                margin-bottom: 10px;
+                color: #007bff;
+                text-align: center;
+                width: 100%;
+            }
+
+            .hero-title {
+                font-size: 28px;
+                line-height: 1.2;
+                margin-bottom: 15px;
+                font-weight: bold;
+                text-align: center;
+                width: 100%;
+            }
+
+            .hero-subtitle {
+                font-size: 18px;
+                line-height: 1.4;
+                margin: 10px 0;
+                text-align: center;
+            }
+
+            .hero-section p {
+                text-align: center;
+                margin: 10px auto;
+                max-width: 90%;
+            }
+
+            .result-box {
+                background-color: #e8f5e9;
+                border: 1px solid #4caf50;
+                border-radius: 4px;
+                padding: 15px;
+                margin-top: 20px;
+                text-align: left;
+            }
+        }
+
+        /* Desktop view for comparison */
+        @media (min-width: 769px) {
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f0f0f0;
+            }
+
+            .test-container {
+                max-width: 800px;
+                margin: 0 auto;
+                padding: 30px;
+            }
+
+            .hero-section {
+                background-color: #e3f2fd;
+                padding: 40px;
+                text-align: center;
+                border-radius: 8px;
+                margin-bottom: 20px;
+            }
+
+            .result-box {
+                background-color: #e3f2fd;
+                border: 1px solid #2196f3;
+                border-radius: 4px;
+                padding: 20px;
+                margin-top: 30px;
+                text-align: left;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="test-container">
+        <h1>Mobile Hero Alignment Test</h1>
+        <p>Resize your browser window to test mobile vs desktop alignment</p>
+
+        <div class="hero-section">
+            <div class="hero-kicker">BECOME A PILOT</div>
+            <h1 class="hero-title">Your Path to Becoming a Pilot</h1>
+            <h2 class="hero-subtitle">How to Become an Airline Pilot: A Comprehensive Guide</h2>
+            <p class="hero-subtitle">Learn about the different routes and requirements to become a professional pilot.</p>
+        </div>
+
+        <div class="result-box">
+            <h3>Test Results:</h3>
+            <ul>
+                <li>✅ Hero section uses flexbox for centering</li>
+                <li>✅ All text elements have text-align: center</li>
+                <li>✅ Mobile-specific styling applied (max-width: 768px)</li>
+                <li>✅ Proper spacing and alignment on mobile</li>
+                <li>✅ All hero text elements are centered</li>
+            </ul>
+            <p><strong>Note:</strong> Resize your browser window to see the mobile vs desktop differences. On mobile (≤768px), all text should be perfectly centered.</p>
+        </div>
+    </div>
+</body>
+</html>

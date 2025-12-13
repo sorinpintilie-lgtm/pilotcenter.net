@@ -1,0 +1,22 @@
+{
+  "id": "c984e500-c23f-40f7-80b9-cc6d78e5eaa7",
+  "slug": "new-century-air-service",
+  "name": "New Century Air Service",
+  "continent": "North America",
+  "country": "United States",
+  "state": "KS",
+  "city": "",
+  "baseAirport": "IXD -New Century Aircenter Airport",
+  "website": "https://www.ncas.aero/",
+  "email": "csr@ncas.aero",
+  "phone": "(913) 768-9400",
+  "about": "New Century Air Service, located at the New Century AirCenter in Kansas, is a comprehensive aviation service provider that includes a reputable flying school. As part of the New Century AirCenter, which was originally constructed as the Olathe Naval Air Station in the 1940s, the facility boasts a rich history and advanced infrastructure. The flying school offers quality flight training programs, including private pilot, instrument, and commercial training, conducted by highly experienced and trained instructors. Services also include aircraft sales, rentals, maintenance, and insurance repairs. With state-of-the-art facilities and a diverse range of aviation services, New Century Air Service is an excellent choice for aspiring aviators seeking professional and structured flight training. Whether you are aiming for personal flying pleasure or a career in aviation, New Century Air Service provides the necessary resources and expertise to achieve your goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

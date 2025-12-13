@@ -1,0 +1,22 @@
+{
+  "id": "476f3592-ff00-4b53-9b3b-b1349ea01875",
+  "slug": "fargo-jet-center",
+  "name": "Fargo Jet Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "ND",
+  "city": "",
+  "baseAirport": "FAR -Hector International Airport",
+  "website": "https://www.fargojet.com/fargo-far",
+  "email": "info@fargojet.com",
+  "phone": "(701) 235-3600",
+  "about": "Fargo Jet Center Flight School, located at Hector International Airport in Fargo, ND, is a renowned institution for aviation training. With a team of nine experienced flight instructors and a fleet of ten modern aircraft, including Cessna G1000 C172s, Piper Archers, and Cirrus SR20/22, the school offers comprehensive training programs. In 2020, the school achieved record-high training hours, with 5,059 hours of training, including 2,980 hours of flight training and 2,079 hours of ground training. The school provides training for Private Pilot, Commercial Pilot, and various advanced ratings. Recognized by the Aircraft Owners and Pilots Association as one of the best flight schools in the nation, Fargo Jet Center ensures flexible scheduling and real-time flight planning. With a strong focus on safety and proficiency, Fargo Jet Center is the ideal place for both recreational and professional pilots to earn their wings.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nComputerized Testing\\nExaminer\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nPart 107 Drone Testing\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

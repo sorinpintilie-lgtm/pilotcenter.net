@@ -1,0 +1,22 @@
+{
+  "id": "b47c3ba2-f794-4351-b6c3-13bb7c652025",
+  "slug": "aviation-flight-center",
+  "name": "Aviation Flight Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NY",
+  "city": "",
+  "baseAirport": "FRG -Republic Airport",
+  "website": "https://www.farmingdale.edu/engineering/avn/index.shtml",
+  "email": "aviationcenter@farmingdale.edu",
+  "phone": "(934) 420-2036",
+  "about": "Aviation Flight Center, part of the Aviation Academy Austria Group, offers high-quality flight training at the airfield LOAN in Wr. Neustadt. With years of experience in ATPL integrated pilot training, we provide courses such as PPL, Instrument Rating, Multi Engine Rating, and Advanced UPRT. Our well-trained team caters to both new and experienced pilots, offering the option to charter aircraft. We strive to provide exceptional training and customer service, ensuring a seamless and professional learning experience for all students. Join us at Aviation Flight Center to achieve your aviation goals in a supportive and expert environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nDrone/UAS\\nExaminer\\nGround School\\nPart 107 Drone Testing\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

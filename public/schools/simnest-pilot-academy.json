@@ -1,0 +1,22 @@
+{
+  "id": "2d09e89a-605b-4bf9-b029-3ad192ff5dfa",
+  "slug": "simnest-pilot-academy",
+  "name": "Simnest Pilot Academy",
+  "continent": "Europe",
+  "country": "Hungary",
+  "state": "HUNG",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://pilotacademy.simnest.com/",
+  "email": "pilotacademy@simnest.com",
+  "phone": "'+36 70 684 1587",
+  "about": "Simnest Pilot Academy, based in Budapest, is a medium-sized Approved Training Organisation (ATO) founded by airline professionals to address the demand for skilled pilots in the aviation industry. The academy specializes in modular training, particularly the APS MCC course, which prepares students for the transition into heavy jet aircraft and multi-crew environments. Utilizing an A320-based simulator, students train with active A320 pilots, captains, and highly qualified instructors, ensuring a high pass rate in airline recruitment. The academy is praised for its excellent facilities, organized training programs, and supportive instructors, making it a highly recommended choice for aspiring pilots seeking to build a strong foundation for their aviation careers.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"A320 Type Rating\\nAPS MCC Course\\nJET Orientation Course\\nMCC/JOC Combined Course\\nMulti Crew Cooperation Course\\nRecruitment Tryout\\nMulti Crew Cooperation Instructor Course\\nAssessment Training\\nWet lease\\nICAO English Exam\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

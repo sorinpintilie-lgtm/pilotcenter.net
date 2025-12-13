@@ -1,0 +1,22 @@
+{
+  "id": "9c43f566-125f-4ed9-89c3-5a22a7d60ce9",
+  "slug": "maine-coastal-flight",
+  "name": "Maine Coastal Flight",
+  "continent": "North America",
+  "country": "United States",
+  "state": "ME",
+  "city": "",
+  "baseAirport": "BXM -Brunswick Exec Airport",
+  "website": "http://www.mainecoastalflight.com/",
+  "email": "info@mainecoastalflight.com",
+  "phone": "(207) 664-6000",
+  "about": "Maine Coastal Flight, based at Bar Harbor Airport (KBHB) in Maine, offers comprehensive flight training and aviation services. Our programs include introductory flights, sport pilot, recreational, private pilot, commercial, and instrument ratings, all conducted by FAA Certified Flight Instructors. We provide ground schools, flight reviews, and instrument proficiency checks. Our fleet includes Cessna 172 and Cirrus SR-20 aircraft, and we also offer scenic flights over Acadia National Park and aircraft management services. Whether you're a novice looking to take the controls for the first time or an experienced pilot seeking to enhance your skills, Maine Coastal Flight is dedicated to making your flying experience safe, fun, and educational. Call us today to schedule your flight and embark on your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Flight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nComputerized Testing\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

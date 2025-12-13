@@ -1,0 +1,22 @@
+{
+  "id": "fe76c6f5-d449-4da1-a958-26c080e80fac",
+  "slug": "flying-school-feuerstein",
+  "name": "Flying School Feuerstein",
+  "continent": "Europe",
+  "country": "Germany",
+  "state": "GER",
+  "city": "",
+  "baseAirport": "Burg Feuerstein Airfield (EDQE)",
+  "website": "https://www.edqe.de/",
+  "email": "info@edqe.de",
+  "phone": "09194 / 79 75 75",
+  "about": "At Flying School Feuerstein, we combine the principles of cognitive enhancement with comprehensive aviation training to produce well-rounded and proficient pilots. Located in Loveland, Colorado, and Cheyenne, Wyoming, our school offers a unique blend of Feuerstein's Instrumental Enrichment programs to enhance cognitive functions, alongside rigorous flight training. Our fleet includes state-of-the-art Cessna 172 aircraft and specialty planes, ensuring a safe and effective learning environment. Our instructors are certified in both aviation and Feuerstein methodologies, enabling students to develop strong decision-making skills, flexibility in thinking, and emotional intelligence. We empower our students to become not just skilled pilots, but also thoughtful and capable individuals ready to navigate the skies with confidence and finesse. Join us to transform your aviation dreams into reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"motor flight\\ngliding\\nflight safety\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

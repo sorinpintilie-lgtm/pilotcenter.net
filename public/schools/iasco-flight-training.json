@@ -1,0 +1,22 @@
+{
+  "id": "5c7f7c93-e7bf-45a7-80f4-f975d084e52a",
+  "slug": "iasco-flight-training",
+  "name": "IASCO Flight Training",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CA",
+  "city": "Redding",
+  "baseAirport": "Redding Municipal Airport",
+  "website": "https://www.iascousa.com/",
+  "email": "info@iascousa.com / iftcareers@iascousa.com",
+  "phone": "'+1 539-722-9419",
+  "about": "IASCO Flight Training, established in 1971, is a premier flight training institution located in Redding, California. We specialize in providing individualized ab initio training for international airline-sponsored student pilots, helping them obtain FAA pilot certificates. Our programs include Private Pilot Certificate, Instrument Rating, Commercial Pilot Certificate, and Multi Engine Rating. Operating from Redding Municipal Airport, a Class D airport with an operating control tower and two runways, we offer a comprehensive aviation training environment. IASCO is FAA PART 141 APPROVED and CAAC APPROVED, and we are also developing a domestic flight training program for individual students pursuing professional pilot careers or individual certificates. With a focus on quality and expertise, IASCO Flight Training sets a high standard in aviation education.",
+  "icao": "KRDD",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

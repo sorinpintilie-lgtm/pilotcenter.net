@@ -1,0 +1,22 @@
+{
+  "id": "a31a05ba-0089-4744-ad50-dafe2ef5633b",
+  "slug": "flying-c-aviation",
+  "name": "Flying C Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AR",
+  "city": "",
+  "baseAirport": "SRC -Searcy Regional Airport",
+  "website": "https://www.flyingcaviation.com/",
+  "email": "fca@flyingcaviation.com",
+  "phone": "(501) 483-5006",
+  "about": "At Flying C Aviation, we are dedicated to providing comprehensive and safety-oriented flight training. Our experienced instructors guide students through rigorous ground and flight training programs, emphasizing risk management, aviation physiology, and hands-on learning. We adhere to FAA standards and incorporate the WINGS Pilot Proficiency Program to ensure our pilots maintain currency and proficiency. Our curriculum includes hazard identification, threat and error management, and the use of automation, preparing students for all aspects of aviation. With a focus on leadership, teamwork, and personal minimums, we strive to transform aspiring pilots into skilled and responsible aviation professionals. Join us at Flying C Aviation to embark on a journey to excellence in flight training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nDrone/UAS\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

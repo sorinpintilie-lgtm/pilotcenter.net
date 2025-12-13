@@ -1,0 +1,22 @@
+{
+  "id": "054a4048-9188-44f7-8bcd-edebbe106096",
+  "slug": "pilot-training-center-miami",
+  "name": "Pilot Training Center Miami",
+  "continent": "North America",
+  "country": "United",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "TMB -Miami Exec Airport",
+  "website": "https://faapilottraining.com/",
+  "email": "ptcstudentservices@gmail.com",
+  "phone": "(305) 232-6009",
+  "about": "Pilot Training Center Homestead, located at Homestead General Aviation Airport just outside the Miami metro area, is an FAA Part 141-approved flight training facility. Our team of professional, Certified Flight Instructors (CFIs) is dedicated to helping students achieve their flying goals, from Private to Commercial, Instrument, and Multiengine certifications. We offer highly individualized programs tailored to fit each student's schedule, allowing you to learn at your own pace. With South Florida's excellent climate, you can fly year-round. We also serve as an FAA testing center and assist in verifying foreign pilot licenses according to FAA standards. Our commitment is to provide safe, personalized, and quality flight instruction to help you realize your dream of flying.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nInstrument Proficiency Check\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

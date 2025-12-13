@@ -1,0 +1,22 @@
+{
+  "id": "6d8b2042-f9f3-4933-931a-8cfe773f83aa",
+  "slug": "hayward-flight",
+  "name": "Hayward Flight",
+  "continent": "North America",
+  "country": "United",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "HWD -Hayward Exec Airport",
+  "website": "https://www.haywardflight.com/",
+  "email": "info@haywardflight.com",
+  "phone": "(510) 372-6693",
+  "about": "Hayward Flight is a FAA-certified flight school located in the San Francisco Bay Area, operating with an emphasis on reliability, convenience, and flexibility. Our 3,500 square feet facility includes weather briefing rooms, pilot lounges, and a cafeteria, providing a comprehensive training environment. Students receive instruction from highly qualified flight instructors and have access to advanced simulator technology and specially designed training environments. We offer competitive, airline-oriented flight training at a fixed cost and in the shortest time frame possible. Whether you're training for fun, business, or a career, our goal is to prepare and motivate you to succeed as a professional pilot. Your success starts as Pilot In Command at Hayward Flight.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

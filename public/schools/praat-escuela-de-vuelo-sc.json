@@ -1,0 +1,22 @@
+{
+  "id": "6daa391a-3f91-43c7-a090-2575084c2f8e",
+  "slug": "praat-escuela-de-vuelo-sc",
+  "name": "Praat Escuela de Vuelo, S.C.",
+  "continent": "North America",
+  "country": "Mexico",
+  "state": "MEX",
+  "city": "",
+  "baseAirport": "Puebla International Airport",
+  "website": "https://praat.com.mx/",
+  "email": "",
+  "phone": "(55) 56 4002 0101",
+  "about": "Praat Escuela de Vuelo, S.C. is a renowned aviation school founded in 2004, authorized by the Agencia Federal de Aviación Civil (AFAC). We offer comprehensive training from zero to commercial pilot licenses, utilizing high-end simulators and online platforms for theoretical classes. Our programs include introduction to glass cockpit training and instrument exams, ensuring students are well-prepared for their careers. With multiple locations in Mexico, we provide a structured and validated education, both on-site and remotely, to meet the needs of aspiring pilots. Our commitment to quality and safety makes us a leading institution in aviation training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"CONTROLLED FLIGHT INTO TERRAIN\\nAIRLINE TRANSPORT PILOT\\nAPPROACH AND LANDING ACCIDENT REDUCTION\\nELECTRONIC FLIGHT INSTRUMENT SYSTEM\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

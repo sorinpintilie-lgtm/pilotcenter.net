@@ -1,0 +1,22 @@
+{
+  "id": "8c5f60e9-0127-4073-a797-05d34282eeca",
+  "slug": "asian-aviation-centre",
+  "name": "Asian Aviation Centre",
+  "continent": "Asia",
+  "country": "Sri Lanka",
+  "state": "",
+  "city": "",
+  "baseAirport": "Colombo Airport",
+  "website": "https://aac.lk/",
+  "email": "info@aac.lk",
+  "phone": "'+94 77-310-2010",
+  "about": "The Asian Aviation Centre (AAC) is a premier aerospace engineering and flying training academy in Sri Lanka, established in 1985. Based at Colombo Airport, Ratmalana, AAC offers comprehensive flying training programs, including Private Pilot Licence (PPL), Commercial Pilot Licence with Instrument Rating (CPL/IR), and Multi Engine Rating. The AAC Flight Academy has trained numerous local and international students, with many employed by national and international airlines. In addition to flight training, AAC also provides Aircraft Maintenance Engineering courses and has collaborations with prestigious universities like Kingston University London. With a fleet of Cessna 152 and Piper Seneca PA34 aircraft, AAC ensures high-quality training and has produced over 500 pilots. AAC is committed to delivering professional aviation education and training, making it a leading institution in the region.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

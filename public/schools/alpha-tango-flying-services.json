@@ -1,0 +1,22 @@
+{
+  "id": "ffd3e4c1-a30a-45fc-8daa-6ae9d78870bb",
+  "slug": "alpha-tango-flying-services",
+  "name": "Alpha Tango Flying Services",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "SSF -Stinson Municipal Airport",
+  "website": "https://flyalphatango.net/",
+  "email": "alphatango@gvtc.com",
+  "phone": "(210) 828-4480",
+  "about": "Alpha Tango Flying Services, located at 1110 99th Street in San Antonio, Texas, is a reputable flight school dedicated to providing high-quality aviation training. With a focus on experienced instructors and a wide range of flight instruction programs, we help aspiring pilots achieve their goals in private, multi-engine, commercial, instrument, and flight instructor certifications. Known for our affordable rates and excellent customer service, we offer a locally owned and personalized learning environment. Our instructors are committed to ensuring a safe and enjoyable flying experience, whether you are pursuing a career in aviation or seeking a unique adventure. At Alpha Tango Flying Services, we are passionate about helping you take to the skies with confidence and skill.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

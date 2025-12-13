@@ -1,0 +1,22 @@
+{
+  "id": "a2cd957c-a4b4-4d98-9fe1-13bd4c13c77c",
+  "slug": "alpine-aviation",
+  "name": "Alpine Aviation, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "GOO -Nevada County Airport",
+  "website": "https://www.flyalpine.com/",
+  "email": "sandy@flyalpine.com",
+  "phone": "(530) 477-7701",
+  "about": "Alpine Aviation, Inc. is a premier flying school dedicated to safety, service, and full certification. We offer training from Private Pilot to Commercial and Airline Transport Pilot, including a Single-Engine Seaplane rating. Our structured syllabus includes ground school, flight time, and homework to ensure thorough preparation. We emphasize Aeronautical Decision Making and safety, particularly in Instrument Rating training, which is crucial in foggy and cloudy conditions. Our programs also include Certified Flight Instructor (CFI) training and specialized courses like Tailwheel & Aerobatics. With a focus on precision flying and mastering aircraft performance, we help pilots build careers in aviation through various certifications. Whether for fun, practicality, or a career, Alpine Aviation is committed to helping you earn your wings with confidence and skill.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

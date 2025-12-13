@@ -1,0 +1,22 @@
+{
+  "id": "fad8852f-b75e-47be-9632-f3b674d19d86",
+  "slug": "avcenter",
+  "name": "Avcenter",
+  "continent": "North America",
+  "country": "United States",
+  "state": "ID",
+  "city": "",
+  "baseAirport": "IDA -Idaho Falls Regional Airport",
+  "website": "http://www.avcenter.com",
+  "email": "wendy@avcenter.com",
+  "phone": "(208) 523-8855",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

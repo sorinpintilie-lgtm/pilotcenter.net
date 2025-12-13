@@ -1,0 +1,22 @@
+{
+  "id": "19f79ade-5a1e-452e-b810-7f27253dd34e",
+  "slug": "vermont-flight-academy",
+  "name": "Vermont Flight Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "VT",
+  "city": "",
+  "baseAirport": "BTV -Patrick Leahy Burlington International Airport",
+  "website": "https://flyvfa.org/",
+  "email": "office@flyvfa.org",
+  "phone": "(855) 863-5988",
+  "about": "Vermont Flight Academy is Vermont's premier full-service flight school, dedicated to providing high-quality flight instruction to both novice and experienced pilots. Founded to promote general aviation, we offer a comprehensive range of training programs, including Private Pilot License, Instrument Rating, Commercial Pilot License, Multi-Engine Rating, and Certified Flight Instructor certifications. Our expert instructors and meticulously maintained, modern fleet of aircraft ensure a safe and enjoyable flying experience. With top-notch facilities and a commitment to excellence, we help pilots achieve their aviation goals and soar to new heights. Join us to embark on your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nPart 107 Drone Testing\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

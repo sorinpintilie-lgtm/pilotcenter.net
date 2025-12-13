@@ -1,0 +1,22 @@
+{
+  "id": "9c574a43-a569-4a4c-8633-f0aebadeacdb",
+  "slug": "smoketown-helicopters",
+  "name": "Smoketown Helicopters",
+  "continent": "North America",
+  "country": "United States",
+  "state": "PA",
+  "city": "",
+  "baseAirport": "S37 -Smoketown Airport",
+  "website": "https://www.smoketownhelicopters.com/",
+  "email": "smoketownhelicopters@gmail.com",
+  "phone": "(717) 344-4871",
+  "about": "Smoketown Helicopters, a veteran-owned business established in 2014, is a comprehensive flight training facility located at Smoketown Airport in Lancaster, PA. We specialize in helicopter flight training, primarily using Robinson helicopters, which are the most popular training aircraft worldwide. Our team of experienced pilots and mechanics, including Garrett, a Robinson Helicopter Factory Trained IA mechanic with over 5,000 hours of experience, are dedicated to providing personalized and high-quality training. We focus on developing real-world pilots, not just those who pass the test. With in-house maintenance as a Robinson Service Center, we ensure our aircraft are always safe and minimally downtime. Our goal is to assist pilots in becoming the best aviators they can be, and we pride ourselves on maintaining relevance and evolving with the aviation world. Smoketown Helicopters is committed to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

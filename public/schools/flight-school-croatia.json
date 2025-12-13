@@ -1,0 +1,22 @@
+{
+  "id": "b6446753-9bae-4b76-a6a7-95308450308a",
+  "slug": "flight-school-croatia",
+  "name": "Flight School Croatia",
+  "continent": "Europe",
+  "country": "Croatia",
+  "state": "HR",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.flightschoolcroatia.com/",
+  "email": "flightschoolcroatia@gmail.com",
+  "phone": "091 63 43 811",
+  "about": "Flight School Croatia is a EU-recognized flight school dedicated to providing comprehensive aviation courses for obtaining a Private Pilot Licence (PPL). Located in Croatia, we offer training programs at a lower cost, allowing students to fly over some of Europe's most beautiful scenery. Our Theoretical Knowledge Course is entirely online, accessible via PC, Mac, or iPad, making it convenient for students to study anywhere, anytime. With a team of experienced instructors and a focus on safety and quality, we ensure that our students receive exceptional training. Our courses are designed to help you earn your pilot's licence efficiently and enjoy the thrill of flying. Join us to grow your wings and fly the skies with confidence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Air Law and ATC Procedures\\nMeteorology\\nOperational Procedures\\nHuman Performance\\nPrinciples of Flight\\nAircraft General Knowledge\\nCommunications\\nFlight Planning and Performance\\nNavigation\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

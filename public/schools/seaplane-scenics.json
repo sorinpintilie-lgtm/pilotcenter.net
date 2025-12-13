@@ -1,0 +1,22 @@
+{
+  "id": "f6e34b6e-2852-4925-9203-38d70665b812",
+  "slug": "seaplane-scenics",
+  "name": "Seaplane Scenics",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "RNT -Renton Municipal Airport",
+  "website": "https://www.seaplanescenics.com/",
+  "email": "info@seaplanescenics.com",
+  "phone": "(206) 499-2135",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nIntro Flight\\nCommercial\\nPrivate Pilot\\nInstrument\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "9a385418-aa00-4ddc-a524-247d3690f1d0",
+  "slug": "green-mountain-flight-academy",
+  "name": "Green Mountain Flight Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "VT",
+  "city": "",
+  "baseAirport": "BTV -Patrick Leahy Burlington International Airport",
+  "website": "https://www.greenmountainflightacademy.org/",
+  "email": "tina@Mansfieldheliflight.com",
+  "phone": "(802) 893-1003",
+  "about": "Green Mountain Flight Academy, established in 2011 by Mansfield Helifight, is a premier flight school in Vermont, offering both helicopter and airplane flight instruction. Located at Mansfield Heliflight’s Heliport in Milton and Burlington International Airport, our unique settings provide students with experience in both controlled and non-controlled environments. Our instructors, with years of experience and impeccable safety records, are vetted professionals from airlines, corporate aviation, and the armed services. We provide high-quality training from the first lesson to professional pilot certification, with a primary goal of safety. Our fleet includes a Cessna 172, Piper Warrior, and Piper Aztec. With access to state-of-the-art facilities and stunning views of Lake Champlain and the Green Mountains, we are dedicated to helping you achieve your aviation dreams. Contact us to schedule a flight and start your journey to becoming a pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\\nSeaplane\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

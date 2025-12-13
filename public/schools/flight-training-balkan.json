@@ -1,0 +1,22 @@
+{
+  "id": "ccf6df23-b613-42fe-8824-79b7975325d6",
+  "slug": "flight-training-balkan",
+  "name": "Flight Training Balkan",
+  "continent": "Europe",
+  "country": "Serbia",
+  "state": "RS",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://flighttrainingbalkan.com/",
+  "email": "info@flighttrainingbalkan.com",
+  "phone": "'+381 65 2121 911",
+  "about": "Flight Training Balkan (FTB) is a premier aviation training institution dedicated to producing highly skilled and competent professional pilots. Our centralized and standardized training programs are designed to transform your aspirations into a successful aviation career. With a comprehensive approach to different aviation career paths, FTB ensures that students receive top-notch training that meets international standards. Our programs are tailored to equip students with the necessary skills and knowledge to excel in the aviation industry. At FTB, we are committed to providing a supportive and professional environment that fosters growth and excellence, helping you achieve your dream of flying higher. Start your pilot training journey with us today and embark on a path to a rewarding aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Professional Pilot Course\\nType Rating\\nCabin Crew Initial\\nAircraft Maintenance Training\\nJet Orientation Course\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

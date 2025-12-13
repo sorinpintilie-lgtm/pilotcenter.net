@@ -1,0 +1,22 @@
+{
+  "id": "3143761d-0430-4a9b-8cdf-1adc22d6e9f4",
+  "slug": "apollo-flight-training-and-aircraft-management",
+  "name": "Apollo Flight Training and Aircraft Management",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MS",
+  "city": "",
+  "baseAirport": "GPT -Gulfport-Biloxi International Airport",
+  "website": "https://flyapollo.com/",
+  "email": "info@flyapollo.com",
+  "phone": "(228) 687-1500",
+  "about": "Apollo Flight Training and Aircraft Management, located in Gulfport, Mississippi, is the sole flight school in the area, utilizing the Cessna 172P as its primary flight trainer. Our staff consists predominantly of current and former airline pilots, bringing decades of experience and tens of thousands of hours of flight time. This extensive background is complemented by a broad skill set in all facets of aviation, including maintenance, insurance, and tax incentives. We offer comprehensive services to meet all your aeronautical needs, ensuring unparalleled service and expertise in flight training, aircraft rentals, and aviation management. Our commitment is to deliver exceptional service, making your aviation experience both enjoyable and professional.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nExaminer\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

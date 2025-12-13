@@ -1,0 +1,22 @@
+{
+  "id": "9106d184-36a9-4531-89cf-471a313144a6",
+  "slug": "beverly-flight-center",
+  "name": "Beverly Flight Center, Inc.",
+  "continent": "North America",
+  "country": "USA",
+  "state": "MA",
+  "city": "Danvers",
+  "baseAirport": "BEVERLY REGIONAL AIRPORT",
+  "website": "https://beverlyflightcenter.com/",
+  "email": "flybeverlyflightcenter@gmail.com",
+  "phone": "'+1 410-774-7755",
+  "about": "Beverly Flight Center, Inc. is a family-owned and operated flight training and aircraft rental facility serving Boston's North Shore for over 25 years. Located at the Beverly Municipal Airport, we offer top-tier flight, ground, and simulator training. As a Cirrus Training Center and CATS training facility for FAA Knowledge Exams, we provide quality training from student pilot certificates to ATP licenses using a fleet of 13 well-maintained aircraft. Our mission is to create safe, competent, and quality pilots through a structured and welcoming environment. With a commitment to safety and community, we elevate your flight training experience, making us the premier choice for aspiring pilots in the Boston area.",
+  "icao": "KBVY",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

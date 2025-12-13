@@ -1,0 +1,22 @@
+{
+  "id": "9428eef3-f5e4-4232-bd85-350fb1af82b5",
+  "slug": "pacific-coast-flyers",
+  "name": "Pacific Coast Flyers",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CA",
+  "city": "Carlsbad",
+  "baseAirport": "McLellan-Palomar Airport",
+  "website": "https://www.pcflyers.org/",
+  "email": "",
+  "phone": "'+1 877-723-5937",
+  "about": "Pacific Coast Flyers is a FAR Part 91 non-profit flying club based at McLellan-Palomar Airport in Carlsbad, California. Since 1999, we have provided quality flight training and aircraft rental in San Diego, Riverside, and Orange Counties. Our mission is to offer a safe, fun, and educational flying experience with a modern and diverse fleet of well-maintained aircraft at reasonable rates. We promote a sense of community among members and the general aviation community, emphasizing safety through continuing education and open discussion. With a strong focus on safety, we host seminars, share knowledge, and maintain strict safety standards to ensure our members have the best flying experience possible. Join us for a flying community that prioritizes safety, education, and camaraderie.",
+  "icao": "KCRQ",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ba51954c-c8ca-4aa5-8a0b-c756fd43ba24",
+  "slug": "moses-aviation-services",
+  "name": "Moses Aviation Services",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "UVA -Garner Field",
+  "website": "https://mosesaviation.com/",
+  "email": "annie@mosesaviation.com",
+  "phone": "(830) 494-5882",
+  "about": "Moses Aviation Services is a comprehensive flight training institution dedicated to providing high-quality aviation education. We offer training programs for Private Pilot, Instrument Rating, and Commercial Pilot licenses. Our curriculum includes thorough ground instruction on aerodynamics, weather, aircraft engines and systems, navigation, and night flying. Students must meet specific eligibility criteria, including being at least 16 years old to fly solo and 17 years old to receive a Private Pilot’s license, passing a Third Class Medical Exam, and demonstrating proficiency in English. Our experienced instructors provide both ground and flight training, with rates of $30 per hour for ground instruction and $40 per hour for flight instruction. At Moses Aviation, we are committed to ensuring our students gain the knowledge and skills necessary to become safe and competent pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "73de0cce-ff09-48fc-bc10-6a5cad795a28",
+  "slug": "above-it-all-aviation",
+  "name": "Above It All Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "DTO -Denton Enterprise Airport",
+  "website": "https://www.aboveitallaviation.com/",
+  "email": "Info@flyaboveitall.com",
+  "phone": "(469) 987-4000",
+  "about": "Above It All Aviation, located in Denton, Texas, offers professional and accelerated flight training programs tailored to help students earn their pilot certifications quickly, from a few weeks to a few months. Our flexible training options include private pilot, instrument rating, and commercial pilot courses, as well as certified flight instructor programs. We provide a Discovery Flight to introduce students to flying and offer online ground school resources. With a focus on one-on-one instruction and a focused syllabus, we save students thousands of dollars compared to traditional academy-type programs. Our facility is conveniently located near the Dallas-Fort Worth metroplex, with nearby hotels for those attending accelerated courses. Above It All Aviation is committed to providing high-quality, cost-effective flight training in a supportive and professional environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

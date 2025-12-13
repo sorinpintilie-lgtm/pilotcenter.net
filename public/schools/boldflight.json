@@ -1,0 +1,22 @@
+{
+  "id": "457737b7-9b4f-41e0-8173-64ef3bf4eab3",
+  "slug": "boldflight",
+  "name": "BOLDFlight",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IN",
+  "city": "",
+  "baseAirport": "2R2 -Hendricks County-Gordon Graham Field",
+  "website": "https://flyboldaviation.com/flight-training/",
+  "email": "FLY@FLYBOLDFlight.com",
+  "phone": "(317) 745-4422",
+  "about": "At BOLDAviation's BOLDFlight, we are a veteran-owned and operated aviation solutions company dedicated to providing comprehensive flight training. Our experienced instructors and well-maintained fleet, including the Cessna 172S and Cessna 172N, ensure students receive top-notch instruction. We cater to individual learning paces, making the journey to becoming a licensed pilot both enjoyable and effective. With services extending to aircraft sales, maintenance, and charter flights, BOLDFlight is your trusted partner in aviation, committed to helping you achieve your flying dreams. Start living the dream with BOLDFlight today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

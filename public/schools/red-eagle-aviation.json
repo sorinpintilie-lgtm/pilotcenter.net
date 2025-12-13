@@ -1,0 +1,22 @@
+{
+  "id": "6524f66d-6b93-4a1f-805f-42d20bc3bf67",
+  "slug": "red-eagle-aviation",
+  "name": "Red Eagle Aviation, Inc",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MT",
+  "city": "",
+  "baseAirport": "S27 -Kalispell City Airport",
+  "website": "https://redeagleaviation.com/",
+  "email": "tiffany@redeagleaviation.com",
+  "phone": "(406) 755-2376",
+  "about": "Red Eagle Aviation, Inc., based in Kalispell, Montana, is a family-owned Fixed Base Operator (FBO) offering comprehensive flight instruction for both fixed-wing and helicopter training. As a Cessna Pilot Center, we provide one-on-one instruction tailored to meet individual needs, using a 2006 Cessna 172SP equipped with a Garmin 1000 and 2005/2006 Schweizer helicopters. Our FAA Part 61 certified flight school offers training from Private Pilot to advanced ratings, including CFI training. With over 30 years of experience flying tours in Glacier National Park and surrounding wilderness areas, our instructors are highly trained and experienced, ensuring safety and competence. We also offer scenic tours, backcountry drop-offs, and full-service maintenance and fueling. Red Eagle Aviation is committed to helping you achieve your aviation dreams in the beautiful skies of Northwestern Montana.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nExaminer\\nGround School\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nRotary Wing\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

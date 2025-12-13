@@ -1,0 +1,22 @@
+{
+  "id": "c945147a-b2d3-44db-b0ad-7f4e4eac20f1",
+  "slug": "rogue-aviation",
+  "name": "Rogue Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SNA -John Wayne/Orange County Airport",
+  "website": "https://www.flyrogue.com/flight-training",
+  "email": "info@flyrogue.com",
+  "phone": "(949) 529-1142",
+  "about": "Rogue Aviation is a premier helicopter flight school and tour operator based in Orange County, operating out of John Wayne Airport and Long Beach Airport. We specialize in rotary flight lessons, introductory flights, and advanced training courses. Our commitment to safety and quality education is paramount, with Certified Flight Instructors undergoing rigorous screening and ongoing training from top helicopter safety experts. We offer discovery flights, private pilot's licenses, commercial pilot's licenses, and advanced training programs. Rogue Aviation is driven by core values of safety, integrity, and community, ensuring a positive and transparent experience for all students and clients. We are dedicated to making your aviation dreams a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

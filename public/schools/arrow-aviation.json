@@ -1,0 +1,22 @@
+{
+  "id": "02124a7a-ea1e-46a6-b262-e3c90fef27c9",
+  "slug": "arrow-aviation",
+  "name": "Arrow Aviation, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CT",
+  "city": "",
+  "baseAirport": "DXR -Danbury Municipal Airport",
+  "website": "http://www.arrowaviationllc.com/",
+  "email": "info@arrowaviationllc.com",
+  "phone": "(203) 744-5010",
+  "about": "Arrow Aviation, LLC, located in Danbury, CT, is a premier flight school offering personalized flight training for all single engine land pilot certificates and ratings, including instrument ratings. Our training is conducted on an individual basis with FAA-certified instructors, tailored to each student's schedule and needs. We utilize a range of aircraft, including Cessna 152s, Cessna 172s, and Piper Warriors, all maintained to high standards by full-time maintenance personnel. Our facility includes a RedBird FMX advanced aviation training device and offers FAA airmen written tests and practical exams. We prioritize safety and building strong relationships with our students, ensuring a supportive and intimate learning environment. With an accident-free record and a focus on quality over volume, Arrow Aviation is committed to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

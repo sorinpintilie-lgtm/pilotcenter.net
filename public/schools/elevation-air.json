@@ -1,0 +1,22 @@
+{
+  "id": "235282eb-ed64-4d5c-917a-c767e495a3e2",
+  "slug": "elevation-air",
+  "name": "Elevation Air, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WI",
+  "city": "",
+  "baseAirport": "JVL -Southern Wisconsin Regional Airport",
+  "website": "https://www.elevation-air.com/",
+  "email": "info@Elevation-Air.com",
+  "phone": "(608) 554-3561",
+  "about": "Elevation Air LLC, located at the Southern Wisconsin Regional Airport in Janesville, WI, is a premier full-service flight school and airplane rental business. We are centered around a passion for flight and helping customers achieve their aviation dreams. Our team of dedicated, certified flight instructors, many of whom are professional career pilots, provide individualized flight training tailored to students of all ages and goals, from hobbyists to career pilots. We pride ourselves on a meticulously maintained fleet of Cessna 172S Skyhawks equipped with Garmin Glass Cockpits and advanced navigation systems. Our training environment is relaxed and motivating, fostering a positive culture that encourages learning and a love for aviation. We offer a range of programs, including Private Pilot, Instrument Rating, Commercial Pilot, and Flight Instructor certifications. With a focus on customer service, safety, and cost-effectiveness, we are honored to enable your aviation dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nDrone/UAS\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

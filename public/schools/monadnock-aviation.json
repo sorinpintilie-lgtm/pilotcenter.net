@@ -1,0 +1,22 @@
+{
+  "id": "dc78d673-16d1-419b-a13a-053629ddf5a9",
+  "slug": "monadnock-aviation",
+  "name": "Monadnock Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NH",
+  "city": "",
+  "baseAirport": "EEN -Dillant/Hopkins Airport",
+  "website": "https://monadnockaviation.com/",
+  "email": "admin@monadnockaviation.com",
+  "phone": "(603) 357-7600",
+  "about": "Monadnock Aviation, located in Keene, New Hampshire, is a comprehensive flight school and aviation services provider. We offer flight training programs tailored for both new and returning pilots, utilizing the Piper Warrior and Cessna 172 aircraft. Our structured curriculum, based on the ASA Private Pilot Syllabus, ensures clear progression and preparation for FAA requirements. We provide flexible scheduling, online booking, and additional resources like Gold Seal Online Ground School. Beyond flight training, we offer aircraft rental, fueling, maintenance, storage, brokerage, corporate services, and PSI Testing Services. Our advanced aviation training device, the Redbird LD, enhances training efficiency and safety. Whether you're pursuing a hobby or a career, Monadnock Aviation is dedicated to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nDrone/UAS\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nPart 107 Drone Testing\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "0767b65d-db26-4fd6-902f-bead75b10645",
+  "slug": "angel-aviation-alaska",
+  "name": "Angel Aviation - Alaska",
+  "continent": "North America",
+  "country": "United",
+  "state": "AK",
+  "city": "",
+  "baseAirport": "MRI -Merrill Field",
+  "website": "https://ak.angelaviation.com/",
+  "email": "info@angelaviation.com",
+  "phone": "(907) 312-8298",
+  "about": "Angel Aviation Alaska Flight School, founded in 2016, is an extension of the renowned Angel Aviation Flight School established in Arizona in 2001. The school was created to share the knowledge and expertise of its founder, an aviation professional with over 30 years of commercial flying experience, including time in the Alaskan aviation industry, Hawaii, and as a captain with a major airline. Located at Merrill Field in Anchorage, Alaska, Angel Aviation Alaska offers competitive rates on aircraft rental, flight instruction, single-engine and multi-engine time building. The fleet includes Cessna 172s and Piper Senecas, and the school provides personalized instruction to help students achieve their aviation goals, whether for a career or a hobby. With a commitment to quality and attention to detail, Angel Aviation Alaska is dedicated to helping students obtain the pilot certificate of their choice.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nInstrument Proficiency Check\\nPart 107 Drone Testing\\nSimulator\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

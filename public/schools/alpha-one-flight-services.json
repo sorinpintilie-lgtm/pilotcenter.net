@@ -1,0 +1,22 @@
+{
+  "id": "c4ed233b-97e9-42f8-a470-5a9586985950",
+  "slug": "alpha-one-flight-services",
+  "name": "Alpha One Flight Services",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MA",
+  "city": "",
+  "baseAirport": "PYM -Plymouth Municipal Airport",
+  "website": "https://alpha-1.com/",
+  "email": "info@alpha-1.com",
+  "phone": "(508) 747-1112",
+  "about": "Alpha One Flight Services, based at Plymouth Municipal Airport in historic Plymouth, Massachusetts, is a FAR Part 61 Flight Training School dedicated to providing quality instruction from Private Pilot to Airline Transport Pilot. We offer a free VFR Ground School, a unique benefit that minimizes training costs. Our instructors are hand-picked for their teaching abilities and commitment to student success. We utilize safe and economical aircraft such as the Cessna 152, Cessna 172, and Piper Warrior for training. In addition to flight training, Alpha One provides comprehensive services including aircraft maintenance, scenic flights, and full-service FBO amenities. Our team is passionate about aviation safety and excellence, having won several awards including the \"Supporter of Aviation Safety Award\" and \"Instructor of the Year.\" Join us to take flight and earn your wings in a supportive and professional environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

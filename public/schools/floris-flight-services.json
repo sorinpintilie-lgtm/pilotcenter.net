@@ -1,0 +1,22 @@
+{
+  "id": "2ade334e-29f1-4233-b814-e80c681ef789",
+  "slug": "floris-flight-services",
+  "name": "Floris Flight Services",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "MDD -Midland Airpark",
+  "website": "https://florisflightservices.com/",
+  "email": "floris@florisflightservices.com",
+  "phone": "(432) 203-2048",
+  "about": "Floris Flight Services is a leading flight school in Midland, Texas, dedicated to providing comprehensive flight instruction and proficiency training. We offer programs ranging from private pilot instruction to commercial flight training, ensuring that learning to fly is both thrilling and fulfilling. Our flexible training schedule allows students to become private pilots in as little as 6 weeks to 6 months, with the majority of ground school conducted online at your own pace. We require a third-class medical/student pilot certificate and a minimum of 40 hours of flight time, including 20 hours with a certified instructor and 10 hours of solo time. Our estimated total cost for the private pilot program is around $11,307, with payments spread out over the course. At Floris Flight Services, we are committed to helping you achieve your aviation dreams in a supportive and professional environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

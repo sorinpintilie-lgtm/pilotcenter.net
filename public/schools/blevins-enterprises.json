@@ -1,0 +1,22 @@
+{
+  "id": "34feb257-202c-4764-96e3-da5436881ea9",
+  "slug": "blevins-enterprises",
+  "name": "Blevins Enterprises, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "ABI -Abilene Regional Airport",
+  "website": "https://www.blevinsenterprises.com/aviation",
+  "email": "blevins@blevinsenterprises.com",
+  "phone": "(325) 269-1482",
+  "about": "Blevins Enterprises, LLC is a reputable flying school operating under FAA Part 61 regulations. Located at the Abilene Regional Airport (KABI), the school offers a range of aviation services, including introductory flights and certifications for commercial pilots and flight instructors (CFI). While not approved for VA training, Blevins Enterprises provides comprehensive training programs tailored to meet the needs of aspiring pilots. With a focus on safety and quality instruction, the school is committed to helping students achieve their aviation goals. Blevins Enterprises, LLC is dedicated to fostering a supportive and professional learning environment for all its students.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nIntro Flight\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

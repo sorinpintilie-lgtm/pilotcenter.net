@@ -1,0 +1,22 @@
+{
+  "id": "1632fdaa-b864-4717-afbb-39fe551bf669",
+  "slug": "north-american-helicopter",
+  "name": "North American Helicopter",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "CPS -St Louis Downtown Airport",
+  "website": "https://northamericanhelicopter.com/",
+  "email": "info@nahelicopter.com",
+  "phone": "(618) 337-4440",
+  "about": "North American Helicopter, with over 55 years of experience, is a renowned institution specializing in precision helicopter operations and aerial firefighting. Located in the Midwest, Southeast, and New England, our team comprises some of the most experienced professionals in the world. We offer FAA-certified services, including Part 133 External Load Operations, Part 135 Air Carrier, and Part 145 Repair Station certifications. Our expertise extends to aerial crane construction, utility inspections, and environmental management. With a strong commitment to safety and efficiency, our crews and maintenance teams ensure reliable performance, even in challenging environments. We pride ourselves on providing top-tier services, honoring the trust of our clients with professionalism and quality equipment. At North American Helicopter, we are dedicated to contributing to your success with our exceptional helicopter services.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

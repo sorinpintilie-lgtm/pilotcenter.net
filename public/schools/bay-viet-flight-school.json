@@ -1,0 +1,22 @@
+{
+  "id": "2c3292bf-97ec-435b-9c81-6eebed516fae",
+  "slug": "bay-viet-flight-school",
+  "name": "Bay Viet Flight School",
+  "continent": "Asia",
+  "country": "Vietnam",
+  "state": "VT",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.bayviet.com.vn/",
+  "email": "vft@bayviet.com.vn",
+  "phone": "'+84 905 325 860",
+  "about": "Bay Viet Flight Training is a premier aviation institution that collaborates with esteemed flight school partners in the United States, Australia, New Zealand, and Europe. Our comprehensive training programs, adhering to FAA, CASA, CAANZ, and EASA standards, include Private Pilot License (PPL), Commercial Pilot License (CPL), and Multi-Engine Instrument Rating (IR ME). With a training duration of 44-52 weeks, students undertake a minimum of 200 hours of flight training, including dual instruction, solo flights, and cross-country flights. We also ensure ICAO level 4 English proficiency. Our rigorous curriculum is designed to equip aspiring pilots with the skills and knowledge necessary for a successful aviation career. Bay Viet Flight Training is committed to providing high-quality education and training to meet the global standards of the aviation industry.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PilotStart Flight Prep Class\\nMCC Training\\nFlight training\\nATP Theory Training\\nJet Fam Training\\nFlight training senses\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

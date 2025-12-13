@@ -1,0 +1,22 @@
+{
+  "id": "b62fb68f-96ad-4782-aa4c-3fc2e089923a",
+  "slug": "west-air-flight-training",
+  "name": "West Air Flight Training, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NV",
+  "city": "",
+  "baseAirport": "VGT -North Las Vegas Airport",
+  "website": "https://www.westairflighttraining.com/",
+  "email": "westair@westairflighttraining.com",
+  "phone": "(702) 631-0229",
+  "about": "At West Air Flight Training, Inc., we are a part 61 flight school dedicated to providing flexible and cost-efficient flight training. With over eight trainer aircraft available, we offer scheduling flexibility and no upfront costs or deposits. Our hourly aircraft rental rates start at $155 for our Basic 172's, and instructor rates are $60 per hour, with discounts available for cash or check payments and military personnel. We pride ourselves on allowing students to progress at their own pace, ensuring a personalized and effective learning experience. Our commitment to safety, flexibility, and affordability makes us an ideal choice for aspiring pilots. We look forward to helping you obtain your pilot certificate.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

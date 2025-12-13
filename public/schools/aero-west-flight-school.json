@@ -1,0 +1,22 @@
+{
+  "id": "30189822-84f8-4847-b36b-cf72a73ac22e",
+  "slug": "aero-west-flight-school",
+  "name": "AERO WEST Flight School",
+  "continent": "Europe",
+  "country": "Romania",
+  "state": "ROM",
+  "city": "",
+  "baseAirport": "Buzias Airfield",
+  "website": "https://zbortimisoara.ro/",
+  "email": "zbor@zbortimisoara.ro",
+  "phone": "'+40 735 842 540",
+  "about": "Aero West Flight Training is a small, specialized flight school based in Romania, dedicated to providing comprehensive 0-ATPL training for prospective pilots. We offer a structured and intensive program designed to equip students with the necessary skills and knowledge to become professional pilots. Our training is tailored to meet the highest standards, ensuring that our graduates are well-prepared for a successful career in aviation. With a focus on quality instruction and a supportive learning environment, Aero West Flight Training is committed to helping aspiring pilots achieve their goals efficiently and safely. We are your reliable partner in pursuing a career in the skies.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nNight Rating VFR\\nCommercial Pilot License\\nInstrumental Rating\\nMULTI ENGINE PISTON\\nAirline Transport Pilot License (ATPL)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

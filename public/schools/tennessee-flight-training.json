@@ -1,0 +1,22 @@
+{
+  "id": "d571c4dd-f14d-431c-b40b-924b9f5f43fd",
+  "slug": "tennessee-flight-training",
+  "name": "Tennessee Flight Training",
+  "continent": "North America",
+  "country": "United",
+  "state": "TN",
+  "city": "",
+  "baseAirport": "BNA -Nashville International Airport",
+  "website": "https://www.tnflighttraining.com/",
+  "email": "letsfly@TNflighttraining.com",
+  "phone": "(615) 366-9192",
+  "about": "Tennessee Flight Training, established in 2010, is a nationally recognized flight school providing high-quality, FAA-certified flight and ground instruction. Based at Nashville International Airport and with additional locations in Maury County, Shelbyville, Crossville, and Cleveland, the school offers customized training from recreational to career pilot programs. With a fleet of ten aircraft and nearly 25 instructors, Tennessee Flight Training has trained hundreds of students and received multi-year recognition from the Aircraft Owners and Pilots Association (AOPA) for its high standards. The school is committed to making aviation accessible and affordable, providing personalized training paths and financing options to meet each student's needs. Tennessee Flight Training is dedicated to equipping students with the skills necessary for pleasure, business, and career objectives in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

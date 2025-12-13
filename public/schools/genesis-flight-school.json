@@ -1,0 +1,22 @@
+{
+  "id": "166e5563-756a-4830-b33a-9b238f500bbc",
+  "slug": "genesis-flight-school",
+  "name": "Genesis Flight School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "GKY -Arlington Municipal Airport",
+  "website": "https://genesisflightschool.com/",
+  "email": "info@genesisflightschool.com",
+  "phone": "(682) 276-3942",
+  "about": "Genesis Flight College, located at the Collingwood Regional Airport in Ontario, offers a comprehensive range of flight training programs. With decades of experience, our team provides commercial, private, and instrument rating training using advanced aircraft such as the DA40 and DA42. Our programs include a college diploma in commercial flight training, part-time options, and certified simulator training. We also offer recreational permits, night ratings, and multi-engine ratings. Our state-of-the-art facilities and highly trained professionals ensure students are well-prepared for careers in aviation. Genesis Flight College is registered under the Ontario Career Colleges Act, 2005, and serves residents across Ontario with a commitment to excellence in aviation education. Join us to begin your journey to becoming a proficient pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

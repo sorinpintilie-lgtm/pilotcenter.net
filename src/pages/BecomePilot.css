@@ -1,0 +1,178 @@
+/* Become a Pilot Page - Mobile Hero Image Removal */
+.become-pilot-page .hero::after {
+    display: none !important;
+}
+
+/* Mobile-specific styling to hide any hero images */
+@media (max-width: 768px) {
+    /* Hide hero background image on mobile */
+    .become-pilot-page .hero {
+        background-image: none !important;
+    }
+
+    /* Hide any hero images that might appear */
+    .become-pilot-page .hero-image,
+    .become-pilot-page .hero-visual,
+    .become-pilot-page .hero-image-wrapper {
+        display: none !important;
+    }
+
+    /* Ensure proper layout without the hero image */
+    .become-pilot-page .hero {
+        min-height: auto !important;
+        padding: 40px 0 !important;
+    }
+
+    .become-pilot-page .hero-content-wrapper {
+        width: 100% !important;
+    }
+
+    /* Mobile hero text optimization - show hero text properly */
+    .become-pilot-page .hero-subtitle {
+        display: block !important;
+        font-size: 18px !important;
+        line-height: 1.4 !important;
+        margin: 10px 0 !important;
+        text-align: center !important;
+    }
+
+    /* Center-align all hero content on mobile */
+    .become-pilot-page .hero {
+        text-align: center !important;
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: center !important;
+        align-items: center !important;
+    }
+
+    .become-pilot-page .hero-content-wrapper,
+    .become-pilot-page .hero-text-content {
+        justify-content: center !important;
+        align-items: center !important;
+        text-align: center !important;
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+
+    .become-pilot-page .hero-title {
+        text-align: center !important;
+        margin: 0 auto 15px !important;
+        width: 100% !important;
+    }
+
+    .become-pilot-page .hero-kicker {
+        text-align: center !important;
+        margin: 0 auto 10px !important;
+        width: 100% !important;
+    }
+
+    /* Ensure all text elements are centered and properly aligned */
+    .become-pilot-page .hero p {
+        text-align: center !important;
+        margin: 10px auto !important;
+        max-width: 90% !important;
+    }
+
+    /* Adjust hero section padding for better mobile layout */
+    .become-pilot-page .hero {
+        padding: 30px 20px 40px !important;
+    }
+
+    /* Mobile hero title styling */
+    .become-pilot-page .hero-title {
+        font-size: 28px !important;
+        line-height: 1.2 !important;
+        margin-bottom: 15px !important;
+    }
+
+    /* Mobile hero kicker styling */
+    .become-pilot-page .hero-kicker {
+        font-size: 16px !important;
+        font-weight: bold !important;
+        margin-bottom: 10px !important;
+        color: #007bff !important;
+    }
+
+    /* Ensure hero content is properly centered and spaced */
+    .become-pilot-page .hero-content-wrapper {
+        padding: 0 15px !important;
+    }
+
+    .become-pilot-page .hero-content-wrapper {
+        flex-direction: column !important;
+        gap: 15px !important;
+    }
+
+    /* Mobile grid layout - switch to single column */
+    .become-pilot-page div[style*="grid-template-columns"] {
+        grid-template-columns: 1fr !important;
+    }
+
+    /* Ensure all grid items take full width on mobile */
+    .become-pilot-page div[style*="grid-template-columns"] > div {
+        width: 100% !important;
+        max-width: 100% !important;
+        grid-column: span 1 !important;
+        text-align: center !important;
+    }
+
+    /* Target the specific grid container in BecomePilot.js */
+    .become-pilot-page div[style*="display: grid"] {
+        grid-template-columns: 1fr !important;
+    }
+
+    /* Ensure grid items are properly centered */
+    .become-pilot-page div[style*="display: grid"] > div {
+        width: 100% !important;
+        grid-column: span 1 !important;
+    }
+
+    /* Reorder grid items on mobile - images before text */
+    /* Target image containers and move them before text containers */
+    .become-pilot-page div[style*="display: grid"] > div:nth-child(odd) {
+        order: 1 !important;
+    }
+
+    .become-pilot-page div[style*="display: grid"] > div:nth-child(even) {
+        order: 2 !important;
+    }
+
+    /* More specific targeting for image containers */
+    .become-pilot-page div[style*="align-items: center"] > div:nth-child(odd) {
+        order: 1 !important;
+    }
+
+    .become-pilot-page div[style*="align-items: center"] > div:nth-child(even) {
+        order: 2 !important;
+    }
+
+    /* Target image containers specifically */
+    .become-pilot-page div[style*="justify-content: flex-end"] {
+        order: 1 !important;
+    }
+
+    .become-pilot-page div[style*="justify-content: center"] {
+        order: 2 !important;
+    }
+
+    /* Mobile responsive pathway buttons */
+    .become-pilot-page div[style*="display: flex"][style*="justify-content: center"][style*="flex-wrap: wrap"] {
+        display: grid !important;
+        grid-template-columns: repeat(2, 1fr) !important;
+        gap: 15px !important;
+        justify-items: center !important;
+    }
+
+    .become-pilot-page div[style*="display: flex"][style*="justify-content: center"][style*="flex-wrap: wrap"] a {
+        min-width: 140px !important;
+        max-width: 160px !important;
+        margin: 0 !important;
+    }
+
+    /* Handle the third item to span full width on second row */
+    .become-pilot-page div[style*="display: flex"][style*="justify-content: center"][style*="flex-wrap: wrap"] a:nth-child(3) {
+        grid-column: span 2 !important;
+        max-width: 300px !important;
+        margin: 0 auto !important;
+    }
+}

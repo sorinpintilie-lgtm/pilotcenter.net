@@ -1,0 +1,22 @@
+{
+  "id": "8bfd036c-2006-4b9c-acf3-4ddcd2864093",
+  "slug": "east-metro-jet-center",
+  "name": "East Metro Jet Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WI",
+  "city": "",
+  "baseAirport": "RNH -New Richmond Regional Airport",
+  "website": "https://www.eastmetrojetcenter.net/",
+  "email": "mike@nrairport.com",
+  "phone": "(715) 246-5338",
+  "about": "East Metro Jet Center, located at the New Richmond Airport (KRNH), is a comprehensive aviation facility offering a range of services including aircraft charter, maintenance, and flight instruction. Our flight school, in partnership with local aviation experts, provides professional training for aspiring pilots. With over 260 based aircraft and serving a population of over 175,000 people in the surrounding communities, we are a full-service facility dedicated to meeting all your aviation needs. Our commitment to quality and customer satisfaction makes us an ideal choice for both recreational and professional flight training. At East Metro Jet Center, we strive to provide a seamless and supportive learning environment for all our students.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

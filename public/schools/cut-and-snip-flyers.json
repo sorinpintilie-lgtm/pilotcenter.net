@@ -1,0 +1,22 @@
+{
+  "id": "1b2bdc8a-6c3f-456b-b5aa-f04095c0f136",
+  "slug": "cut-and-snip-flyers",
+  "name": "Cut and Snip Flyers",
+  "continent": "North America",
+  "country": "United States",
+  "state": "UT",
+  "city": "",
+  "baseAirport": "OGD -Ogden-Hinckley Airport",
+  "website": "https://www.cutandsnipflyers.com/",
+  "email": "cutandsnipflyers@gmail.com",
+  "phone": "(801) 564-4744",
+  "about": "Cut and Snip Flyers LLC is a premier flight training center located at the Ogden Airport Airfield (KOGD) in Ogden, Utah. We offer a comprehensive range of courses and services to cater to all levels of aviation enthusiasts, from novice pilots to advanced learners. Our facility is licensed and insured, ensuring a safe and professional learning environment. With a team of experienced and certified flight instructors, we provide personalized training tailored to each student's needs. Our programs include private pilot certification, instrument rating, and other advanced training modules. At Cut and Snip Flyers, we are committed to delivering high-quality instruction, utilizing the latest aviation technologies to prepare our students for successful careers in aviation. We invite you to join our community and take the first step towards achieving your flying dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

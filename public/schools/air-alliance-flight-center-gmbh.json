@@ -1,0 +1,22 @@
+{
+  "id": "61c92bf4-2973-419a-ba6d-3eec5766392e",
+  "slug": "air-alliance-flight-center-gmbh",
+  "name": "Air Alliance Flight Center GmbH",
+  "continent": "Europe",
+  "country": "Germany",
+  "state": "GER",
+  "city": "",
+  "baseAirport": "Siegerland Airport",
+  "website": "https://www.aa-fc.de/",
+  "email": "",
+  "phone": "'+49 (0) 2736 / 4428 60",
+  "about": "Air Alliance Flight Center GmbH, located in Germany, is a renowned EASA certified Aviation Training Organisation (ATO) with bases in Siegerland, Bonn Hangelar, and Frankfurt Egelsbach. Established as part of the Air Alliance Group, which has been operating since 1993, the flight center specializes in modular training programs. It offers a comprehensive range of courses including Private Pilot Licence (PPL), Commercial Pilot Licence (CPL), Instrument Rating (IR), Multi-Engine Rating, and the Airline Transport Pilot Licence (ATPL) for those aspiring to become commercial airline pilots. With a strong emphasis on safety, quality, and innovation, Air Alliance Flight Center provides high-standard training, leveraging over two decades of experience in the aviation sector to ensure students receive the best possible education. The center is committed to supporting its students every step of the way, from ground school to flight training, to help them achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PPL(A) Private Pilot\\nATPL(A) scheduled airline pilot license\\nCB-IR(A) competency-based instrument flight rating \\nnight flight\\nMEP Class Rating\\nHigh Performance Aeroplane\\nFlight instructor training FI(A) / CRI(A) / IRI(A)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

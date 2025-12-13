@@ -1,0 +1,22 @@
+{
+  "id": "5697ef63-1fea-4463-b6a5-5812aaaea4a5",
+  "slug": "yakima-aerosport",
+  "name": "Yakima Aerosport",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "YKM -Yakima Air Trml/Mcallister Field",
+  "website": "https://www.yakimaaerosport.com/",
+  "email": "info@yakimaaerosport.com",
+  "phone": "(509) 453-3412",
+  "about": "Yakima Aerosport, located at the Yakima Air Terminal-McAllister Field, specializes in providing fun, safe, and affordable flight training. We offer instruction in both tail-wheel (conventional) and tricycle-gear aircraft, catering to a variety of learning preferences. Our experienced instructors are dedicated to helping students achieve their aviation goals, whether it's obtaining a private pilot's license or advancing to more complex certifications. With a focus on personalized training and a supportive learning environment, Yakima Aerosport is committed to helping aspiring pilots take to the skies with confidence. We strive to make every flight training experience enjoyable and rewarding.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot\\nSport Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

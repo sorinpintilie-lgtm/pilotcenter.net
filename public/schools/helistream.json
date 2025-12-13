@@ -1,0 +1,22 @@
+{
+  "id": "645b8a86-1e50-43df-a1fd-c1e5d4090a09",
+  "slug": "helistream",
+  "name": "HeliStream, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SNA -John Wayne/Orange County Airport",
+  "website": "https://helistream.com/",
+  "email": "info@helistream.com",
+  "phone": "(714) 662-3163",
+  "about": "HeliStream, Inc., based at John Wayne Airport in Costa Mesa, California, is a comprehensive helicopter services provider with a rich history dating back to 1982. We offer a range of services including flight training, aerial photography, charters, external load operations, firefighting, and utility services such as powerline and high voltage transmission line maintenance. Our flight training programs are designed to be streamlined yet thorough, catering to both domestic and foreign students, and we are authorized to issue I-20 forms for M-1 student visas. With experienced and professional instructors, we ensure a safe and supportive learning environment. HeliStream is committed to producing skilled and safe pilots, making it an excellent choice for those aspiring to fly helicopters.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

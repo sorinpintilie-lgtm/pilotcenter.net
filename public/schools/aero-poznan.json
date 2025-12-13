@@ -1,0 +1,22 @@
+{
+  "id": "eac74619-ddd7-419b-8850-8861cd3dc978",
+  "slug": "aero-poznan",
+  "name": "Aero Poznań",
+  "continent": "Europe",
+  "country": "Poland",
+  "state": "",
+  "city": "Poznań",
+  "baseAirport": "Poznań-Ławica Airport",
+  "website": "https://poznan.aero/",
+  "email": "office@poznan.aero",
+  "phone": "'+48 61 847 47 73",
+  "about": "Aero Poznań is a premier flight school and the global leader in General Aviation pilot training, authorized by Cirrus Aircraft Inc. Located at Poznan International Airport, we specialize in training on all types of Cirrus aircraft, from the SR20 to the SF50 Vision Jet. Our state-of-the-art facilities include full-motion simulators, ensuring comprehensive training for aspiring pilots. With a focus on cutting-edge technology and expert instruction, we transform students into confident aviators. We train pilots from around the world, adhering to international modern aviation training standards, and are recognized as one of the best Aviation Training Centers in Europe and the US. Aero Poznań is dedicated to delivering exceptional training experiences.",
+  "icao": "EPPO",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

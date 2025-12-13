@@ -1,0 +1,22 @@
+{
+  "id": "dd778326-c001-4dce-83b7-820e1224e316",
+  "slug": "foothill-flying-club",
+  "name": "Foothill Flying Club",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "CCB -Cable Airport",
+  "website": "https://foothillflyingclub.com/",
+  "email": "tony@foothillaircraft.com",
+  "phone": "(909) 917-5851",
+  "about": "Foothill Flying Club, located at Cable Airport in Upland, California, is a premier flight school designed for the discerning pilot and student. Our facility offers excellent aircraft maintained to high standards, with no fuel surcharges, daily minimums, or down payments. Students can pay as they go and enjoy 24/7 access to aircraft and online payment options. Our seasoned and experienced Certified Flight Instructors provide comprehensive training, including private pilot certificates, multi-engine, tail wheel, mountain flying, aerobatics, instrument, and Certified Flight Instructor programs. We are also specialists in Light Sport Aircraft (LSA) training for the Sport Pilot Certificate. Cable Airport's non-towered environment allows for more efficient training with less time spent on taxiing and waiting for clearance. With a focus on convenience and quality instruction, Foothill Flying Club is an ideal choice for aspiring pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

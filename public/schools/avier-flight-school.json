@@ -1,0 +1,22 @@
+{
+  "id": "c9f755cb-8deb-4a9c-984e-25775ea8cffe",
+  "slug": "avier-flight-school",
+  "name": "Avier Flight school",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MA",
+  "city": "",
+  "baseAirport": "BVY -Beverly Regional Airport",
+  "website": "https://avierflight.com/",
+  "email": "info@avierflight.com",
+  "phone": "(978) 893-9513",
+  "about": "Avier Flight School, located at Beverly Regional Airport in Massachusetts, is a vibrant aviation community dedicated to safety, community, and innovative training. Founded in 2015 by Paul Beaulieu, the school has grown to include eight aircraft and 20 instructors, making it one of the largest in the region. Avier's mission is to ensure aviation safety while increasing the footprint of general aviation in a welcoming environment. The school employs a scenario-based training program, focusing on crew resource management and mission-based lessons that simulate real-world flying scenarios. With a strong emphasis on positive reinforcement and community engagement, Avier has achieved a high pass rate and has been recognized as a Distinguished Flight School by the AOPA Foundation. Avier is committed to nurturing each pilot's strengths and weaknesses, ensuring they become the safest pilots possible.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

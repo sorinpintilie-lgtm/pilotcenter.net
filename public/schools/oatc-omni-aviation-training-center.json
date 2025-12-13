@@ -1,0 +1,22 @@
+{
+  "id": "e5b42f1f-faf9-4925-8f6e-26dc4fe970e7",
+  "slug": "oatc-omni-aviation-training-center",
+  "name": "OATC - Omni Aviation Training Center",
+  "continent": "Europe",
+  "country": "Portugal",
+  "state": "PORT",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.oatc.pt/",
+  "email": "pnc@oatc.pt",
+  "phone": "'+351 214 458 600",
+  "about": "OATC - Omni Aviation Training Center is a renowned aviation school with over 20 years of experience, certified in initial pilot training, type rating, cabin crew, and other aviation courses. Established in 1998, OATC is headquartered at Aeródromo Municipal De Cascais Tires Hangar 1 in Lisbon, Portugal. The school offers comprehensive programs such as the Integrated Airline Pilot Course, Cabin Crew Course, and Flight Instructor Course, all designed to meet the highest international standards. With a team of highly skilled instructors, OATC provides top-quality training, ensuring students are well-prepared for their careers in aviation. Registration for courses is permanently open, and the school is committed to developing the technical skills and excellence needed for a successful aviation career. OATC prides itself on its long history of producing well-trained professionals who excel in the aviation industry.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Pilot Course\\nCabin Crew Course\\nAircraft Flight Instructor Course\\nFlight Operations Officer Course\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

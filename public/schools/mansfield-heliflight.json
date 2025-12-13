@@ -1,0 +1,22 @@
+{
+  "id": "baf7b567-b601-4586-9829-7e15d1a01357",
+  "slug": "mansfield-heliflight",
+  "name": "Mansfield Heliflight",
+  "continent": "North America",
+  "country": "United States",
+  "state": "VT",
+  "city": "",
+  "baseAirport": "VT96 -Mansfield Heliflight Inc",
+  "website": "https://www.mansfieldheliflight.com/",
+  "email": "tina@mansfieldheliflight.com",
+  "phone": "(802) 893-0151",
+  "about": "Mansfield Heliflight Inc., established in 1986 by Eric Chase, is a renowned aviation service provider based in Milton, Vermont, and operating out of the Burlington International Airport. As an FAA approved Part 135 Air Carrier, the company offers a wide range of services including aerial patrol, aerial photography, Lake Tours, and sightseeing. Through its Green Mountain Flight Academy subsidiary, Mansfield Heliflight provides comprehensive flight training programs for Private Pilot, Commercial Pilot, and Flight Instructor Helicopter Licenses. With over 20,000 incident-free hours logged by its pilots, the company is committed to safety and excellence. Known for its competitive rates and adherence to FAA and industry standards, Mansfield Heliflight also specializes in aircraft acquisition, brokerage, and maintenance. The company prides itself on providing outstanding and personalized customer service, making it a trusted name in the aviation industry.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

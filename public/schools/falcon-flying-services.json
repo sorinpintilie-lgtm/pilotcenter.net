@@ -1,0 +1,22 @@
+{
+  "id": "5e3d575f-40bf-41c3-beda-deac07ff2029",
+  "slug": "falcon-flying-services",
+  "name": "Falcon Flying Services",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Biggin Hill",
+  "baseAirport": "Biggin Hill Airport",
+  "website": "https://falcon.aero/",
+  "email": "info@falcon.aero / fixme@falcon.aero",
+  "phone": "'+44 1959 572 339",
+  "about": "Falcon Flying Services, part of the Falcon Flying Group, is a renowned aviation training and maintenance organization. With a rich history dating back to 1947, our EFG Flying School at London Biggin Hill Airport has been a cornerstone for pilot training, offering both private and commercial pilot licenses. Our Falcon Flight Training Academy provides top-level training in the UK and Spain, with courses including Commercial Pilot Licence (CPL), Flight Instructor Certificate (FIC), and Multi-engine Piston Rating (MEP). Our maintenance division, certified by the UK CAA, handles a full range of aviation maintenance needs, ensuring aircraft safety and compliance. We pride ourselves on delivering exceptional service and training, fostering strong industry relationships and a commitment to excellence in aviation education and maintenance. Trust Falcon Flying Services for your aviation needs, where quality and professionalism are paramount.",
+  "icao": "EGKB",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

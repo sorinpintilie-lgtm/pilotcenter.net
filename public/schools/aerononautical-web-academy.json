@@ -1,0 +1,22 @@
+{
+  "id": "ff658062-7fb6-437c-bcd3-4d63e42692df",
+  "slug": "aerononautical-web-academy",
+  "name": "Aerononautical Web Academy",
+  "continent": "Europe",
+  "country": "Portugal",
+  "state": "",
+  "city": "Cascais",
+  "baseAirport": "Cascais Airport",
+  "website": "https://awa.pt/",
+  "email": "geral@awa.pt",
+  "phone": "'+351 21 942 0458",
+  "about": "Aerononautical Web Academy is a premier flight training institution dedicated to providing high-quality aviation education. With a focus on safety, our FAA-certified programs cater to both private and professional pilots. Our experienced instructors, many with airline and military backgrounds, offer personalized and structured training. We utilize modern aircraft, advanced flight simulators, and ideal flying weather to ensure efficient and effective training. Our commitment to excellence is reflected in our high first-attempt pass rates and zero accident history. We support international students with SEVIS-approved visas and offer comprehensive resources, including student accommodation and transportation. Join us to embark on a career in aviation with a solid foundation and unparalleled support. We are committed to helping you achieve your aviation dreams.",
+  "icao": "LPCS",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

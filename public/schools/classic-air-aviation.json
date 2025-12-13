@@ -1,0 +1,22 @@
+{
+  "id": "2251a1ee-75ce-40b7-a24f-7e3c0b21ec38",
+  "slug": "classic-air-aviation",
+  "name": "Classic Air Aviation, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "FFZ -Falcon Field",
+  "website": "https://www.classicairaviation.com/",
+  "email": "support@classicairaviation.com",
+  "phone": "(602) 574-5376",
+  "about": "Classic Air Aviation, LLC, based in Mesa, Arizona, is a FAA part 61 and 141 F-1 & M-1 VISA approved flight school. Established in 2005, we offer self-paced and fast-track flight training programs for private pilots, commercial pilots, military pilots, and certified flight instructors. Our comprehensive training includes ground school, ratings, and endorsements, with a focus on traditional navigation skills and modern technology. We provide military aviation prep courses, simulator training, and various aircraft services such as rentals, sales, and maintenance. Our mid-sized school ensures a personal approach to each student, with flexible payment options and discounts for military members. We are committed to helping you achieve your aviation goals in a friendly and professional environment. Contact us today to start your journey in the sky.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nExaminer\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

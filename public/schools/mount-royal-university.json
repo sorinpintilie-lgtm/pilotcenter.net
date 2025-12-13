@@ -1,0 +1,22 @@
+{
+  "id": "d1a2bd2c-ece1-44e6-a191-4de423d6e22c",
+  "slug": "mount-royal-university",
+  "name": "Mount Royal University",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "AB",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.mtroyal.ca/",
+  "email": "aro@mtroyal.ca",
+  "phone": "'+1 403-440-6001",
+  "about": "Mount Royal University's flying school offers two premier programs: the Bachelor of Aviation Management and the two-year Aviation Diploma. The Bachelor of Aviation Management provides a four-year degree with concentrations in Flight Crew Operations and Aviation Operations, preparing students for careers in aviation management and piloting. The Aviation Diploma, certified by Transport Canada and accredited by the Aviation Accreditation Board International, equips students with a Commercial Pilot Licence and multi-engine instrument ratings, along with a strong business background. Both programs benefit from state-of-the-art facilities at Springbank Airport, airline partnerships, and advanced technology, ensuring graduates are highly sought after in the aviation industry. With a focus on academic excellence, professional conduct, and industry connections, Mount Royal University's flying school is a leading choice for aspiring aviation professionals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

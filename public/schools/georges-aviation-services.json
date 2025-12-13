@@ -1,0 +1,22 @@
+{
+  "id": "4d2e8afa-38c0-40f5-bb7e-578fb146dca9",
+  "slug": "georges-aviation-services",
+  "name": "George's Aviation Services, Inc.",
+  "continent": "North America",
+  "country": "United",
+  "state": "HI",
+  "city": "",
+  "baseAirport": "HNL -Daniel K Inouye International Airport",
+  "website": "https://www.georgesaviation.com/",
+  "email": "george@georgesaviation.com",
+  "phone": "(808) 834-2120",
+  "about": "George's Aviation Services, Inc., located at the Daniel K Inouye International Airport in Honolulu, Hawaii, is a comprehensive aviation service provider with over 20 years of experience. We offer Part 61 and 141 flight school instruction, catering to all levels of pilot training from Private Pilot to Airline Transport Pilot. Our fleet includes 13 aircraft, and our certified flight instructors are highly qualified. In addition to flight training, we provide on-demand inter-island air charters, private charter tours, aircraft rentals, and transportation services. We also specialize in cargo transport, including urgent shipments and HAZMAT. With a commitment to safety and excellence, George's Aviation Services is your one-stop destination for all aviation needs in Hawaii. We are dedicated to providing exceptional service and training to our students and clients.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

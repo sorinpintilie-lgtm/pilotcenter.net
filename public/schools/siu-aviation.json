@@ -1,0 +1,22 @@
+{
+  "id": "3b545755-0889-4adb-84cf-7b2fc12284d9",
+  "slug": "siu-aviation",
+  "name": "SIU Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "IL",
+  "city": "Carbondale",
+  "baseAirport": "Southern Illinois Airport",
+  "website": "https://aviation.siu.edu/",
+  "email": "reception@aviation.siu.edu / ocialmedia@siu.edu",
+  "phone": "'+1 618-453-8898 / +1 618-453-2121",
+  "about": "SIU Aviation is a nationally recognized comprehensive aviation program, offering multiple degree programs including Associate and Bachelor degrees in Aviation Flight and Aviation Management. Established in 1960, the program has grown to include over 600 students and state-of-the-art facilities at the Southern Illinois Airport, such as the Transportation Education Center with a 60,000 square-foot hangar and classroom building. Our students benefit from hands-on learning, a modern fleet of Cessna and Piper aircraft, and partnerships with major airlines like United, Delta, and American Airlines. The Flying Salukis have won nine national titles, reflecting the program's commitment to excellence and safety. With a strong focus on career preparation and continuous improvement, SIU Aviation sets students up for successful careers in the aviation industry.",
+  "icao": "KMDH",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

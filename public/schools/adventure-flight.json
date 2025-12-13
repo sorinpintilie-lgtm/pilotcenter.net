@@ -1,0 +1,22 @@
+{
+  "id": "fd49e8d9-4280-4a37-bc44-befa0e741a43",
+  "slug": "adventure-flight",
+  "name": "Adventure Flight",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "LHM -Lincoln Regional/Karl Harder Field",
+  "website": "https://www.adventureflight.net/",
+  "email": "adventureflightlincoln@gmail.com",
+  "phone": "(866) 644-4072",
+  "about": "Adventure Flight Lincoln is a premier flight training institution offering advanced and basic flight training, endorsements, and accelerated programs. Our mission is to train the safest and most skilled pilots, emphasizing stick-and-rudder skills. We provide joyrides and aerial tours in classic warbirds, catering to both aspiring pilots and experienced aviators. With a focus on safety and skill development, our experienced instructors guide students through comprehensive training programs. Join us for an unparalleled flying experience and let your dreams take flight with Adventure Flight Lincoln.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

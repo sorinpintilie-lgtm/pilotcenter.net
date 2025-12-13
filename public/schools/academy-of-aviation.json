@@ -1,0 +1,22 @@
+{
+  "id": "2d2a419b-270a-46ac-aa85-8463cbc796f8",
+  "slug": "academy-of-aviation",
+  "name": "Academy of Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "NY",
+  "city": "Farmingdale",
+  "baseAirport": "Republic Airport",
+  "website": "https://www.academyofaviation.com/",
+  "email": "info@aoa.edu",
+  "phone": "'+1 516-613-4556",
+  "about": "Academy of Aviation is a leading flight training institution dedicated to providing high-quality aviation education. With a focus on safety, innovation, and accessibility, we offer a range of programs including Private Pilot, Instrument Rating, and Commercial Single and Multi-Engine certifications. Our solution-based training is designed to make students top candidates for professional pilot careers, emphasizing high-hour pilots, multi-engine experience, and additional ratings. We have international admissions representatives and offer full financing options for our career pilot programs. With accreditation candidacy from the Middle States Association and a commitment to continuous improvement, Academy of Aviation ensures students receive the finest training to achieve their aviation goals. Join us to become a skilled and confident pilot.",
+  "icao": "KFRG",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

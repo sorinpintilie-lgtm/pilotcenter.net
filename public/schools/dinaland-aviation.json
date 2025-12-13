@@ -1,0 +1,22 @@
+{
+  "id": "1e0b038f-7e39-4530-a0d3-4b0ad8b2874d",
+  "slug": "dinaland-aviation",
+  "name": "Dinaland Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "UT",
+  "city": "",
+  "baseAirport": "VEL -Vernal Regional Airport",
+  "website": "https://dinalandaviation.com/",
+  "email": "dinalandaviation@yahoo.com",
+  "phone": "(435) 789-4612",
+  "about": "Dinaland Aviation, located at Vernal Regional Airport, offers comprehensive flight training programs tailored to various aviation goals. We provide certifications in Commercial, Flight Instructor (CFI), Flight Instructor Instrument (CFII), and Private Pilot. Our training includes ground school and flying opportunities, ensuring students gain the necessary skills and knowledge to become proficient pilots. With a focus on safety and quality instruction, Dinaland Aviation also offers training for Certified Flight Instructor Sport, enabling instructors to conduct Sport Pilot training. Our dedicated team is committed to helping students achieve their aviation aspirations, whether for recreational or professional purposes. At Dinaland Aviation, we strive to make your flying dreams a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

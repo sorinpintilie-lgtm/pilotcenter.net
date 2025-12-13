@@ -1,0 +1,22 @@
+{
+  "id": "787b2188-b79b-44c7-a199-3eef0714e604",
+  "slug": "stellenbosch-flight-academy-pty",
+  "name": "Stellenbosch Flight Academy (Pty) Ltd",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "WC",
+  "city": "",
+  "baseAirport": "Stellenbosch Airfield",
+  "website": "https://www.simflight.co.za/",
+  "email": "info@simflight.co.za",
+  "phone": "'+27 (0)21 8800227",
+  "about": "Stellenbosch Flight Academy (Pty) Ltd is a specialist simulator flight training institution, focusing on advanced simulated flight and ground training. We utilize a SACAA-approved FNPT II (MCC) FSTD, offering extensive training accreditations. Our services include preparation for Initial ATP and Skills Tests, refresher training for IR revalidation, annual ATP or CPL IR revalidation skills tests, Multi Crew Coordination (MCC) training, GNSS/RNAV training, and Practical Radiotelephony Operator Certificate tests. Our facility provides a cost-effective alternative to Level D simulators, ensuring pilots can revalidate their licenses efficiently. We are committed to providing high-quality training to maintain and enhance pilot skills. At Stellenbosch Flight Academy, we ensure your aviation training is both comprehensive and cost-effective.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"ATPL (Modular - A)\\nClass Rating \\nCPL - (Modular - A)\\nFlight Instructor\\nInstrument Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

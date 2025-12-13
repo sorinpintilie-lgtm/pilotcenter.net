@@ -1,0 +1,22 @@
+{
+  "id": "d946c9c6-198b-46bc-993b-6ce5c2c52345",
+  "slug": "lightning-aviation",
+  "name": "Lightning Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AL",
+  "city": "",
+  "baseAirport": "5R4 -Foley Municipal Airport",
+  "website": "https://www.lightningaviationfoley.com/",
+  "email": "RogerFBOFoley@gmail.com",
+  "phone": "(251) 943-5214",
+  "about": "Lightning Aviation, located in Foley, Alabama, is a premier flight training institution with over ten years of success in the aviation industry. As the Gulf Coast's leading flight training destination, we offer a comprehensive range of certifications including Private Pilot, Commercial, Flight Instructor (CFI), and Flight Instructor Instrument (CFII). Our services also include discovery flights, allowing individuals to experience the Gulf Coast from a new perspective. With a focus on safety and excellence, Lightning Aviation provides top-notch flight instruction, aviation services, and aircraft repairs. Our experienced instructors and state-of-the-art facilities ensure that students receive the highest quality training to launch their aviation careers. Whether you're a novice or an experienced pilot, Lightning Aviation is dedicated to helping you achieve your flying goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "d57a7937-eb70-41ad-8359-c4da76878cc5",
+  "slug": "pacific-flying-club",
+  "name": "Pacific Flying Club",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "BC",
+  "city": "",
+  "baseAirport": "Boundary Bay Airport",
+  "website": "https://www.pacificflying.com/",
+  "email": "info@pacificflying.com",
+  "phone": "'+1 604-946-0011",
+  "about": "Pacific Flying Club, established in 1965, is a premier professional flight training facility in British Columbia. Celebrating its fiftieth anniversary in 2015, the club is recognized for its high standards and is an active member of the Air Transport Association of Canada and the British Columbia Aviation Council. Accredited by the Private Career Training Institutions Agency of British Columbia, Pacific Flying Club operates a fleet of 26 aircraft, including Cessnas and Pipers, equipped with glass cockpit technology. The club is in partnership with the British Columbia Institute of Technology, offering the \"Airline & Flight Operations\" program. With advanced simulation facilities, including an Al Sim FTD with Level 5 King Air capabilities, Pacific Flying Club provides an enjoyable and quality flight training environment at Boundary Bay Airport.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

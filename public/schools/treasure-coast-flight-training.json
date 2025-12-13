@@ -1,0 +1,22 @@
+{
+  "id": "bfc551c0-d0d3-4d19-9642-f66b685ba7d5",
+  "slug": "treasure-coast-flight-training",
+  "name": "Treasure Coast Flight Training",
+  "continent": "North America",
+  "country": "USA",
+  "state": "FL",
+  "city": "Stuart",
+  "baseAirport": "Witham Field Airport",
+  "website": "https://treasurecoastflight.com/",
+  "email": "info@treasurecoastflight.com",
+  "phone": "'+1 772-219-4191",
+  "about": "Treasure Coast Flight Training is a premier international flight academy located in Stuart, Florida, catering to students from around the world. We specialize in a wide range of pilot training programs, including Private Pilot, Instrument Rating, Single and Multi-Engine Commercial, and Flight Instructor certifications. Our state-of-the-art training facility features updated classrooms, computers, study areas, a dining area, and a Redbird FAA-approved simulator. We pride ourselves on fair prices, professional and respectful instructors, and a well-maintained fleet of aircraft. With both Part 141 and Part 61 training options and accelerated courses available, we prioritize student success and safety. Our campus also offers student accommodations, ensuring a comprehensive and supportive learning environment. We are committed to helping aspiring pilots achieve their career goals efficiently and safely.",
+  "icao": "KSUA",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

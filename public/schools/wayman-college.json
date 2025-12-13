@@ -1,0 +1,22 @@
+{
+  "id": "e46f24ec-7f0f-4c9a-9074-35bc1a42079b",
+  "slug": "wayman-college",
+  "name": "Wayman College",
+  "continent": "North America",
+  "country": "USA",
+  "state": "FL",
+  "city": "Miami",
+  "baseAirport": "Miami Opa-Locka Airport or North Perry Airport",
+  "website": "https://wayman.edu/",
+  "email": "info@wayman.edu",
+  "phone": "'+1 305-685-6468 / '+1 305-685-6469",
+  "about": "Wayman College of Aeronautics, formerly Wayman Aviation Academy, is South Florida’s largest flight school, dedicated to delivering high-quality flight training and aviation education since 1987. With a strong emphasis on academic excellence and innovation, we offer FAA-approved flight training and associate degrees in Aeronautics, Aviation Management, and Aviation Maintenance Management. Our rigorous curriculum, experienced instructors, and state-of-the-art facilities have produced thousands of skilled aviation professionals from over 80 countries. We partner with major airlines like Spirit and Silver, providing students with career-oriented programs and a pathway to successful aviation careers. Located in Miami, Florida, our students benefit from over 350 flying days a year, accelerating their practical flying experience. Join us to embark on your aviation journey with a proven track record of success and a commitment to excellence.",
+  "icao": "KOPF",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

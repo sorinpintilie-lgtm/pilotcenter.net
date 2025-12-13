@@ -1,0 +1,22 @@
+{
+  "id": "f7458c53-e48d-43b8-9d11-bb3a201c8151",
+  "slug": "centro-de-formacion-aeronautico-aerofan",
+  "name": "CENTRO DE FORMACION AERONAUTICO AEROFAN",
+  "continent": "Europe",
+  "country": "Spain",
+  "state": "ESP",
+  "city": "",
+  "baseAirport": "Madrid Airport",
+  "website": "https://aerofan.es/",
+  "email": "info@aerofan.es",
+  "phone": "(+34) 91 508 6600 - (+34) 629 057 909",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Modular Courses\\nIntegrated Courses\\nQualification Courses\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "8362dd7b-1f99-4aad-9a57-969154a67c36",
+  "slug": "aensa-costa-rica",
+  "name": "Aensa Costa Rica",
+  "continent": "North America",
+  "country": "Costa Rica",
+  "state": "CR",
+  "city": "",
+  "baseAirport": "Tobias Bolanos Airport",
+  "website": "https://www.aensacr.com/",
+  "email": "info@aensacr.com",
+  "phone": "'+506 2232-1248",
+  "about": "AENSA, or Academia de Enseñanza Aeronáutica, is the premier flight school in Costa Rica, located at the Tobías Bolaños Palma International Airport. Established in the 1970s, AENSA is authorized to provide training for both airplane and helicopter pilots, and is the most recognized flight school in the region. Approved by the Costa Rican aeronautical authority, AENSA offers modular courses for private pilot, commercial pilot, instrument flight rules (IFR), and flight instructor certifications. Our experienced instructors guide students from the beginning to the completion of their pilot careers. AENSA also provides advanced courses for Remotely Piloted Aircraft Systems (RPAS) and ensures comprehensive theoretical and practical training. With a fleet of international-class aircraft, AENSA equips students with the necessary tools to excel as qualified aviators.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airplane Pilot\\nHelicopter Pilot\\nRegulatory Courses\\nCRX MAX Simulator\\nDrone Courses\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

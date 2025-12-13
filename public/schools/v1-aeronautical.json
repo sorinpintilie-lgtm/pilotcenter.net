@@ -1,0 +1,22 @@
+{
+  "id": "70b8b007-36cc-4ef7-b281-cd5629f2d7d5",
+  "slug": "v1-aeronautical",
+  "name": "V1 Aeronautical",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "PIE -St Pete-Clearwater International Airport",
+  "website": "https://www.v1aeronautical.com/",
+  "email": "admin@v1aeronautical.com",
+  "phone": "(727) 216-6677",
+  "about": "V1 Aeronautical is a premier flight school and aviation services provider based in the Tampa Bay area, serving Clearwater, St. Petersburg, and surrounding regions. Our team of highly experienced instructors, with over 30,000 combined flight hours, offers personalized flight training for busy professionals and commercial students. We provide a range of pilot certifications, including Private Pilot, Instrument Rating, Commercial Pilot, Certified Flight Instructor, and Airline Transport Pilot certificates, as well as specialized Cirrus Transition Training. Our fleet features advanced aircraft equipped with state-of-the-art avionics, such as the Cirrus Perspective+ by Garmin. We also offer customized aircraft management services and introductory discovery flights to help you begin your aviation journey. With a commitment to excellence and a focus on individual needs, V1 Aeronautical is dedicated to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

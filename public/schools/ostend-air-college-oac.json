@@ -1,0 +1,22 @@
+{
+  "id": "cd8ec15b-0e32-4f57-958f-67e627699b7e",
+  "slug": "ostend-air-college-oac",
+  "name": "Ostend Air College (OAC)",
+  "continent": "Europe",
+  "country": "Belgium",
+  "state": "BELG",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.o-a-c.be/",
+  "email": "info@o-a-c.be",
+  "phone": "'+32 59 31 42 81",
+  "about": "Ostend Air College (OAC), located in Belgium, is a premier flight training institution with over 20 years of experience. As the first recognized training center for airline pilots in Belgium, OAC offers a variety of programs, including Private Pilot Licence (PPL), Night Rating, and Commercial Pilot Licence (CPL), as well as ab initio training. The college boasts a modern infrastructure and an impressive fleet, including the largest uniform G1000/G500 Glass Cockpit fleet in Belgium, along with Diamond DA40 and DA42 aircraft, and a simulator. OAC provides training to pilots who go on to work with over 40 companies worldwide, including renowned airlines. With a digital training management system through FlightLogger, OAC ensures a high-quality, fully digital experience for its students, instructors, and staff. OAC is committed to delivering the skills and knowledge necessary for a successful aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot Course\\nModular Training Courses\\nFlight Instructor Courses\\nProficiency Checks\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "aa3ff1c6-c379-4bbf-aede-4f2a6c11b6f6",
+  "slug": "aeros-flight-training",
+  "name": "Aeros Flight Training",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Coventry",
+  "baseAirport": "Coventry Airport",
+  "website": "https://www.aeros.co.uk/",
+  "email": "gloucester@aeros.co.uk",
+  "phone": "'+44 1452 857 419",
+  "about": "Aeros Flight Training, established in 1986, is the UK’s leading modular flight training school with bases in Cardiff, Coventry, Gloucester, Wellesbourne, and Doncaster. We take students from zero experience to airline employment-ready in as little as 18 months, offering courses for both novice and experienced pilots, including CPL and MCC/JOC. Our academies are open 7 days a week, providing one-to-one instruction tailored to individual needs, with a 100% first series pass rate. Our graduates fly for major airlines such as British Airways, Emirates, and Ryanair. With a commitment to safety and excellence, we help students achieve their aviation dreams efficiently and safely.",
+  "icao": "EGBE",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nNight Rating\\nEASA ATPL Ground School\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

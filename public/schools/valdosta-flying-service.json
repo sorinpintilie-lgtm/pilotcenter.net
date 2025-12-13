@@ -1,0 +1,22 @@
+{
+  "id": "6a67be11-0d88-4228-8aef-8b3281ebac78",
+  "slug": "valdosta-flying-service",
+  "name": "Valdosta Flying Service, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "GA",
+  "city": "",
+  "baseAirport": "VLD -Valdosta Regional Airport",
+  "website": "https://vfs.aero/",
+  "email": "flightline@vfs.aero",
+  "phone": "(229) 242-3175",
+  "about": "Valdosta Flying Service, Inc., located at the Valdosta Regional Airport in Valdosta, Georgia, offers comprehensive airplane flight training programs. We provide a range of services including private pilot certification, aircraft rental, and aviation fuel. Our training meets the minimum requirements set by the FAA, with students needing to be at least 17 years old and able to read, speak, write, and understand English. Our facility also offers aircraft ground handling, parking, hangars, and catering services. With a friendly and well-trained staff, we ensure a supportive and professional environment for all our students and clients. For more information, contact us at 229-242-3175 or visit our website at vfs.aero. We are dedicated to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

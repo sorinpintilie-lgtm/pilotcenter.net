@@ -1,0 +1,22 @@
+{
+  "id": "9d371cce-9ce8-4939-8f91-32c739aed7f2",
+  "slug": "aerodynamic-aviation",
+  "name": "AeroDynamic Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CA",
+  "city": "San Jose",
+  "baseAirport": "Reid-Hillview Airport (KRHV) / Salinas Municipal Airport (KSNS) / Monterey Peninsula Airport",
+  "website": "https://www.aerodynamicaviation.com/",
+  "email": "facebook@aerodynamicaviation.com",
+  "phone": "'+1 408-320-9614",
+  "about": "AeroDynamic Aviation, established in 1960, is a premier flight school with locations at Reid-Hillview Airport in San Jose, Salinas Municipal Airport, and Monterey Peninsula Airport. We offer comprehensive flight training for Sport and Private Pilot, Instrument, Commercial, Multi-Engine, ATP, CFI, tailwheel, aerobatics, and mountain flying. Our instructors are dedicated to teaching traditional stick-and-rudder skills, using a variety of aircraft including Citabria, Cessna, Evektor SportStar, and Piper. We provide structured ground school and flight training, emphasizing safety, technical skills, and pilot judgment. With a legacy rooted in Amelia Reid's teaching methods, we aim to make flying both fun and professional. Join us to experience the freedom of flight in the beautiful San Francisco and Monterey Bay Areas.",
+  "icao": "KRHV",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

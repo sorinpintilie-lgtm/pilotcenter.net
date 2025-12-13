@@ -1,0 +1,22 @@
+{
+  "id": "47b2fa06-7790-4498-8e08-175c275655e3",
+  "slug": "mission-aviation-training-academy",
+  "name": "Mission Aviation Training Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "AWO -Arlington Municipal Airport",
+  "website": "http://www.mata-usa.org",
+  "email": "info@mata-usa.org",
+  "phone": "(425) 231-5855",
+  "about": "Mission Aviation Training Academy (MATA) is a nonprofit organization dedicated to assisting pilots in meeting the qualifications for major mission aviation organizations. Located in Arlington, WA, MATA prioritizes its students by ensuring aircraft are available and fully operational for training. The academy focuses on providing professional aviation training that equips individuals to serve in mission aviation, aligning with a commitment to the Gospel message. With a strong governance structure and experienced leadership, MATA strives to maintain high standards in aviation training, preparing pilots for service in various global missions. MATA is committed to excellence in aviation education, enabling its graduates to make a significant impact in their future roles.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

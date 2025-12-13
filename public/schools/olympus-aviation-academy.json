@@ -1,0 +1,22 @@
+{
+  "id": "5cdfdfef-fe50-4e87-a265-20c49334cfa6",
+  "slug": "olympus-aviation-academy",
+  "name": "Olympus Aviation Academy",
+  "continent": "Europe",
+  "country": "Greece",
+  "state": "",
+  "city": "Thessaloniki",
+  "baseAirport": "International Makedonia Airport",
+  "website": "https://www.olympusacademy.gr/",
+  "email": "info@olympusacademy.gr",
+  "phone": "'+30 2310475111",
+  "about": "Olympus Aviation Academy, located in Kalamaria, Greece, is a professional flight training institution founded by experienced pilots from the military Air Force and civil aviation industry. The academy offers an integrated Zero to ATPL program, which includes theoretical and practical training, leading to a frozen EASA ATPL license. The course duration is typically 12-14 months and includes 750 hours of ground school and 206 hours of flight training. The academy is known for its experienced instructors, many of whom are former Greek Air Force chief pilots, and its commitment to flight safety and EASA standards. Despite some past challenges, the academy provides a comprehensive and supportive learning environment, ensuring students receive high-quality training to become competent professional pilots. Olympus Aviation Academy is dedicated to fostering a solid foundation in aviation skills and character for its students.",
+  "icao": "LGTS",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nSeaplane Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

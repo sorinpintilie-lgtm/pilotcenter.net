@@ -1,0 +1,22 @@
+{
+  "id": "23ca2e3a-8d6c-435e-ad2c-ff18b97b9945",
+  "slug": "aerotech-aviation",
+  "name": "Aerotech Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "UT",
+  "city": "",
+  "baseAirport": "U42 -South Valley Regional Airport",
+  "website": "https://aerotechaviation.net/",
+  "email": "doug@aerotechaviation.net",
+  "phone": "(801) 999-1122",
+  "about": "Aerotech Aviation, founded by Doug Frix, a former airline and Civil Air Patrol Search and Rescue pilot, is dedicated to providing high-quality, flexible, and affordable flight training. Our instructors, with years of professional flying experience, guide students through comprehensive programs for Private Pilot, Instrument Rating, Commercial License, and Airline Transport Pilot (ATP) certifications. We prioritize safety and maintain state-of-the-art aircraft, ensuring a positive and supportive learning environment. Whether you are a beginner or advancing your skills, Aerotech Aviation offers the best value in flight training, helping you achieve your aviation goals with confidence and professionalism.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "8af03f8b-3194-4be6-adff-63b080a0db5a",
+  "slug": "scout-aviation",
+  "name": "Scout Aviation, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "ODO -Odessa-Schlemeyer Field",
+  "website": "https://www.scoutaviationllc.com/",
+  "email": "scoutaviationllc@gmail.com",
+  "phone": "(214) 403-5819",
+  "about": "Scout Aviation, LLC, located at KODO, is a dedicated flying school committed to providing comprehensive aviation training. We offer a range of services including Biennial Flight Reviews, Ground School, and Introductory Flights. Our training programs are designed to ensure students receive thorough and professional instruction to achieve their aviation goals. With a focus on safety and confidence, Scout Aviation is the ideal choice for those seeking to embark on or continue their flight training journey. Join us to take the first step towards becoming a skilled and certified pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nIntro Flight\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

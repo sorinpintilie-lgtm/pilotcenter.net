@@ -1,0 +1,22 @@
+{
+  "id": "82048c4d-36fc-4ea5-8d8d-0d821d5dd2a0",
+  "slug": "airflair",
+  "name": "AirFlair, Inc",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IA",
+  "city": "",
+  "baseAirport": "SXK -Sioux County Regional Airport",
+  "website": "https://www.airflairinc.com/web/",
+  "email": "info@airflairinc.com",
+  "phone": "(712) 567-1000",
+  "about": "At AirFlair, Inc., we are dedicated to providing top-notch flight training in a safe and supportive environment. Located in a prime flying location, our school offers FAA-approved courses and hands-on training with a diverse fleet of single-engine and multi-engine aircraft. Our experienced instructors, with thousands of hours of flight and instructional experience, tailor their teaching to each student's needs, ensuring confidence and mastery of flight skills. We also provide on-site FAA Airman Knowledge Testing, designated pilot examiners, and comprehensive aircraft maintenance to the highest standards. With student housing options and a strong focus on community engagement, AirFlair, Inc. is committed to helping you achieve your aviation dreams efficiently and enjoyably. Join us to embark on a journey to becoming a skilled and confident pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nExaminer\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

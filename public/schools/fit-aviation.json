@@ -1,0 +1,22 @@
+{
+  "id": "dd2d45a5-d983-4f21-bf19-572db162dee9",
+  "slug": "fit-aviation",
+  "name": "FIT Aviation, LLC",
+  "continent": "North America",
+  "country": "USA",
+  "state": "FL",
+  "city": "Melbourne",
+  "baseAirport": "Melbourne International Airport",
+  "website": "https://www.fitaviation.com/",
+  "email": "fita.customersvc@fit.edu",
+  "phone": "'+1 321-674-6501",
+  "about": "FIT Aviation, LLC, located at Melbourne International Airport, is the flight training arm of Florida Institute of Technology's College of Aeronautics. We offer comprehensive aviation training from Private Pilot to Commercial Pilot, including ATPL, Instrument, and Multi-Engine training. Our fleet consists of modern Piper aircraft, including Warriors, Archers, and Seminoles, all equipped with advanced avionics like Garmin G-1000. We utilize a fleet of ten simulators to enhance training and mitigate risks. With over 300 days of excellent flying weather, our location on Florida’s Space Coast provides ideal conditions for rapid training progression. We are FAA Part 141 approved and committed to safety and excellence, integrating Safety Management Systems throughout our operations. FIT Aviation is dedicated to producing competent and confident pilots with a strong safety-first mindset.",
+  "icao": "KMLB",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nEASA ATPL Ground School\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

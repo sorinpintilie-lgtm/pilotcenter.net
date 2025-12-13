@@ -1,0 +1,22 @@
+{
+  "id": "3b64d480-699b-48c4-88b6-53da9bb29c6a",
+  "slug": "hellenic-air-training-services",
+  "name": "Hellenic Air Training Services",
+  "continent": "Europe",
+  "country": "Greece",
+  "state": "GRC",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://hatsato.gr/",
+  "email": "info@hatsato.gr",
+  "phone": "'+30 22990 24820",
+  "about": "Hellenic Air Training Services (HATS) is an Approved Training Organisation (ATO) and Training Organisation (TO) located near Athens International Airport in Markopoulo, Greece. With highly experienced training captains and personnel, HATS ensures the quality of services and supports airline companies in their training demands. The school provides comprehensive training programs tailored to meet the needs of the aviation industry, utilizing modern facilities and experienced instructors. HATS is committed to delivering high-standard training, ensuring that all students receive the necessary skills and knowledge to excel in their aviation careers. HATS is dedicated to maintaining the highest quality of training services, making it a trusted partner in aviation education.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"CRM Initial Course\\nCRM for Instructors\\nCabin Crew Training\\nInitial Safety Training\\nCabin Crew Instructor\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

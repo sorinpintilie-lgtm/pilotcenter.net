@@ -1,0 +1,22 @@
+{
+  "id": "137077fc-ec2f-4c2f-900f-4875ac022869",
+  "slug": "aircraft-simulator-training",
+  "name": "Aircraft Simulator Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "BMQ -Burnet Muni/Kate Craddock Field",
+  "website": "https://aircraftsimulatortraining.com/",
+  "email": "aircraftsimtraining@gmail.com",
+  "phone": "(512) 234-0045",
+  "about": "Aircraft Simulator Training is a specialized facility focused on enhancing pilot skills through advanced simulation technology. Located in Burnet, Texas, and with a turboprop facility in Georgetown, we provide custom-built full six degrees of motion simulators that replicate actual flight characteristics. Our training is designed to prepare pilots for high-pressure situations, emphasizing instrument skills, emergency procedures, and systems knowledge. We work with pilots to meet insurance requirements and offer Flight Reviews and IPC sign-offs. Our instructors, including airline captains and professional pilots, ensure that every pilot leaves the training as a more proficient and safety-conscious aviator. We are committed to delivering high-quality, tailored training to help pilots handle any situation with confidence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nGround School\\nIntro Flight\\nSimulator\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

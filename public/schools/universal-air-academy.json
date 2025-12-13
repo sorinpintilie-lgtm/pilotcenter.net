@@ -1,0 +1,22 @@
+{
+  "id": "53e7aaf0-97ee-423c-82c6-e1b93cd441f8",
+  "slug": "universal-air-academy",
+  "name": "Universal Air Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "EMT -San Gabriel Valley Airport",
+  "website": "http://www.universalairacademy.com/",
+  "email": "info@universalairacademy.com",
+  "phone": "(626) 454-5254",
+  "about": "Universal Air Academy, located in El Monte, California, is a premier flight training institution offering professional instruction for both airplane and helicopter pilots. With over 20 years of experience, we provide FAA-approved training programs, including Private Pilot, Commercial Pilot, Instrument Rating, Multi-Engine, and Certified Flight Instructor certifications. Our fleet of over 15 aircraft and experienced instructors ensure students receive personalized, efficient training in the busy airspace of Southern California. We cater to students of all ages and backgrounds, from hobbyists to those pursuing careers in aviation. Our graduates have been hired by major airlines and aviation companies worldwide. We are committed to providing safe, high-quality training with affordable rates, making your dream of flying a reality. Join us to embark on a rewarding aviation career or to enjoy flying as a hobby.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nGround School\\nInstrument Proficiency Check\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

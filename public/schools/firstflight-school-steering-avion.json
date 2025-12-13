@@ -1,0 +1,22 @@
+{
+  "id": "1787b9ee-8495-4c7d-a332-4743cfd8475d",
+  "slug": "firstflight-school-steering-avion",
+  "name": "Firstflight - School Steering Avion",
+  "continent": "Europe",
+  "country": "France",
+  "state": "FR",
+  "city": "",
+  "baseAirport": "Toussus le Noble Airport",
+  "website": "https://www.firstflight.fr/",
+  "email": "patrice.gasnier@firstflight.fr",
+  "phone": "06 09 69 07 91",
+  "about": "At First Flight Aviation, we are dedicated to providing comprehensive and immersive flight training experiences. Located in Dayton, OH, our school operates under a FAR 141 Air Agency Certificate, ensuring a rigorous and educational environment for aspiring pilots. From Private Pilot Certificates to Certified Flight Instructor ratings, our training covers all aspects of aviation, combining technical and practical knowledge. We support STEM careers and offer degree programs, as well as sales and maintenance services for aircraft. Our roots trace back to the pioneering work of the Wright Brothers at Huffman Prairie, and we continue their legacy by helping the next generation of pilots achieve their dreams. Contact us to start your journey in the skies.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"AERONAUTICS DISCOVERY COURSE\\nINTRODUCTION TO PLANE PILOTING\\nULM CERTIFICATE\\nLIGHT AIRCRAFT PILOT LICENSE (LAPL)\\nPPL LICENSE - STANDARD PACK\\nPPL LICENSE - PREMIUM PACK\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "05be276d-d63a-4369-bb98-077ad22342c4",
+  "slug": "chickadee-aviation",
+  "name": "Chickadee Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "ME",
+  "city": "",
+  "baseAirport": "PWM -Portland International Jetport Airport",
+  "website": "https://chickadeeaviation.com/",
+  "email": "chickadee.aviation@gmail.com",
+  "phone": "(207) 240-8299",
+  "about": "Chickadee Aviation, a Part 61 flight training school, is dedicated to providing high-quality aviation education at all levels. Located at the Auburn-Lewiston Municipal Airport in Maine, we offer programs from private pilot training to advanced commercial and instructor certifications. Our fleet includes Cessna 172s, a Piper PA-34, and we utilize an FAA Certified Redbird FMX Flight Simulator for comprehensive ground and simulation training. Founded by Ronald Wood, who transitioned from enjoying flying as a hobby to sharing his passion with others, Chickadee Aviation also offers scenic tours and aircraft rentals. With highly skilled instructors and a commitment to excellence, we aim to make every student's aviation journey successful and enjoyable. Join us to soar to new heights in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Flight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

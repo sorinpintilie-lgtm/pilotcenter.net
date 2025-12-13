@@ -1,0 +1,22 @@
+{
+  "id": "a3b61a52-3c65-473a-aa00-11ca6ce32c7d",
+  "slug": "air-pannonia",
+  "name": "AIR PANNONIA",
+  "continent": "Europe",
+  "country": "Croatia",
+  "state": "HR",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://air-pannonia.hr/",
+  "email": "operations@air-pannonia.hr",
+  "phone": "'+385 91 350 6580",
+  "about": "Air Pannonia's Pannonia Pilot School, established in 1995, is a premier flight training institution in the Balkans. With a license obtained in 2009 for aircraft service and Continuing Airworthiness Management (CAMO), the school offers comprehensive training programs. Our experienced instructors, including Miroslav Vlašić and Nikola Đuričko, bring over 20,000 combined flying hours and extensive instructional experience. The school operates two aircraft for educational purposes and is committed to providing cutting-edge training tailored for aspiring aviators. With a passionate community and modern facilities, Air Pannonia is dedicated to helping pilots achieve their aviation goals. For more information, visit our website or contact us to take the next step in your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PPL training course\\nSingle Engine Aircraft Class (SEP) Training Course\\nNight flying training course\\nTraining course for Time building hours\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "878d483b-fb7c-4405-8c9f-63464d49c4a0",
+  "slug": "hp-flight-school",
+  "name": "HP Flight School",
+  "continent": "North America",
+  "country": "Panama",
+  "state": "PA",
+  "city": "",
+  "baseAirport": "Marcos A. Gelabert Airport",
+  "website": "https://www.charterspanama.com/",
+  "email": "info@helicopterospersonales.com",
+  "phone": "'+507 6674-5435",
+  "about": "At HP Flight School, we are dedicated to providing high-quality flight training in a safe and supportive environment. Our experienced instructors, passionate about aviation, guide students from beginner to advanced levels, including private, instrument, commercial, and multi-engine certifications. Located in a region with favorable weather conditions, our school offers both Part 141 and 61 flight instruction using approved curricula. We emphasize hands-on training, ground school, and the use of advanced flight simulators to ensure a comprehensive learning experience. Our goal is to transform aviation dreamers into skilled, confident pilots, whether for recreational flying or a professional career. Join us to embark on your aviation journey with personalized attention and a commitment to excellence. We are here to help you achieve your flying dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"RPA (DRONE) Course\\nPrivate Airplane Pilot\\nCommercial Airplane Pilot\\nInstrument Rating\\nMulti Engine Enablement\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

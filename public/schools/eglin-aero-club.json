@@ -1,0 +1,22 @@
+{
+  "id": "326913eb-cf9d-4723-9499-495b514cf764",
+  "slug": "eglin-aero-club",
+  "name": "Eglin Aero Club",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "VPS -Eglin Air Force Base/Destin-Ft Walton Beach Airport",
+  "website": "http://www.eglinaeroclub.com/",
+  "email": "eglinaeroclub@gmail.com",
+  "phone": "(850) 882-5148",
+  "about": "The Eglin Aero Club, located at Eglin Air Force Base in Northwest Florida, is an FAA/VA approved Part 141 certified flight school. Open to active and retired military personnel, active reserves, National Guard, base contractors, Civil Air Patrol members, and their families, the club offers a range of certifications including private pilot, instrument, commercial, multi-engine, and flight instructor. The club boasts a diverse and well-maintained fleet of aircraft, a strong safety record, and a professional staff. Ground school classes and computerized FAA testing are available, along with specialized courses such as the Pinch Hitter course and Airframe & Powerplant test prep. The club is open 24/7 to members, with staffed hours from Monday to Friday. For those interested in flying, orientation flights are available to determine if flying is right for you. The Eglin Aero Club is dedicated to providing high-quality aviation training in a supportive and safe environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

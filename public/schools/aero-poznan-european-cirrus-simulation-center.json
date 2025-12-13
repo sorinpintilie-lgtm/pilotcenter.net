@@ -1,0 +1,22 @@
+{
+  "id": "5b2d78c6-64c1-4010-a88d-66b0322e7a4e",
+  "slug": "aero-poznan-european-cirrus-simulation-center",
+  "name": "Aero Poznan European Cirrus Simulation Center",
+  "continent": "Europe",
+  "country": "Poland",
+  "state": "POL",
+  "city": "",
+  "baseAirport": "Poznan International Airport",
+  "website": "https://poznan.aero/",
+  "email": "office@poznan.aero",
+  "phone": "'+48 61 847 47 73",
+  "about": "Aero Poznan European Cirrus Simulation Center, located at Poznan International Airport in Poland, is a premier aviation training facility specializing in Cirrus Aircraft. As the only full-motion Cirrus Simulation Center in Europe, we offer comprehensive training programs using state-of-the-art simulators, including the Cirrus SR and Cirrus Vision Jet. Our services include authorized Cirrus Aircraft training, maintenance, and the sale of new and used Cirrus Aircraft. Our team of qualified instructors, holding CSIP certification, and experienced mechanics ensure a high standard of learning. We provide tailored training packages, including scenario-based training, malfunctions training, and recurrent training, all designed to prepare pilots for various flying conditions. With a focus on safety and individualized instruction, Aero Poznan is dedicated to transforming aspiring pilots into confident aviators. Contact us to take your aviation training to new heights.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Night Rating\\nPPL(A) familiarization course\\nPPL(A) pilot license\\nBasic Instrument Rating\\nCompetence Based Instrument Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "9bdfa93a-537c-4561-83b1-a8d9d4c49c51",
+  "slug": "worcester-flying-school",
+  "name": "Worcester Flying School",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "WC",
+  "city": "",
+  "baseAirport": "Worcester Airfield",
+  "website": "https://worcesterflyingclub.co.za/",
+  "email": "info@worcesterflyingclub.co.za",
+  "phone": "'+27 82 632 8471",
+  "about": "Worcester Regional Flight Academy, located at the Worcester Regional Airport in Worcester, MA, is a premier institution for flight training. Established to meet the growing demand for skilled pilots, the academy offers comprehensive programs for both hobbyists and aspiring professional pilots. With a focus on safety and excellence, our experienced instructors provide one-on-one training and interactive ground schools. Our well-maintained fleet of aircraft ensures students receive hands-on experience in a supportive and engaging environment. Contact us today to transform your aviation dreams into reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Aerobatics rating\\nClass Rating\\nCPL - (Modular - A)\\nFlight Instructor\\nInstrument Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "aff1e593-6b81-40d8-8c34-d114a99faf43",
+  "slug": "lakeland-aviation",
+  "name": "Lakeland Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WI",
+  "city": "",
+  "baseAirport": "ARV -Lakeland/Noble F Lee Memorial Field",
+  "website": "https://www.lakelandfbo.com/",
+  "email": "info@lakelandfbo.com",
+  "phone": "(715) 356-3891",
+  "about": "Lakeland Aviation, located in Minocqua, Wisconsin, is a full-service Fixed Base Operator (FBO) offering a comprehensive range of aviation services. We provide aircraft fueling, routine maintenance, and periodic inspections for general aviation aircraft since 1985. Our flight training programs cater to skillsets from beginner to advanced pilots, ensuring thorough and professional instruction. Additionally, we offer aircraft and vehicle rentals, as well as hangar space. Our operations are supported by after-hours service for all customer needs. With a commitment to safety and customer satisfaction, Lakeland Aviation is your trusted partner in aviation services. We are dedicated to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

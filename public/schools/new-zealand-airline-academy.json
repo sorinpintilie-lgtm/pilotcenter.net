@@ -1,0 +1,22 @@
+{
+  "id": "bb824094-a04e-4874-b360-176bd8083b2d",
+  "slug": "new-zealand-airline-academy",
+  "name": "New Zealand Airline Academy",
+  "continent": "Australia",
+  "country": "New Zealnd",
+  "state": "NZ",
+  "city": "",
+  "baseAirport": "Oamaru Airport",
+  "website": "https://www.nzaal.co.nz/",
+  "email": "info@nzaal.co.nz",
+  "phone": "'+64-2777-69225",
+  "about": "New Zealand Airline Academy Limited (NZAAL), located in Oamaru, New Zealand, is dedicated to transforming aspiring aviators into airline-ready professionals. Founded by aviation professionals with over three decades of experience, NZAAL offers advanced flight training programs using a brand-new fleet of aircraft with glass cockpits and touchscreens. Students benefit from training on a B73 flight simulator and MCC programs, as well as full boarding and lodging facilities. With a strong focus on safety and quality, NZAAL provides a vibrant and supportive environment, ensuring students are well-prepared for a thriving career in aviation. NZAAL is committed to helping you reach your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot Licence\\nCommercial Pilot Licence\\nInstrument Rating\\nInstructor Rating (C Cat)\\nFrozen ATPL\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

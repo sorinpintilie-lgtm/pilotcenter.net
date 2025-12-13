@@ -1,0 +1,22 @@
+{
+  "id": "2bfa4a10-6489-4858-8021-4dc8be6f3f55",
+  "slug": "flugschule-austriafly",
+  "name": "Flugschule Austriafly",
+  "continent": "Europe",
+  "country": "Austria",
+  "state": "AUST",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.austriafly.at/",
+  "email": "info@austriafly.at",
+  "phone": "0043 664 4420002",
+  "about": "At Flugschule Austriafly, we have been turning flying dreams into reality for over 25 years. Located in the heart of Pongau in Salzburg, Austria, our school offers ideal flight conditions and breathtaking scenery. Our certified tandem pilots and flight instructors are experts with years of practice, ensuring a safe and exhilarating experience. We provide state-of-the-art flight equipment, regularly checked for safety. Whether you're interested in tandem flights or paragliding training, Flugschule Austriafly is your premier choice for an unforgettable flight adventure. Join us for a journey of freedom, fun, and great experiences with our top-notch team.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Paragliding cross-country flight course\\nParaglider safety training\\nParagliding tandem course\\nMental Training for Paragliders\\ntechnical course\\nGround handling with the paraglider\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

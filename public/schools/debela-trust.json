@@ -1,0 +1,22 @@
+{
+  "id": "5d044806-f350-4319-a355-66191615ebb4",
+  "slug": "debela-trust",
+  "name": "Debela Trust",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "GT",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.debela.co.za/",
+  "email": "info@debela.co.za",
+  "phone": "'+27 62 942 6144",
+  "about": "Debela Training and Management (DTM) is a renowned aviation training institution specializing in courses for Aircraft Maintenance Engineers (AME) and support staff. Located in a tranquil bushveld setting near Lanseria International Airport in Johannesburg, DTM offers a serene learning environment. Our courses include AME training, store keeping, aviation quality assurance, maintenance planning, and more, all compliant with SACAA regulations. We provide on-site accommodation and meals for convenience. With plans to introduce online courses, DTM ensures global accessibility. Our facility is ideal for focused learning, and we are committed to delivering high-quality training in a supportive and peaceful atmosphere. DTM is dedicated to preparing students for successful careers in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Flight Operations Officer\\nTrain The Trainer Refresher\\nMaintenance Human Factors Refresher\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

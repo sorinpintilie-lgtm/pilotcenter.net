@@ -1,0 +1,22 @@
+{
+  "id": "363091c8-d6da-4252-a0fd-046f9f3714fc",
+  "slug": "apogee-air",
+  "name": "Apogee Air",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MI",
+  "city": "",
+  "baseAirport": "PTK -Oakland County International Airport",
+  "website": "https://www.flyapogee.com/",
+  "email": "schedule@flyapogee.com",
+  "phone": "(248) 742-9118",
+  "about": "Apogee Air is an elite aviation community and certified Cirrus training center located near Pontiac, Michigan. Founded by Josh and Valerie Clark, the company offers tailored flight training, aircraft management, and pilot services. With a strong emphasis on safety and efficiency, Apogee provides an elite experience for its members. The training center is staffed by highly qualified instructors, many of whom are alumni of Western Michigan University's College of Aviation. Apogee's services include executive flight training, comprehensive pre-flight, in-flight, and post-flight planning, and the opportunity to fly with experienced pilots who have flown to over 100 countries. Apogee strives for excellence and professionalism in all its operations, making it a fulfilling and enjoyable environment for both students and staff.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nInstrument Proficiency Check\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

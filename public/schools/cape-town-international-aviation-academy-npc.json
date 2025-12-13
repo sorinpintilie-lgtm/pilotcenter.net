@@ -1,0 +1,22 @@
+{
+  "id": "9710896b-77ce-4b60-8d88-75ceb25425eb",
+  "slug": "cape-town-international-aviation-academy-npc",
+  "name": "Cape Town International Aviation Academy NPC",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "CT",
+  "city": "",
+  "baseAirport": "Cape Town International Airport",
+  "website": "https://www.capetownflyingclub.co.za/",
+  "email": "enquiries@ctiaa.org",
+  "phone": "'+27 21 934 0257",
+  "about": "Cape Town International Aviation Academy NPC, based at Cape Town International Airport, offers comprehensive pilot training from Private Pilot to Commercial License and Multi Engine Instrument Rating. Our highly qualified instructors and modular training system ensure high flying standards. The academy is approved by the South African Civil Aviation Authority and follows International Civil Aviation Organisation (ICAO) standards, issuing internationally recognized pilot licenses. We emphasize safety through regular briefings and encourage participation in flying events. With four annual intakes and a social, yet competitive environment, we provide a well-rounded training experience in one of the world's most picturesque cities. Our goal is to equip students with the skills and knowledge necessary for a successful aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License (PPL)\\nNight Rating\\nInstrument Rating\\nCommercial Pilot License|\\nInstructor Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

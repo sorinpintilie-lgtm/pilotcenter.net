@@ -1,0 +1,22 @@
+{
+  "id": "dd16e126-7545-44a3-8ad5-f8dddd826cf2",
+  "slug": "squadron-2",
+  "name": "Squadron 2",
+  "continent": "North America",
+  "country": "United",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "RHV -Reid-Hillview of Santa Clara County Airport",
+  "website": "https://www.squadron2.com/",
+  "email": "info@squadron2.com",
+  "phone": "(408) 648-2008",
+  "about": "Squadron 2 Flying Club, located at Reid Hillview Airport in San Jose, California, is a premier flight training institution founded in 1973. We offer both Part 61 and Part 141 flight training programs, catering to a wide range of training needs, from private pilot certificates to commercial and instrument ratings. Our fleet includes a variety of aircraft such as Cessna, Piper, and Beechcraft, all maintained by highly skilled on-site mechanics. Our team of professional instructors, led by Chief Pilot Clayton Conrad, provides personalized training to accommodate busy schedules. Members can schedule aircraft rentals 24/7 online, making it convenient for weekend getaways or long trips. With a focus on safety and economical flying, Squadron 2 is the ideal choice for aspiring pilots and aviation enthusiasts. Contact us at 408.648.2008 or visit our website for more information.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\\nUltralight\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

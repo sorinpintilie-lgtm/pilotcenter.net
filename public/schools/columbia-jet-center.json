@@ -1,0 +1,22 @@
+{
+  "id": "b261d2b1-eaf3-4d7b-9b13-84bda8374ea9",
+  "slug": "columbia-jet-center",
+  "name": "Columbia Jet Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MO",
+  "city": "",
+  "baseAirport": "COU -Columbia Regional Airport",
+  "website": "https://columbiajet.aero/",
+  "email": "csr@columbiajet.aero",
+  "phone": "(573) 443-1576",
+  "about": "Columbia Jet Center, located in Columbia, MO, is a comprehensive aviation facility dedicated to providing top-notch flight instruction and a range of aviation services. Our flight school offers a variety of programs, including private pilot training, instrument proficiency checks, biennial flight reviews, and time building programs. We are committed to delivering an enjoyable and high-quality learning experience, ensuring our students receive the best possible training. Our instructors are experienced professionals, and we utilize a variety of aircraft to cater to different training needs. Additionally, we provide fuel services, hangar rentals, and aircraft sales. At Columbia Jet Center, we prioritize safety and affordability, making us an ideal choice for aspiring pilots and aviation enthusiasts. We strive to make your aviation journey both rewarding and safe.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor ME\\nPrivate Pilot\\nMulti-Engine\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

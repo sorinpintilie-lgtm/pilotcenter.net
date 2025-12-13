@@ -1,0 +1,22 @@
+{
+  "id": "1cbe9b99-61f5-4888-8978-e59056ef837b",
+  "slug": "tampa-bay-aviation",
+  "name": "Tampa Bay Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "CLW -Clearwater Air Park Airport",
+  "website": "https://www.tampabayaviation.com/",
+  "email": "office@tampabayaviation.com",
+  "phone": "(727) 461-5229",
+  "about": "Tampa Bay Aviation is a premier flight training institution serving the Tampa Bay, Clearwater, and St. Petersburg areas. With over a decade of experience, we offer specialized training in both airplanes and helicopters, tailored to fit various lifestyles and schedules. Our training programs, including GI Bill-approved and Cirrus training, are conducted one-on-one with FAA-certified instructors. We provide flexible scheduling, financing options, and the opportunity to earn college credit. Our fleet of well-maintained aircraft and commitment to professionalism ensure a high-quality learning experience. Whether you're pursuing a career in aviation or seeking aerial sightseeing tours, Tampa Bay Aviation is dedicated to making your flying dreams a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nComputerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

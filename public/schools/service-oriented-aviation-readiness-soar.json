@@ -1,0 +1,22 @@
+{
+  "id": "dc0aef3c-95b9-4261-8eb2-29adc5aeb25b",
+  "slug": "service-oriented-aviation-readiness-soar",
+  "name": "Service Oriented Aviation Readiness (S.O.A.R.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MO",
+  "city": "",
+  "baseAirport": "M17 -Bolivar Municipal Airport",
+  "website": "https://www.soar-m17.org/",
+  "email": "office@soar-m17.org",
+  "phone": "(417) 777-6800",
+  "about": "Service Oriented Aviation Readiness (SOAR) is a specialized aviation training program dedicated to preparing missionary aviation mechanics and pilots. Located in Bolivar, MO, SOAR offers a comprehensive approach to training, enabling candidates to transition directly to their future mission aviation sending agencies. The program includes pilot training, aircraft maintenance, and rental services, as well as official FAA testing and a range of pilot supplies. With a strong focus on missionary aviation, SOAR equips individuals with the skills and knowledge necessary to serve effectively in their future roles. SOAR is committed to excellence in aviation education and mission readiness.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

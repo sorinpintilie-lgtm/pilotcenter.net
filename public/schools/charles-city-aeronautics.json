@@ -1,0 +1,22 @@
+{
+  "id": "63330c87-fc7f-49f5-a564-7c3ff8417963",
+  "slug": "charles-city-aeronautics",
+  "name": "Charles City Aeronautics",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IA",
+  "city": "",
+  "baseAirport": "CCY -Northeast Iowa Regional Airport",
+  "website": "https://northiowaair.com/",
+  "email": "info@northiowaair.com",
+  "phone": "(641) 228-3553",
+  "about": "Charles City Aeronautics, located at the Northeast Iowa Regional Airport in Charles City, Iowa, has been a cornerstone of the region's aviation community since 1957. As a full-service Fixed Base Operator (FBO), we offer a comprehensive range of aviation services, including flight training, aircraft maintenance, fuel services, and charter operations. Our flight school provides training for various certifications, such as Private Pilot, Commercial Pilot, Airline Transport Pilot (ATP), and Flight Instructor (CFI and CFII). With a team of expert pilots and mechanics, we ensure top-quality service and safety. We are committed to providing exceptional customer service and satisfaction, making us Iowa's most complete aviation center. Whether you are a student pilot or a seasoned aviator, Charles City Aeronautics is your trusted partner in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

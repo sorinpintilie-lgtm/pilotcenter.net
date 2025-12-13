@@ -1,0 +1,22 @@
+{
+  "id": "8957e414-7e72-4950-8ad7-22bd8d0f2e63",
+  "slug": "f-air",
+  "name": "F AIR Ltd.",
+  "continent": "Europe",
+  "country": "Czech Republic",
+  "state": "",
+  "city": "Benešov",
+  "baseAirport": "Benešov – Nesvachyly Airport",
+  "website": "https://www.f-air.cz/",
+  "email": "f-air@f-air.cz",
+  "phone": "'+420-777-623-033",
+  "about": "F AIR Ltd. is the first JAR certified flight school in the Czech Republic, established in 1990 and located near Prague. We offer a comprehensive range of training courses, from ultralight airplane licenses to commercial pilot licenses. With modern premises, a quality back office, restaurant, and accommodation available at the airport, we provide an ideal environment for pilot training. Our fleet includes about 30 aircraft and an FNPT II simulator. We train individuals aiming to fly for personal use or aspiring to become airline pilots, ensuring safe and professional flight education. Our commitment to consistency and high standards has made us a leader in Czech flight education. We are dedicated to producing career-ready pilots with a focus on safety, quality instruction, and support resources. At F AIR, we strive to make every student's flying dream a reality.",
+  "icao": "LKBE",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "a7d35a82-d7b1-4fad-a5da-c8c7838af2da",
+  "slug": "red-baron",
+  "name": "Red Baron",
+  "continent": "Oceania",
+  "country": "Australia",
+  "state": "",
+  "city": "",
+  "baseAirport": "Bankstown Airport",
+  "website": "https://www.redbaron.com.au/",
+  "email": "fly@redbaron.com.au",
+  "phone": "'+61 1300-664-677",
+  "about": "Red Baron Flying School is a renowned aviation training institution, particularly noted for its specialized programs in Upset Prevention and Recovery Training (UPRT). With over three decades of experience, the school is dedicated to inspiring excellence in aviation while maintaining the highest standards of safety and professionalism. Located in Sydney, Red Baron offers a range of personalized flight training options, including instrument and commercial airplane courses, as well as scenic and joy flights. The school's UPRT course is designed to expose pilots to common mishandling situations, enhancing their confidence and ability to recover from stalls and spins in a controlled environment. Red Baron's commitment to thorough and realistic training ensures that its students are well-prepared for any emergency situation, making it a trusted name in the aviation community. Contact us today to speak with one of our experienced pilots and take the first step in advancing your flying skills.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

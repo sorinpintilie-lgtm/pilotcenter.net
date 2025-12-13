@@ -1,0 +1,22 @@
+{
+  "id": "caddcbf8-c9f7-4f1f-ae3e-312984b9da54",
+  "slug": "pensacola-air-flight-school",
+  "name": "Pensacola Air Flight School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "PNS -Pensacola International Airport",
+  "website": "https://kpnsair.com/",
+  "email": "info@kpnsair.com",
+  "phone": "(850) 316-8825",
+  "about": "Pensacola Air Flight School is a Part 61 authorized flight training center located at 4343 Jerry L Maygarden Rd, Pensacola, FL. We offer initial, recurrent, re-qualification, and specialty flight training, catering to all levels from the first flight to airline captain certification. Our FAA-certified instructors have extensive flying and teaching experience, allowing us to tailor instruction to individual learning needs. We provide affordable flight training with a focus on safety and a welcoming, comfortable environment. Our services include Recreational Pilot, Private Pilot, Instrument Rating, Commercial Rating, Multi-Engine Rating, and Flight Instructor certifications. We also offer aircraft rentals and complete training solutions for private aircraft owners. Safety is our top priority, ensuring you become a confident and safe aviator.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

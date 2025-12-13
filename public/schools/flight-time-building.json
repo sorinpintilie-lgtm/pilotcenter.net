@@ -1,0 +1,22 @@
+{
+  "id": "9d94a068-2de6-49ae-97c8-9ad88fd0ea0f",
+  "slug": "flight-time-building",
+  "name": "Flight Time Building",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "X50 -Massey Ranch Airpark",
+  "website": "https://flighttimebuilding.com/",
+  "email": "info@FlightTimeBuilding.com",
+  "phone": "(386) 235-6226",
+  "about": "At Flying Academy, our Time Building programs are designed to help pilots efficiently accumulate the flight hours necessary for their careers. Located in Miami, Florida, and California, our schools offer ideal climates that allow students to fly 365 days a year. Our experienced flight instructors and top-notch customer service ensure a supportive and professional learning environment. We provide fairly priced hourly rentals, free accommodation, and arranged airport transportation to make your training seamless. Our programs include structured flying schedules, opportunities for international and cross-country flights, and the use of well-maintained, IFR-equipped aircraft. With Flying Academy, you can build your flight hours while enjoying scenic views and gaining valuable experience that translates well to commercial aviation. We are committed to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nTime Building Programs\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

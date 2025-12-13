@@ -1,0 +1,22 @@
+{
+  "id": "d52c6cbe-d2a8-4ea4-9e63-b0b00fab0ad9",
+  "slug": "huffman-aviation",
+  "name": "Huffman Aviation, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "FWS -Fort Worth Spinks Airport",
+  "website": "https://www.flyhuffman.com/",
+  "email": "huffman.aviation@gmail.com",
+  "phone": "(817) 551-9484",
+  "about": "Huffman Aviation LLC, located in Burleson, Texas, is a medium-sized flight school renowned for its exceptional quality and personalized training. Owned and operated by Jake Huffman, a veteran pilot with over 20,000 hours of flight time, the school offers a wide range of training programs, including FAA Part 141 and VA-approved courses, as well as traditional Part 61 training. Huffman Aviation boasts a diverse fleet of aircraft, including two-seat single-engine trainers, four-seat cross-country planes, complex, high-performance, and twin-engine aircraft, all meticulously maintained by an in-house team of certified mechanics. With a flexible syllabus tailored to individual needs, Huffman Aviation provides high-quality instruction at reasonable prices, making it an ideal choice for aspiring pilots in the greater Dallas/Fort Worth area. Our dedicated staff is committed to ensuring each student receives the best possible training experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

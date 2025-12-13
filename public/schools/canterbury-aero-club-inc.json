@@ -1,0 +1,22 @@
+{
+  "id": "fcf7f8a8-1546-4eda-a8c3-52c068da995e",
+  "slug": "canterbury-aero-club-inc",
+  "name": "Canterbury Aero Club (Inc)",
+  "continent": "Australia",
+  "country": "New Zealand",
+  "state": "NZ",
+  "city": "",
+  "baseAirport": "Christchurch International Airport",
+  "website": "https://cac.co.nz/",
+  "email": "bookings@cac.co.nz",
+  "phone": "03 359 2121",
+  "about": "The Canterbury Aero Club, established in 1928, is New Zealand's largest and most experienced aero club, based at Christchurch International Airport with additional branches at Rangiora and West Melton. We offer comprehensive flight training from introductory flights to private and commercial pilot licenses, including multi-engine and instructor ratings. Our facilities include a private airfield at West Melton, ideal for ab-initio training, and a modern clubhouse with a large hangar. With a fleet of aircraft and highly skilled instructors, we provide a safe and professional environment for all aspiring pilots. Our mission is to promote, foster, and develop safe and skilful flying, ensuring every student achieves their aviation goals with confidence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PPL Theory courses \\nCommercial Pilot’s Licence\\nForeign Licence Conversion\\nForeign Licence Validation (Temporary Licence)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

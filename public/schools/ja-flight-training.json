@@ -1,0 +1,22 @@
+{
+  "id": "d241d8e6-d1ad-4693-9206-0f4a05c1aa5f",
+  "slug": "ja-flight-training",
+  "name": "JA Flight Training",
+  "continent": "North America",
+  "country": "USA",
+  "state": "IL",
+  "city": "Sugar Grove",
+  "baseAirport": "Chicago's Aurora Airport",
+  "website": "https://www.jaflight.com/",
+  "email": "info@jaflight.com",
+  "phone": "'+1 630-549-2152",
+  "about": "JA Flight Training, located at Chicago's Aurora Airport, is a premier flight school in the Chicagoland area. Established in 2006, the school has grown from a part 61 flight school to an FAA-approved part 141 flight school, offering training up to the Airline Transport Pilot (ATP) rating. As a Cessna Pilot Center, JA Flight utilizes the King School online curriculum and features a modern fleet of Cessna aircraft and advanced simulators. The school is known for its accelerated Career Airline Pilot Program, which can get students from their first flight to a commercial rating in under 12 months. With affiliations with Southern Airways Express and collegiate programs, JA Flight provides a comprehensive and supportive environment for students to achieve their aviation goals. The school's commitment to top-notch education and its consistent 5-star reviews reflect its dedication to helping students succeed in their careers.",
+  "icao": "KARR",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

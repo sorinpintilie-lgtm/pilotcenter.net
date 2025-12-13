@@ -1,0 +1,22 @@
+{
+  "id": "b4eb629b-dfdc-49a8-9015-7bfe4c3291b1",
+  "slug": "nikita-aviation",
+  "name": "Nikita Aviation",
+  "continent": "Europe",
+  "country": "Serbia",
+  "state": "RS",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.nikitaaviation.rs/",
+  "email": "info@nikitaaviation.rs",
+  "phone": "'+381 63 253844",
+  "about": "Nikita Aviation, located in Belgrade, Serbia, is a premier flight school dedicated to elevating the standards of civil aviation education and training. Established with the goal of providing the highest quality instruction, Nikita Aviation offers comprehensive programs for aspiring pilots. The school provides theoretical and practical training for Private Pilot Licences (PPL), Commercial Pilot Licences (CPL), and time building opportunities. With a focus on excellence, Nikita Aviation ensures that all students receive thorough and professional guidance to prepare them for successful careers in aviation. Our commitment to quality education and safety makes us a trusted choice for future pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Pilot School\\nPPL Training\\nPanoramic Flight\\nTime Building\\nATPL Training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

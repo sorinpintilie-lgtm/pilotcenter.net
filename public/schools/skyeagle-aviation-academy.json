@@ -1,0 +1,22 @@
+{
+  "id": "041fdeb5-74bf-4821-930d-78e2b8e02589",
+  "slug": "skyeagle-aviation-academy",
+  "name": "SkyEagle Aviation Academy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "FL",
+  "city": "Fort Lauderdale",
+  "baseAirport": "Fort Lauderdale Executive Airport",
+  "website": "https://skyeagle.aero/",
+  "email": "contact@skyeagle.aero",
+  "phone": "'+1 954-772-1212 or\t+1 954 519 8444",
+  "about": "SkyEagle Aviation Academy, established in 2010 and FAA-certified under Part 141 since 2015, is a premier flight school located in Fort Lauderdale, Florida, with an additional location in Orlando. We offer comprehensive training programs from Private Pilot to Airline Transport Pilot (ATP) levels, including ATP CTP courses. Our academy boasts state-of-the-art facilities, a diverse fleet of single-engine and multi-engine aircraft, and a RedBird Simulator. With SEVIS approval, we welcome international students and have graduated over 1000 pilots now working globally. Our experienced instructors, with thousands of flight hours, ensure high standards of airmanship training. We are committed to providing top-notch aviation education and addressing the global pilot shortage through strategic partnerships and innovative training methods. SkyEagle Aviation Academy is dedicated to preparing students for successful careers in aviation.",
+  "icao": "KFXE",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

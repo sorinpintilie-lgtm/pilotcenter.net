@@ -1,0 +1,22 @@
+{
+  "id": "fabdf805-13bf-4718-9c34-5a769a92a1e3",
+  "slug": "decatur-jet-center",
+  "name": "Decatur Jet Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "LUD -Decatur Municipal Airport",
+  "website": "https://decaturjetcenter.com/",
+  "email": "fly@decaturjetcenter.com",
+  "phone": "(940) 627-1050",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

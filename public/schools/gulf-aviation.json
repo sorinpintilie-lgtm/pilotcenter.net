@@ -1,0 +1,22 @@
+{
+  "id": "ace39921-c681-4809-858a-e4ea6f6c63d8",
+  "slug": "gulf-aviation",
+  "name": "Gulf Aviation, Inc.",
+  "continent": "North America",
+  "country": "United",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "HRL -Valley International Airport",
+  "website": "https://gulf-aviation.net/",
+  "email": "custservice@gulf-aviation.net",
+  "phone": "(956) 423-7317",
+  "about": "Gulf Aviation Academy (GAA), established in 2009 under the royal directives of His Majesty, King Hamad bin Isa Al Khalifa, is the Kingdom of Bahrain's premier provider of high-quality aviation and logistics training. As a subsidiary of the Bahrain Mumtalakat Holding Company, GAA is committed to supplying the country's future demand for Bahraini-trained commercial pilots. The academy has partnered with renowned institutions like the Oxford Aviation Academy and Aerodynamics Academy in Spain to offer comprehensive Ab-Initio training programs. GAA is accredited by EASA and IATA, and it has received multiple international awards for its training excellence. With a focus on state-of-the-art training methods and a strategic alliance with simulator manufacturers, GAA ensures its students receive the best possible education to become professional pilots. GAA's mission is to provide top-tier training, ensuring its graduates are ready for careers with leading airlines.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nIntro Flight\\nGround School\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

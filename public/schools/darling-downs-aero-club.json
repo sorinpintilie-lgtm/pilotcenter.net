@@ -1,0 +1,22 @@
+{
+  "id": "ae4afa84-fcfe-44c4-9be3-54d4fee48a07",
+  "slug": "darling-downs-aero-club",
+  "name": "Darling Downs Aero Club",
+  "continent": "Oceania",
+  "country": "Australia",
+  "state": "",
+  "city": "",
+  "baseAirport": "Toowoomba Airport",
+  "website": "https://www.ddac.com.au/",
+  "email": "admin@ddac.com.au",
+  "phone": "'+61 7-4634-2777",
+  "about": "Darling Downs Aero Club, located in Toowoomba, Queensland, has been a premier flight training institution since 1946. With a rich history of training thousands of recreational and commercial pilots, the club offers personalized flight training to meet each student's individual needs. Our experienced instructors, including a Grand Master Instructor, provide expert guidance in a safe and enjoyable environment. The club is open 7 days a week and offers various programs, including the Commercial Pilot Licence and Instructor Rating, as well as the Recreational Pilot's Certificate. We also provide trial introductory flights, joy flights, and charter services. Our mission is to make flying accessible, safe, and enjoyable, promoting aviation in Southern Queensland. Join us to achieve your aviation goals in a supportive and professional setting.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

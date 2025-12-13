@@ -1,0 +1,22 @@
+{
+  "id": "760e4cce-7029-4b6c-870e-f5a37c3c955c",
+  "slug": "scanlon-aviation",
+  "name": "Scanlon Aviation, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "DVO -Gnoss Field",
+  "website": "https://scanlonaviation.com/",
+  "email": "info@scanlonaviation.com",
+  "phone": "(415) 897-9787",
+  "about": "Scanlon Aviation, LLC, located at Gnoss Field Airport in Novato, California, is a comprehensive flight training center and aviation services provider. Owned and operated by Patrick Scanlon, a Certified Flight Instructor (CFII) and Cirrus Standardized Instructor, the school specializes in training students in technically advanced aircraft. We offer a range of programs including Private Pilot, Instrument Pilot, Commercial Pilot, and Flight Instructor training. Our fleet includes the Cirrus SR20 and Cessna 172 SP, both equipped with advanced avionics. We emphasize a safe and fun learning environment, with ground and flight instruction tailored to individual needs. Additional services include aircraft rental, maintenance, management, and aerial tours. With a perfect safety record and over a decade of air charter experience, Scanlon Aviation is committed to providing top-notch aviation education and services. We strive to make your flying experience both challenging and rewarding.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nInstrument Proficiency Check\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

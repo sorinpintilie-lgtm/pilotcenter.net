@@ -1,0 +1,22 @@
+{
+  "id": "05200c42-685b-481e-ac9f-225210dd00ff",
+  "slug": "aero-flight",
+  "name": "Aero Flight, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OR",
+  "city": "",
+  "baseAirport": "7S5 -Independence State Airport",
+  "website": "https://www.aeroflightllc.com/",
+  "email": "aeroflightllc@yahoo.com",
+  "phone": "(970) 759-9010",
+  "about": "Aero Flight, LLC is a premier flight school dedicated to providing top-notch flight training and aviation services. Located in a strategic area, our school offers a comprehensive range of programs from initial certification to advanced flight instructor training. We pride ourselves on personalized, one-on-one instruction tailored to meet each student's unique needs. Our fleet includes modern aircraft such as the Piper Arrow and Cessna 172, and we utilize advanced training tools like the Redbird FMX full motion simulator. Additionally, we provide FAA written tests, practical test services, and medical certification through an Airman Medical Examiner. Our in-house pilot shop offers a wide range of aviation products, ensuring all your flying needs are met in one place. With a strong commitment to safety, quality, and student success, Aero Flight, LLC is your gateway to a successful aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nPrivate Pilot\\nTailwheel\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

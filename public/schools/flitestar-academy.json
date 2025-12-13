@@ -1,0 +1,22 @@
+{
+  "id": "a3172e7a-5a65-4d10-a07c-6d5f96e762e3",
+  "slug": "flitestar-academy",
+  "name": "Flitestar Academy",
+  "continent": "Africa",
+  "country": "Kenya",
+  "state": "",
+  "city": "",
+  "baseAirport": "Wilson Airport",
+  "website": "https://flitestaracademy.co.ke/",
+  "email": "info@flitestaracademy.co.ke",
+  "phone": "'+254-(735)-708-997",
+  "about": "Flitestar Academy, located at Wilson Airport in Nairobi, Kenya, is a nationally accredited and recognized flight academy. We offer a range of KCAA approved courses, including Private Pilot License (PPL), Commercial Pilot License (CPL), Multi-Engine Rating, Instrument Rating (IR), and Airline Transport Pilot License (ATPL). Our comprehensive programs are designed to guide students through their entire aviation journey, ensuring they receive high-quality training and preparation for a successful career in aviation. With a commitment to excellence and safety, Flitestar Academy is your trusted partner in achieving your flying aspirations.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PPL\\nCPL\\nME/IR\\nFlight Operations\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

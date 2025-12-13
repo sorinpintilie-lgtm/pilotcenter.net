@@ -1,0 +1,22 @@
+{
+  "id": "ff037dcd-307c-4f22-b9e3-2be2c9820885",
+  "slug": "maui-aviators",
+  "name": "Maui Aviators",
+  "continent": "North America",
+  "country": "United",
+  "state": "HI",
+  "city": "",
+  "baseAirport": "OGG -Kahului Airport",
+  "website": "https://www.mauiaviators.com/",
+  "email": "info@mauiaviators.com",
+  "phone": "(808) 871-6990",
+  "about": "Maui Aviators is a premier flight school located in Hawaii, offering a comprehensive range of flight training programs. We provide certifications in Private Pilot, Commercial Pilot, Flight Instructor (CFI), Flight Instructor Instrument (CFII), and Multi Engine Instructor (MEI). Our training is conducted in both technically-advanced full-glass cockpit airplanes and traditional analog gauge aircraft. With a focus on safety and proficiency, our instructors guide students through rigorous training to ensure they meet FAA standards. Whether you are a novice or an experienced pilot, Maui Aviators is dedicated to helping you achieve your aviation goals in the beautiful and challenging skies of the Hawaiian Islands. Our commitment to quality education and friendly, supportive instruction makes us an ideal choice for aspiring pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nExaminer\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

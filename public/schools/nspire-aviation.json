@@ -1,0 +1,22 @@
+{
+  "id": "904a6918-c6fa-43e9-98a9-78cb74f0187f",
+  "slug": "nspire-aviation",
+  "name": "NSPIRE Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "GA",
+  "city": "Atlanta",
+  "baseAirport": "Dekalb Airport",
+  "website": "https://www.nspireaviation.com/",
+  "email": "info@nspireaviation.com",
+  "phone": "'+1 678-395-7943",
+  "about": "NSPIRE Aviation, located in Atlanta, Georgia, is a premier pilot training center dedicated to providing comprehensive and personalized flight training programs. Our mission is to equip aspiring pilots with a strong foundation in proficient pilot skills and safe flying habits. We offer a range of training programs, starting from earning your Private Pilot license, which allows you to fly in good weather and carry passengers. Our experienced instructors and robust career pathways ensure that our members are well-prepared for a successful career in aviation. At NSPIRE Aviation, we are committed to delivering unparalleled training experiences that foster growth and excellence in the aviation industry. Join us to embark on your journey to becoming a skilled and confident pilot.",
+  "icao": "KPDK",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

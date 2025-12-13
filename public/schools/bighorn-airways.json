@@ -1,0 +1,22 @@
+{
+  "id": "c9cecac8-034b-4cbc-a272-467cf4c5cf0e",
+  "slug": "bighorn-airways",
+  "name": "Bighorn Airways, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WY",
+  "city": "",
+  "baseAirport": "SHR -Sheridan County Airport",
+  "website": "https://www.bighornairways.com/",
+  "email": "frontdesk@bighornairways.com",
+  "phone": "(307) 672-3421",
+  "about": "Bighorn Airways, Inc., located at Sheridan County Airport, is a comprehensive aviation service center with over 70 years of experience. Our flying school offers a range of programs, including Private Pilot Certificate, Commercial Pilot Certificate, Flight Instructor, and Instrument Rating. We also provide additional ground school and seminars. As a leader in the industry, we specialize in special mission aircraft operations, including charter services, aerial spraying, and government operations such as firefighting missions. Our Part 145 Maintenance Station ensures the highest standards of safety and reliability for our aircraft fleet. With a commitment to performance, reliability, and customer satisfaction, Bighorn Airways is dedicated to providing safe and reliable aviation solutions. We continuously reinvest in our fleet and the training of our flight crews and technical personnel to meet the highest industry standards.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

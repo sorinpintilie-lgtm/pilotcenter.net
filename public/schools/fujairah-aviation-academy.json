@@ -1,0 +1,22 @@
+{
+  "id": "5c4f26ef-286c-4ca6-84b3-05c537afd1c4",
+  "slug": "fujairah-aviation-academy",
+  "name": "Fujairah Aviation Academy",
+  "continent": "Middle East",
+  "country": "United Arab Emirates",
+  "state": "",
+  "city": "",
+  "baseAirport": "Fujairah Airport",
+  "website": "https://www.fujaa.ae/",
+  "email": "cservice.fujaa@fng.ae",
+  "phone": "'+971 9-222-4747",
+  "about": "Fujairah Aviation Academy, founded in 1986, is the oldest and one of the most respected aviation training organizations in the United Arab Emirates. Originally known as Fujairah Aviation Centre, it has grown under the patronage of His Highness Sheikh Saleh Mohammed Hamad Al Sharqi. The academy offers a wide range of courses, including Private Pilot License (PPL), Commercial Pilot License (CPL), Airline Transport Pilots License (ATPL), helicopter training, and maintenance engineering programs, all approved by the UAE GCAA and convertible to ICAO licenses. Located at Fujairah International Airport, the academy benefits from excellent weather, unrestricted takeoffs and landings, and advanced navigation facilities. With state-of-the-art infrastructure and highly qualified instructors, Fujairah Aviation Academy is committed to providing a safe and financially viable training environment, making it an ideal destination for aspiring pilots and aviation professionals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "Other",
+  "fleetSize": "",
+  "logoUrl": ""
+}

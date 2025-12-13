@@ -1,0 +1,22 @@
+{
+  "id": "d8619e94-4759-4231-bc9e-5a01a8879989",
+  "slug": "carroll-aviation",
+  "name": "Carroll Aviation, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IA",
+  "city": "",
+  "baseAirport": "CIN -Arthur N Neu Airport",
+  "website": "https://www.carrollaviation.com/",
+  "email": "don@carrollaviation.com",
+  "phone": "(712) 792-4980",
+  "about": "Carroll Aviation, Inc. is a locally owned and operated family business, serving Carroll and the surrounding areas since 1998. Specializing in flight instruction, we offer a range of training opportunities, including ground school and introductory flights. Our certified instructors provide personalized training to help students achieve their aviation goals. With a commitment to safety and excellence, Carroll Aviation Inc. is dedicated to helping aspiring pilots take to the skies. Contact us at 712-792-4980 to start your aviation journey today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

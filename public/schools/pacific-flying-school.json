@@ -1,0 +1,22 @@
+{
+  "id": "5d5ed820-6c75-4d09-be2e-f7dbe8fcc3c8",
+  "slug": "pacific-flying-school",
+  "name": "Pacific Flying School",
+  "continent": "Australia",
+  "country": "Fiji",
+  "state": "FJ",
+  "city": "",
+  "baseAirport": "Nadi International Airport",
+  "website": "https://pfsfiji.com/",
+  "email": "info@pfsfiji.com",
+  "phone": "'+679 6720 681",
+  "about": "Pacific Flying School, established in 1986, is the longest running flying school in Fiji, having graduated over 200 commercial pilots who now fly for major airlines such as Cathay Pacific, Emirates, and Fiji Airways. Our world-class facilities include a hangar with spacious, air-conditioned classrooms and a large engineering facility for in-house maintenance. We are the only training institution in Fiji registered with the Fiji Higher Education Commission and provide valuable insights into aircraft operations and maintenance. Our graduates hold significant posts in local, regional, and international carriers, and we assist students in preparing for employment in the high-demand aviation industry. With a strong focus on safety and efficiency, Pacific Flying School offers a comprehensive learning environment that prepares students for successful careers in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private & Commercial\\nPilots Licence\\nMulti Engine\\nType Rating / CIR\\nConversion of\\nForeign Licence\\nFlight Instructor\\nRating\\nAirline Transport Pilots\\nLicence Theory\\nIntegrated Airline\\nInduction Course\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

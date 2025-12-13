@@ -1,0 +1,22 @@
+{
+  "id": "55f4beb7-deb8-4b98-996c-09b59f18344d",
+  "slug": "air-o-drome-aviation",
+  "name": "Air-O-Drome Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "ID",
+  "city": "",
+  "baseAirport": "EUL -Caldwell Exec Airport",
+  "website": "https://www.airidaho.com/",
+  "email": "airidaho@yahoo.com",
+  "phone": "(208) 459-0718",
+  "about": "Air-O-Drome Aviation, LLC, is a reputable flight school located in Idaho, offering a comprehensive range of pilot training programs. We provide certifications for Private Pilot, Commercial Pilot, Flight Instructor (CFI), Flight Instructor Instrument (CFII), and Multi-Engine Instructor (MEI). Our training includes ground school courses, PSI testing, and aircraft rental services. With a focus on safety and proficiency, our experienced instructors guide students through each phase of their aviation journey. Whether you're pursuing a career in aviation or flying for personal enjoyment, Air-O-Drome Aviation is committed to delivering high-quality training to help you achieve your goals. Contact us to start your flying career today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nPart 107 Drone Testing\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

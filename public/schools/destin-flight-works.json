@@ -1,0 +1,22 @@
+{
+  "id": "ccdac6c6-483a-4f28-8a62-de2563e073d7",
+  "slug": "destin-flight-works",
+  "name": "Destin Flight Works",
+  "continent": "North America",
+  "country": "USA",
+  "state": "FL",
+  "city": "Destin",
+  "baseAirport": "Destin Executive Airport",
+  "website": "https://www.destinflightworks.com/",
+  "email": "fly@destinflightworks.com",
+  "phone": "'+1 850-269-1662",
+  "about": "Destin Flight Works is an FAA Part 141 and VA-approved flight school located at Destin Executive Airport in Destin, Florida. We offer comprehensive flight training programs from Private Pilot to advanced certifications such as Instrument, Commercial, Multi-Engine, and Turbine Transition. Our highly qualified and certified instructors provide quality training, and our diverse aircraft fleet caters to both beginner and advanced pilots. Additionally, we operate as an FAA-approved Part 145 Repair Station, providing major and minor airframe and engine maintenance, inspections, and modifications. We are proud to serve veterans with VA-approved courses and offer introductory and discovery flights for those new to aviation. With ideal year-round weather, Destin Flight Works is your premier choice for aviation training and services on the Emerald Coast.",
+  "icao": "KDTS",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

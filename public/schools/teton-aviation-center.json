@@ -1,0 +1,22 @@
+{
+  "id": "c9be7bbb-5781-4b6d-aaa5-206b47a0f2d2",
+  "slug": "teton-aviation-center",
+  "name": "Teton Aviation Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "ID",
+  "city": "",
+  "baseAirport": "DIJ -Driggs/Reed Memorial Airport",
+  "website": "https://tetonaviation.com/",
+  "email": "info@tetonaviation.com",
+  "phone": "(208) 354-3100",
+  "about": "Teton Aviation Center, located at the Driggs-Reed Memorial Airport in Teton Valley, Idaho, offers a comprehensive range of aviation services. Our flight school provides training for various certifications, including Private Pilot, Commercial Pilot, Flight Instructor (CFI), and Instrument Flight Instructor (CFII). In addition to flight training, we operate a full-service Fixed Base Operator (FBO) and offer scenic flights through the breathtaking Teton Mountain Range. Our facilities also include Forage Bistro and Lounge, providing the best dining experience in the valley. Whether you are aspiring to become a pilot or simply want to enjoy the beauty of the Tetons from the air, Teton Aviation Center is your premier choice.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nGlider\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

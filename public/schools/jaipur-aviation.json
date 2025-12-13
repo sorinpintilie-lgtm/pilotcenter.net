@@ -1,0 +1,22 @@
+{
+  "id": "45e34162-9379-4df2-9a85-312301f35809",
+  "slug": "jaipur-aviation",
+  "name": "Jaipur Aviation",
+  "continent": "Asia",
+  "country": "India",
+  "state": "IN",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://jaipuraviation.com/",
+  "email": "info@jaipuraviation.com",
+  "phone": "'+91 8503052917",
+  "about": "Jaipur Aviation is a premier flying school based in Jaipur, dedicated to transforming aspiring pilots into skilled aviation professionals. Our Pilot Training Program is meticulously designed to meet the stringent standards of the Directorate General of Civil Aviation (DGCA), ensuring comprehensive academic sessions and extensive practical flying experience. With a commitment to excellence, we provide 80 hours of ground school and 200 hours of flying training, equipping students with the knowledge and skills necessary to navigate the skies safely. Our experienced faculty and state-of-the-art infrastructure create an ideal learning environment, preparing students for a successful career in aviation. Join us at Jaipur Aviation to turn your dream of becoming an airline pilot into a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"DGCA GROUND CLASSES\\nFLYING TRAINING\\nType Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

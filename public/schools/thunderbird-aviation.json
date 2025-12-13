@@ -1,0 +1,22 @@
+{
+  "id": "80b6f29f-45c6-4d16-9328-cf74e594e40c",
+  "slug": "thunderbird-aviation",
+  "name": "Thunderbird Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "MN",
+  "city": "Eden Prairie",
+  "baseAirport": "Flying Cloud Airport",
+  "website": "https://www.thunderbirdaviation.com/",
+  "email": "fly@thunderbirdaviation.com",
+  "phone": "'+1 952-941-1212",
+  "about": "Thunderbird Aviation, established in 1962, is a premier flight training institution based at the Flying Cloud Airport in Eden Prairie, Minnesota, and also operating at Crystal Airport. With over five decades of experience, we have helped thousands of individuals achieve their flying goals, from sport pilot to Airline Transport Pilot (ATP) certifications. We offer a comprehensive range of programs, including ground school classes for private pilot and instrument ratings, as well as certificate, associate, and bachelor's programs through our partnership with Academy College. Our fleet includes over 30 aircraft, ensuring the right training environment for all students. We also provide charter services, aircraft maintenance, and various aviation amenities. As the leading provider of flight training in the Minneapolis/St. Paul area, Thunderbird Aviation is dedicated to producing quality pilots and aviation professionals.",
+  "icao": "KFCM",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

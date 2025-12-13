@@ -1,0 +1,22 @@
+{
+  "id": "8acc1a3f-39ac-4db5-bbd6-d2201171a40f",
+  "slug": "aerodyne-flight-center",
+  "name": "Aerodyne Flight Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "SDL -Scottsdale Airport",
+  "website": "https://www.aerodyneflight.com/",
+  "email": "Info@AerodyneFlight.com",
+  "phone": "(480) 359-7979",
+  "about": "Aerodyne Flight Center, located in Scottsdale, Arizona, offers innovative and professional flight instruction for all levels, from private pilot to commercial. Co-owned by Doug Cox, the school is renowned for its personalized training and utilization of the FAA's Wings program to enhance pilot proficiency. With a fleet that includes the Cessna 172 and Cessna 310 for multi-engine training, Aerodyne ensures students have access to well-maintained aircraft. The school emphasizes efficiency, flexibility, and safety, making it an ideal choice for those seeking a comprehensive and supportive learning environment. Aerodyne Flight Center is committed to helping pilots achieve their goals while promoting aviation safety through ongoing proficiency training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

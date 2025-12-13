@@ -1,0 +1,22 @@
+{
+  "id": "046993ea-682e-43fa-98b8-f830bc84cb83",
+  "slug": "fly-time-aviation",
+  "name": "Fly Time Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "CHD -Chandler Municipal Airport",
+  "website": "https://www.flytimechd.com/",
+  "email": "dave@flytimeaviation.com",
+  "phone": "(603) 300-8774",
+  "about": "Fly Time Aviation is a premier flight training institution dedicated to producing safe, competent, and confident pilots. Approved by the Federal Aviation Administration (FAA), we offer a comprehensive range of programs, including private pilot, instrument, commercial, and certified flight instructor (CFI) training. Our experienced instructors, many of whom are airline pilots, provide personalized and customized training to meet each student's needs. With state-of-the-art facilities and a modern fleet, we ensure our students have access to the best resources for their aviation education. Our commitment to innovation and customer satisfaction sets us apart, and we are proud to have a high pass rate for FAA exams. At Fly Time Aviation, we are dedicated to helping you achieve your aviation goals and succeed in your flying career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

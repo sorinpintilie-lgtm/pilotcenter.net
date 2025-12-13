@@ -1,0 +1,22 @@
+{
+  "id": "a6680dce-1cb5-4574-92c7-2203215e0c46",
+  "slug": "overland-aviation",
+  "name": "Overland Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "ND",
+  "city": "",
+  "baseAirport": "XWA -Williston Basin International Airport",
+  "website": "https://overlandaviation.com/",
+  "email": "services@overlandaviation.com",
+  "phone": "(701) 875-4334",
+  "about": "Overland Aviation is a comprehensive aviation service provider located at the Williston Basin International Airport in North Dakota. Since its inception in 2011, the company has expanded from primarily offering flight training to a multi-faceted aviation service company. We provide full-service FBO amenities, including a 51,000 square foot executive terminal, heated hangars, and on-site U.S. Customs. Our flight training programs include private pilot, instrument rating, commercial, complex endorsement, and high performance endorsement, all guided by experienced instructors. Additionally, we offer FAA Part 135 aircraft charter services, aerial photography and tours, and pilot sourcing. With a focus on safety, quality, and affordability, Overland Aviation is dedicated to serving the aviation needs of the Williston Basin and beyond. We welcome you to experience our exceptional services and facilities.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

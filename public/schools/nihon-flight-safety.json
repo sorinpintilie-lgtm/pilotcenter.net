@@ -1,0 +1,22 @@
+{
+  "id": "7ec33217-0ac6-4813-aea9-527a9fd28f2c",
+  "slug": "nihon-flight-safety",
+  "name": "Nihon Flight Safety",
+  "continent": "Asia",
+  "country": "Japan",
+  "state": "JP",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.flysafety.net/",
+  "email": "",
+  "phone": "03-3521-5478",
+  "about": "Nihon Flight Safety is a premier flight training institution dedicated to fostering a culture of safety and excellence in aviation. Established with a mission to produce highly skilled and safety-conscious pilots, we offer comprehensive training programs approved by international aviation authorities. Our experienced instructors, many of whom are seasoned airline pilots, provide personalized and customized training to meet the unique needs of each student. With a modern fleet of single and multi-engine aircraft, we ensure a safe and effective learning environment. Our state-of-the-art facilities and advanced learning management systems support both theoretical and practical training, enabling students to transition seamlessly into professional aviation careers. At Nihon Flight Safety, we are committed to shaping the future of aviation by producing confident, competent, and safety-driven pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Helicopter Pilot\\nTraining Flight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

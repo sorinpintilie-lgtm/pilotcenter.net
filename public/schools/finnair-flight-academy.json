@@ -1,0 +1,22 @@
+{
+  "id": "5024e5dd-ab3c-4f15-ab96-fefccb7f7ce9",
+  "slug": "finnair-flight-academy",
+  "name": "Finnair Flight Academy",
+  "continent": "Europe",
+  "country": "Finland",
+  "state": "FI",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.finnairflightacademy.com/en",
+  "email": "flightacademy.sales@finnair.com",
+  "phone": "'+358 9 8184046",
+  "about": "Finnair Flight Academy, a subsidiary of Finnair, is based at Helsinki Airport and offers comprehensive pilot training. The academy employs 100 simulator instructors and 30 safety & service trainers, providing EASA Part 147 approved training. Facilities include fire simulators, evacuation training, door trainers, and full flight simulators for A320, A330, A350, and ERJ-170 aircraft. Training programs range from entry-level to instructor training, including type rating courses and cross-crew qualifications. The academy is open 24 hours a day, year-round, and is conveniently located near hotels and other amenities. With a focus on expertise and comfort, Finnair Flight Academy supports pilots in developing their skills and advancing their careers.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airbus Entry-Level Training\\nType Rating courses\\nCross-Crew Qualification Courses\\nType Refresher Training\\nCommander training\\nSecond-in-command Training\\nInstructor Training\\nRecurrent Training\\nService training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

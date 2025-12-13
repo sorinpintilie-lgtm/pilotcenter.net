@@ -1,0 +1,22 @@
+{
+  "id": "22c74906-748f-4f85-8983-508fcacdb1d8",
+  "slug": "pilotsmith",
+  "name": "Pilotsmith, Inc",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WI",
+  "city": "",
+  "baseAirport": "MTW -Manitowoc County Airport",
+  "website": "https://www.pilotsmith.com/",
+  "email": "help@pilotsmith.com",
+  "phone": "(920) 415-2359",
+  "about": "Pilotsmith, Inc. is the premier flight training academy in Wisconsin, located at the Appleton International Airport (ATW) and also operating at Austin Straubel International Airport. We offer a state-of-the-art training program, including FAA 141 approved and informal FAA 61 programs. Our curriculum includes training for Private Pilot, Instrument Rating, Commercial Pilot, Certified Flight Instructor, and Certified Flight Instructor Instruments. As an official Cirrus Training Center, students can learn or advance their flying skills in some of the world’s most innovative private aircraft. We also provide Discovery Flights for prospective aviators to experience flight training. With a team of experienced and passionate instructors, Pilotsmith is dedicated to helping students achieve their flying dreams. Join us to take your aviation career to new heights.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

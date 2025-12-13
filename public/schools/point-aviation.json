@@ -1,0 +1,22 @@
+{
+  "id": "669afe96-6600-49b9-a521-6c39ddb4d6c9",
+  "slug": "point-aviation",
+  "name": "Point Aviation, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WI",
+  "city": "",
+  "baseAirport": "MRJ -Iowa County Airport",
+  "website": "https://pointaviation.com/",
+  "email": "pat@pointaviation.com",
+  "phone": "(608) 987-3591",
+  "about": "Point Aviation, LLC, located at Mineral Point, Wisconsin, is a dedicated flight training facility committed to providing high-quality aviation education. Since its establishment, Point Aviation has been focused on fostering a safe and supportive learning environment for aspiring pilots. With a team of experienced instructors and well-maintained aircraft, the school offers a range of training programs tailored to meet the needs of both private and professional pilots. Point Aviation is situated at the Mineral Point Airport (KMRJ), providing easy access and a conducive setting for flight training. The school's commitment to excellence and safety ensures that students receive comprehensive training, preparing them for successful careers in aviation. Point Aviation is your trusted partner in achieving your flying dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nPrivate Pilot\\nRecreational Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

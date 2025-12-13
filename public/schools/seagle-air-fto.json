@@ -1,0 +1,22 @@
+{
+  "id": "c56dd383-f43b-4082-ac87-6bf9ac080370",
+  "slug": "seagle-air-fto",
+  "name": "Seagle Air - FTO",
+  "continent": "Europe",
+  "country": "Slovakia",
+  "state": "",
+  "city": "Trenčín",
+  "baseAirport": "TRENČÍN Airport",
+  "website": "https://seagle.aero/",
+  "email": "fly@seagle.aero",
+  "phone": "'+421 910 999 977",
+  "about": "Seagle Air - FTO, located at Trenčín Airport in Slovakia, is a renowned flight training organization certified as FTO SK/02. We offer a comprehensive range of flight training programs, from the Private Pilot License (PPL) to the Airline Transport Pilot License (ATPL), including commercial pilot licenses, instrument ratings, and multi-engine endorsements. Our training adheres to the strict standards of JAR-FCL 1, supervised by experienced instructors from major global airlines. Our fleet consists of modern, safety-compliant aircraft such as the Diamond DA20, DA40, and DA42 Twin Star. With a commitment to excellence and safety, Seagle Air - FTO is dedicated to transforming aspiring aviators into professional pilots. Join us for a top-notch aviation education tailored to your goals.",
+  "icao": "LZTN",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

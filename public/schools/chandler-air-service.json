@@ -1,0 +1,22 @@
+{
+  "id": "b9ca5539-a783-47bd-ba61-6811e657ed63",
+  "slug": "chandler-air-service",
+  "name": "Chandler Air Service",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "CHD -Chandler Municipal Airport",
+  "website": "https://aerobatics.com/",
+  "email": "fly@aerobatics.com",
+  "phone": "(480) 963-6420",
+  "about": "Chandler Air Service, located at Chandler Municipal Airport (KCHD) in Chandler, Arizona, offers a comprehensive range of flight training programs. From private pilot licenses to multi-engine and advanced aerobatics and tailwheel training, our curriculum is designed to meet the diverse needs of aspiring pilots. Our fleet includes aircraft such as the Beechcraft BE-36 and Cessna 172, available for rental. We provide one-on-one and classroom ground school lessons, as well as additional seminars on topics like airplane maintenance and glass cockpit training. With a designated pilot examiner on staff, we ensure a seamless process for checkrides. Our facility is equipped with modern amenities, including a pilot lounge, WiFi, and a restaurant. Known for our friendly and supportive staff, Chandler Air Service is committed to delivering high-quality flight training in a welcoming environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "68de9bf5-43cd-4c33-a29c-06ff1b5fcdef",
+  "slug": "cape-air-charter",
+  "name": "Cape Air Charter",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MO",
+  "city": "",
+  "baseAirport": "CGI -Cape Girardeau Regional Airport",
+  "website": "https://www.capeaircharter.com/",
+  "email": "info@capeaircharter.com",
+  "phone": "(573) 335-6631",
+  "about": "Cape Air, founded in 1989 by Daniel A. Wolf, is the largest independent regional carrier in the United States. Headquartered in Hyannis, Massachusetts, Cape Air connects over 40 beautiful and diverse destinations across the U.S., Caribbean, and Micronesia. The airline operates a fleet of Cessna 402s, Britten-Norman Islanders, and Tecnam P2012 Travellers. Cape Air is renowned for its outstanding customer service and convenient flight schedules, with ticket and baggage agreements with major airlines for smooth connections. The company offers several aviation training programs, including the University Gateway Program and the LIFT Academy workforce development program, providing structured education and experience for aspiring pilots. With a strong commitment to safety and community, Cape Air continues to grow and serve its passengers with excellence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

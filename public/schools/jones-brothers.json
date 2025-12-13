@@ -1,0 +1,22 @@
+{
+  "id": "74cf9a81-12a3-4b4b-9305-62a2187f6b43",
+  "slug": "jones-brothers",
+  "name": "Jones Brothers & Co",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "FA1 -Tavares Seaplane Base",
+  "website": "https://www.jonesairandsea.com/",
+  "email": "jb.seaplanes@gmail.com",
+  "phone": "(352) 508-1800",
+  "about": "Jones Brothers & Co. Air and Seaplane Adventures, established in 2010, is a Gold Seal certified part 61 flight school based in Tavares, Florida, known as America’s Seaplane City. We offer high-performance and complex single engine seaplane (SES) ratings, as well as hourly seaplane dual instruction in float planes, amphibious planes, and SeaRey “flying boat” aircraft. Our fleet includes well-maintained Cessna 172, Cessna 185, Cessna 206, and Searey aircraft. With over 1,400 lakes and rivers in the area, our location is ideal for seaplane training, allowing us to train in various water conditions. We have trained thousands of pilots worldwide and are committed to safety, excellence, and customer satisfaction, making us a trusted choice for seaplane adventures and training. Our services also include seaplane tours, charters, and sightseeing trips, ensuring a memorable experience for all our clients.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nExaminer\\nGround School\\nIntro Flight\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nSport Pilot\\nMulti-Engine\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

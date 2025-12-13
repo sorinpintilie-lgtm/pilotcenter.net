@@ -1,0 +1,22 @@
+{
+  "id": "fadc6c65-1dca-4f94-8cfb-280f0e34b6c8",
+  "slug": "cutting-edge-aviation",
+  "name": "Cutting Edge Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "TDW -Tradewind Airport",
+  "website": "https://cuttingedgeaviation.com/",
+  "email": "cuttingedge2@hotmail.com",
+  "phone": "(806) 670-4535",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\\nUltralight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

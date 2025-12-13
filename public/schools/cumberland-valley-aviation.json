@@ -1,0 +1,22 @@
+{
+  "id": "33c5febe-aa84-4c86-b06b-9f8983310daa",
+  "slug": "cumberland-valley-aviation",
+  "name": "Cumberland Valley Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "PA",
+  "city": "",
+  "baseAirport": "N94 -Carlisle Airport",
+  "website": "https://www.cumberlandvalleyaviation.com/",
+  "email": "cumberlandvalleyaviation@gmail.com",
+  "phone": "(717) 580-5282",
+  "about": "Cumberland Valley Aviation, located at the Carlisle Airport in Carlisle, Pennsylvania, offers comprehensive airplane flight training programs. Our professional staff is dedicated to providing a safe, fun, and educational environment for aspiring pilots. We offer Private Pilot (PPL) and Instrument Flight Rule (IFR) training, as well as aircraft rental services. Our custom-designed training programs are flexible to accommodate busy schedules, and we provide a \"Fly It, You'll Like It\" introductory course to help new students get started. Our goal is to prepare students for the exciting experience of flying, whether for business, pleasure, or career advancement. With a focus on navigation, weather, aerodynamics, and communication with air traffic control, we ensure that every student is well-prepared for their private pilot license. At Cumberland Valley Aviation, our commitment is to make your dream of flying a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

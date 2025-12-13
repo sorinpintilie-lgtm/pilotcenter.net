@@ -1,0 +1,22 @@
+{
+  "id": "349e1d4f-76d7-4332-9981-617362641d96",
+  "slug": "reykjavik-flight-academy",
+  "name": "Reykjavik Flight Academy",
+  "continent": "Europe",
+  "country": "Iceland",
+  "state": "ICLD",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://rfa.is/",
+  "email": "info@rfa.is",
+  "phone": "666-3435",
+  "about": "The Icelandic Flight Academy, located in Reykjavík, Iceland, is the largest Flight Training Organization (FTO) in the country, with over 20 years of experience in training pilots. Approved by the Icelandic Civil Aviation Authorities and recognized under JAA/EASA regulations, the academy offers a wide range of courses, including Private Pilot License, Commercial Pilot License, Instrument Rating, and Type Rating. They also specialize in conversion training from ICAO and FAA to JAA/EASA licenses, as well as recurrent and initial training for airlines, air traffic controllers, cabin crew, and aircraft technicians. With a commitment to high-quality training at competitive prices, the academy provides students with the skills and certifications needed to succeed in the aviation industry. The academy's facilities are based at Reykjavik Downtown Airport, ensuring comprehensive and practical training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot\\nCommercial Pilot\\nFlight Instructor\\nA-UPRT\\nAPS MCC\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

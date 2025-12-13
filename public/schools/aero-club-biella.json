@@ -1,0 +1,22 @@
+{
+  "id": "a4992c74-346c-4bf8-a733-f4ee5e3cde48",
+  "slug": "aero-club-biella",
+  "name": "Aero Club Biella",
+  "continent": "Europe",
+  "country": "Italy",
+  "state": "ITLY",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.aeroclubbiella.com/",
+  "email": "info@aecbiella.com",
+  "phone": "'+39 01521167",
+  "about": "Aeroclub Biella is a small but comprehensive flying school based at Biella-Cerrione Airport in Italy. With the certification IT.ATO.0018, we offer a full range of training programs from zero hours to ATPL (Airline Transport Pilot Licence). Our facility operates from Tuesday to Sunday, with flight school rooms available from 08:30 to 23:00 and the secretariat open from 09:00 to 19:00. We pride ourselves on professionalism, competence, and a relaxed, family-like atmosphere. Our experienced instructors provide personalized training to ensure each student's success, whether pursuing flying as a hobby or a career. At Aeroclub Biella, we are dedicated to providing high-quality flight training in a supportive and safe environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"LIGHT AIRCRAFT PILOT LICENSE LAPL-A\\nPRIVATE AIRCRAFT PILOT LICENSE PPL-A\\nPRIVATE HELICOPTER PILOT LICENSE PPL-H\\nFROZEN MODULAR AIRLINE PILOT LICENSE ATPL-H / IR\\nFROZEN MODULAR AIRLINE PILOT LICENSE ATPL-H / VFR\\nDISTANCE LEARNING COURSES ATPL(A)\",\"ATPL(H)\",\"IR(A)\",\"IR(H)\",\"CPL(H)\",\"CPL(A)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

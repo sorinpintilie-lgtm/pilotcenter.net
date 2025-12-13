@@ -1,0 +1,22 @@
+{
+  "id": "6090c215-17c9-46f4-9604-ff96cf7773e0",
+  "slug": "livingston-aviation",
+  "name": "Livingston Aviation, Inc",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IA",
+  "city": "",
+  "baseAirport": "ALO -Waterloo Regional Airport",
+  "website": "https://www.livingstonaviation.com/",
+  "email": "Customerservice@LivingstonAviation.com",
+  "phone": "(319) 234-1783",
+  "about": "Livingston Aviation, Inc., located in Waterloo, Iowa, is a full-service Fixed Base Operator (FBO) that offers extensive flight training programs. We provide professional and experienced flight instructors available at your convenience, offering courses such as Private Pilot Certificate, Commercial Pilot Certificate, and Flight Instructor training. Our facility also includes a full-service maintenance shop and quick turn specialists for efficient ground service needs. Additionally, we offer hangar space, catering, oxygen service, overnight accommodations, and transportation. With a commitment to quality and convenience, Livingston Aviation is your comprehensive aviation solution.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

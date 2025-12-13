@@ -1,0 +1,22 @@
+{
+  "id": "6347b07e-8fb9-4c17-852d-cc7f868615ab",
+  "slug": "select-aviation-training-center",
+  "name": "Select Aviation Training Center",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "QC",
+  "city": "",
+  "baseAirport": "Gatineau-Ottawa Executive Airport",
+  "website": "https://selectaviation.com/",
+  "email": "info@selectaviation.com",
+  "phone": "'+1 819-850-0909",
+  "about": "Select Aviation College, located at the Gatineau-Ottawa Executive Airport in Canada’s National Capital Region, is a leading flight training facility. Founded in 2012 by Daniel Cyr and Patrick Richardson, the college has evolved into a renowned institution, recognized by the Ministère de l’Enseignement supérieur. Our mission is to provide airlines with industry-ready pilots, trained by qualified instructors in a fleet of over 40 aircraft and helicopters. We emphasize safety, diversity, and continuous improvement, offering five different college programs for airplane and helicopter pilots. Our programs are recognized by financial aid programs in Quebec and Ontario, ensuring accessible education for all students. With a strong focus on safety and professional development, Select Aviation College prepares students for a successful career in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nSeaplane Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

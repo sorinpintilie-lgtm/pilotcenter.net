@@ -1,0 +1,22 @@
+{
+  "id": "c9547a1b-e651-4797-9191-b7f5b84c49de",
+  "slug": "marana-flight-school",
+  "name": "Marana Flight School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "AVQ -Marana Regional Airport",
+  "website": "https://www.maranaflightschools.com/",
+  "email": "admin@maranaflightschools.com",
+  "phone": "(520) 507-8106",
+  "about": "Marana Flight School, located in Marana, Arizona, specializes in comprehensive flight and ground training for all pilot levels. With over 15 years of expertise in the aerospace industry, the school is committed to excellence in aviation training. The program caters to novice and experienced pilots alike, offering self-paced and affordable training that prioritizes the student's schedule and learning environment. The school's philosophy is \"the student comes first,\" ensuring a relaxed and fun atmosphere that fosters a deep understanding of aeronautical knowledge, strong piloting skills, and unwavering confidence. Experienced instructors, including owners Cody and Keith Bowman, are dedicated to helping students achieve their aviation goals and pass their FAA tests and checkrides successfully. Marana Flight School is a premier destination for creating a community of safe, skilled pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot \\nAirline Transport Pilot ATP\\nInstrument\\nInstrument\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

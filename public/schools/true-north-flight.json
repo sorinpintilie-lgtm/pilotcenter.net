@@ -1,0 +1,22 @@
+{
+  "id": "c569ff40-d794-4f81-9116-4d0f49fa535f",
+  "slug": "true-north-flight",
+  "name": "True North Flight",
+  "continent": "North America",
+  "country": "United States",
+  "state": "UT",
+  "city": "",
+  "baseAirport": "41U -Manti-Ephraim Airport",
+  "website": "https://www.truenorthflightadventures.com/",
+  "email": "tomherbert1@gmail.com",
+  "phone": "(208) 351-2976",
+  "about": "True North Airways is a renowned flight school based in Ontario, Canada, specializing in comprehensive flight training since 1956. We offer high standards of training for Recreational Pilot Permits and Private Pilot Licenses, including unique seaplane and ski plane endorsements. Our programs are conducted on floats in the summer and skis in the winter, providing students with versatile skills and industry-standard training. Our fleet includes C172s, C-185s, and DHC-2 Beavers, maintained by highly qualified engineers. Located on Whitewater Lake, our uncontrolled aerodrome reduces student stress while our nearby access to Sudbury Airport enhances radio communication skills. We pride ourselves on safety, quality, and the opportunity for students to gain hands-on experience in various flying conditions, preparing them for a successful career in aviation. Join us for an exceptional flying education and unforgettable flying experiences.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

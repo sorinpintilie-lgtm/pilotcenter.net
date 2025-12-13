@@ -1,0 +1,22 @@
+{
+  "id": "7eb59bca-033a-4ed1-859a-bb0d07a36b24",
+  "slug": "jb-aviation",
+  "name": "JB Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "10C -Galt Field",
+  "website": "https://www.flywithjb.com/",
+  "email": "info@flywithJB.com",
+  "phone": "(815) 648-2433",
+  "about": "JB Aviation is a distinguished flight school dedicated to providing exceptional flight training. Located at Fresno Yosemite International Airport, we offer FAA Part 141 approved training, ensuring standardized and high-quality instruction. Our method of choice is attitude flying, which teaches students to control the airplane's flight path using pitch attitude, enabling precise control in various conditions. Our facilities include briefing, study, and dispatch areas, as well as a Frasca 142 multiengine flight simulator. With experienced instructors and a dedicated maintenance team, we provide a comprehensive learning environment. Recognized by AOPA as a 2024 Distinguished Flight School, we are committed to equipping students with the skills and confidence to be pilot-in-command.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

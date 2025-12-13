@@ -1,0 +1,22 @@
+{
+  "id": "8e003b92-0b2b-462a-ab09-6d367e9f7aeb",
+  "slug": "deal-alliance-aviation-training",
+  "name": "Deal Alliance Aviation Training",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "WC",
+  "city": "",
+  "baseAirport": "Cape Town International Airport",
+  "website": "https://www.dealalliance.co.za/",
+  "email": "info@dealalliance.co.za",
+  "phone": "'+27 (0) 82 495 8179",
+  "about": "Deal Alliance Aviation Training is South Africa's longest established aviation training school, dedicated to providing high-quality theoretical training for private, commercial, and other aviation certifications. With a rich history and a commitment to excellence, we offer comprehensive programs tailored to meet the needs of aspiring and experienced pilots. Our experienced instructors and state-of-the-art facilities ensure that students receive the best possible education and training. We are proud to be a leading institution in aviation education, helping pilots achieve their career goals with dedication and professionalism. Choose Deal Alliance for your aviation training needs and embark on a successful flying career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"CPL Ground School\\nAviation English LPR\\nCRM Course\\nGNSS and PBN Course\\nSEPT Course\\nRVSM Course\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

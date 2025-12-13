@@ -1,0 +1,22 @@
+{
+  "id": "adb46fe5-d739-4a46-97e2-91ab870563ab",
+  "slug": "heli-service-belgium-hsb",
+  "name": "Heli Service Belgium (HSB)",
+  "continent": "Europe",
+  "country": "Belgium",
+  "state": "BELG",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://hsb.be/",
+  "email": "ops.hsb.be",
+  "phone": "'+32 2 361 21 21",
+  "about": "Heli Service Belgium (HSB) is a leading helicopter company with over 25 years of experience, operating in Belgium and internationally. We offer a safe, fast, and reliable helicopter service, adhering strictly to safety codes and aviation regulations. Our extensive fleet includes various helicopter types, such as the Robinson R22, Robinson R44, Bell 206 JetRanger, and Eurocopter AS355 F2 Ecureuil. HSB provides a range of services including air taxis, business flights, VIP transport, scenic tours, aerial surveys, aerial work, and medical transport. Our approved training program for private helicopter pilots (PPL-H) includes both theoretical and practical components, with options for type rating conversions. We also offer technical maintenance services through HSB Technics and assist in the purchase of new and pre-owned helicopters. With a commitment to safety and flexibility, Heli Service Belgium is your trusted partner for all helicopter needs.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Theoretical training\\nPractical training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

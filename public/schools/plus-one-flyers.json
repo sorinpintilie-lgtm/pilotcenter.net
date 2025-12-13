@@ -1,0 +1,22 @@
+{
+  "id": "f586c402-c493-4607-93dd-4ee20d0a736d",
+  "slug": "plus-one-flyers",
+  "name": "Plus One Flyers",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "CRQ -Mc Clellan-Palomar Airport",
+  "website": "https://www.plusoneflyers.org/palomar-fleet/",
+  "email": "dave@plusoneflyers.org",
+  "phone": "(619) 279-7499",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

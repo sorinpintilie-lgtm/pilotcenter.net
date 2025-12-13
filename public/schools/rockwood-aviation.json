@@ -1,0 +1,22 @@
+{
+  "id": "6151951a-17e2-4e1d-adf3-55b948eac508",
+  "slug": "rockwood-aviation",
+  "name": "Rockwood Aviation",
+  "continent": "North America",
+  "country": "United",
+  "state": "TN",
+  "city": "",
+  "baseAirport": "RKW -Rockwood Municipal Airport",
+  "website": "https://rockwoodaviation.com/",
+  "email": "rkw@rockwoodaviation.com",
+  "phone": "(865) 354-0611",
+  "about": "Rockwood Aviation, LLC, located in Tennessee, is a reputable flight school dedicated to providing comprehensive flight training. As a certified flight instructor multi-engine facility, Rockwood Aviation offers specialized training in multi-engine aircraft, ensuring students gain the skills and expertise necessary for a successful aviation career. With a focus on safety and professionalism, the school supports students in achieving their flight goals, whether they are aspiring to become private pilots or pursuing commercial aviation careers. Rockwood Aviation is committed to delivering high-quality flight instruction, preparing students for the demands of the aviation industry.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

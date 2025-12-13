@@ -1,0 +1,22 @@
+{
+  "id": "251fdb13-73e1-47dc-bb69-9e8066eff48e",
+  "slug": "cadotte-aero-flight-training",
+  "name": "Cadotte Aero Flight Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MN",
+  "city": "",
+  "baseAirport": "SGS -South St Paul Muni/Richard E Fleming Field",
+  "website": "https://www.cadotteaero.com/",
+  "email": "fly@cadotteaero.com",
+  "phone": "(651) 894-4907",
+  "about": "At Cadotte Aero Flight Training, we are dedicated to transforming aspiring aviators into skilled and confident pilots. Located in a region with ideal flying conditions, our flight school offers comprehensive training programs tailored to individual goals, whether you're pursuing a private pilot license or aiming for a career as a commercial airline pilot. Our experienced and certified flight instructors provide personalized instruction, ensuring each student exceeds FAA minimums in both knowledge and piloting skills. With a focus on safety, quality, and success, we offer accelerated training paths, including discovery flights, private pilot certifications, and advanced ratings. Join our close-knit pilot community and embark on a journey to achieve your aviation dreams with Cadotte Aero Flight Training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

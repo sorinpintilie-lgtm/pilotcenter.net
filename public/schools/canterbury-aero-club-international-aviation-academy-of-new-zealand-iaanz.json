@@ -1,0 +1,22 @@
+{
+  "id": "f57e4d33-c098-41f1-b39f-fbcee11083c3",
+  "slug": "canterbury-aero-club-international-aviation-academy-of-new-zealand-iaanz",
+  "name": "Canterbury Aero Club / International Aviation Academy of New Zealand (IAANZ)",
+  "continent": "Australia",
+  "country": "New Zealnd",
+  "state": "NZ",
+  "city": "",
+  "baseAirport": "Christchurch International Airport",
+  "website": "https://www.cac.co.nz/",
+  "email": "booking@cac.co.nz",
+  "phone": "'+64 3 359 2121",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Aircraft Technology\\nFlight Radio\\nHuman Factors\\nFlight Navigation\\nAir Law\\nMeteorology\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

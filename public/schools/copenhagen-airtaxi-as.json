@@ -1,0 +1,22 @@
+{
+  "id": "da1794b2-96b1-412f-b9ab-3ccaa716b2e1",
+  "slug": "copenhagen-airtaxi-as",
+  "name": "Copenhagen AirTaxi A/S",
+  "continent": "Europe",
+  "country": "Denmark",
+  "state": "",
+  "city": "Roskilde",
+  "baseAirport": "Roskilde Airport",
+  "website": "https://aircat.dk/en/frontpage/",
+  "email": "cat@aircat.dk",
+  "phone": "'+45-46-19-11-14",
+  "about": "Copenhagen AirTaxi A/S is one of the oldest and largest aviation schools in Denmark, with a rich history dating back to 1961. With over 55 years of experience, we are the most experienced General Aviation company in the country. We offer a comprehensive range of flight training programs, including Private Pilot Licence (PPL), Night Rating, and Commercial Pilot Licence (CPL). Our experienced instructors and state-of-the-art facilities ensure that our students receive the highest quality education. We are committed to fostering a safe and supportive learning environment, preparing our graduates for successful careers in aviation. At Copenhagen AirTaxi A/S, we pride ourselves on our long-standing tradition of excellence in pilot training.",
+  "icao": "EKRK",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nMulti-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

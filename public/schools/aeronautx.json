@@ -1,0 +1,22 @@
+{
+  "id": "7130277c-254e-41e6-9be4-4ddae27cc1b6",
+  "slug": "aeronautx",
+  "name": "AeronautX",
+  "continent": "Europe",
+  "country": "Austria",
+  "state": "",
+  "city": "Linz-Hörsching",
+  "baseAirport": "Linz-Hörsching Airport",
+  "website": "https://aeronautx.at/de/",
+  "email": "office@aeronautx.at",
+  "phone": "'+43-7242-360-363",
+  "about": "AeronautX, based in Linz-Horsching, Austria, is a renowned flight training school with over 25 years of experience in training commercial pilots. Located at Blue Danube Airport Linz, the school benefits from an ideal training environment with low commercial traffic and available VFR and IFR training areas. AeronautX is committed to safety, quality, transparency, and responsibility, with a team of highly experienced instructors, many of whom are or have been commercial pilots. The school offers comprehensive training programs, including integrated ATPL and modular courses, cutting-edge simulator training, and a focus on developing pilot core competencies such as communication, leadership, and problem-solving. With state-of-the-art facilities and a strong commitment to nurturing airline-standard skills, AeronautX aims to lay a solid foundation for aspiring pilots' aviation careers.",
+  "icao": "LOWL",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4d3999c8-b959-4cbd-9a1e-cbb32c83035b",
+  "slug": "great-basin-aviation",
+  "name": "Great Basin Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "NV",
+  "city": "Reno",
+  "baseAirport": "Reno-Tahoe International Airport",
+  "website": "https://www.greatbasinaviation.com/",
+  "email": "goflying@greatbasinaviation.com",
+  "phone": "'+1 775-856-3655",
+  "about": "Great Basin Aviation, located at the Reno-Tahoe International Airport in Northern Nevada, is a premier flight school dedicated to producing safe, competent, and proficient pilots. We offer training from basic instruction to advanced flight courses, flight reviews, scenic flights, and aircraft rentals. Our fleet includes modern Cessna aircraft with glass cockpits, and we are Northern Nevada’s only Cessna Pilot Center. Our experienced full-time instructors are committed to providing high-quality training with a focus on safety, quality, and integrity. We are open 7 days a week to accommodate your schedule, and our flexible payment plans allow you to pay as you learn. At Great Basin Aviation, we measure our success by the proficiency and confidence of our students, ensuring a lifelong passion for flying.",
+  "icao": "KRNO",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nAirline Transport Pilot\\nCommercial Pilot License\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

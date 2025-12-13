@@ -1,0 +1,22 @@
+{
+  "id": "41f093a8-b315-4022-ba0b-c14c2a7a4453",
+  "slug": "freedom-helicopters",
+  "name": "Freedom Helicopters",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IN",
+  "city": "",
+  "baseAirport": "UMP -Indianapolis Metropolitan Airport",
+  "website": "https://freedomhelicopters.com/",
+  "email": "info@freedomhelicopters.com",
+  "phone": "(317) 432-4525",
+  "about": "Freedom Helicopters, located at the Indianapolis Metropolitan Airport in Fishers, Indiana, offers comprehensive helicopter flight training for both casual and professional students. Our programs cater to individuals pursuing private helicopter flying as well as those aiming for a career in helicopter aviation. We provide introductory flight lessons, aerial photography and video services, and city tours of the Indianapolis area. With experienced instructors and a focus on safety, we ensure high-quality training tailored to each student's needs. Whether you're just starting out or advancing your skills, Freedom Helicopters is committed to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

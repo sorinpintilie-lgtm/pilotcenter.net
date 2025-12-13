@@ -1,0 +1,22 @@
+{
+  "id": "2f3f00d1-f0fa-4184-8f76-ce1b7faf8687",
+  "slug": "executive-compass-flight-institute",
+  "name": "Executive Compass Flight Institute",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "BC",
+  "city": "",
+  "baseAirport": "Pitt Meadows Regional Airport",
+  "website": "https://compassflying.com/",
+  "email": "info@compassflying.com",
+  "phone": "'+1 604-863-0900",
+  "about": "Executive Compass Flight Institute is a multi-base flight school located at Pitt Meadows Airport, BC, and Springbank Airport, Calgary, Alberta. With experienced and dedicated flight instructors, we offer high-quality training for various licenses, including Private Pilot, Commercial Pilot, Instrument Rating, and Instructor Rating. Our fleet includes Cessna 172s and ALSIM 250 simulators. We pride ourselves on modern technology, including iPad use with Foreflight and a comprehensive course management system. Our internal Aircraft Maintenance Organization ensures safety and efficiency. We provide a comprehensive curriculum blending theoretical knowledge and practical experience, preparing students for successful careers in aviation. Our commitment to excellence and technological advancement makes us a premier choice for flight training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

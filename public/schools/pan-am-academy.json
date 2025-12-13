@@ -1,0 +1,22 @@
+{
+  "id": "bb91c0be-4980-4793-99a2-bbd42a71d8e9",
+  "slug": "pan-am-academy",
+  "name": "Pan Am Academy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "FL",
+  "city": "Miami",
+  "baseAirport": "Miami International Airport",
+  "website": "https://www.panamacademy.com/",
+  "email": "communications@panamacademy.com",
+  "phone": "'+1 305-874-6000",
+  "about": "Pan Am Flight Academy, the only remaining division of Pan American World Airways, is a global leader in aviation training. Established in 1980 at Miami International Airport, the academy has a rich heritage in airline flight training. Owned by ANA Holdings since 2013, Pan Am Flight Academy trains pilots and aviation professionals worldwide, offering programs in pilot training, airline crew training, type rating, ATP-CTP, aircraft maintenance, and more. With over 70 simulators and training centers in Miami, Las Vegas, Tokyo, and Europe, the academy is certified by major international authorities such as the FAA and EASA. Pan Am is dedicated to providing high-quality, custom training experiences at the best value, ensuring the next generation of aviation professionals is well-equipped for their careers.",
+  "icao": "KMIA",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

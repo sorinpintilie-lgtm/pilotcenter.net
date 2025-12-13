@@ -1,0 +1,22 @@
+{
+  "id": "e69bded2-337f-4372-976b-fc4efc3ec6df",
+  "slug": "aero-aviation",
+  "name": "Aero Aviation, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "LGB -Long Beach (Daugherty Field)",
+  "website": "http://www.flyaeroaviation.com/home.htm",
+  "email": "info@flyaeroaviation.com",
+  "phone": "(562) 425-6774",
+  "about": "Aero Aviation Flight School LLC is a premier flight training institution based in California, dedicated to providing comprehensive aviation education. We offer a range of programs, including Private Pilot, Commercial Pilot, and Flight Instructor certifications. Our experienced instructors and well-maintained fleet ensure a safe and professional learning environment. We are committed to helping aspiring aviators achieve their goals, whether they are pursuing a career in aviation or flying for personal enjoyment. With a focus on excellence and customer satisfaction, Aero Aviation Flight School is the ideal choice for those seeking top-notch flight training. We are proud to be a part of your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

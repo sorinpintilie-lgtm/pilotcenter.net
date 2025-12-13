@@ -1,0 +1,22 @@
+{
+  "id": "67f88cf9-1335-48da-98b8-72363248a28c",
+  "slug": "chicago-executive-flight-school",
+  "name": "Chicago Executive Flight School",
+  "continent": "North America",
+  "country": "USA",
+  "state": "IL",
+  "city": "Wheeling",
+  "baseAirport": "Chicago Executive Airport",
+  "website": "https://www.chicagoexecutiveflightschool.com/",
+  "email": "info@chicagoexecutiveflightschool.com",
+  "phone": "'+1 800-901-0730",
+  "about": "Chicago Executive Flight School, established in 1994, is the largest flight school in the Chicagoland area, operating year-round at Chicago Executive Airport. Starting with a single Cessna 150, the school has grown to offer training in six aircraft, providing economical and adventurous flight experiences for adults, beginners, and part-time students. Specializing in certifications such as Private Pilot, Commercial Pilot, and Flight Instructor, the school ensures safety and proficiency through frequent progress reviews and the latest training technology, adhering to FAA guidelines. With a commitment to safety and a passion for flying, Chicago Executive Flight School has trained thousands of students to become safe and competent pilots. Trust and professionalism are at the heart of their instruction, making it a premier choice for aviation education.",
+  "icao": "KPWK",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

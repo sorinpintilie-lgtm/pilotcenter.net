@@ -1,0 +1,22 @@
+{
+  "id": "7af6049f-7afc-4e9b-8c54-97b9c1a55e81",
+  "slug": "willamette-aviation-service",
+  "name": "Willamette Aviation Service, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OR",
+  "city": "",
+  "baseAirport": "UAO -Aurora State Airport",
+  "website": "http://www.willametteair.com/",
+  "email": "info@WillametteAir.com",
+  "phone": "(503) 678-2252",
+  "about": "Willamette Aviation Service, LLC, founded in 1996, is a Fixed Based Operator (FBO) located at the Aurora State Airport in Aurora, Oregon, about 20 miles south of downtown Portland. We offer a wide range of services to the General Aviation community, including FAA-regulated flight training programs for Private Pilot, Instrument Rating, Commercial Pilot, Multi-Engine, CFI, and CFII. Our facilities include aircraft rental, discovery flights, ground school classes, and the use of our Redbird FMX and Flight Lab flight simulators. Additionally, we provide aviation fuel (24-hour self-serve 100LL), aircraft maintenance, and FAA Medical Certificates. Our team of FAA Certified Flight Instructors ensures exceptional training and customer service. For more information, visit our website or contact us at (503) 678-2252. We are committed to meeting the needs of the General Aviation community with outstanding service.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

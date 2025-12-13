@@ -1,0 +1,22 @@
+{
+  "id": "325ef3a8-3fe5-43f4-a521-2e9695746841",
+  "slug": "aero-tech-services",
+  "name": "Aero-Tech Services, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "PA",
+  "city": "",
+  "baseAirport": "LNS -Lancaster Airport",
+  "website": "https://www.aerotechservices.com/",
+  "email": "info@aerotechservices.com",
+  "phone": "(717) 394-2675",
+  "about": "Aero-Tech Services, Inc. is a comprehensive aviation company based in Lititz, Pennsylvania, dedicated to providing exceptional flight training, air charter services, and aircraft management. We collaborate with Eastern Mennonite University at Lancaster to offer innovative degree programs for aspiring pilots. Our experienced instructors, trained in both flying skills and high-level people skills, adapt training to each student's learning style and personality. With a fleet of well-maintained aircraft, including Cessna 172s and 152s, we ensure a safe and enriching flying experience. Our mission is to inspire and guide the next generation of aviators, making learning to fly a rewarding and stress-free experience. We look forward to helping you achieve your aviation dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

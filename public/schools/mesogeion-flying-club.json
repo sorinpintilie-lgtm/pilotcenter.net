@@ -1,0 +1,22 @@
+{
+  "id": "9b628f48-1b58-4d7c-a9fa-f00df2b901da",
+  "slug": "mesogeion-flying-club",
+  "name": "Mesogeion Flying Club",
+  "continent": "Europe",
+  "country": "Greece",
+  "state": "GRC",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.mesogeion-aeroclub.gr/",
+  "email": "info@mesogeion-aeroclub.gr",
+  "phone": "'+30-6944666431",
+  "about": "Mesogeion Aeroclub, founded in December 1999, is a vibrant flying school and club dedicated to flight safety and excellence. Under the supervision of the Hellenic Civil Aviation Authority, we offer training on the popular Cessna 172 aircraft. With over 200 active members, 45 air athletes, and 140 graduates holding private, night, and instrument ratings, we are one of the most active clubs in Athens. Our fleet includes two Cessna 172 single-engine airplanes, and our training staff consists of nine experienced flight and ground instructors. We have conducted thousands of flights, including long-distance trips within Greece and abroad, and participated in various rallies and flight competitions. Our vision is to create a community of safe and skilled pilots, enjoying beautiful moments both on the ground and in the air. We strive to provide a safe, educational, and enjoyable flying experience for all our members.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Pilot Training PPL(A)\\nInstrument Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

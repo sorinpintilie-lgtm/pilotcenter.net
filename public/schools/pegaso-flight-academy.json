@@ -1,0 +1,22 @@
+{
+  "id": "2b6d7824-2a0e-4660-84ec-2a8216b70f9e",
+  "slug": "pegaso-flight-academy",
+  "name": "Pegaso Flight Academy",
+  "continent": "Europe",
+  "country": "Italy",
+  "state": "ITLY",
+  "city": "",
+  "baseAirport": "Caorle airfield (VE)",
+  "website": "https://www.pegasoflightacademy.it/",
+  "email": "info@pegasoflightacademy.it",
+  "phone": "'+39.347.8109852",
+  "about": "Pegasus Flight Academy, located in Linden, New Jersey, is a comprehensive flight training institution offering a range of programs to aspiring pilots. We provide training towards Private, Instrument, Commercial, and Airline Transport Pilot licenses, as well as Flight Instructor certifications. Our fleet includes Cessna 172 and Robinson R22 and R44 helicopters, all available for rent. Students benefit from one-on-one lessons with certified flight instructors and can take advantage of flexible scheduling, with instructors available 7 days a week. We also accept foreign M-1 Visa applicants and offer financing options to support students in achieving their aviation goals. At Pegasus Flight Academy, we are committed to providing a professional and supportive environment to help you succeed in your aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PPL\\nLAPL\\nEnglish Voice Course\\nAELP Test\\nQualifications\\nHours Building\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

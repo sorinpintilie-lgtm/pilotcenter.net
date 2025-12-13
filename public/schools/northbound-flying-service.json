@@ -1,0 +1,22 @@
+{
+  "id": "d57f1e98-d3ff-48b2-826d-6f916d875451",
+  "slug": "northbound-flying-service",
+  "name": "Northbound Flying Service",
+  "continent": "North America",
+  "country": "United",
+  "state": "AK",
+  "city": "",
+  "baseAirport": "LHD -Lake Hood Airport",
+  "website": "https://northboundflying.com/",
+  "email": "northboundak@gmail.com",
+  "phone": "(907) 350-6607",
+  "about": "Northbound Flying Service is a premier flight training institution dedicated to producing highly skilled and safety-conscious pilots. Established with a commitment to excellence, our school offers FAA-approved fixed wing flight training programs from the initial Private Pilot Certificate to the Career Professional Pilot level. Our team of experienced instructors, chosen for their exceptional teaching and flying skills, provide personalized instruction tailored to each student's needs and learning style. We maintain a diverse fleet of well-maintained aircraft, ensuring students gain comprehensive experience in various flying conditions. With a strong emphasis on safety, structured training programs, and a supportive learning environment, Northbound Flying Service is the ideal place to embark on your aviation career. Join us and take the first step towards becoming a proficient and confident pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Seaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

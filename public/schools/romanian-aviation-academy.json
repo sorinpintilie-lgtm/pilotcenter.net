@@ -1,0 +1,22 @@
+{
+  "id": "3f2bf4d0-903f-47b5-9813-dbecb6604ca2",
+  "slug": "romanian-aviation-academy",
+  "name": "Romanian Aviation Academy",
+  "continent": "Europe",
+  "country": "Romania",
+  "state": "ROM",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://aviationacademy.ro/",
+  "email": "info@aviationacademy.ro",
+  "phone": "021 233 16 38",
+  "about": "The Romanian Aviation Academy, established in 1999 through the reorganization of the Civil Aviation Personnel Training Center, is an extra-budgetary public institution subordinated to the Ministry of Transport. Our mission is to provide specific training to certify civil aeronautical personnel in accordance with International Civil Aviation Organization and European Civil Aviation Authority standards. Located in Bucharest, we offer comprehensive programs for public air transport pilots, air traffic controllers, and other aviation professionals. Our training includes theoretical and practical flight sessions using state-of-the-art facilities and aircraft such as the CESSNA 172S. Recognized by European authorities, we ensure high-quality education and safety standards, preparing students for successful careers in the aviation industry. With a strong focus on compliance and excellence, we continue to lead in aviation training in Europe.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airplane pilot courses\\nHelicopter pilot courses\\nFlight attendant courses\\nAir traffic controller course\\nTechnical staff courses\\nFirst aid course for flight attendants\\nAviation security courses\\nFlight operations dispatch courses\\nRTF courses\\nWeekly schedule\\nPlatform access\\nAdmission competition\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

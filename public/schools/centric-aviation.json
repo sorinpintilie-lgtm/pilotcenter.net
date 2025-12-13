@@ -1,0 +1,22 @@
+{
+  "id": "373b16da-5f23-4f90-b15c-9ecb7b4c1dce",
+  "slug": "centric-aviation",
+  "name": "Centric Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NY",
+  "city": "",
+  "baseAirport": "JHW -Chautauqua County/Jamestown Airport",
+  "website": "https://centricaviation.com/",
+  "email": "jhw@centricaviation.com",
+  "phone": "(716) 201-1297",
+  "about": "Centric Aviation is a family-owned and operated aviation service provider with a passion for safe flight and comprehensive ground support. With 40 years of experience, we operate four distinctive locations, managing over a quarter-million square feet of aviation real estate and caring for tens of thousands of aircraft annually. Our services include fueling, aircraft handling, hangar space, aircraft maintenance, and concierge services. We also offer rental cars and partner with Avfuel for aviation fuels and trip-planning solutions. Centric Aviation is dedicated to delivering excellent experiences with a uniquely personal approach, ensuring all visitors receive reliable and efficient service. We are committed to supporting our clients' objectives with mission-centric flight support.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

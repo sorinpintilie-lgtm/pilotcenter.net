@@ -1,0 +1,22 @@
+{
+  "id": "bf929ec9-b430-419b-a413-2504d727dc31",
+  "slug": "region-flyers",
+  "name": "Region Flyers",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "IGQ -Lansing Municipal Airport",
+  "website": "https://www.regionflyers.com/lansing-il-office/",
+  "email": "regionflyers@gmail.com",
+  "phone": "(844) 435-9694",
+  "about": "Region Flyers is an FAA-approved Part 141 Flight School, renowned for its exceptional flight training programs. Our experienced and professional staff consists of hand-picked Certified Flight Instructors, ensuring students receive the highest quality instruction. We offer comprehensive training for various certificates and ratings, including Private Pilot, all within a structured and supportive environment. Whether you're flying for fun or aspiring to a professional career, Region Flyers provides the resources and expertise to help you achieve your aviation goals. With a commitment to safety and excellence, we are dedicated to helping you take to the skies with confidence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

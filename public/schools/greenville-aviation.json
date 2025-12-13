@@ -1,0 +1,22 @@
+{
+  "id": "f01816e0-3a92-41ef-9f75-265c2901b5f6",
+  "slug": "greenville-aviation",
+  "name": "Greenville Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "SC",
+  "city": "Greenville",
+  "baseAirport": "Greenville Downtown Airport",
+  "website": "https://www.greenvilleaviation.com/",
+  "email": "learntofly@greenvilleaviation.com",
+  "phone": "'+1 864-242-4201",
+  "about": "Greenville Aviation, established in 1967, is the oldest flight school and aircraft rental company in Greenville, South Carolina. With a state-of-the-art training facility, we offer comprehensive flight instruction in private, instrument, commercial (single and multiengine), and certified flight instructor programs. Our experienced instructors also provide ground lessons, biennial flight reviews, and instrument proficiency checks. The school features a FAA Certified full motion simulator for cost-effective training and a heated hangar for preflighting. Additionally, we offer aircraft rentals, aerial photography services, and discovery flights. Recognized as the only AOPA Distinguished Flight School in South Carolina, Greenville Aviation is dedicated to providing safe, thorough, and cost-effective flight training. Whether you're a novice or an experienced pilot, we are here to help you achieve your aviation goals.",
+  "icao": "KGMU",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

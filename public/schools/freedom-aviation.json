@@ -1,0 +1,22 @@
+{
+  "id": "b65c4212-3935-4711-99d2-7be198ac577e",
+  "slug": "freedom-aviation",
+  "name": "Freedom Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "VA",
+  "city": "Lynchburg",
+  "baseAirport": "Lynchburg Regional Airport",
+  "website": "https://www.flyfreedom.com/",
+  "email": "moorefield@flyfreedom.com / customerservice@flyfreedom.com",
+  "phone": "'+1 434-237-8420",
+  "about": "Freedom Aviation is a premier flying school dedicated to providing exceptional flight training and aviation education. Located in a prime aviation hub, our school offers a comprehensive range of programs from private pilot licenses to commercial aviation degrees. Our state-of-the-art facilities and modern fleet ensure students receive the best possible training environment. Our experienced and certified instructors are committed to safety and excellence, guiding students through rigorous yet supportive learning pathways. With a focus on both theoretical knowledge and practical skills, Freedom Aviation prepares aspiring pilots for successful careers in aviation. We pride ourselves on fostering a community of passionate and skilled aviators. Join us to take your first steps towards a soaring future.",
+  "icao": "KLYH",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

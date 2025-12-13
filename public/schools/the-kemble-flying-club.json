@@ -1,0 +1,22 @@
+{
+  "id": "3d523b2e-23ae-4cbf-82b4-fba254498ab8",
+  "slug": "the-kemble-flying-club",
+  "name": "The Kemble Flying Club",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Cirencester",
+  "baseAirport": "Cotswold Airport",
+  "website": "https://kembleflyingclub.com/",
+  "email": "Admin@kembleflyingclub.com",
+  "phone": "'+44 1285 770 077",
+  "about": "The Kemble Flying Club, located at Cotswold Airport near Cirencester, UK, is a renowned microlight aircraft flying school established in 1995. We offer a range of flying experiences, from trial flights and pilot training to advanced courses and conversion training. Our training is conducted in both fixed-wing and flex-wing aircraft, with a focus on providing a warm, welcoming, and friendly environment. Students benefit from tailored lessons, pre-flight briefings, and the opportunity to handle the controls as much as possible. We also offer a 'Pilot for a Day' experience and membership benefits, including access to our booking system and club facilities. With a strong emphasis on theoretical knowledge and practical skills, Kemble Flying Club is an ideal place to achieve your NPPL (Microlight) or continue your flying adventures. Our goal is to make your flying experience rewarding, sometimes challenging, and always memorable.",
+  "icao": "EGBP",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

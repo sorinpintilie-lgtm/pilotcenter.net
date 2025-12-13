@@ -1,0 +1,22 @@
+{
+  "id": "6f02d2d3-16cd-4c34-8580-114acededa6f",
+  "slug": "basair-aviation-college",
+  "name": "Basair Aviation College",
+  "continent": "Oceania",
+  "country": "Australia",
+  "state": "",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://basair.com.au/",
+  "email": "Enrol@basair.edu.au",
+  "phone": "'+61 2-9791-0111",
+  "about": "Basair Aviation College, established in 1991, is Australia’s largest and most respected flying college. With campuses in Sydney, Brisbane, and Cessnock, Basair offers a fully-integrated, world-class curriculum that graduates students as fully qualified commercial pilots within a year. Our courses, designed by experienced aviation professionals, include Commercial Pilot Licences, Instrument Ratings, and Flight Instructor certifications, all approved by the Australian Civil Aviation Safety Authority and accredited by the Australian Skills Quality Authority. We operate a fleet of over 70 aircraft and have trained hundreds of pilots now flying for major airlines worldwide. Our commitment to safety, operational excellence, and continuous learning ensures our students are well-prepared for successful careers in aviation. Join Basair to embark on a journey to become a skilled and dedicated pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

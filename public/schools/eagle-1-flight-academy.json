@@ -1,0 +1,22 @@
+{
+  "id": "1b6726f4-728a-4312-b8b7-084f4c761c1b",
+  "slug": "eagle-1-flight-academy",
+  "name": "Eagle 1 Flight Academy",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "GT",
+  "city": "",
+  "baseAirport": "Rand Airport Germiston",
+  "website": "https://www.eagle1.co.za/",
+  "email": "info@eagle1.co.za",
+  "phone": "'+27 11 824 1396",
+  "about": "Eagle 1 Flight Academy is a premier flight training institution dedicated to developing professional and competent pilots. With a strong emphasis on safety and efficiency, our academy is equipped with well-maintained airplanes featuring the latest technology, such as Garmin Avionics. Our team of FAA Certified Flight Instructors provides comprehensive ground and flight training, ensuring students gain the necessary knowledge and skills to become safe and proficient pilots. Located at a convenient airport, we offer various training programs, including Private Pilot, Instrument Pilot, and Commercial Pilot certificates. Our accelerated training programs are designed to help students achieve their aviation goals quickly and cost-effectively. At Eagle 1 Flight Academy, we are committed to helping you reach the sky with confidence and professionalism.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Flight Instructor \\nInstrument Rating\\nNight Rating\\nType Rating\"]",
+  "visaInsurance": "Other",
+  "fleetSize": "",
+  "logoUrl": ""
+}

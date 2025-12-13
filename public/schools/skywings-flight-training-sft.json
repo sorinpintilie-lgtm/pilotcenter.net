@@ -1,0 +1,22 @@
+{
+  "id": "5f78663e-c0e9-41d9-a070-4a7749500c8e",
+  "slug": "skywings-flight-training-sft",
+  "name": "Skywings Flight Training (SFT)",
+  "continent": "Europe",
+  "country": "Belgium",
+  "state": "BELG",
+  "city": "",
+  "baseAirport": "Antwerp Airport",
+  "website": "https://www.skywings.be/",
+  "email": "office@skywings.be",
+  "phone": "'+32 3 886 59 70",
+  "about": "At Skywings Flight Training, we specialize in training future airline pilots with a comprehensive 2-year program. Our instructors are current or retired airline pilots, ensuring students receive expertise from seasoned professionals. The program includes ATPL theoretical training and practical flight training, utilizing state-of-the-art equipment and simulators. Students attend classes in Antwerp and practical training in Antwerp and Alicante, Spain. We emphasize a strong knowledge foundation, covering 14 subjects like aerodynamics, communications, and air law. Our partnership with European Flight Academy, the flight school of the Lufthansa Group, further enhances our training standards. We strive to provide a professional and supportive environment, preparing students for successful careers in the aviation industry. Our goal is to equip students with the skills and knowledge necessary to secure a place in the cockpit of an airliner.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Pilot Career Program\\nMPL Cadet Program\\nInstructor\\nExaminer\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "1b98a2a0-5b8d-40ee-99a9-e23bd322a55e",
+  "slug": "socal-flying-club",
+  "name": "SoCal Flying Club",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "EMT -San Gabriel Valley Airport",
+  "website": "https://www.socalflyingclub.com/",
+  "email": "frontdesk@socalflyingclub.com",
+  "phone": "(626) 869-7099",
+  "about": "SoCal Flying Club, founded in 2013, is dedicated to helping individuals achieve their flight goals and become pilots. Located in the Southern California region, the club offers highly personalized and comprehensive flight training conducted by highly trained FAA Certified Flight Instructors. Training is available in advanced G1000 Aircraft, including the Diamond Star DA40 and Cessna 172, as well as helicopter training in a Robinson R44. The club emphasizes safety, customer service, and tailored training approaches to meet each student's needs. With a fleet of modern and well-maintained aircraft, SoCal Flying Club provides an excellent learning environment for private, instrument, commercial, and multi-engine certifications. Our instructors are passionate about sharing the joy of flying while ensuring safety as a top priority. Join us to embark on a rewarding aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

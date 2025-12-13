@@ -1,0 +1,22 @@
+{
+  "id": "5de8187d-0186-413f-ad82-4d6f764913f3",
+  "slug": "flynqy-pliot-training",
+  "name": "Flynqy Pliot Training",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Newquay",
+  "baseAirport": "Cornwall Airport Newquay",
+  "website": "https://www.flynqy.co.uk/",
+  "email": "fly@flynqy.co.uk",
+  "phone": "'+44 1637 861 744",
+  "about": "Flynqy Pilot Training, based at Newquay Cornwall Airport, is a UK Approved Training Organisation and CAA Registered Training Facility. We offer training for Private Pilot Licences (PPL), Light Aircraft Pilot Licences (LAPL), and various post-PPL ratings, including Instrument Rating (IR(R)) and Night Rating. Our training benefits include access to one of the UK’s largest runways, a professional airport environment, full Air Traffic Control services, and unrestricted airspace. With a focus on both professionalism and enjoyment, our experienced instructors provide top-notch training amidst the stunning views of Cornwall and Devon. We ensure all lessons are fun, effective, and tailored to help you achieve your aviation goals. Join us for an unparalleled flight training experience.",
+  "icao": "EGHQ",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

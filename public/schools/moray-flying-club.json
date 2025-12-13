@@ -1,0 +1,22 @@
+{
+  "id": "370369a7-3945-462b-913d-a9d5038bdef4",
+  "slug": "moray-flying-club",
+  "name": "Moray Flying Club",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Forres",
+  "baseAirport": "Kinloss Barracks",
+  "website": "https://www.morayflyingclub.com/",
+  "email": "enquiries@morayflyingclub.com",
+  "phone": "'+44 7779 978 495",
+  "about": "Moray Flying Club, located on the picturesque shores of the Moray Firth in Forres, Scotland, is a not-for-profit flying club primarily serving military personnel from RAF Kinloss and RAF Lossiemouth. The club offers cost-effective flying training, including tuition for the UK Part-FCL Private Pilots Licence (PPL) and the Light Aircraft Pilots Licence (LAPL). With a focus on affordability and quality instruction, Moray Flying Club provides airplane flight training in a supportive and professional environment. The club is dedicated to making flying accessible to both military personnel and select civilians, ensuring a comprehensive and enjoyable learning experience.",
+  "icao": "EGQK",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

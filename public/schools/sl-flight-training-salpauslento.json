@@ -1,0 +1,22 @@
+{
+  "id": "c8cf044b-aa97-4ff6-944f-1c0c520c26ca",
+  "slug": "sl-flight-training-salpauslento",
+  "name": "SL Flight Training | Salpauslento",
+  "continent": "Europe",
+  "country": "Finland",
+  "state": "FI",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.salpauslento.fi/",
+  "email": "info@salpauslento.fi",
+  "phone": "'+358 (0)9 350 98 250",
+  "about": "SL Flight Training | Salpauslento, established in 1970, is one of the oldest and most reputable private aviation educational institutions in Finland. Located at Helsinki-Malmi Airport, the school has been at the forefront of aviation education for over five decades. It offers a wide range of training programs, including Professional Pilot Study Lines, Private and Commercial Pilot Licenses, Instrument Flight Qualifications, and Helicopter Pilot Training. With a strong tradition of combining extensive know-how with modern thinking, SL Flight Training has trained hundreds of professional pilots for both transport and general aviation. The school is committed to shaping competent aviation professionals through rigorous training, expert guidance, and a focus on industry relevance, ensuring students are well-prepared for an exhilarating career in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PROFESSIONAL PILOT STUDY LINE (AOL)\\nPROFESSIONAL HELICOPTER PILOT STUDY LINE (AOL)\\nPRIVATE PILOT'S LICENSE / PPL\\nEMPLOYEE'S LICENSE / CPL\\nINSTRUMENT FLIGHT QUALIFICATION / IR\\nPRIVATE HELICOPTER PILOT'S LICENSE / PPL(H)\\nHELICOPTER PILOT'S LICENSE / C PL(H)\\nHELICOPTER INSTRUMENT PILOT QUALIFICATION / IR (H)\\nHELICOPTER TYPE TRAINING\\nDRIVER COOPERATION TRAINING\",\"MCC\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

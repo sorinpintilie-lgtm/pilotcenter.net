@@ -1,0 +1,22 @@
+{
+  "id": "2a6c5c38-5aa9-43d2-b44a-8eb761523488",
+  "slug": "gibson-aviation-services",
+  "name": "Gibson Aviation Services LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WI",
+  "city": "",
+  "baseAirport": "EAU -Chippewa Valley Regional Airport",
+  "website": "https://gibsonaviation.com/",
+  "email": "info@gibsonaviation.com",
+  "phone": "(715) 231-1836",
+  "about": "Gibson Aviation Services LLC is a comprehensive aviation provider based in Western Wisconsin, offering a range of services including flight training, aircraft maintenance, and avionics installations. As an Authorized Garmin Dealer, we ensure the highest standards in avionics and maintenance. Our flight training programs cater to all levels, from zero experience to multi-engine commercial pilot certifications, and are available at both Menomonie and Eau Claire airports. We also provide aircraft rental, parts sales, and pilot supplies. With a commitment to quality and safety, Gibson Aviation Services is your trusted source for all aviation needs. Contact us to start your aviation journey today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "c65849dd-24e5-4582-b7e9-9826df9f513c",
+  "slug": "executive-air-taxi",
+  "name": "Executive Air Taxi Corporation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "ND",
+  "city": "Bismarck",
+  "baseAirport": "Bismarck Airport",
+  "website": "https://executive-air.com/",
+  "email": "marketing@executive-air.com",
+  "phone": "'+1 701-258-5024",
+  "about": "Executive Air Taxi Corporation, established in 1973, is a renowned flying school and air charter operator in the Midwest. Located in Bismarck, North Dakota, we offer comprehensive flight training programs including Recreational Pilot, Private Pilot, Commercial Pilot, Instrument Rating, and Multi-Engine Rating. Our FAA-certified instructors provide personalized training in our well-maintained Cessna 172s. We also offer Discovery Flights to introduce prospective students to our programs. With a focus on safety, convenience, and comfort, we ensure that learning to fly is both fun and affordable. Contact us to schedule a flight training appointment and take the first step towards your aviation dreams.",
+  "icao": "KBIS",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

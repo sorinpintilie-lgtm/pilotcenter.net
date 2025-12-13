@@ -1,0 +1,22 @@
+{
+  "id": "5454fa2e-8bcf-4d2d-a037-2557113851eb",
+  "slug": "vrp-avia",
+  "name": "VRP Avia",
+  "continent": "Europe",
+  "country": "Belarus",
+  "state": "BYS",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://vrpavia.by/",
+  "email": "info@vrpavia.by",
+  "phone": "'+375 (29) 399 00 22",
+  "about": "At VRP Avia, we are dedicated to providing top-notch flight training in a safe, innovative, and supportive environment. Our experienced instructors, many with military and commercial airline backgrounds, offer personalized guidance to help you achieve your aviation goals. We utilize state-of-the-art aircraft and advanced flight simulators to ensure you receive comprehensive training. Whether you aspire to become a commercial pilot, obtain a private license, or simply enjoy the thrill of flying, our programs are designed to meet your needs. With a strong focus on safety and continuous learning, we strive to create exceptional pilots. Join VRP Avia and embark on a rewarding aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot Primary Training (PPL)\\nRetraining of pilots for the Viper SD- 4 aircraft type\\nInstructor and teaching staff\\nTraining base\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

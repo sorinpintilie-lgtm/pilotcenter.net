@@ -1,0 +1,22 @@
+{
+  "id": "4804341b-9d6e-4c42-b82e-fa3811ad3bd2",
+  "slug": "link-aviation",
+  "name": "Link Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WI",
+  "city": "",
+  "baseAirport": "EAU -Chippewa Valley Regional Airport",
+  "website": "https://www.linkaviation.com/",
+  "email": "info@linkaviation.com",
+  "phone": "(715) 384-8908",
+  "about": "Link Aviation, founded by Edwin A. Link in the 1930s, is a pioneering institution in flight training. Link developed the revolutionary \"Link Trainer,\" also known as the \"Blue Box,\" a flight simulator that taught pilots to fly by instruments, significantly enhancing safety and training efficiency. During World War II, Link trainers were instrumental in training over 500,000 military pilots worldwide. The simulators, using organ bellows and electric pumps to mimic flight movements, were adopted by the U.S. Army Air Corps, Navy, and other nations. Link Aviation's innovative approach to flight training has saved countless lives and set the standard for modern flight simulators, continuing to influence aviation education to this day. Our legacy is built on innovation, safety, and the commitment to excellence in pilot training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nIFS Certifications\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

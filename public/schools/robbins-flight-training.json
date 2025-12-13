@@ -1,0 +1,22 @@
+{
+  "id": "c7f44f2d-8129-4ff6-b357-c083ec196fb2",
+  "slug": "robbins-flight-training",
+  "name": "Robbins Flight Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "L45 -Bakersfield Municipal Airport",
+  "website": "https://www.robbinsflight.com/",
+  "email": "training@robbinsflight.com",
+  "phone": "(661) 509-1629",
+  "about": "Robbins Flight Training is a comprehensive flight training program based in Bakersfield and Shafter, California. We offer a wide variety of flight instruction tailored for both new and experienced pilots. Our training includes certifications such as Private Pilot, Commercial Pilot, and Flight Instructor (CFI), ensuring that students can achieve their aviation goals whether for recreational flying or a professional career. With a focus on safety and personalized instruction, our experienced instructors guide students through each step of their flight training. We provide introductory flights, ground school, and specialized training programs to meet the diverse needs of our students. At Robbins Flight Training, we are committed to helping you take to the skies with confidence and skill.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

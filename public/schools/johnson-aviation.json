@@ -1,0 +1,22 @@
+{
+  "id": "add9d7e2-22d6-4fe5-aa23-742b3b679e90",
+  "slug": "johnson-aviation",
+  "name": "Johnson Aviation, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "TYR -Tyler Pounds Regional Airport",
+  "website": "https://flytyler.com/",
+  "email": "info@flytyler.com",
+  "phone": "(903) 593-4343",
+  "about": "Johnson Aviation, Inc. is a family-owned full-service Fixed Base Operator (FBO) located at Tyler Pounds Regional Airport (KTYR) in Tyler, Texas. Founded in 1959 by Garner Johnson, the business is now managed by his sons, Rex and Rodney. We pride ourselves on providing first-class services for both commercial and general aviation. Our offerings include flight instruction, airplane rental, and a range of aircraft services. Our friendly staff is dedicated to supporting pilots at all certificate levels, from ground training to checkride preparation for airplanes and helicopters. With a long history of excellence, Johnson Aviation is your trusted partner for all aviation needs. We are committed to helping you achieve your flying goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Instrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

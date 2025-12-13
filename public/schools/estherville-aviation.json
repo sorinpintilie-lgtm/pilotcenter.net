@@ -1,0 +1,22 @@
+{
+  "id": "58794388-5987-4b4b-b562-6c6ee0e38333",
+  "slug": "estherville-aviation",
+  "name": "Estherville Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IA",
+  "city": "",
+  "baseAirport": "EST -Estherville Municipal Airport",
+  "website": "https://esthervilleaviation.com/",
+  "email": "paul@esthervilleaviation.com",
+  "phone": "(712) 362-2761",
+  "about": "Estherville Aviation, located at the Esterville Municipal Airport in Iowa, offers comprehensive airplane flight training programs. We provide certifications and ratings including Private Pilot, Commercial Pilot, Flight Instructor, Multi-Engine, and Tail Wheel Pilot Training. Our programs also include specialized courses such as Co-Pilot Line Training and a Pinch Hitter Course for friends and family of pilots. With a focus on safety and thorough instruction, Estherville Aviation is dedicated to helping aspiring pilots achieve their aviation goals. Our experienced instructors and well-maintained fleet ensure a high-quality learning environment. Whether you're pursuing a career in aviation or flying for personal enjoyment, Estherville Aviation is committed to your success.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

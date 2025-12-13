@@ -1,0 +1,22 @@
+{
+  "id": "8f0a9c17-2df6-40fa-b7f4-65cbe2783c3d",
+  "slug": "air-dream-college",
+  "name": "Air Dream College",
+  "continent": "Europe",
+  "country": "Portugal",
+  "state": "",
+  "city": "Évora",
+  "baseAirport": "Évora Municipal Aerodrome",
+  "website": "https://airdreamcollege.com/en/",
+  "email": "comunicacao@airdreamcollege.com / marketing@airdreamcollege.com",
+  "phone": "'+351 968 516 365 / 21 133 7673",
+  "about": "Air Dream College, established in 2020, is a premier aviation school located in Lisbon and Évora, Portugal. Founded by three friends who identified a lack in aviation instruction, the college offers a unique modular ATPL course, tailored to each student's needs. With state-of-the-art facilities, including new classrooms and a fleet of six Tecnam aircraft, Air Dream College provides an excellent learning environment. The school boasts a brand-new fleet, including the Tecnam P2006T NG, and operates in areas with favorable meteorological conditions, allowing students to fly up to 95% of the year. Committed to innovation, quality, and excellence, Air Dream College is dedicated to helping students achieve their aviation dreams with a personalized and professional approach.",
+  "icao": "LPEV",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nNight Rating\\nEASA ATPL Ground School\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

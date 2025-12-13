@@ -1,0 +1,22 @@
+{
+  "id": "e4786012-8311-46c6-bf7b-134d51caefe1",
+  "slug": "lavion-aero",
+  "name": "Lavion Aero",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MI",
+  "city": "",
+  "baseAirport": "Z98 -Ottawa Exec Airport",
+  "website": "https://www.lavion.aero/",
+  "email": "info@lavion.aero",
+  "phone": "(616) 727-0966",
+  "about": "Lavion Aero, based at Ottawa Executive Airport (Z98) in Zeeland, Michigan, offers comprehensive aviation services including quality flight instruction, aircraft rentals, and aircraft maintenance. As a Part 61 flight school, Lavion Aero provides flexible, one-on-one training schedules tailored to individual students' needs and availability. The school operates seven days a week, with early morning, daytime, and evening hours available. Students can choose from a variety of aircraft, including the Cessna 150, Liberty XL-2, Cessna 172, Piper Cherokee 140, and Grumman Cheetah. Lavion Aero also accommodates aircraft owners and offers flight reviews for rusty pilots. With a commitment to personalized instruction and flexible scheduling, Lavion Aero is dedicated to helping students achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

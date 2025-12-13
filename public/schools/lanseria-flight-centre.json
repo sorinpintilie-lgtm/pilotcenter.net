@@ -1,0 +1,22 @@
+{
+  "id": "0811b3fd-bd66-48a5-9558-43c755d2977b",
+  "slug": "lanseria-flight-centre",
+  "name": "Lanseria Flight Centre",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "",
+  "city": "",
+  "baseAirport": "Grand Central Airport",
+  "website": "https://www.flylfc.com/contact/",
+  "email": "info@flylfc.com",
+  "phone": "'+27 11 312 5166",
+  "about": "Lanseria Flight Centre (LFC) is an internationally recognised flight school and aviation training organisation based at Lanseria International Airport in South Africa. With over 35 years of experience, LFC specializes in providing professional pilot training for both domestic and international students. The school offers full-time and part-time training programs, including Private Pilot Licence (PPL), Night Rating, Commercial Pilot Licence (CPL), and Airline Transport Pilot Licence (ATPL). LFC is known for its world-class training, having successfully trained pilots who now fly for top airlines globally. The school also offers hour-building programs, flying safaris, private air charters, and aircraft hire. Led by Ian Dyson and his experienced team, LFC continues to uphold a rich tradition of professional pilot training and aviation services. Whether you aspire to be a career pilot or a hobby aviator, LFC is dedicated to providing safe, quality training tailored to your needs.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFrozen ATPL License\\nEASA Frozen ATPL License\\nGround School\\nNight Rating\\nInstructor Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "9681a78b-373f-418e-8c22-7e43b53ec258",
+  "slug": "l3harris-flight-school",
+  "name": "L3Harris Flight School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "SFB -Orlando Sanford International Airport",
+  "website": "https://l3harrisairlineacademy.com/en-us/orlando-flight-school/",
+  "email": "Shari.Riddell@L3T.com",
+  "phone": "(407) 330-7020",
+  "about": "L3Harris Airline Academy is a renowned institution for pilot training, with a 30-year heritage in producing airline-ready pilots. We train individuals from little to no flying experience to become fully qualified commercial airline pilots, offering programs compliant with UKCAA, EASA, and FAA regulations. Our global presence includes state-of-the-art facilities in the UK and USA, a fleet of over 100 aircraft, and 20 flight simulation devices. We have direct partnerships with 17 airlines and strong relationships with many more, ensuring our graduates are highly sought after. Our instructors are selected for their extensive experience and commercial aviation background, and we provide comprehensive support, including pastoral care and counseling. With a commitment to delivering the highest standards of training and safety, L3Harris Airline Academy is dedicated to helping aspiring aviators achieve their dreams of flying for commercial airlines.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nComputerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nMulti-Engine\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

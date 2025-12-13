@@ -1,0 +1,22 @@
+{
+  "id": "87d21449-67e2-4f3d-a333-af6983a971b9",
+  "slug": "acadian-pilot",
+  "name": "Acadian Pilot",
+  "continent": "North America",
+  "country": "United States",
+  "state": "LA",
+  "city": "",
+  "baseAirport": "LFT -Lafayette Regional/Paul Fournet Field",
+  "website": "https://acadianaviation.com/",
+  "email": "raja@acadianaviation.com",
+  "phone": "(337) 291-2884",
+  "about": "At Acadian Aviation Pilot Training Centre, we are dedicated to providing top-notch flight training in Acadiana. Our instructors are passionate and dedicated teachers, not just pilots, ensuring a personalized and structured learning experience. We offer flexible scheduling, allowing you to learn on your timetable, unlike many other flight schools. Our comprehensive syllabus includes both ground school and flight training, closely tracking your progress to ensure you meet your pilot licensing goals efficiently. With a focus on convenience and excellence, we are committed to helping you achieve your aviation aspirations. Join us for a tailored flight training experience that fits your needs.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

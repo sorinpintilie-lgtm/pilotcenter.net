@@ -1,0 +1,262 @@
+:root {
+    --color_0: 255, 255, 255;
+    --color_1: 255, 255, 255;
+    --color_2: 0, 0, 0;
+    --color_3: 237, 28, 36;
+    --color_4: 0, 136, 203;
+    --color_5: 255, 203, 5;
+    --color_6: 114, 114, 114;
+    --color_7: 176, 176, 176;
+    --color_8: 255, 255, 255;
+    --color_9: 114, 114, 114;
+    --color_10: 176, 176, 176;
+    --color_11: 255, 255, 255;
+    --color_12: 237, 237, 237;
+    --color_13: 170, 170, 170;
+    --color_14: 128, 128, 128;
+    --color_15: 85, 85, 85;
+    --color_16: 191, 233, 255;
+    --color_17: 160, 221, 255;
+    --color_18: 64, 188, 255;
+    --color_19: 43, 125, 170;
+    --color_20: 21, 63, 85;
+    --color_21: 176, 220, 255;
+    --color_22: 97, 184, 255;
+    --color_23: 73, 138, 191;
+    --color_24: 49, 92, 128;
+    --color_25: 24, 46, 64;
+    --color_26: 254, 242, 174;
+    --color_27: 254, 235, 133;
+    --color_28: 253, 216, 13;
+    --color_29: 169, 144, 9;
+    --color_30: 84, 72, 4;
+    --color_31: 254, 196, 178;
+    --color_32: 253, 166, 140;
+    --color_33: 252, 78, 26;
+    --color_34: 168, 52, 17;
+    --color_35: 84, 26, 9;
+    --color_36: 255, 255, 255;
+    --color_37: 0, 0, 0;
+    --color_38: 232, 230, 230;
+    --color_39: 199, 199, 199;
+    --color_40: 89, 89, 89;
+    --color_41: 0, 87, 225;
+    --color_42: 85, 85, 85;
+    --color_43: 64, 188, 255;
+    --color_44: 128, 128, 128;
+    --color_45: 0, 0, 0;
+    --color_46: 0, 0, 0;
+    --color_47: 89, 89, 89;
+    --color_48: 0, 87, 225;
+    --color_49: 0, 87, 225;
+    --color_50: 255, 255, 255;
+    --color_51: 255, 255, 255;
+    --color_52: 0, 87, 225;
+    --color_53: 0, 87, 225;
+    --color_54: 199, 199, 199;
+    --color_55: 199, 199, 199;
+    --color_56: 255, 255, 255;
+    --color_57: 255, 255, 255;
+    --color_58: 0, 87, 225;
+    --color_59: 0, 87, 225;
+    --color_60: 0, 87, 225;
+    --color_61: 0, 87, 225;
+    --color_62: 255, 255, 255;
+    --color_63: 255, 255, 255;
+    --color_64: 199, 199, 199;
+    --color_65: 199, 199, 199;
+    --wst-button-color-fill-primary: rgb(var(--color_48));
+    --wst-button-color-border-primary: rgb(var(--color_49));
+    --wst-button-color-text-primary: rgb(var(--color_50));
+    --wst-button-color-fill-primary-hover: rgb(var(--color_51));
+    --wst-button-color-border-primary-hover: rgb(var(--color_52));
+    --wst-button-color-text-primary-hover: rgb(var(--color_53));
+    --wst-button-color-fill-primary-disabled: rgb(var(--color_54));
+    --wst-button-color-border-primary-disabled: rgb(var(--color_55));
+    --wst-button-color-text-primary-disabled: rgb(var(--color_56));
+    --wst-button-color-fill-secondary: rgb(var(--color_57));
+    --wst-button-color-border-secondary: rgb(var(--color_58));
+    --wst-button-color-text-secondary: rgb(var(--color_59));
+    --wst-button-color-fill-secondary-hover: rgb(var(--color_60));
+    --wst-button-color-border-secondary-hover: rgb(var(--color_61));
+    --wst-button-color-text-secondary-hover: rgb(var(--color_62));
+    --wst-button-color-fill-secondary-disabled: rgb(var(--color_63));
+    --wst-button-color-border-secondary-disabled: rgb(var(--color_64));
+    --wst-button-color-text-secondary-disabled: rgb(var(--color_65));
+    --wst-color-fill-base-1: rgb(var(--color_36));
+    --wst-color-fill-base-2: rgb(var(--color_37));
+    --wst-color-fill-base-shade-1: rgb(var(--color_38));
+    --wst-color-fill-base-shade-2: rgb(var(--color_39));
+    --wst-color-fill-base-shade-3: rgb(var(--color_40));
+    --wst-color-fill-accent-1: rgb(var(--color_41));
+    --wst-color-fill-accent-2: rgb(var(--color_42));
+    --wst-color-fill-accent-3: rgb(var(--color_43));
+    --wst-color-fill-accent-4: rgb(var(--color_44));
+    --wst-color-fill-background-primary: rgb(var(--color_11));
+    --wst-color-fill-background-secondary: rgb(var(--color_12));
+    --wst-color-text-primary: rgb(var(--color_15));
+    --wst-color-text-secondary: rgb(var(--color_14));
+    --wst-color-action: rgb(var(--color_18));
+    --wst-color-disabled: rgb(var(--color_39));
+    --wst-color-title: rgb(var(--color_45));
+    --wst-color-subtitle: rgb(var(--color_46));
+    --wst-color-line: rgb(var(--color_47));
+    --wst-font-style-h2: var(--font_2);
+    --wst-font-style-h3: var(--font_3);
+    --wst-font-style-h4: var(--font_4);
+    --wst-font-style-h5: var(--font_5);
+    --wst-font-style-h6: var(--font_6);
+    --wst-font-style-body-large: var(--font_7);
+    --wst-font-style-body-medium: var(--font_8);
+    --wst-font-style-body-small: var(--font_9);
+    --wst-font-style-body-x-small: var(--font_10);
+    --wst-color-custom-1: rgb(var(--color_13));
+    --wst-color-custom-2: rgb(var(--color_16));
+    --wst-color-custom-3: rgb(var(--color_17));
+    --wst-color-custom-4: rgb(var(--color_19));
+    --wst-color-custom-5: rgb(var(--color_20));
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--wst-color-fill-background-primary);
+    color: var(--wst-color-text-primary);
+}
+
+.hero {
+    background-image: url('hero-background.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 100px 20px;
+    text-align: center;
+    color: white;
+}
+
+.hero h1 {
+    font-size: 48px;
+    margin: 0 0 20px 0;
+}
+
+.hero p {
+    font-size: 24px;
+    color: var(--wst-color-fill-background-primary);
+}
+
+.features {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 20px;
+    background-color: var(--wst-color-custom-2);
+}
+
+.feature {
+    max-width: 300px;
+    text-align: center;
+}
+
+.cta {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: var(--wst-color-custom-3);
+}
+
+.routes {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 20px;
+    background-color: var(--wst-color-fill-background-secondary);
+}
+
+.route {
+    max-width: 300px;
+    text-align: center;
+}
+
+.route img {
+    width: 100%;
+    height: auto;
+}
+
+.help {
+    padding: 50px 20px;
+    text-align: center;
+    background-color: rgb(var(--color_26));
+}
+
+.jobs {
+    padding: 50px 20px;
+    background-color: var(--wst-color-fill-background-primary);
+}
+
+.jobs h3 {
+    margin-top: 30px;
+    color: var(--wst-color-action);
+}
+
+.resources {
+    padding: 50px 20px;
+    background-color: var(--wst-color-fill-background-secondary);
+}
+
+.resources h3 {
+    margin-top: 30px;
+    color: var(--wst-color-fill-accent-1);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    nav {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    ul {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    li {
+        margin-left: 0;
+        margin-bottom: 10px;
+    }
+
+    .features {
+        flex-direction: column;
+    }
+
+    .feature {
+        margin-bottom: 20px;
+    }
+
+    .routes {
+        flex-direction: column;
+    }
+
+    .route {
+        margin-bottom: 20px;
+    }
+
+    footer {
+        flex-direction: column;
+    }
+
+    .addresses {
+        flex-direction: column;
+    }
+
+    .addresses div {
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero h1 {
+        font-size: 36px;
+    }
+
+    .hero p {
+        font-size: 18px;
+    }
+}

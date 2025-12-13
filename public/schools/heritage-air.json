@@ -1,0 +1,22 @@
+{
+  "id": "8d34f3a5-21b9-4ed2-b8e5-3fd2f4b376b2",
+  "slug": "heritage-air",
+  "name": "Heritage Air LLC",
+  "continent": "North America",
+  "country": "USA",
+  "state": "VA",
+  "city": "Warrenton",
+  "baseAirport": "Warrenton-Fauquier Airport",
+  "website": "https://heritageairllc.com/",
+  "email": "heritageairllc@gmail.com",
+  "phone": "'+1 785-917-9707",
+  "about": "Heritage Air LLC, located at the Warrenton-Fauquier Airport in Midland, Virginia, is dedicated to providing excellent flight instruction in a safe and enjoyable environment. Our fleet includes well-maintained aircraft such as the 1961 Cessna 172B, 1957 Cessna 172, 1966 Piper Cherokee PA 28-140, and 1966 Twin Comanche. We offer reasonable prices and convenient scheduling, with discounts available for block purchases. Our instructors are committed to making flying both safe and fun, ensuring that each student receives personalized attention and quality training. Whether you are a beginner or looking to enhance your flying skills, Heritage Air LLC is the ideal choice for your aviation journey. We look forward to helping you take to the skies with confidence and skill.",
+  "icao": "KHWY",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

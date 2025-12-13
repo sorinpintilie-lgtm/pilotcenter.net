@@ -1,0 +1,22 @@
+{
+  "id": "403eaf71-42c8-49ab-a0b4-8463c89614f2",
+  "slug": "adventure-aviation",
+  "name": "Adventure Aviation Inc.",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "AB",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.adventureaviation.ca/",
+  "email": "info@adventureaviation.ca",
+  "phone": "'+1 780-539-6968",
+  "about": "Adventure Aviation Inc. is a premier flight school and aviation services provider based in Grande Prairie, Alberta, Canada. With over two decades of experience, we offer comprehensive flight training programs, including Private Pilot Licences and Night Ratings, all approved by Transport Canada. Our fleet includes Cessnas, Pipers, Beechcraft King Airs, and de Havilland Beavers. We also operate a Charter Airline and an Approved Maintenance Organization, ensuring top-notch maintenance and safety standards. Our dedicated team is passionate about aviation, committed to excellence, and prioritizes safety above all. We provide versatile solutions for executive travel, crew changes, and freight services, making us a trusted name in Northern and Western Canada. At Adventure Aviation, aviation is not just a profession, but a deep-seated passion.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

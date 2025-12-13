@@ -1,0 +1,22 @@
+{
+  "id": "f2788ce6-eff8-413b-8846-6a6385e1662a",
+  "slug": "heli-austria-flight-academy",
+  "name": "Heli Austria Flight Academy",
+  "continent": "Europe",
+  "country": "Austria",
+  "state": "AUST",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://heliaustria-flightacademy.at/",
+  "email": "academy@heli-austria.at",
+  "phone": "'+43 664 888 11 110",
+  "about": "Heli Austria Flight Academy, established in 2018, is a premier helicopter training institution in Austria and a founding member of the Leading Helicopter Academies (LHA) network. With over 35 years of experience in helicopter operations through Heli Austria, Heli Tirol, and MARTIN Flugrettung, the academy offers a comprehensive range of courses including Private Pilot License (PPL(H)), Commercial Pilot License (CPL(H)), Flight Instructor (FI(H)), and Airline Transport Pilot License Theory (ATPL(H)). The academy also provides type ratings for various helicopter models and advanced operational courses such as mountain training, external load training, and NVG training. Based in Bad Vöslau and Salzburg, the academy benefits from ideal training environments, including proximity to the Alps and multiple runways. Heli Austria Flight Academy is committed to raising flying standards and providing high-quality training to meet the industry's growing demand for skilled pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Pilot licenses\\nPrivate Pilot License\\nCommercial Pilot License and Airline Transport Pilot License\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "bae14796-7d26-4775-852d-a84df4b44883",
+  "slug": "wisconsin-aviation",
+  "name": "Wisconsin Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "WI",
+  "city": "Juneau",
+  "baseAirport": "Dodge County Airport",
+  "website": "https://www.wisconsinaviation.com/",
+  "email": "WAFL@WisAv.com",
+  "phone": "'+1 608-268-5000",
+  "about": "Wisconsin Aviation, established through the legacy of Four Lakes Aviation since 1939, is the state's largest full-service fixed-base operator (FBO) and provider of general aviation services. The flight school offers comprehensive training from private pilot to Airline Transport Pilot (ATP) certifications, utilizing a diversified fleet of rental aircraft, including technologically advanced Cirrus SR20s and Cessna models. Students benefit from Boeing’s Jeppesen flight-training syllabus, Garmin avionics, and advanced aviation training devices. The school conducts formal ground schools and provides simulator training, ensuring high-quality instruction and a structured learning environment. With a rich history in civilian and military training, Wisconsin Aviation continues to be a key player in aviation education and services, preparing highly sought-after graduates for careers in aviation.",
+  "icao": "KUNU",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

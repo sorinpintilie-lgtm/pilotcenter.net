@@ -1,0 +1,22 @@
+{
+  "id": "724c952a-cd1c-4d23-ac2d-c30414a91d77",
+  "slug": "aeroclub-varese",
+  "name": "AeroClub Varese",
+  "continent": "Europe",
+  "country": "Italy",
+  "state": "",
+  "city": "Varese",
+  "baseAirport": "Venegono Airport",
+  "website": "https://www.aeroclubvarese.it/",
+  "email": "info@aeroclubvarese.it",
+  "phone": "'+39 0331 864128",
+  "about": "AeroClub Varese, established in 1948, is a premier flight school located at Aeroporto Arturo Ferrarin in Venegono Inferiore, Italy. Evolving from a private club to a leading flight training institution, it offers comprehensive programs for PPL, CPL, and ATPL licenses. With a fleet of 16 aircraft and two state-of-the-art flight simulators, AeroClub Varese is dedicated to producing top-notch pilots. The school boasts over 35 full-time instructors, a certified CAMO and IT.CAO.0001, and a strong partnership with Air Dolomiti. Known for its high-quality training and innovation, AeroClub Varese has a remarkable 95% professional placement rate for its graduates, many of whom now fly for leading airlines such as Ryanair and Wizz Air. Choose AeroClub Varese to build a successful career in aviation.",
+  "icao": "LILN",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

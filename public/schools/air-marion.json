@@ -1,0 +1,22 @@
+{
+  "id": "094f7d9c-bea9-480e-a54b-cf074addd2ba",
+  "slug": "air-marion",
+  "name": "Air Marion, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IN",
+  "city": "",
+  "baseAirport": "MZZ -Marion Municipal - McKinney Field",
+  "website": "https://www.airmarion.com/",
+  "email": "fly@airmarion.com",
+  "phone": "(765) 674-7777",
+  "about": "Air Marion, Inc. is a reputable flying school located at the Marion Airport, offering a range of aviation training programs. We provide a Discovery Flight, a 20-25 minute introductory flight for up to three people, which is an excellent way to experience flying and determine if becoming a pilot is right for you. Our programs are designed to be engaging and informative, with a focus on safety and professional instruction. Whether you are looking to start a career in aviation or simply want to enjoy the thrill of flying, Air Marion, Inc. is committed to providing a high-quality learning experience. Our certified flight instructors and well-maintained aircraft ensure that you receive the best possible training. Join us to take the first step in your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": 5,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

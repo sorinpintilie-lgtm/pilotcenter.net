@@ -1,0 +1,22 @@
+{
+  "id": "a58b59a1-0229-4e8d-9bdc-8f9c5951bce2",
+  "slug": "waco-flight-training",
+  "name": "Waco Flight Training",
+  "continent": "North America",
+  "country": "United",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "ACT -Waco Regional Airport",
+  "website": "https://www.wacoflight.com/",
+  "email": "aaron@wacoflight.com",
+  "phone": "(254) 366-3449",
+  "about": "Waco Flight Training is a dedicated flight school committed to providing comprehensive and personalized aviation education. With a team of 2 full-time and 3-4 part-time instructors, we ensure a tailored learning experience for each student. Our flexible scheduling allows students to fly frequently while accommodating their life schedules. We recommend budgeting between $14,500 and $15,500 for the Private Pilot Certificate, with total costs for all single-engine ratings under $90,000. We operate with a detailed in-house syllabus and Standard Operating Procedure to ensure effectiveness and efficacy in our training programs. Payment options include cash, check, and major credit cards, with discounts available for block funding. Our mission is strictly focused on flight training, and we prioritize the safety and success of our students. At Waco Flight Training, we are dedicated to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

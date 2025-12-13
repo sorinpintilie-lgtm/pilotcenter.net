@@ -1,0 +1,22 @@
+{
+  "id": "135bc9c5-6bb2-4722-88d0-3ba356a9cf7a",
+  "slug": "kirtland-usaf-flight-center",
+  "name": "Kirtland USAF Flight Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NM",
+  "city": "",
+  "baseAirport": "ABQ -Albuquerque International Sunport Airport",
+  "website": "http://kirtlandflightcenter.org/",
+  "email": "Kirtland Flight Center",
+  "phone": "(505) 846-1072",
+  "about": "The Kirtland Flight Center, located on Kirtland Air Force Base in Albuquerque, New Mexico, is a full-service recreational flight training facility and an official United States Air Force Aero Club. We offer a comprehensive range of professional aviation courses, including FAA-approved programs under CFR Part 141, such as the Guided Flight Discovery Program for private pilots. Our courses utilize the latest Jeppesen training materials, and students may be eligible for financial assistance through the Veteran’s Administration flight training program. We provide ground school courses, aircraft rentals, and instruction in single-engine and multi-engine aircraft. Membership benefits include reduced rates on flight and ground instruction, access to simulators, and regular safety meetings. Whether you're aiming for a career in aviation or simply want to enjoy the thrill of flying, the Kirtland Flight Center is dedicated to making your aviation dreams a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

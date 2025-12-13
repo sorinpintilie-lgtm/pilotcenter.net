@@ -1,0 +1,22 @@
+{
+  "id": "8e244658-b1ac-4236-ae40-284fd772aa75",
+  "slug": "haps-air-service",
+  "name": "Hap's Air Service",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IA",
+  "city": "",
+  "baseAirport": "AMW -Ames Municipal Airport",
+  "website": "https://hapsair.com/",
+  "email": "info@hapsair.com",
+  "phone": "(515) 232-4310",
+  "about": "Hap's Air Service, established in 1947, is a renowned flight school located at the Ames Municipal Airport in Ames, Iowa. With over 70 years of experience, our team of certified instructors is dedicated to tailoring flight lessons to match each student's unique learning style. We offer a comprehensive range of training programs, from Private Pilot Certificates to advanced ratings such as Commercial and Flight Instructor (CFI and CFII) certifications. Our Airline Career Program is designed to take students from zero hours to airline-ready pilots. We also provide discovery flights for prospective students and offer discounts for Iowa State University students and faculty. Hap's Air Service is committed to helping students achieve their aviation goals with personalized instruction and a supportive learning environment. Start your aviation journey with us today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

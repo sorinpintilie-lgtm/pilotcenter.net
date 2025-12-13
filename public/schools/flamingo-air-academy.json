@@ -1,0 +1,22 @@
+{
+  "id": "48e6b936-7ee9-4069-b517-e0ea73f00eb3",
+  "slug": "flamingo-air-academy",
+  "name": "Flamingo Air Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OH",
+  "city": "",
+  "baseAirport": "LUK -Cincinnati Muni/Lunken Field",
+  "website": "https://flamingoair.net/",
+  "email": "admin@flamingoair.net",
+  "phone": "(513) 321-7465",
+  "about": "Flamingo Air Academy, located in Cincinnati, Ohio, is dedicated to providing high-quality, professional flight instruction. Our mission is to redefine flight training by enabling students to become safe, skilled, and competent pilots capable of navigating complex airspaces. Our instructors hold multiple ratings, including CFI, CFII, MEI, MEII, and ATP, and are committed to teaching rather than building hours. We offer training in a fleet of well-maintained aircraft, including Cessna 172s and Piper Cherokees. In addition to flight training, we provide courses in Aircraft Dispatcher Certification, Avionics Electronics Technician training, and Drone Operator training. Whether your goal is to fly for fun or pursue a career in aviation, Flamingo Air Academy is here to fulfill your dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nDrone/UAS\\nGround School\\nIntro Flight\\nPart 107 Drone Testing\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

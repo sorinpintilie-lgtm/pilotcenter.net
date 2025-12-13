@@ -1,0 +1,22 @@
+{
+  "id": "8a34fa2b-c9f4-42bd-8f4b-cc78b586aee0",
+  "slug": "flightworks",
+  "name": "Flightworks",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "SDL -Scottsdale Airport",
+  "website": "https://www.flightworksscottsdale.com/",
+  "email": "christine@flightworksscottsdale.com",
+  "phone": "(480) 305-0911",
+  "about": "Flightworks Scottsdale is a premier flight training institution offering the highest caliber of pilot training. Our seasoned instructors, with thousands of flight hours and decades of experience, provide personalized and comprehensive training. We offer programs for Private Pilot Licenses, Instrument Ratings, and Cirrus Transition, among others. Our modern facility at Scottsdale Airport features a full-service rental fleet of Cirrus aircraft, a simulator, and various amenities. We welcome students from across the United States and internationally, and our staff is dedicated to making your aviation journey seamless and enjoyable. With a strong focus on safety and education, Flightworks Scottsdale is your home for all stages of your aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

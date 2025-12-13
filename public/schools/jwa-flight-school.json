@@ -1,0 +1,22 @@
+{
+  "id": "ebbc77ee-fbb1-4c8c-9f59-d48f0344aecc",
+  "slug": "jwa-flight-school",
+  "name": "JWA Flight School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "1C5 -Bolingbrook's Clow International Airport",
+  "website": "https://flyjwa.com/",
+  "email": "contactus@flyjwa.com",
+  "phone": "(630) 759-1555",
+  "about": "JWA Flight School, located at Clow Airport in Bolingbrook, is a dynamic and family-friendly flight training institution. We operate under FAA Part 61 regulations, offering flexible training courses that accommodate your schedule. Our team of knowledgeable FAA-certified flight instructors has thousands of combined flying hours, ensuring you receive top-notch training. We provide a range of services, including discovery flights, online scheduling, and the use of the Redbird LD Flight Simulator for advanced training. Additionally, our full-service FBO includes self-serve and full-serve fuel options, as well as comprehensive aircraft maintenance services. At JWA Flight School, we are committed to making your flight training experience both enjoyable and effective.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

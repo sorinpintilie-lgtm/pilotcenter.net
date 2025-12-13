@@ -1,0 +1,22 @@
+{
+  "id": "2408e6c8-d322-4ff7-8341-78866a238143",
+  "slug": "nextgen-flight-academy",
+  "name": "NextGen Flight Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "RAL -Riverside Municipal Airport",
+  "website": "https://flyhere.aero/",
+  "email": "dispatch@nextgenflightacademy.com",
+  "phone": "(877) 551-1110",
+  "about": "NextGen Flight Academy, established in February 2016, is a premier flight training institution based in Southern California, with locations at Riverside Municipal Airport (KRAL) and Redlands Municipal Airport (KREI). We offer FAA Part 141 and Part 61 approved programs, providing comprehensive training from private to ATP ratings, as well as tailwheel endorsements. Our fleet includes Cessna 172s, Piper Arrow, Cessna 120, Beechcraft Duchess, and Cessna 152. We prioritize a safe, knowledgeable, and fun learning environment, ensuring our students receive top-quality education and support. Schedule an introductory flight to experience our professional and personable training firsthand. NextGen Flight Academy is committed to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

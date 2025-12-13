@@ -1,0 +1,22 @@
+{
+  "id": "f45bbe55-efc9-44fb-b557-5f8c1ca0ab71",
+  "slug": "svensk-pilotutbildning",
+  "name": "Svensk Pilotutbildning",
+  "continent": "Europe",
+  "country": "Sweden",
+  "state": "SE",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://spu.academy/",
+  "email": "info@spu.academy",
+  "phone": "'+46 31 92 55 05",
+  "about": "Svensk Pilotutbildning, now known as SPU Flight Academy, is a prominent flight school located at Gothenburg City Airport in southwestern Sweden. Established in 1998, the school initially offered fixed-wing training and expanded to helicopter education in 2004. It provides comprehensive training programs, including Private Pilot License (PPL) and Commercial Pilot License (CPL) for helicopters, as well as Type Rating Training. The academy is renowned for its large fleet of Robinson and Eurocopter helicopters and has been awarded government contracts for training civil helicopter pilots. With a strong focus on both theoretical and practical training in accordance with JAA/EASA requirements, SPU Flight Academy is dedicated to transforming aspiring pilots into fully qualified professionals, ready to embark on careers with leading airlines. The school's commitment to quality education and flexible training options makes it a beacon of excellence in aviation training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PROFICIENCY CHECK\\nINSTRUMENT TRAINING\\nPROFESSIONAL TRAINING\\nINSTRUCTOR TRAINING\\nDISTANCE LEARNING\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

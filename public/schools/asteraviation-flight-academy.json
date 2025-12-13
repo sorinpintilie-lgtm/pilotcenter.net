@@ -1,0 +1,22 @@
+{
+  "id": "b8fa082e-471a-45b5-8b5b-d83f72955fe7",
+  "slug": "asteraviation-flight-academy",
+  "name": "Asteraviation Flight Academy",
+  "continent": "Europe",
+  "country": "Italy",
+  "state": "",
+  "city": "Verona",
+  "baseAirport": "Verona Villafranca Airport / Verona Boscomantico Airport",
+  "website": "https://www.asteraviation.it/",
+  "email": "info@asteraviation.it",
+  "phone": "'+39 045 205 0662",
+  "about": "AsterAviation Flight Academy, headquartered at Verona International Airport, is a renowned flight school in Italy, operating at both Verona Villafranca Airport and Boscomantico Airport. The academy is committed to providing top-notch aviation training, employing high-profile professional collaborators and boasting partnerships with airlines and training institutions. Their comprehensive curriculum includes courses for airline pilots (ATPL) and other specialized training programs, utilizing state-of-the-art aircraft and instructed by experienced professionals. Dedicated to training the next generation of aviators in a rigorous, safe, and effective manner, AsterAviation is the ideal choice for aspiring and experienced pilots looking to elevate their flying careers. Contact AsterAviation to learn more about their offerings and take the first step towards a rewarding career in aviation.",
+  "icao": "LIPX",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

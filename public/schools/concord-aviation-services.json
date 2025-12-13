@@ -1,0 +1,22 @@
+{
+  "id": "3b3c80ee-ce1f-46b6-9f79-d31e725d1790",
+  "slug": "concord-aviation-services",
+  "name": "Concord Aviation Services",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NH",
+  "city": "",
+  "baseAirport": "CON -Concord Municipal Airport",
+  "website": "https://www.confbo.com/",
+  "email": "CAS@confbo.com",
+  "phone": "(603) 228-2267",
+  "about": "Concord Aviation Services, located at the Concord Municipal Airport in New Hampshire, is a comprehensive aviation facility offering a wide range of services. As a Fixed Base Operator (FBO), we provide flight instruction, aircraft rental, and maintenance services. Our flight school offers various levels of instruction, including Student, Recreational, Private, Instrument, and Commercial Pilot Licenses, as well as recurrent training. Our experienced instructors and state-of-the-art facilities ensure a safe and effective learning environment. We also offer discovery flights, hangar and tie-down storage, refueling, and detailed aircraft maintenance. At Concord Aviation Services, we are dedicated to helping you achieve your aviation goals with top-notch services and a commitment to excellence. Whether you're a novice or an experienced pilot, we have everything you need to take to the skies.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

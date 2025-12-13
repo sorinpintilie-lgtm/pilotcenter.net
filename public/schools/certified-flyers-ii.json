@@ -1,0 +1,22 @@
+{
+  "id": "8e3e43e6-d053-43b9-80eb-e03c4995c8c0",
+  "slug": "certified-flyers-ii",
+  "name": "Certified Flyers II",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NJ",
+  "city": "",
+  "baseAirport": "MMU -Morristown Municipal Airport",
+  "website": "https://www.certifiedflyers.com/",
+  "email": "info@certifiedflyers.com",
+  "phone": "(973) 539-4080",
+  "about": "Certified Flyers II is the premier Technically Advanced Aircraft (TAA) training center in the northeast. Our highly trained and professional flight instructors provide training from Private Pilot to Airline Transport Pilot using advanced aircraft like the Cessna 172, Cirrus SR20 and SR22, and the Beechcraft Duchess. We follow a structured academic syllabus designed by Jeppesen and adhere to the FAA TAA recommended flight training syllabus. Our instructors hold Bachelor of Science degrees in aeronautics and education, ensuring top-quality instruction. We specialize in accelerated and finish-up private and instrument flight training, and our students have one of the highest employment rates in the industry. We offer flexible timeshare programs, aircraft sales, and rental services, all while maintaining a commitment to safety, reliability, and quality instruction. Visit us to see why we are the students' first choice in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

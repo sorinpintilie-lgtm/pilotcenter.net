@@ -1,0 +1,22 @@
+{
+  "id": "7d27fb91-98f6-4d66-b2a9-926e271a4af6",
+  "slug": "prairie-college",
+  "name": "Prairie College",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "AB",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.prairie.edu/",
+  "email": "admissions@prairie.edu / info@prairie.edu",
+  "phone": "'+1 403-443-5511",
+  "about": "Prairie College's Prairie Aviation Training Centre (PATC) offers a comprehensive 2-year aviation program in a supportive Christian environment. In partnership with Mission Aviation Fellowship of Canada, PATC prepares students for careers as commercial pilots, with a focus on mission aviation. The program includes flight training, Bible classes, and earns students an Associate of Arts in Mission Aviation, a Commercial Pilot License, and an average of 230 logged flight hours. PATC provides industry-leading training across various aircraft types and environments, including cross-country flights, mountain flying, and aerobatics. The college is expanding its facilities to double its capacity, enhancing the student experience and addressing the growing need for trained pilots. Prairie College is committed to equipping students with the skills and biblical foundation to serve in both mission and commercial aviation sectors.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

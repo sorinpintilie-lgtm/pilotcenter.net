@@ -1,0 +1,22 @@
+{
+  "id": "4f050294-15bb-4b02-9700-bd542806fda8",
+  "slug": "girls-in-flight-training-academy",
+  "name": "Girls in Flight Training Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "52F -Aero Valley Airport",
+  "website": "https://www.girlsinflight.org/",
+  "email": "giftacademyinc@gmail.com",
+  "phone": "(817) 946-7512",
+  "about": "The Girls in Flight Training Academy is a dedicated flying school committed to empowering women and girls to pursue careers in aviation. Located at airport 52F, our academy offers a comprehensive range of training programs, including private pilot, commercial pilot, and flight instructor certifications. Our experienced Certified Flight Instructors provide personalized ground and flight instruction, ensuring students receive the highest quality education. We are passionate about creating a supportive and inclusive environment where aspiring female pilots can achieve their aviation goals. With a focus on safety, professionalism, and enthusiasm, we inspire the next generation of women in aviation to soar to new heights. Join us and embark on a journey to become a skilled and confident pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

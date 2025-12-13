@@ -1,0 +1,22 @@
+{
+  "id": "a73a8734-a055-4297-b4f7-ce9b4ec84e22",
+  "slug": "central-iowa-air-service",
+  "name": "Central Iowa Air Service",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IA",
+  "city": "",
+  "baseAirport": "AMW -Ames Municipal Airport",
+  "website": "https://centraliowaair.com/",
+  "email": "info@centraliowaair.com",
+  "phone": "(515) 292-9056",
+  "about": "Central Iowa Air Service (CIAS) is a premier flight school and full-service Fixed Base Operator (FBO) located at the Ames Municipal Airport in Iowa. As one of only six FAA Part 141 Certified Flight Schools in the state, CIAS offers a structured and efficient training program tailored for those seeking a career in aviation. Our curriculum, approved by the FAA, ensures reduced training time and required hours, making it a cost-effective option for students. With partnerships with local universities and community colleges, students can utilize financial aid, grants, and other resources to achieve their career goals. Our team includes four full-time flight instructors and a fleet of four training aircraft. CIAS also provides air charter, aircraft maintenance, rental, storage, and fueling services, making it a comprehensive aviation solution. Our goal is to train professional pilots in the most efficient and safe manner possible. Contact us today to start your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

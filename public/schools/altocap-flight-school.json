@@ -1,0 +1,22 @@
+{
+  "id": "3026a25b-5b4c-40af-9d6c-41a79e8c8213",
+  "slug": "altocap-flight-school",
+  "name": "Altocap Flight School",
+  "continent": "Oceania",
+  "country": "Australia",
+  "state": "",
+  "city": "",
+  "baseAirport": "Camden Airport",
+  "website": "https://www.altocap.com.au/",
+  "email": "info@altocap.com.au",
+  "phone": "'+61 2-8377-3963",
+  "about": "Altocap Flight School, based in Camden, Australia, offers professional and friendly flying training for students at all levels, from beginners to aspiring flight instructors. Our qualified instructors provide comprehensive training, including briefings on flight basics and hands-on experience. We offer a range of courses, including the Flight Instructor Rating (FIR) course, which includes spinning activity endorsement, design feature course certificate, and initial grade three flight test. Altocap also provides financing options through partnerships like Handypay and ZeeFi, making aviation education more accessible. With three in-house flight examiners covering 26 different flight approvals, we ensure our students are well-prepared for their careers. Altocap is committed to making you more employable and ready for your first pilot job.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

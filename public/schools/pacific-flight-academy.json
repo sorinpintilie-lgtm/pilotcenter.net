@@ -1,0 +1,22 @@
+{
+  "id": "42b9cacc-293f-44d4-a1ba-381a0aa9c8e1",
+  "slug": "pacific-flight-academy",
+  "name": "Pacific Flight Academy",
+  "continent": "North America",
+  "country": "United",
+  "state": "HI",
+  "city": "",
+  "baseAirport": "HNL -Daniel K Inouye International Airport",
+  "website": "https://www.pacificflightacademy.com/",
+  "email": "fly@pacificflightacademy.com",
+  "phone": "(808) 398-4013",
+  "about": "Pacific Flight Academy, founded by pilots Bobby Nikkhoo and Morgen Jackson, is a premier flight school located at Honolulu’s Daniel K. Inouye International Airport. Established about two and a half years ago, the academy began as a flying club and has since grown rapidly due to high demand for flight training. With a diverse fleet including Cessna 172s, Vashon Rangers, and Van’s RV–12s, Pacific Flight Academy offers comprehensive training in a unique and challenging environment characterized by tropical weather, mountainous terrain, and overwater flying. The school emphasizes safety, quality instruction, and community, preparing students for careers in any realm of aviation. With over 100 students and 20 instructors, Pacific Flight Academy provides a dynamic and supportive learning environment that mirrors industry standards, ensuring students are well-prepared for their future in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

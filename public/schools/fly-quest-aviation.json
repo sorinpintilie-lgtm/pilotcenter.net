@@ -1,0 +1,22 @@
+{
+  "id": "772a212e-94f2-49fc-a572-baf46825b52d",
+  "slug": "fly-quest-aviation",
+  "name": "Fly Quest Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "CNO -Chino Airport",
+  "website": "https://www.flyquestaviation.com/",
+  "email": "info@flyquestaviation.com",
+  "phone": "(909) 593-1533",
+  "about": "Fly Quest Aviation, located at Brackett Field Airport in La Verne, California, is a premier flight training institution serving the KPOC and KCNO airports. We offer a comprehensive range of aviation programs, including Private Pilot, Instrument, Commercial, Multi-Engine, and Certified Flight Instructor (CFI) certifications. Our experienced and top-notch Certified Flight Instructors (CFIs) provide personalized training to ensure students achieve their aviation goals, whether for recreational flying or a career in aviation. With a friendly and supportive environment, Fly Quest Aviation is committed to helping aspiring pilots take to the skies and realize their dreams. Contact us at 909-593-1533 or info@flyquestaviation.com to start your flying journey today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Drone/UAS\\nGround School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

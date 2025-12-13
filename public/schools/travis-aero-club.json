@@ -1,0 +1,22 @@
+{
+  "id": "66d4c621-9dc4-4eee-81d3-7740e430ec37",
+  "slug": "travis-aero-club",
+  "name": "Travis Aero Club",
+  "continent": "North America",
+  "country": "United",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "O88 -Rio Vista Municipal Airport",
+  "website": "https://www.travisaeroclub.com/",
+  "email": "email@travisaeroclub.com",
+  "phone": "(707) 374-0081",
+  "about": "The Travis Air Force Base Aero Club, founded in 1954, is a premier flight training institution located in Rio Vista, California. As part of the 60th Force Support Squadron at Travis Air Force Base, the club has provided over 70 years of aviation education and aircraft rentals. We offer a range of certifications including Private Pilot, Instrument Rating, Commercial Pilot, Certified Flight Instructor, Ground Instructor, and Airline Transport Pilot. Our fleet includes Piper Aircraft equipped with advanced glass cockpit technology from Avidyne. Our highly experienced instructors, with thousands of hours of teaching experience, ensure personalized and top-notch training. The club is open to active duty service members, Reserves, Guard, their dependents, Department of Defense employees, and Civil Air Patrol members. With competitive rates and a commitment to excellence, the Travis Aero Club is the ideal place to start or advance your aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

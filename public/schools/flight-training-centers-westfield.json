@@ -1,0 +1,22 @@
+{
+  "id": "fe1d9bd5-05a2-43cf-8c1d-9d548ee6935e",
+  "slug": "flight-training-centers-westfield",
+  "name": "Flight Training Centers - Westfield",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IN",
+  "city": "",
+  "baseAirport": "I72 -Westfield Airport",
+  "website": "https://flighttrainingcenters.com/",
+  "email": "info@flighttrainingcenters.com",
+  "phone": "(765) 319-3295",
+  "about": "Flight Training Centers - Westfield is a premier flight training institution located in Westfield, Indiana. With additional locations in Kokomo and Sheridan, we offer a comprehensive range of flight training programs tailored to both recreational and professional pilots. Our programs include the Sport Pilot license, Private Pilot license, Instrument Rating, and Multi-Engine Rating. We provide affordable and flexible training options, including a 20-minute Discovery Flight for just $99, allowing aspiring pilots to experience flying with a Certified Flight Instructor. Our experienced instructors and state-of-the-art facilities ensure that students receive top-notch training to achieve their aviation goals. Whether you're just starting out or looking to enhance your skills, Flight Training Centers - Westfield is dedicated to helping you soar to new heights.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nPrivate Pilot\\nSport Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

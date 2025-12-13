@@ -1,0 +1,22 @@
+{
+  "id": "3851ae7a-1dd6-4fda-acaf-cb0236bb15d1",
+  "slug": "anderson-aviation",
+  "name": "Anderson Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "1TT8 -Bulverde Airpark",
+  "website": "https://www.andersonaviationtx.com/",
+  "email": "info@andersonaviationtx.com",
+  "phone": "(830) 438-4359",
+  "about": "Anderson Aviation is a family-owned and operated flight school located in Bulverde, Texas, just 15 minutes north of San Antonio. We offer a range of aviation services, including discover flights, pilot ratings from Private Pilot to Certified Flight Instructor, and aircraft rental. Our fleet includes a Piper Archer II for Private and Instrument Ratings, and a Cessna 310 for Multi-Engine Ratings, both equipped with advanced avionics. We provide one-on-one ground training and ensure all our aircraft undergo rigorous maintenance for optimal safety and performance. Whether you're pursuing recreational flying or a professional pilot career, Anderson Aviation is dedicated to helping you achieve your aviation goals with top-notch instruction and facilities. Contact us today to start your flying journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nGround School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

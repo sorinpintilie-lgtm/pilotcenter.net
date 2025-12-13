@@ -1,0 +1,22 @@
+{
+  "id": "985d06a5-4adf-4dab-8b38-6a496105140e",
+  "slug": "klm-flight-academy",
+  "name": "KLM Flight Academy",
+  "continent": "Europe",
+  "country": "Netherlands",
+  "state": "NL",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://klmflightacademy.nl/",
+  "email": "info@klmfa.nl",
+  "phone": "'+31 (0) 503098300",
+  "about": "KLM Flight Academy, founded in 1946 by the Dutch government, is a premier institution for pilot training. Privatized by KLM in 1991, the academy has over 30 years of experience in training professional pilots. Located at Groningen Airport Eelde and Amsterdam Airport Schiphol, it offers comprehensive ATPL integrated courses, including single-engine and multi-engine training, MCC, and type rating programs. The academy boasts experienced instructors, many of whom are retired KLM pilots, and utilizes modern flight simulators. With a strong affiliation with KLM, the academy provides students with industry expertise and potential career opportunities, preparing them for successful careers in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"The training in Eelde\\nTheory\\nSingle engine flight path\\nMulti-engine flight path\\nPractical flying training Schiphol\\nLiving on campus\\nAirline Pilot & Management\\nCosts & financing\\nSustainability\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

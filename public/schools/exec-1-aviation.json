@@ -1,0 +1,22 @@
+{
+  "id": "a861608a-2a49-4176-8c20-11e5b9266872",
+  "slug": "exec-1-aviation",
+  "name": "Exec 1 Aviation, Inc.",
+  "continent": "North America",
+  "country": "United",
+  "state": "IA",
+  "city": "",
+  "baseAirport": "IKV -Ankeny Regional Airport",
+  "website": "https://exec1aviation.com/",
+  "email": "info@exec1aviation.com",
+  "phone": "(515) 965-1020",
+  "about": "Exec 1 Aviation, Inc., based at the Ankeny Regional Airport in Iowa, is a comprehensive aviation service provider that includes a renowned flight school. Our flight training program offers certifications such as the Private Pilot Certificate, Commercial Pilot Certificate, and Flight Instructor ratings, utilizing well-maintained Cessna Skyhawks and a proven curriculum. Our professional staff of instructors ensures efficient and effective training. In addition to flight instruction, we provide a full range of FBO services, including fueling, maintenance, aircraft management, and private jet charter services, all focused on customer satisfaction and safety. Our commitment to excellence makes us the Des Moines area’s busiest and best flight school. We are dedicated to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

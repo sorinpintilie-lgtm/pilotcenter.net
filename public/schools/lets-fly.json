@@ -1,0 +1,22 @@
+{
+  "id": "62e7ac08-2337-4b9a-92ee-d34889b4fe12",
+  "slug": "lets-fly",
+  "name": "Let's Fly",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "54AZ -Somerton",
+  "website": "http://www.letsflyllc.com/",
+  "email": "jim5604@aol.com",
+  "phone": "(928) 210-0104",
+  "about": "Let's Fly San Diego is a unique alternative to traditional flight schools, offering flight training through a group of independent flight instructors. Based at Montgomery Field in San Diego, we provide cost-effective training using flying club aircraft, which are significantly less expensive than those at traditional flight schools. Our instructors are highly experienced, with many having more than 28 years of flight instruction experience. We offer training for Private Pilot, Instrument, and Commercial Certificates, as well as single and multi-engine airplane training. Our approach includes flexible ground training options such as integrated home study, community college programs, and local ground schools. We prioritize safety-oriented, quality flight training and offer stage checks by senior instructors. With lower costs and experienced instructors, Let's Fly San Diego is an ideal choice for those looking to achieve their flying dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor Sport CFIS\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

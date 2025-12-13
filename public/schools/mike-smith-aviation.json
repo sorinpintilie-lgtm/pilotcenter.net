@@ -1,0 +1,22 @@
+{
+  "id": "3ae27cad-ece4-4a38-8b19-0f67d1be7f2b",
+  "slug": "mike-smith-aviation",
+  "name": "Mike Smith Aviation",
+  "continent": "North America",
+  "country": "United",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "APC -Napa County Airport",
+  "website": "https://mikesmithaviation.com/",
+  "email": "FlywithSmith@gmail.com",
+  "phone": "(707) 345-6526",
+  "about": "Mike Smith Aviation, located at the Napa County Airport in California, offers exceptional flight training from Private Pilot Certificate to Airline Transport Pilot (ATP). Founded by Mike Smith and his wife Kimberly Sanders Smith, the school is known for its personalized approach, treating each student as an individual and catering to their unique needs and learning styles. With a high retention rate of 80% and a 95% first-time pass rate on checkrides, the school boasts a fleet of flight-school-owned aircraft, including Cessna 172s, a Cessna 150, a Cessna 162 Skycatcher, and Beechcraft Duchesses for multiengine training. The school is a Cessna Pilot Center and provides comprehensive ground school, career-focused counseling, and support from experienced instructors. Mike Smith Aviation prides itself on creating a welcoming and supportive environment, making it feel like a second family to its students.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

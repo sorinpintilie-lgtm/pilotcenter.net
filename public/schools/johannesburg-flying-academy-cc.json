@@ -1,0 +1,22 @@
+{
+  "id": "9acb46fb-869b-49b4-ba82-83b0e8ba223c",
+  "slug": "johannesburg-flying-academy-cc",
+  "name": "Johannesburg Flying Academy CC",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "GT",
+  "city": "",
+  "baseAirport": "Panorama Airfield (Alberton)",
+  "website": "https://www.jhbflying.co.za/",
+  "email": "info@jhbflying.co.za",
+  "phone": "'+27 064 756 6356",
+  "about": "Johannesburg Flying Academy, established in 1984, is a SACAA and ICAO-approved flight training facility situated south of Johannesburg, South Africa, at Panorama Airfield. We offer comprehensive training programs for National Pilot Licence, Private Pilot Licence, and Commercial Pilot Licence, utilizing South African-designed and manufactured Sling aircraft. Our unique location ensures minimal time is wasted on ground clearances, allowing students to maximize their flight time. With a team of passionate and qualified instructors, we provide high-quality aviation training at an affordable price. We are open 7 days a week, and our training is tailored to fit individual requirements. Our commitment to excellence and safety makes us an ideal choice for aspiring pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"NATIONAL PILOT LICENSE\\nPRIVATE PILOT LICENSE\\nCOMMERCIAL PILOT LICENSE\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

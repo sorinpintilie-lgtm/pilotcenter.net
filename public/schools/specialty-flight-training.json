@@ -1,0 +1,22 @@
+{
+  "id": "ae1dc806-b2d0-49e8-b27b-6fc09a986b63",
+  "slug": "specialty-flight-training",
+  "name": "Specialty Flight Training, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CO",
+  "city": "",
+  "baseAirport": "BDU -Boulder Municipal Airport",
+  "website": "http://www.specialtyflight.com/",
+  "email": "lonnie@specialtyflight.com",
+  "phone": "(303) 530-0550",
+  "about": "Specialty Flight Training, Inc., located at the Boulder Municipal Airport (KBDU) in Colorado, is a renowned flight school and Cessna Pilot Center. We offer quality primary and advanced single-engine flight training, as well as comprehensive ground training. Our programs include Private Pilot Certificate and Commercial Pilot training, led by Master Flight Instructors. The school is open from 8:00 am to 5:00 pm and provides mountain flight training, ensuring students are well-prepared for various flying conditions. With a commitment to excellence and safety, Specialty Flight Training, Inc. is dedicated to helping aspiring pilots achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "27aca24f-64a8-4f5d-afb0-10b07ec614fa",
+  "slug": "lawton-aviation-services",
+  "name": "Lawton Aviation Services",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OK",
+  "city": "",
+  "baseAirport": "LAW -Lawton-Fort Sill Regional Airport",
+  "website": "https://www.flylawton.org/",
+  "email": "Leo@flylawton.org",
+  "phone": "(580) 353-4869",
+  "about": "Lawton Aviation Services, a division of the Lawton Metropolitan Area Airport Authority, is the premier full-service Fixed Base Operation (FBO) at Lawton-Fort Sill Regional Airport. We cater to private, corporate, commercial, and military aircraft, offering a comprehensive range of services including fuel handling, hangar rental, tie-down space, aircraft leasing, flight instruction, aircraft maintenance, and aircraft detailing. Our friendly and anticipatory staff ensure that every aviation need is met with excellence. We are committed to providing top-notch services to make your aviation experience seamless and satisfactory.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

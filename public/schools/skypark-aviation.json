@@ -1,0 +1,22 @@
+{
+  "id": "7191555f-1bb5-47f6-b7d5-e4f31a31fa3a",
+  "slug": "skypark-aviation",
+  "name": "Skypark Aviation, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "GGG -East Texas Regional Airport",
+  "website": "https://skyparkflying.com/",
+  "email": "ray@skyparkflying.com",
+  "phone": "(903) 573-3489",
+  "about": "Skypark Aviation, LLC is a premier flight school dedicated to providing high-quality flight training in a safe and supportive environment. Located at the East Texas Regional Airport, we offer a range of programs including Private Pilot Licenses, Instrument Ratings, and Flight Reviews. With a focus on making aviation fun, convenient, and affordable, our experienced instructors guide students from novice to competent pilots. Our goal is to attract and retain aviation customers, ensuring they become long-term members of the aviation community. Join us to embark on a journey to the skies with professionalism and excellence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

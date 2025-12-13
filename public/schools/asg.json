@@ -1,0 +1,22 @@
+{
+  "id": "5bf5df4d-4707-4fcf-93a6-a4b6f6aa2af3",
+  "slug": "asg",
+  "name": "ASG",
+  "continent": "Europe",
+  "country": "Ireland",
+  "state": "IRE",
+  "city": "",
+  "baseAirport": "Dublin Airport",
+  "website": "https://www.asg.ie/",
+  "email": "info@asg.ie",
+  "phone": "'+353 1 685 9021",
+  "about": "ASG, an EASA Approved Training Organisation, is a leading provider of Air Transport Pilot Licence (ATPL) and Private Pilot Licence (PPL) theoretical training, based in Dublin, Ireland. Since its founding in 2015, ASG has established a reputation for delivering high-quality, bespoke, and personalised training experiences. Our instructional team, comprising industry experts including airline pilots, type rating instructors, and aeronautical engineers, ensures that students receive comprehensive and real-world relevant instruction. We offer a hybrid classroom model, allowing students to attend classes either in-person or remotely, and our facilities at Kestrel House, Dublin Airport Logistics Park, provide an ideal learning environment. ASG has been recognized as one of Europe's top-rated aviation training organisations and has served clients such as Aer Lingus, Norwegian Air, and the Irish Air Corps. Our commitment to student satisfaction and excellence in training sets us apart.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Management and CPD courses\\nAir Traffic Controller training\\nFlight crew and ATPL training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

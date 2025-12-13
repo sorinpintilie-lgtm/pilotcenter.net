@@ -1,0 +1,22 @@
+{
+  "id": "527876a0-3383-4745-87be-fb5e8e9afaa9",
+  "slug": "riggin-flight-service",
+  "name": "Riggin Flight Service",
+  "continent": "North America",
+  "country": "United States",
+  "state": "SD",
+  "city": "",
+  "baseAirport": "MDS -Madison Municipal Airport",
+  "website": "http://www.rigginflightservice.com/",
+  "email": "riggin-flight-service@hotmail.com",
+  "phone": "(605) 256-9774",
+  "about": "Riggin Flight Service, located in Madison, South Dakota, is a comprehensive aviation training institution offering a wide range of flight training programs. We specialize in tailwheel training in our Piper Super Cub, Cessna 140, and J3 Cub, as well as instrument training in Cessna 150 and 140 aircraft. Our multi-engine training is conducted in a Piper Apache. We also provide a 40-hour Agricultural Pilot course approved by most insurance companies, along with aerial application services for both liquid and dry applications. Additionally, we offer exams for various certifications including sport, private, commercial, instrument, multi-engine, seaplane, CFII, and MEI. Our facilities include an on-site testing center and the capability for bush pilot training with tundra tires and skis, as well as seaplane training on Lake Madison. Riggin Flight Service is dedicated to providing tailored courses to meet the diverse needs of aspiring pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nExaminer\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

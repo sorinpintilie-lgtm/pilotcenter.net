@@ -1,0 +1,22 @@
+{
+  "id": "bede4a82-7ec0-4016-8b06-2746575fdafd",
+  "slug": "safe-flight-academy",
+  "name": "Safe Flight Academy",
+  "continent": "Africa",
+  "country": "Tunisia",
+  "state": "TN",
+  "city": "",
+  "baseAirport": "Monastir airport",
+  "website": "https://www.safeflightacademy.com/",
+  "email": "info@sfa.tn",
+  "phone": "'+216 71 940 245",
+  "about": "Safe Flight Academy (SFA) is a comprehensive flight training institution dedicated to producing competent airline pilots. Established in partnership with Nouvelair, our Pilot Cadet Program combines theoretical courses, practical flight simulator sessions, and actual flight hours with experienced instructors. Students undergo rigorous training to prepare for careers as qualified airline pilots. With a focus on hands-on experience in a real-world commercial aviation environment, SFA ensures students gain valuable skills and expertise. Our program is designed for aviation enthusiasts who hold degrees in relevant fields and are motivated to succeed in the aviation industry. At SFA, we commit to providing a structured and personalized training approach to ensure each student achieves their full potential as a professional pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Pilot Cadet Program\\nEASA Training Program\\nICAO Training Program\\nFlight Instructor Program\\nLicense conversion\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

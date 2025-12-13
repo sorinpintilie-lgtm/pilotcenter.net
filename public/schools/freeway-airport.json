@@ -1,0 +1,22 @@
+{
+  "id": "4b691b99-5f84-46a6-a99d-65c270046375",
+  "slug": "freeway-airport",
+  "name": "Freeway Airport, Inc",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MD",
+  "city": "",
+  "baseAirport": "W00 -Freeway Airport",
+  "website": "http://www.freewayaviation.com/",
+  "email": "flying@freewayaviation.com",
+  "phone": "(301) 390-6424",
+  "about": "Freeway Aviation, located at Freeway Airport in Bowie, Maryland, offers comprehensive FAA Part 61 flight training with nearly seventy years of experience. Our certified flight instructors provide training for Private Pilot, Commercial Pilot, Instrument Rating, and Flight Instructor certifications. We operate a fleet of Cessna 172P Skyhawks and offer FAA-approved ground school classes. Our facility is open seven days a week, and we provide aircraft maintenance services as an FAA Certified Aircraft Maintenance Facility. With a relaxed atmosphere and convenient access to the Washington Metropolitan area, Freeway Aviation is an ideal choice for aspiring pilots. We are committed to providing high-quality flight training and exceptional service to our students.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

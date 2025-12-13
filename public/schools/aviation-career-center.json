@@ -1,0 +1,22 @@
+{
+  "id": "de2934a2-6779-4f3a-a142-e61ebe34fd20",
+  "slug": "aviation-career-center",
+  "name": "Aviation Career Center",
+  "continent": "Europe",
+  "country": "Slovenia",
+  "state": "",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://acctraining.eu/",
+  "email": "info@acctraining.eu",
+  "phone": "",
+  "about": "Aviation Career Center is a premier institution for integrated pilot training, offering EASA-approved programs designed to guide aspiring pilots from the outset to a successful aviation career. With airline-experienced instructors and staff, our training includes the EASA 0 to ATPL course, complete with A-UPRT and MCC, as well as a guaranteed Airbus A320 Cadet Program that ensures placement in an A320 airline operator. Located in the heart of Europe, we provide a comprehensive training environment at a fully-equipped international airport, along with support for visa and housing arrangements. Our modular training courses and high employment rate of graduates make us a trusted partner for those seeking a career in aviation. We are dedicated to helping you achieve your flying dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Initial Single Engine Flight Training\\nATPL Theory and Cross Country Flying\\nMulti engine Instrument Flight Training\\nCommercial Pilot Training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

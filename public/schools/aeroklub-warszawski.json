@@ -1,0 +1,22 @@
+{
+  "id": "9777fed6-5bad-48fe-aa62-717d095b397a",
+  "slug": "aeroklub-warszawski",
+  "name": "Aeroklub Warszawski",
+  "continent": "Europe",
+  "country": "Poland",
+  "state": "",
+  "city": "Warsaw",
+  "baseAirport": "Warsaw-Babice Airport",
+  "website": "https://aeroklub.waw.pl/",
+  "email": "info@aeroklub.waw.pl",
+  "phone": "'+48 22 834 93 35",
+  "about": "Aeroklub Warszawski, founded in October 1927, is a prestigious flying school and aero club based in Warsaw, Poland. With a rich history spanning nearly a century, the club is dedicated to promoting and popularizing air sports, flight training, and recreational flying. Since its inception, Aeroklub Warszawski has been a hub for aviation enthusiasts, offering comprehensive flight training programs and fostering a community of pilots and aviation professionals. The club provides a range of services, including private pilot licenses, advanced flight training, and recreational flying opportunities, making it a cornerstone of aviation education and recreation in Poland. Aeroklub Warszawski continues to inspire and educate the next generation of pilots and aviation enthusiasts.",
+  "icao": "EPBC",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

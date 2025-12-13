@@ -1,0 +1,22 @@
+{
+  "id": "720cadd5-fe6e-4ec6-be35-2ecbb1768f10",
+  "slug": "canadian-flight-centre",
+  "name": "Canadian Flight Centre",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "BC",
+  "city": "",
+  "baseAirport": "Kamloops Airport (YKA)",
+  "website": "https://cfc.aero/about-cfc/",
+  "email": "flying@cfc.aero / students@cfc.aero",
+  "phone": "'+1 604-946-7744",
+  "about": "Canadian Flight Centre is a premier flight training institution dedicated to providing a safe and enjoyable learning environment. With locations in Kamloops and Pitt Meadows, BC, we offer superior flight training programs, including Professional Pilot, Commercial Pilot License, Airline Transport Pilot License, Multi-IFR Training, and Instructor Rating. Our fleet includes a variety of aircraft, such as the PA28-140, PA34-220T, and others, ensuring students have access to diverse training experiences. Committed to environmental sustainability, we have installed solar panels, electric vehicle charging stations, and use turbo-diesel engine aircraft. Our professional staff are eager to go the extra mile, treating students and staff like family. We are passionate about flying for both fun and career, and our commitment to excellence ensures students receive the highest quality training to achieve their flying goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

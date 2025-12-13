@@ -1,0 +1,22 @@
+{
+  "id": "f158d2a0-9225-40d1-9ab4-0be21f1c90b2",
+  "slug": "oakland-flyers",
+  "name": "Oakland Flyers",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CA",
+  "city": "Oakland",
+  "baseAirport": "Oakland International Airport",
+  "website": "https://www.oaklandflyers.com/",
+  "email": "info@oaklandflyers.com",
+  "phone": "'+1 510-568-3317",
+  "about": "Oakland Flyers, founded in 1989, is a renowned flight training and aircraft rental facility located at the Oakland International Airport in the San Francisco Bay Area. We offer comprehensive flight training programs, including Private Pilot, Instrument, Commercial, and Flight Instructor Ratings, as well as specialized training in tailwheel and acrobatic flying. Our fleet includes a diverse range of aircraft such as Cessna 150, 152, 172, 182RG, Piper PA-28, and Bellanca, along with a loggable Frasca 142 Flight Simulator. Our experienced and friendly staff of Certified Flight Instructors, with over 22,000 hours of flight experience, provide one-on-one training tailored to each student's needs. We are open seven days a week and offer a pilot supplies shop and various member events. With a loyal customer base of around 400 members, Oakland Flyers is committed to providing the highest standard of aviation training, ensuring that \"if you can fly here, you can fly anywhere.\"",
+  "icao": "KOAK",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

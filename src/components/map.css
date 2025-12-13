@@ -1,0 +1,55 @@
+.map-wrapper {
+  margin-top: 40px;
+}
+
+.map-title {
+  font-size: 22px;
+  color: var(--title);
+  margin-bottom: 6px;
+}
+
+.map-subtitle {
+  margin: 0 0 16px;
+  font-size: 14px;
+  color: #6b7280;
+}
+
+/* base map frame */
+.map-container {
+  width: 100%;
+  height: 380px;          /* desktop height */
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 18px 40px rgba(15, 23, 42, 0.18);
+}
+
+/* custom pin style */
+.custom-pin-icon {
+  background: transparent;
+}
+
+.custom-pin-dot {
+  display: block;
+  width: 14px;
+  height: 14px;
+  border-radius: 999px;
+  background: #2563eb;
+  box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.25);
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+  .map-wrapper {
+    margin-top: 30px;
+  }
+
+  .map-title,
+  .map-subtitle {
+    text-align: center;
+  }
+
+  .map-container {
+    height: 420px;       /* a bit taller so all pins are clearly visible */
+    border-radius: 12px;
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "8977a6cc-d46c-4e72-ba25-53cfc7d4cf3f",
+  "slug": "aeroclub-di-varese",
+  "name": "Aeroclub di Varese",
+  "continent": "Europe",
+  "country": "Italy",
+  "state": "ITLY",
+  "city": "",
+  "baseAirport": "Ferrarin AArturo Airport",
+  "website": "https://www.aeroclubvarese.it/en/",
+  "email": "info@aeroclubvarese.it",
+  "phone": "'+39 0331 864128",
+  "about": "Aeroclub di Varese, established in 1948, is a renowned flight school located at Aeroporto Arturo Ferrarin in Venegono Inferiore, Italy. Evolving from a private aero club to a leading professional flight training institution, it offers comprehensive programs for both private and commercial pilots. With a fleet of high-quality Cessna and Piper aircraft, state-of-the-art flight simulators, and experienced full-time instructors, the school ensures maximum training continuity and success. Certified in the AREA 100 KSA and collaborating with EASA, Aeroclub di Varese is recognized for its innovative skill-based training and high-quality Multi Crew Cooperation courses. The school is dedicated to cultivating the next generation of skilled pilots, providing the tools and resources necessary for excellence in the aviation industry. Join Aeroclub di Varese to embark on a professional and personalized aviation training journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"PRIVATE PILOT COURSES\\nCOMMERCIAL PILOT COURSE\\nLAPL COURSE\\nDISTANCE LEARNING PILOT COURSES\\nINSTRUCTOR COURSES\\nLICENSE RENEWAL\",\"REVALIDATION AND CONVERSION\\nUAS PILOT\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

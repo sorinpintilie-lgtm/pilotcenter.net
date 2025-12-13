@@ -1,0 +1,22 @@
+{
+  "id": "34762d4e-c0ab-4419-ba3c-37a2c377fffd",
+  "slug": "midwest-flying-service",
+  "name": "Midwest Flying Service, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IA",
+  "city": "",
+  "baseAirport": "SHL -Sheldon Regional Airport",
+  "website": "https://midwestflyingservice.com/",
+  "email": "mwfs@nethtc.net",
+  "phone": "(800) 498-7802",
+  "about": "Midwest Flying Service, Inc., located at Sheldon Regional Airport in Iowa, is a comprehensive aviation service provider. We offer a range of pilot training programs, including Private Pilot Certificate, Commercial Pilot Certificate, and Flight Instructor certifications. Our flight school is dedicated to providing safe and reliable training, ensuring students meet FAA standards. In addition to flight training, we provide charter services with a diverse fleet of aircraft maintained to FAA Part 135 standards. Our experienced instructors and well-maintained aircraft ensure a high level of safety and quality in all our services. At Midwest Flying Service, we are committed to helping aspiring pilots achieve their aviation goals while delivering exceptional charter experiences.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

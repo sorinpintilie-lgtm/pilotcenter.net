@@ -1,0 +1,22 @@
+{
+  "id": "8597920a-9439-4872-ac2a-d077683fe417",
+  "slug": "florida-flyers-flight-academy",
+  "name": "Florida Flyers Flight Academy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "FL",
+  "city": "St. Augustine",
+  "baseAirport": "Northeast Florida Regional Airport",
+  "website": "https://www.flightschoolusa.com/",
+  "email": "support@flightschoolusa.com",
+  "phone": "'+1 904-209-3510 / '+1 904-209-3505",
+  "about": "Florida Flyers Flight Academy is the #1 rated flight school in the US for FAA and EASA professional flight training. With two locations in St. Augustine and Venice, Florida, we offer a comprehensive range of programs, including Private Pilot Certificate, Night Rating, and Commercial Pilot Certificate. Our fleet comprises over 40 aircraft, and we are certified under FAR Part 141 and EASA. We cater to both domestic and international students, with housing and transportation available. Our global presence includes international offices in South America, Europe, India, and the Middle East. We are committed to diversity and inclusion, ensuring equal opportunities for all. Join us for high-quality flight training at reasonable prices, with no large upfront payments required.",
+  "icao": "KSGJ",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

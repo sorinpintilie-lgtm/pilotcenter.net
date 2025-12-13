@@ -1,0 +1,22 @@
+{
+  "id": "bf81e69e-c821-402a-947b-ecd1b68b9037",
+  "slug": "ellsworth-aviation",
+  "name": "Ellsworth Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "SC",
+  "city": "",
+  "baseAirport": "58J -Huggins Memorial Airport",
+  "website": "https://learntoflyflorence.com/",
+  "email": "geroldflyboy@yahoo.com",
+  "phone": "(843) 601-2427",
+  "about": "Ellsworth Aviation is a premier flight school located in South Carolina, dedicated to providing personalized and comprehensive flight training for aspiring pilots. We offer a range of programs, including Private Pilot Certificate, Commercial Pilot Certificate, and Flight Instructor certifications. Our experienced instructors and state-of-the-art facilities ensure that students receive the highest quality training tailored to their individual needs. At Ellsworth Aviation, we are committed to helping our students achieve their aviation goals and succeed in their flying careers. With a focus on safety, professionalism, and excellence, we strive to make every flight training experience exceptional. Join us to take your first steps towards becoming a skilled and confident pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "f5ff48b4-cfa9-4354-9e36-b1a65c5912d9",
+  "slug": "aerbrava",
+  "name": "AERBRAVA",
+  "continent": "Europe",
+  "country": "Spain",
+  "state": "",
+  "city": "Vilablareix",
+  "baseAirport": "Girona-Costa Brava Airport",
+  "website": "https://www.aerbrava.com/",
+  "email": "info@aerbrava.com",
+  "phone": "'+34 972 23 41 26",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "LEGE",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

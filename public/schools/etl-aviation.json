@@ -1,0 +1,22 @@
+{
+  "id": "8a393ecf-066e-4666-be53-1a3450be67ca",
+  "slug": "etl-aviation",
+  "name": "ETL Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "KY",
+  "city": "",
+  "baseAirport": "LEX -Blue Grass Airport",
+  "website": "https://www.etlaviation.com/",
+  "email": "info@etlaviation.com",
+  "phone": "(859) 800-7080",
+  "about": "ETL Aviation, based at Blue Grass Airport in Lexington, Kentucky, is a premier helicopter flight training school owned and operated by Brad Fenster. Specializing in all levels of helicopter flight training, ETL offers programs for private, commercial, and instrument ratings using the reliable and stable Schweizer 300CB helicopters. Fenster, a passionate instructor with an entrepreneurial background, focuses on treating students with respect and fairness, ensuring a gradual and confident learning process. The school is recognized for its comprehensive website, educational resources, and positive student reviews. ETL Aviation was also honored as a Distinguished Flight School in the southern region by the AOPA’s Flight Training Experience Awards. With a dedicated team and a commitment to excellence, ETL Aviation provides a top-notch training environment for aspiring helicopter pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

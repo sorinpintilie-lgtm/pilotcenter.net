@@ -1,0 +1,22 @@
+{
+  "id": "cc7d1fac-f749-4bb4-8a29-1004f339e958",
+  "slug": "clipper-aviation",
+  "name": "Clipper Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "VNY -Van Nuys Airport",
+  "website": "https://clipperaviation.com/",
+  "email": "info@clipperaviation.com",
+  "phone": "(855) 463-5999",
+  "about": "Clipper Aviation, founded in 2021 at the iconic Van Nuys Airport, is a premier flight school dedicated to training aspiring pilots. We offer comprehensive flight training programs, ranging from private to commercial ratings, with a strong emphasis on safety, skill development, and real-world flying experience. Our modern fleet of aircraft features state-of-the-art technology and is meticulously managed to meet all your flight training and rental needs. With a dedicated and knowledgeable instructional team, we are passionate about sharing the joy of flight and ensuring our students receive personalized and expert training. At Clipper Aviation, we are committed to helping you master the skies.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "f969fee2-8535-4e43-8a3b-fc76adae4e5a",
+  "slug": "pilot-s-choice-aviation",
+  "name": "Pilot´s Choice Aviation, Inc.",
+  "continent": "North America",
+  "country": "USA",
+  "state": "TX",
+  "city": "Georgetown",
+  "baseAirport": "Georgetown Municipal Airport",
+  "website": "https://pilotschoice.com/",
+  "email": "information@pilotschoice.com",
+  "phone": "'+1 512-869-1759",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "MYEG",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

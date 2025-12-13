@@ -1,0 +1,22 @@
+{
+  "id": "1b458858-c16f-4570-9715-fa8dad58f7c7",
+  "slug": "curtis-eads-flight-school",
+  "name": "Curtis Eads Flight School",
+  "continent": "North America",
+  "country": "United",
+  "state": "VA",
+  "city": "",
+  "baseAirport": "SFQ -Suffolk Exec Airport",
+  "website": "http://www.curtiseads.com/",
+  "email": "info@curtiseads.com",
+  "phone": "(757) 465-1692",
+  "about": "Curtis Eads Flight School, located at Suffolk Executive Airport in Suffolk, Virginia, is a premier flight training institution dedicated to providing unparalleled aviation education. With a mission to offer comprehensive and hands-on training, CEFS caters to both novice and experienced flyers. The school offers a range of programs, including Private Pilot, Commercial Pilot, Instrument Pilot, and Certified Flight Instructor certifications, as well as various endorsements such as High Performance, Complex, and tailwheel. Operating a fleet of well-maintained aircraft, including Cessna and Piper models, CEFS ensures safe and effective training. The school is fully staffed seven days a week and provides inclusive fees covering instructor, fuel, insurance, and aircraft. Known for its professional and knowledgeable instructors, Curtis Eads Flight School is committed to helping students achieve their aviation goals. For more information, call 757.465.1692.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

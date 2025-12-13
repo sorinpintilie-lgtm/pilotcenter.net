@@ -1,0 +1,22 @@
+{
+  "id": "fb8972bd-20f2-4dcf-90cf-e9738f2887c8",
+  "slug": "crossairocean-flight-school",
+  "name": "CrossAirOcean Flight School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "ZPH -Zephyrhills Municipal Airport",
+  "website": "https://www.crossairoceanusa.com/",
+  "email": "Info@crossairoceanusa.com",
+  "phone": "(352) 737-0800",
+  "about": "At CrossAirOcean Flight School, located at Zephyrhills Municipal Airport in Florida, we specialize in introducing beginners to the aviation community through private pilot and instrument rating programs. Our approach emphasizes fun and professionalism, utilizing Advanced Aviation Training Devices to reduce costs and enhance learning. We offer a range of licenses, including commercial pilot, multi-engine, and flight instructor certifications. Our flexible scheduling allows students to train at their own pace, and our proximity to Orlando’s theme parks makes it an ideal location for combining flight training with leisure. With over 30 years of flying experience, our owner and instructor, Captain Lucien Valier, is dedicated to making flight training accessible and enjoyable for all. Join us to embark on your aviation journey with a motivated and professional team.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nSimulator\\nCommercial\\nInstrument\\nPrivate Pilot\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

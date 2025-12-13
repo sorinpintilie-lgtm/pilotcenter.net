@@ -1,0 +1,22 @@
+{
+  "id": "2cbb95bf-41ff-496b-a7a2-f01b21a111e7",
+  "slug": "aero-region-trening",
+  "name": "Aero Region Training",
+  "continent": "Europe",
+  "country": "Russia",
+  "state": "RUS",
+  "city": "",
+  "baseAirport": "Myachkovo airfield",
+  "website": "https://artraining.ru/#",
+  "email": "pilot@artraining.ru",
+  "phone": "8 (800) 500-34-77",
+  "about": "Aero Region Training is a premier flight school dedicated to providing top-notch aviation education. Located in strategic areas with ideal flying conditions, we offer a range of programs from private pilot licenses to commercial airline pilot training. Our experienced instructors and state-of-the-art facilities ensure a safe and professional learning environment. We cater to both domestic and international students, with programs tailored to individual goals and backgrounds. Our commitment to quality, safety, and success sets us apart, preparing students for successful careers in aviation. Join us to turn your flying dreams into reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot PPL (Single Engine)\\nRetraining (multi-engine)\\nRetraining for type\\nInstrument Pilot Training\\nPrivate Pilot PPL (Single Engine)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "298035cb-41d1-44cd-8c0d-bdbab8fc1ab2",
+  "slug": "fly-by-knight",
+  "name": "Fly By Knight",
+  "continent": "North America",
+  "country": "United States",
+  "state": "LA",
+  "city": "",
+  "baseAirport": "HDC -Hammond Northshore Regional Airport",
+  "website": "https://www.flybyknight.biz/",
+  "email": "info@flybyknight.biz",
+  "phone": "(985) 340-8800",
+  "about": "Fly By Knight, based at the Hammond Northshore Regional Airport in Hammond, Louisiana, is a premier flight training institution offering competitively priced programs from private pilot to commercial multi-engine certifications. Our fleet of well-maintained aircraft allows for tailored training to meet individual needs. Led by a team of passionate and experienced instructors, Fly By Knight prioritizes safety and excellence in aircraft, service, and workmanship. With a supportive and friendly environment, our students can achieve their aviation goals efficiently, whether pursuing a private pilot certificate or advancing to commercial aviation. Highly recommended by past students for its safety, affordability, and exceptional instruction, Fly By Knight is your trusted partner in realizing your flying dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

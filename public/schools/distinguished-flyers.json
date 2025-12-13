@@ -1,0 +1,22 @@
+{
+  "id": "7430d1ef-06fe-4f41-871b-10164684f23b",
+  "slug": "distinguished-flyers",
+  "name": "Distinguished Flyers",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "42J -Keystone Heights Airport",
+  "website": "https://www.distinguishedflyers.com/",
+  "email": "distinguishedflyers@gmail.com",
+  "phone": "(904) 624-2998",
+  "about": "At Distinguished Flyers, we are committed to providing top-notch flight training and instruction. Our comprehensive programs cater to aspiring pilots seeking private pilot, instrument, commercial, and certified flight instructor licenses. With a focus on safety, quality instruction, and continuous education, we ensure our students receive the best possible training. Our experienced instructors and well-maintained aircraft make us a trusted choice for those pursuing a career in aviation. Join us to achieve your flying goals with professionalism and excellence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nDrone/UAS\\nGround School\\nIntro Flight\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

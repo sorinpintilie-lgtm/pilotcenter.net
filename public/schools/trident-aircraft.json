@@ -1,0 +1,22 @@
+{
+  "id": "0528e02e-0d7c-45ee-9a9c-e12f6c6976dd",
+  "slug": "trident-aircraft",
+  "name": "Trident Aircraft",
+  "continent": "North America",
+  "country": "USA",
+  "state": "MD",
+  "city": "Easton",
+  "baseAirport": "Easton Airport",
+  "website": "https://tridentaircraft.com/",
+  "email": "Info@TridentAircraft.com",
+  "phone": "'+1 410-604-1333",
+  "about": "Trident Aircraft, founded in 2006 by John Galdieri, is a full-service aviation business headquartered in Easton, Maryland. Initially established to provide affordable aircraft rental and instruction to Midshipmen from the Naval Academy and local pilots, the school has grown to become the most active flight school in Maryland. Trident offers a diverse range of flight training programs, including Private Pilot, Commercial Pilot, Instrument Rating, Multi-Engine Rating, and Flight Instructor certifications, all under FAA Part 141 and Part 61 regulations. The school operates a fleet of 21 aircraft, including Cessna, Cirrus, and Twin Engine models. In addition to flight training, Trident provides aircraft maintenance, hangar services, and a comprehensive aircraft management program. With all-inclusive training packages and a commitment to safety and affordability, Trident Aircraft continues to be a leading choice for aviation training and services.",
+  "icao": "ESN",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

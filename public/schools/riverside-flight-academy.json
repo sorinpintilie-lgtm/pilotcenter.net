@@ -1,0 +1,22 @@
+{
+  "id": "2441c109-cb38-4012-a32e-cf32e563c0e0",
+  "slug": "riverside-flight-academy",
+  "name": "Riverside Flight Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "RAL -Riverside Municipal Airport",
+  "website": "https://riversideflightacademy.com/",
+  "email": "info@riversideflightacademy.com",
+  "phone": "(951) 588-6300",
+  "about": "Riverside Flight Academy, located at the Riverside Municipal Airport in California, offers comprehensive airplane flight training since 2013. As a family-owned and operated Part 141 school, we provide efficient and cost-effective training, allowing students to obtain certificates and ratings in fewer hours. Our fleet includes Cessna 172s, Piper Cherokee 180, and Twin Tecnam aircraft, all equipped with Garmin GPS systems. With instructors boasting over 100 years of combined experience, we train students for private, instrument, commercial, multi-engine, and flight instructor certificates. Our graduates have successfully joined airlines such as Skywest, Envoy, and Compass. We offer a comfortable and functional environment, knowledgeable staff, and well-maintained safe aircraft, making us an ideal choice for those pursuing an aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

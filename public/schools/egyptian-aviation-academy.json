@@ -1,0 +1,22 @@
+{
+  "id": "3884cd9b-c213-4ed4-9fb1-02b9a9d19179",
+  "slug": "egyptian-aviation-academy",
+  "name": "Egyptian Aviation Academy",
+  "continent": "Africa",
+  "country": "Egypt",
+  "state": "EG",
+  "city": "",
+  "baseAirport": "October Airport",
+  "website": "http://www.eaaegypt.com/",
+  "email": "eaa_marketing@eaaegypt.com",
+  "phone": "'+20-1022271281",
+  "about": "The Egyptian Aviation Academy, established in 1932, is a pioneering institution in aviation training in the Middle East and Africa. It operates three main colleges: Misr Flying College, offering courses such as Private Pilot License (PPL), Commercial Pilot License (CPL), and Instrument Rating; Air Traffic Control College, providing training in air traffic control and related fields; and Civil Aviation Management Training College, focusing on aircraft maintenance, airport operations, and aviation management. Recognized by the International Civil Aviation Organization, the academy is committed to providing world-class training that meets market demands, emphasizing safety, flexibility, and teamwork. With a fleet of 28 training aircraft and state-of-the-art facilities, the Egyptian Aviation Academy is dedicated to producing highly qualified aviation professionals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Air Traffic Control\\nCivil Aviation Management Training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

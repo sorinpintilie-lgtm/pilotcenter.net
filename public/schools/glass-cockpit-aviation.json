@@ -1,0 +1,22 @@
+{
+  "id": "c077d4b6-a908-4327-be7f-fc813111bcba",
+  "slug": "glass-cockpit-aviation",
+  "name": "Glass Cockpit Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "ID",
+  "city": "Boise",
+  "baseAirport": "Boise Airport",
+  "website": "https://www.glasscockpitaviation.com/",
+  "email": "info@glasscockpitaviation.com",
+  "phone": "'+1 208-869-6459",
+  "about": "Glass Cockpit Aviation is a premier flight training institution with three locations in Idaho, including Boise, Jerome, and Twin Falls. We specialize in advanced aircraft, instrument, accelerated, and simulator training, offering programs from the sport pilot level through instructor ratings. Our fleet consists of single-engine aircraft equipped with state-of-the-art glass cockpits, such as the DA20 with G500TXi and C172 G1000. We provide comprehensive ground school and seminars to complement our flight training. With a focus on safety and efficiency, we utilize advanced flight simulators and computer-based training tools to ensure our students receive the best possible education. Whether you are pursuing a career in aviation or flying for recreation, Glass Cockpit Aviation is dedicated to helping you achieve your aviation goals.",
+  "icao": "KBOI",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

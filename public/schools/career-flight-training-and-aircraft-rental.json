@@ -1,0 +1,22 @@
+{
+  "id": "732fd73d-1a3b-446a-beaf-140afdd494f1",
+  "slug": "career-flight-training-and-aircraft-rental",
+  "name": "Career Flight Training and Aircraft Rental",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "MKY -Marco Island Exec Airport",
+  "website": "https://cftar.org/",
+  "email": "info@cftar.org",
+  "phone": "(239) 398-0260",
+  "about": "At Career Flight Training and Aircraft Rental, we are dedicated to providing professional, efficient, and quality flight training in a supportive and safety-first environment. Located in Naples, Florida, our flight school offers a comprehensive range of services including private pilot licenses, commercial pilot training, instrument proficiency checks, and flight reviews. Our fleet includes a variety of single-engine and multi-engine aircraft, as well as a Redbird Aviation Training Device for simulated training. We also provide aircraft rentals, commercial drone instruction, and maintenance and repair services. Our experienced instructors are committed to helping you achieve your aviation goals, whether you are a beginner or an experienced pilot. Join our community to embark on a rewarding aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nDrone/UAS\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nPart 107 Drone Testing\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

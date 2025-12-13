@@ -1,0 +1,22 @@
+{
+  "id": "2c5dd1da-2000-466f-9d3c-f5e555927193",
+  "slug": "south-coast-aeronautics",
+  "name": "South Coast Aeronautics",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "TOA -Zamperini Field",
+  "website": "https://www.southcoastaeronautics.com/",
+  "email": "Sca@SouthCoastAeronautics.com",
+  "phone": "(424) 272-5073",
+  "about": "South Coast Aeronautics, located at Torrance Airport in California, offers comprehensive flight training programs from Private Pilot to Commercial and Multi-Engine licenses. Our highly trained, FAA-certified instructors provide one-on-one training, ensuring students gain experience and confidence in busy international airspace. We operate modern, IFR-capable low-wing aircraft and have access to all-glass cockpit Cirrus planes. Students benefit from cross-country flights to destinations like Santa Barbara, San Diego, and Las Vegas. Our facility at Zamperini Field provides convenient access to practice areas, minimizing flight time and costs. With a friendly airport atmosphere and stunning views of LA and the Pacific, South Coast Aeronautics is the ideal place to achieve your aviation dreams. We are committed to providing honest and effective instruction, making your journey to becoming a pilot both challenging and rewarding.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

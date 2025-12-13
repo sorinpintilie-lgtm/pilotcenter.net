@@ -1,0 +1,22 @@
+{
+  "id": "7696a9e1-db15-434f-952c-f609e7f01f8e",
+  "slug": "duffys-aircraft-sales-leasing",
+  "name": "Duffys Aircraft Sales & Leasing, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WI",
+  "city": "",
+  "baseAirport": "MFI -Marshfield Municipal Airport",
+  "website": "https://www.duffysaircraft.com/",
+  "email": "jeff@duffysaircraft.com",
+  "phone": "(715) 387-2211",
+  "about": "Duffy's Aircraft Sales & Leasing, Inc. is a family-owned and operated Fixed Base Operator (FBO) established in 1973. Located at the Marshfield Municipal Airport (KMFI), we offer a comprehensive range of aviation services. Our flight school provides personalized training with one-on-one instruction from experienced flight instructors, enabling students to pursue certifications such as Private Pilot, Commercial Pilot, and Flight Instructor. In addition to flight training, we provide aircraft rental, fuel services, and aircraft maintenance. With the capability to train pilots 365 days a year, weather permitting, we are committed to helping aspiring pilots achieve their aviation goals. Our dedicated team ensures a supportive and professional environment for all our students.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

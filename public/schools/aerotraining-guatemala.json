@@ -1,0 +1,22 @@
+{
+  "id": "1d1d2000-6747-46e6-b9fb-51dee28071e0",
+  "slug": "aerotraining-guatemala",
+  "name": "Aerotraining Guatemala",
+  "continent": "Central America",
+  "country": "Guatemala",
+  "state": "",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.aerotraining.net/",
+  "email": "info@aerotraining.net",
+  "phone": "'+502-2301-6300",
+  "about": "Aerotraining is a 10-year-old aviation school located in Guatemala City, offering comprehensive flight training programs. We provide ground school for Private and Commercial pilots, as well as training in instruments, flight dispatching, and aircraft maintenance. Our instructors are highly experienced and among the best in the region. We also offer type ratings for flight attendants on various aircraft, including Boeing 737/200, Boeing 737/300, Airbus A-320/321, ATR-42, and SAAB 340. With a DGAC Certificate No. DGAC/EIA-001-2003, we ensure high standards and quality education for our students. Aerotraining is committed to providing the best aviation training in Guatemala and Central America.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

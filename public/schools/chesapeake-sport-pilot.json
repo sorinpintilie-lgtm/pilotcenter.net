@@ -1,0 +1,22 @@
+{
+  "id": "9ffe700d-14f3-43b8-8b1d-0416c4b412d0",
+  "slug": "chesapeake-sport-pilot",
+  "name": "Chesapeake Sport Pilot",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MD",
+  "city": "",
+  "baseAirport": "W29 -Bay Bridge Airport",
+  "website": "https://chesapeakesportpilot.com/",
+  "email": "info@chesapeakesportpilot.com",
+  "phone": "(410) 604-1717",
+  "about": "Chesapeake Sport Pilot, located on the Eastern Shore of Maryland at Bay Bridge Airport, is a national leader in sport and private pilot training. Founded in 2006 and owned by Helen Woods since 2016, the school offers flight training, aircraft rentals, and maintenance services. Our fleet includes six modern, well-maintained airplanes: two Van’s RV–12s, two Tecnam P92 Eaglets, and two Cessna 172 Superhawks. Our instructors, many of whom are retired military or airline pilots, are passionate about teaching and fostering a strong community of pilots. We cater to those seeking fun in flying, whether starting later in life or returning to the skies. Recognized annually in AOPA’s Flight Training Experience Awards, Chesapeake Sport Pilot is a place where pilots come to learn, enjoy flying, and be part of a vibrant aviation community. Here, you'll find a welcoming environment that makes flying an enjoyable and rewarding experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nPart 107 Drone Testing\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

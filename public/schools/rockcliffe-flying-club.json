@@ -1,0 +1,22 @@
+{
+  "id": "1be50dcb-0a51-42ee-984a-324dd45a76c2",
+  "slug": "rockcliffe-flying-club",
+  "name": "Rockcliffe Flying Club",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "ON",
+  "city": "",
+  "baseAirport": "Ottawa’s Rockcliffe Airport (CYRO)",
+  "website": "https://rfc.ca/",
+  "email": "info@rfc.ca",
+  "phone": "'+1 613-746-4425",
+  "about": "The Rockcliffe Flying Club, established in 1961, is a Transport Canada approved Flight Training School located in Ottawa, Ontario. It offers a wide range of flight training programs, including Private Pilot Licenses, Commercial Pilot Licenses, Night Ratings, and Instrument Ratings. The club operates from the historic Rockcliffe Airport, which features both a certified paved land aerodrome and a certified water aerodrome, ensuring versatile and safe flying options. With a fleet of well-maintained aircraft and a full-motion Redbird flight simulator, RFC provides personalized instruction and a supportive atmosphere. The club is deeply connected to Canada’s aviation history and is adjacent to the Canada Aviation and Space Museum. RFC fosters a strong community among its members through social events, fly-ins, and seminars, making it a vital part of Ottawa’s aviation community. Visit RFC to experience the art of flying and connect with a vibrant aviation community.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

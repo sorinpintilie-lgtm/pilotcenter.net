@@ -1,0 +1,22 @@
+{
+  "id": "ddc20ca3-6407-48d7-ad35-ca7c495feba0",
+  "slug": "rainbow-airschool-ladysmith",
+  "name": "Rainbow Airschool Ladysmith",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "NL",
+  "city": "",
+  "baseAirport": "Ladysmith Airport",
+  "website": "https://www.rainbowairschool.com/",
+  "email": "info@rainbowsairchool.com",
+  "phone": "083 662 1564",
+  "about": "Rainbow Air School, based at Ladysmith Airport, was established in 2006 with a strong focus on recreational aviation. We pride ourselves on an excellent safety record and a passion for making flying accessible and enjoyable. Our training programs include Light Sports, Microlight/Ultralight, and Instructor Ratings. With a dedicated team, we ensure a comprehensive and safe learning environment for all our students. Our mission is to provide high-quality flight training while fostering a love for aviation. We are committed to helping our students achieve their flying goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"NPL - Class Rating\\nExamination Centre\\nPPL (A)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

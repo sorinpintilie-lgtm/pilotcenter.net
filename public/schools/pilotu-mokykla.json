@@ -1,0 +1,22 @@
+{
+  "id": "0e13e33b-fb92-4b6d-8e03-83a35fc4c789",
+  "slug": "pilotu-mokykla",
+  "name": "Pilotu Mokykla",
+  "continent": "Europe",
+  "country": "Lithuania",
+  "state": "",
+  "city": "Vilnius",
+  "baseAirport": "Paluknis Airport",
+  "website": "https://www.pilotumokykla.lt/?page_id=2079&lang=en",
+  "email": "info@pilotumokykla.lt",
+  "phone": "'+370 5 232 9485",
+  "about": "ATO Pilotu Mokykla, located at Vilnius International Airport in Lithuania, is the largest and most respected flight training school in the Baltic States. As an EASA-approved Approved Training Organization, we have been issuing hundreds of pilot certificates annually since our establishment in 2000. We offer flexible training programs, outstanding customer service, and great value with a \"pay as you go\" system. Our comprehensive training modules cater to amateur and professional pilots, providing both theoretical and practical training necessary to become an airline pilot. With patient and competent flight instructors, a flexible learning schedule, and time-tested equipment, we ensure a safe and effective start to your aviation career. Join us at ATO Pilotu Mokykla to reach new heights in aviation.",
+  "icao": "EYVI",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

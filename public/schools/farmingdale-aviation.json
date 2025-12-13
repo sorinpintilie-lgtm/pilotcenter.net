@@ -1,0 +1,22 @@
+{
+  "id": "e5954596-3dc7-4696-a66e-7dade7c25d76",
+  "slug": "farmingdale-aviation",
+  "name": "Farmingdale Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NY",
+  "city": "",
+  "baseAirport": "FRG -Republic Airport",
+  "website": "https://farmingdaleaviation.com/",
+  "email": "info@farmingdaleaviation.com",
+  "phone": "(631) 831-6775",
+  "about": "Farmingdale Aviation, located at Republic Airport, offers comprehensive flight training tailored to all skill levels and budgets. With a diverse fleet of nine aircraft and FAA-approved Redbird FMX flight simulators, students receive professional instruction in both ground and flight environments. Our facility provides a convenient and supportive learning setting, allowing students to achieve their aviation goals. We invite prospective students to experience an introductory flight lesson or take a private tour of our facilities. Our commitment to quality education and safety ensures that students are well-prepared for their aviation careers. Join us to embark on your flight training journey with confidence and excellence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

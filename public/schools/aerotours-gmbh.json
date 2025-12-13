@@ -1,0 +1,22 @@
+{
+  "id": "65c85086-a032-4842-8fc6-2f882a1feb57",
+  "slug": "aerotours-gmbh",
+  "name": "AEROTOURS GmbH",
+  "continent": "Europe",
+  "country": "Germany",
+  "state": "GER",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.motorflugschule.aero/",
+  "email": "info@motorflugschule.aero",
+  "phone": "'+49.6103.49521",
+  "about": "AEROTOURS GmbH, located near Berlin at the aerodrome Strausberg, is a renowned flight training school and air carrier. Founded in 2000, it evolved from the flight training school \"Flugschule PEGASUS,\" established in 1994. AEROTOURS offers a wide range of training courses, including ATPL(A), CPL(A), PPL(A), LAPL(A), and various instructor ratings. The school boasts a fleet of 17 aircraft and simulators, including Boeing 737NG and King Air 200GT, and is an official Boeing training partner. With a strong focus on quality and safety, AEROTOURS operates under the AOC (Air Operators Certificate) of the German Federal Office of Civil Aviation. The school provides sightseeing, event, and business flights across Europe and supports students with visa issues. AEROTOURS has trained over 2000 pilots and serves more than 3800 clients, ensuring a professional and comprehensive aviation education.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"license training courses\\npermissions\\ndistance learning courses\\nlanguage exams\\nradio licenses\\nfitness test\\nCoaching & Exam Preparation\\ncheck flights & renewals\\nCampus & Student Forum\\nrecognition of licenses\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

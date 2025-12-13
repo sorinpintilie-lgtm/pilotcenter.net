@@ -1,0 +1,22 @@
+{
+  "id": "a47e557e-8418-46d1-b5a2-f7661c87e53c",
+  "slug": "phuket-flying-club",
+  "name": "Phuket Flying Club",
+  "continent": "Asia",
+  "country": "Thailand",
+  "state": "TH",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://phuketflyingclub.com/",
+  "email": "pinata@phuketflyingclub.com",
+  "phone": "064-926-2555",
+  "about": "Phuket Flying Club, located at Phuket Airpark in Thailand, offers a unique opportunity to learn to fly in a tropical paradise. Our flight school specializes in training students for the Thailand Ultralight Pilot’s License (UPL). The comprehensive training course includes 18 hours of flight training, 3 hours of solo flying, ground school tuition, a written exam, and a practical test with a CAAT examiner. Students must also obtain a Class 4 Medical and complete a background check. With flexible training schedules, students can complete the course in as little as 2 to 3 weeks. Our qualified instructors and modern fleet of aircraft ensure a safe and effective learning environment. The minimum training cost is 117,000 Baht, excluding exam and medical fees. Join us to achieve your flying dreams in a stunning tropical setting.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Thailand Ultralight Pilot’s License (UPL)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

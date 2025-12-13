@@ -1,0 +1,22 @@
+{
+  "id": "12ae6796-e3d9-47b6-8e11-76f4049fe83c",
+  "slug": "instituto-de-formacion-aeronautica-ifa",
+  "name": "Instituto de Formación Aeronáutica (IFA)",
+  "continent": "North America",
+  "country": "Costa Rica",
+  "state": "CR",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.ifacr.com/",
+  "email": "info@ifacr.com",
+  "phone": "'+(506) 4404-0820",
+  "about": "The Instituto de Formación Aeronáutica (IFA), also known as the International Flight Academy, is a renowned aviation training institution. Certified by the Portuguese national authority ANAC in conformity with EASA regulations, IFA has been training aviation professionals for over 22 years. The academy offers a comprehensive range of courses, including initial and advanced pilot training, private, airline, and commercial pilot licenses. IFA provides both continuous and modular training options, allowing students to complete their licenses at their own pace. With a team of qualified aviation specialists and extensive resources, IFA has successfully trained hundreds of pilots now flying with various airlines across Europe, Asia, and Africa. IFA is committed to pushing the boundaries of aviation education through innovation and excellence, preparing students for successful careers in the aviation industry.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial Pilot Validation\\nInstrument Pilot (IFR)\\nMultiengine Pilot (IFR)\\nPractical Flight Instructor Programming\\nModule I: Personalized Theoretical Private Pilot\\nPersonalized Theoretical \\nInstrument Pilot\\nPersonalized Theoretical Commercial Pilot\\nDemo Flight\\nWorkshop for Children\\nFOI Instructor Training Course\\nQuality Planning and Control\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

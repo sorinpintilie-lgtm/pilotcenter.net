@@ -1,0 +1,22 @@
+{
+  "id": "44b817e0-4a8a-46c0-bc54-e23a65410621",
+  "slug": "sl-flight-training",
+  "name": "SL Flight Training",
+  "continent": "Europe",
+  "country": "Finland",
+  "state": "",
+  "city": "Helsinki",
+  "baseAirport": "Tampere-Pirkkala Airport /  HELSINKI-VANTA AIRPORT",
+  "website": "https://www.salpauslento.fi/",
+  "email": "info@salpauslento.fi",
+  "phone": "'+358 (0)9 350 98 250",
+  "about": "SL Flight Training is a premier aviation academy dedicated to producing highly skilled and safety-conscious pilots. With a focus on accelerated and standard training programs, we offer flexible pacing to suit individual goals. Our fleet includes the youngest glass-cockpit aircraft in the region, along with state-of-the-art immersive simulators for scenario-based training. As a FAA Part 141 and EASA accredited school, we maintain a 96% graduation rate. Our team of full-time, experienced instructors is passionate about teaching, ensuring students receive the highest level of training. At SL Flight Training, we are committed to building your executive skills and preparing you for a successful career in aviation.",
+  "icao": "EFTP",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

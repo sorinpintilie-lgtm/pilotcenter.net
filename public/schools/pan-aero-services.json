@@ -1,0 +1,22 @@
+{
+  "id": "f7d5db06-e4a2-4900-85ff-4ab6087d6f05",
+  "slug": "pan-aero-services",
+  "name": "Pan Aero Services LLC",
+  "continent": "Europe",
+  "country": "Croatia",
+  "state": "HR",
+  "city": "",
+  "baseAirport": "Zadar Airport",
+  "website": "https://pan.aero/",
+  "email": "info@pan.aero",
+  "phone": "'+385 95 600 66 00",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"LAPL(A)\\nPPL(A)\\nCPL(A)\\nATPL Modular\\nNight Rating\\nIR(A)\\nMEP(LAND)\\nME/IR Extension\\nAerobatic\\nFI(A)\\nCRI(A)\\nSEP(LAND)\\nBase Training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "abce2c5b-8dfa-434c-82b1-46164097fbeb",
+  "slug": "pilots-flying-school",
+  "name": "Pilots Flying School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NJ",
+  "city": "",
+  "baseAirport": "3N6 -Old Bridge Airport",
+  "website": "https://pilotsflyingschool.com/",
+  "email": "",
+  "phone": "(833) 265-7272",
+  "about": "Pilots Flying School is a premier aviation training institution dedicated to providing high-quality flight training. As an FAA-certified school, we adhere to stringent standards in equipment, facilities, and curricula, ensuring our students receive the best possible education. Our program includes comprehensive ground and flight training, preparing students for various FAA certifications and ratings. With a fleet of modern aircraft and advanced training devices, we cater to both full-time and part-time students. Our experienced instructors focus on safety, professionalism, and precision flying, making the learning process enjoyable and effective. Whether you aim for a recreational or professional pilot career, Pilots Flying School offers a structured and flexible training environment to help you achieve your aviation goals. We are committed to producing safe and proficient pilots, ready to take on the skies with confidence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

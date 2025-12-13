@@ -1,0 +1,22 @@
+{
+  "id": "fe100909-9e7f-42d5-8d6a-668fa43869ae",
+  "slug": "hastings-air",
+  "name": "Hastings Air, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NE",
+  "city": "",
+  "baseAirport": "HSI -Hastings Municipal Airport",
+  "website": "https://www.flyhastingsair.com/",
+  "email": "flyhastingsair@gmail.com",
+  "phone": "(402) 303-6400",
+  "about": "Hastings Air, LLC, located at the Hastings Municipal Airport in Nebraska, is a comprehensive flight training and Fixed Base Operator (FBO) facility. We offer professional flight instruction for private, commercial, and instrument ratings, as well as multi-engine training. Our services include aircraft rental, charter services, and full-service fueling with ACE certified line crew. We provide comfortable amenities such as a pilot’s lounge, kitchen, internet access, and a snooze room. Our goal is to deliver hassle-free and streamlined services to meet all your aviation needs, ensuring a supportive and efficient learning environment for aspiring pilots. At Hastings Air, we are dedicated to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nInstrument\\nPrivate Pilot\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "c8420207-e5c6-4e44-8382-cff92ca90dc8",
+  "slug": "iowa-flight-training",
+  "name": "Iowa Flight Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IA",
+  "city": "",
+  "baseAirport": "CID -The Eastern Iowa Airport",
+  "website": "https://www.iowaflighttraining.com/",
+  "email": "info@iowaflighttraining.com",
+  "phone": "(319) 373-3971",
+  "about": "Iowa Flight Training, located at the Eastern Iowa Airport (KCID) in Cedar Rapids and the Waverly Municipal Airport (C25), is dedicated to providing high-quality ground and flight training to grow General Aviation. Our fleet includes a Piper Cherokee 140, Piper Warrior II, Piper Archer II, and Piper Arrow, all equipped with Garmin GNS-430W and ADSB. We offer flight training, flight reviews, aircraft rental, ground school classes, and a pilot supply store. Founded by Tim Busch, a Master Certified Flight Instructor and FAA Safety Counselor, our team of experienced instructors is committed to helping you achieve your aviation goals. With a structured approach and well-maintained aircraft, we ensure a safe and effective learning environment. Financing is available, and you set the pace. We are ready to help you meet your aviation aspirations.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nComputerized Testing\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

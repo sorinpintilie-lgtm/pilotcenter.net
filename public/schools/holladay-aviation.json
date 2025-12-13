@@ -1,0 +1,22 @@
+{
+  "id": "589d553c-8281-47a0-92ba-5320c12f9003",
+  "slug": "holladay-aviation",
+  "name": "Holladay Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "CRG -Jacksonville Exec At Craig Airport",
+  "website": "https://www.holladayaviation.com/",
+  "email": "meredith@holladayaviation.com",
+  "phone": "(904) 423-0790",
+  "about": "Holladay Aviation is a family-owned and operated flight school located at the Jacksonville Executive at Craig Airport in Jacksonville, Florida. With over 20 years of experience, owners Dana and Meredith Holladay have been teaching people of all ages to fly safely and confidently. The school emphasizes safety, risk management, and good decision-making, and incorporates the Advanced Qualification Program For General Aviation (AQP4GA) protocols to ensure competency in handling various abnormal and emergency scenarios. Holladay Aviation offers training programs for private, instrument, commercial, and flight instructor certifications, with a focus on providing a safe, professional, and pleasant learning environment. The school recommends regular training to maintain proficiency and offers flexible payment options. At Holladay Aviation, the goal is to help students achieve their aviation goals while ensuring a safe and enjoyable flying experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

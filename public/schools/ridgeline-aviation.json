@@ -1,0 +1,22 @@
+{
+  "id": "653b395d-6979-4abb-82a6-53e11dcd636d",
+  "slug": "ridgeline-aviation",
+  "name": "Ridgeline Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MT",
+  "city": "",
+  "baseAirport": "BIL -Billings Logan International Airport",
+  "website": "https://flyridgelinemt.com/billings-location",
+  "email": "info@flyridgelinemt.com",
+  "phone": "(406) 831-5533",
+  "about": "Ridgeline Aviation, based in Montana, is a premier flight school and charter service with locations in Bozeman and Billings. Recognized as the \"Best in the Northwest\" by AOPA in 2023, we offer high-quality flight training, including private pilot licenses and advanced certifications like multi-engine ratings. Our partnership with Purdue University Global allows students to earn a bachelor’s degree in Professional Flight while completing their flight training. Our instructors are passionate aviation professionals who provide personalized instruction, ensuring students receive the best education possible. We pride ourselves on transparency, honesty, and a family-like atmosphere, making every student feel valued. With a commitment to safety and excellence, Ridgeline Aviation is your trusted choice for aviation education and charter services.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nDrone/UAS\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

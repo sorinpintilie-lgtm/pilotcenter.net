@@ -1,0 +1,22 @@
+{
+  "id": "c892ce46-551a-4389-8407-eef56bad70d0",
+  "slug": "honaker-aviation",
+  "name": "Honaker Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IN",
+  "city": "",
+  "baseAirport": "JVY -Clark Regional Airport",
+  "website": "https://honakeraviation.com/",
+  "email": "kevin@honakeraviation.com",
+  "phone": "(812) 246-5491",
+  "about": "Honaker Aviation, located at the Clark Regional Airport in Sellersburg, Indiana, is a comprehensive flight school and full-service Fixed Base Operator (FBO). We offer a range of flight training programs, including Private Pilot Certificate, Commercial Pilot Certificate, Flight Instructor, and Instrument Rating. Our knowledgeable and helpful staff provide additional ground school and seminars to ensure thorough preparation for FAA-issued certifications. Many of our graduates have gone on to successful careers in commercial, airline, and private aviation. Our facilities include a new pilot lounge, wireless internet, satellite TV, and services for small and large airframe repairs, as well as aircraft sales. At Honaker Aviation, we are committed to providing high-quality training and exceptional service to all our students.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "8770aa8b-385a-42a7-a606-c1046407c1d6",
+  "slug": "tubreaux-aviation",
+  "name": "Tubreaux Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "LA",
+  "city": "Shreveport",
+  "baseAirport": "Shreveport Downtown Airport",
+  "website": "https://tubreauxaviation.com/",
+  "email": "fbo@tubreauxaviation.com / info@tubreauxaviation.com",
+  "phone": "'+1 318-510-4330",
+  "about": "Tubreaux Aviation, located in Shreveport, Louisiana, is a premier flight training institution committed to providing the highest quality of flight education. Our instructors, professionally trained through programs at Louisiana Tech and LeTourneau University, undergo extensive upset recovery and spin training to ensure the safest and most proficient pilots. As a certified Cirrus Training Center, our staff is directly trained by Cirrus headquarters in Duluth. We offer customized flight training for both full-time students and busy working individuals, with programs leading to Private Pilot, Instrument, and Commercial certifications. Typically, a private pilot's license can be achieved in 3-4 weeks for full-time students or 2-3 months for those flying 2-3 days per week. We also manage aircraft, offer charter flights, and provide maintenance plans. Contact us to schedule a discovery flight and start your aviation journey today.",
+  "icao": "KDTN",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

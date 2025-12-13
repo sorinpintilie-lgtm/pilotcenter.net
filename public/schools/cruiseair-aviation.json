@@ -1,0 +1,22 @@
+{
+  "id": "accbb4cf-7453-4748-b345-d25cbae9edd2",
+  "slug": "cruiseair-aviation",
+  "name": "Cruiseair Aviation, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "RNM -Ramona Airport",
+  "website": "http://www.cruiseairaviation.com/",
+  "email": "info@cruiseairaviation.com",
+  "phone": "(760) 789-8020",
+  "about": "Cruiseair Aviation, Inc. is a family-owned business with a rich history spanning over 50 years, specializing in aircraft maintenance, repair, and upgrades, particularly for Beechcraft models in the South-Western US. Located in Ramona, California, our facility at KRNM offers comprehensive flight training programs, including Private Pilot Certificate, Commercial Pilot Certificate, and Flight Instructor certifications. With a commitment to discriminating service, we provide top-notch maintenance and training, ensuring the highest standards of safety and excellence. Our dedicated team is here to support your aviation needs with professionalism and integrity.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

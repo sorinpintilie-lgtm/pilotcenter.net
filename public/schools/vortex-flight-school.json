@@ -1,0 +1,22 @@
+{
+  "id": "8dc5017d-bcec-4a1f-b97a-366ccafbe87e",
+  "slug": "vortex-flight-school",
+  "name": "Vortex Flight School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "VA",
+  "city": "",
+  "baseAirport": "LKU -Louisa County/Freeman Field",
+  "website": "https://vortexflight.com/",
+  "email": "Lakey@Vortexflight.com",
+  "phone": "(540) 767-5049",
+  "about": "Vortex Flight School is a reputable and comprehensive flight training institution, operating as a Part 61 flight school. We offer a range of programs including private pilot licenses, instrument ratings, commercial pilot licenses, and specialized tailwheel training. Our experienced instructors, such as Lakey, create a relaxed yet professional environment to ensure students learn effectively and safely. Located at KLKU, we provide landing facility services and accept credit cards for convenience. Our goal is to equip aspiring pilots with the skills and knowledge necessary to succeed in their aviation careers. At Vortex Flight School, we are dedicated to making your flying dreams a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nInstrument Proficiency Check\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

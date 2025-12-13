@@ -1,0 +1,22 @@
+{
+  "id": "98f1e735-633d-49ab-961b-ec2d5b37f2e9",
+  "slug": "mag-flight-training",
+  "name": "MAG Flight Training",
+  "continent": "North America",
+  "country": "Panama",
+  "state": "PA",
+  "city": "",
+  "baseAirport": "Marcos A. Gelabert Airport",
+  "website": "http://www.magflighttraining.com/",
+  "email": "comercial@magflighttraining.com",
+  "phone": "(507) 315-1151",
+  "about": "MAG Flight Training is a premier flight school dedicated to providing comprehensive and rigorous flight training programs. Located at one of the Metropolitan Airport Commission's reliever airports, MAG Flight Training benefits from the region's favorable flying conditions and diverse airfield environments. Our highly experienced FAA-certified instructors guide students through intensive training, including daytime and nighttime flying, to ensure they meet all FAA certification requirements. With a focus on safety and proficiency, we offer tailored training programs that cater to individual needs, from private pilot certificates to commercial and instrument ratings. Our state-of-the-art facilities and modern aircraft fleet ensure students receive the best possible training experience. At MAG Flight Training, we are committed to producing skilled and confident pilots ready for a successful career in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"RPA Operator Course\\nInstrument Rating\\nFlight Dispatcher\\nCommercial Pilot\\nMAG Staff Training\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

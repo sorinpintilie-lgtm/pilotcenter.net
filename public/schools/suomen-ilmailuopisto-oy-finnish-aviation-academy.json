@@ -1,0 +1,22 @@
+{
+  "id": "1d2e0bec-0d4e-4e69-aa8f-94ba509635a9",
+  "slug": "suomen-ilmailuopisto-oy-finnish-aviation-academy",
+  "name": "Suomen Ilmailuopisto Oy (Finnish Aviation Academy)",
+  "continent": "Europe",
+  "country": "Finland",
+  "state": "FI",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://finaa.fi/home/",
+  "email": "info(at)finaa.fi",
+  "phone": "'+358 2 6301 700",
+  "about": "Suomen Ilmailuopisto Oy, or the Finnish Aviation Academy, is a vocational aviation school located near Pori Airport in Finland. Established in 1964 by Finnair, the academy was later relocated to Pori in 1985. It is owned by the Government of Finland, Finnair, and the City of Pori. The academy trains professional pilots to meet the needs of Finnish aviation, adhering to EASA regulations and Finnish airline requirements. The training includes programs for Private Pilot Licence (PPL), Commercial Pilot Licence (CPL), and other specialized courses. With a modern fleet including Embraer Phenom 100 and Diamond DA-42 aircraft, the academy has trained over 300 students since its relocation to Pori. It also offers commercial services such as simulator and training device leasing. The Finnish Aviation Academy is dedicated to providing high-quality training for the next generation of pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Type Rating TR(A)\",\"BE300\\nType Rating TR(A)\",\"EMB-500 (Phenom 100)\\nType Rating Instructor TRI(A)\",\"BE300 and EMB-500\\nSimulator Flight Instructor SFI(A)\",\"BE300 and EMB-500\\nMulti-Crew Cooperation Instructor MCCI(A)\",\"Airbus A320\",\"BE300 and EMB-500\\nMulti-Crew Cooperation MCC(A)\\nAerobatic Rating\\nAdvanced UPRT training course\\nMEP/IR\\nModular Instrument Rating IR(A)\",\"MEP(Land)\\nClass Rating Instructor CRI(A)\\nInstrument Rating Instructor IRI(A)\\nFI/IRI Refresher Seminar\\nHPA SP theoretical course\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "8b16eb8a-518c-4c60-abb7-28de5bf0f861",
+  "slug": "us-flight",
+  "name": "US Flight Co",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MO",
+  "city": "",
+  "baseAirport": "MKC -Charles B Wheeler Downtown Airport",
+  "website": "https://usflightco.com/",
+  "email": "office@usflightco.com",
+  "phone": "(816) 542-7525",
+  "about": "US Flight Co is a premier flight school located in Des Moines, Iowa, dedicated to providing top-notch aviation training. Our mission is to create a professional and supportive atmosphere where students can achieve their flying goals. With a diverse fleet of modern aircraft, including brand new Pipistrel Alpha Trainers and legacy Cessna 172s, we offer comprehensive training in various weather conditions, ensuring pilots gain invaluable experience in real-world scenarios. Our instructors are highly experienced, with real-world flying backgrounds, and are committed to helping students succeed. Located within a state-of-the-art facility at Des Moines International Airport, we provide excellent facilities, in-house maintenance, and a student-first approach. Our small operation ensures personalized attention and a relaxed learning environment. Join us to embark on your aviation career with the best resources and support.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

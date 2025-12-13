@@ -1,0 +1,22 @@
+{
+  "id": "cff13cda-17c7-48fe-9838-19ea8b6bd45f",
+  "slug": "malta-school-of-flying",
+  "name": "Malta School of Flying",
+  "continent": "Europe",
+  "country": "Malta",
+  "state": "MLTA",
+  "city": "",
+  "baseAirport": "Malta International Airport",
+  "website": "https://aviationacademymalta.com/",
+  "email": "info@maltaflying.com",
+  "phone": "'+356 2164 7888",
+  "about": "Malta School of Flying, established in 2004, is a premier flight training institution based at Malta International Airport. With over 19 years of experience and a 100% safety record, we offer a comprehensive range of aviation training programs, including Private Pilot Licence (PPL), Commercial Pilot Licence (CPL), Multi-Engine Piston Rating, and Instrument Rating. Our team of highly qualified and experienced instructors, with over 50,000 hours of combined flying experience, ensures top-notch training. We boast the largest fleet of training aircraft in Malta, including Tecnam and Cessna models, and state-of-the-art facilities such as an Alsim ALX simulator. Our commitment to excellence is reflected in our 100% first-time pass rate for advanced courses. We welcome students from around the world to train in our ideal Mediterranean location, providing a professional and supportive environment to become skilled and employable pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Induction Courses\\nPrivate Pilot Licence (PPL)\\nHour Building\\nNight Rating\\nAirline Transport Pilot Licence (ATPL) Theory Course\\nMulti Engine Piston (MEP) Rating\\nBasic Instrument Flight Module (BIFM)\\nCommercial pilot Licence (CPL)\\nInstrument Rating (IR) and Multi-Engine Instrument Rating (ME-IR)\\nMulti Crew Cooperation (MCC)\\nJet Orientation Course (JOC)\\nFlight Instructor Course (FIC)\\nFAA/ICAO to EASA License Conversion\\nRadio Telephony & Aviation English Courses\\nRenewals & Revalidations\"]",
+  "visaInsurance": "Other",
+  "fleetSize": "",
+  "logoUrl": ""
+}

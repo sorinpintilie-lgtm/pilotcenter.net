@@ -1,0 +1,22 @@
+{
+  "id": "b8029c35-a9d3-44b1-bed9-354ebb199b1d",
+  "slug": "esma-aviation-academy",
+  "name": "ESMA Aviation Academy",
+  "continent": "Europe",
+  "country": "France",
+  "state": "",
+  "city": "Montpellier",
+  "baseAirport": "Montpellier Méditerranée Airport",
+  "website": "https://www.esma.fr/",
+  "email": "adm@airwaysaviation.com\neurope@airwaysaviation.com\nfrance@airwaysaviation.com",
+  "phone": "'+33 (0) 467 137 500",
+  "about": "ESMA Aviation Academy, founded in 1988 by Air Littoral, is a premier multidisciplinary aviation school in Europe, located in Montpellier and Paris, France. With over 28 years of experience, ESMA offers comprehensive training programs for pilots, cabin crew, aircraft maintenance, ground staff, and UAV pilots. The academy boasts more than 11,000 sqm of facilities, including four flight simulators, a certified Cabin Crew Hall with scale models of various aircraft, and Part 145 & 147 workshops. ESMA is committed to fostering the next generation of aviation professionals with its team of over 90 professional instructors and a wide range of qualifying courses. Situated near the Montpellier Mediterranean Airport, ESMA provides an ideal environment for aviation training, ensuring students are well-prepared for their careers in the air transport industry.",
+  "icao": "LFMT",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nEASA ATPL Ground School\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

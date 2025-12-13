@@ -1,0 +1,22 @@
+{
+  "id": "030bbefa-d442-4642-b7b2-a7f51a5333c8",
+  "slug": "farnham-aviation-services",
+  "name": "Farnham Aviation Services",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IA",
+  "city": "",
+  "baseAirport": "BNW -Boone Municipal Airport",
+  "website": "https://www.farnhamaviation.com/",
+  "email": "farnhamaviation@outlook.com",
+  "phone": "(515) 432-1018",
+  "about": "Farnham Aviation Services is a premier flight training institution based in Iowa, specializing in comprehensive flight and ground instruction. We offer a range of certifications, including Private Pilot, Commercial, Flight Instructor (CFI), and tail wheel endorsements, a unique service among few flight schools in the region. Our experienced instructors provide personalized training to ensure students achieve their aviation goals. With a focus on safety and excellence, Farnham Aviation Services is committed to delivering high-quality training and supporting the aviation community. Whether you're a novice or an experienced pilot, we are dedicated to helping you soar to new heights.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

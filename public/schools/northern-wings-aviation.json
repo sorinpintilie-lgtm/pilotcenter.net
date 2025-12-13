@@ -1,0 +1,22 @@
+{
+  "id": "a77a2900-dd02-40eb-8e14-125a531dbd0a",
+  "slug": "northern-wings-aviation",
+  "name": "Northern Wings Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MT",
+  "city": "",
+  "baseAirport": "BZN -Bozeman Yellowstone International Airport",
+  "website": "https://www.northernwingsaviation.com/",
+  "email": "northernwingsaviation@gmail.com",
+  "phone": "(406) 570-5039",
+  "about": "Northern Wings Aviation, based in Bozeman, Montana, specializes in comprehensive flight training and specialized aviation services. We offer instruction in private, commercial, instrument, tailwheel, and mountain flying, as well as unique programs such as Wildland fire support. Our experienced instructors provide high-quality training tailored to individual needs. Additionally, we support USFS forest fire fighting and wildlife survey operations throughout the Rocky Mountain west. With a focus on safety and professionalism, Northern Wings Aviation is dedicated to helping students achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

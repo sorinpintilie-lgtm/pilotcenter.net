@@ -1,0 +1,22 @@
+{
+  "id": "d17fd556-13a2-4ad5-8bdc-b83f5a3cab66",
+  "slug": "praxis-aerospace-concepts-international",
+  "name": "Praxis Aerospace Concepts International",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NV",
+  "city": "",
+  "baseAirport": "1L3 -Searchlight Airport",
+  "website": "http://www.praxisaerospace.com/",
+  "email": "info@praxisaerospace.com",
+  "phone": "(702) 586-1160",
+  "about": "Praxis Aerospace Concepts International (PACI) is a service-disabled, veteran-owned small business based in Southern Nevada. Founded in 2011, PACI specializes in developing practical solutions for multi-modal robotics and unmanned systems (UxS) using proprietary technology, unique domain expertise, and strategic partnerships. As a leader in the UAS industry, PACI operates field facilities for autonomous systems research, development, testing, and training. It is the only Southern Nevada industry partner of the FAA's Center of Excellence for Unmanned Aircraft Systems (COE UAS) and holds multiple FAA approvals for extended visual line of sight, night flights, and beyond visual line of sight operations. PACI provides comprehensive training, consulting, and technical services, supporting clients globally in military, public, and civil sectors. With a strong commitment to innovation and safety, PACI continues to drive advancements in UAS integration into national airspace.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Drone/UAS\\nPart 107 Drone Testing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

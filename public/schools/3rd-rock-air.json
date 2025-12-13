@@ -1,0 +1,22 @@
+{
+  "id": "d86f9eec-12ed-4ed8-8a25-5e69f8782275",
+  "slug": "3rd-rock-air",
+  "name": "3rd Rock Air",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "VDF -Tampa Exec Airport",
+  "website": "https://3rdrockair.com/",
+  "email": "davidc@3rdrockair.com",
+  "phone": "(813) 498-4268",
+  "about": "At 3rd Rock Air, we are a nationwide drone training school dedicated to safety and professional excellence. Our mission is to equip students with the skills and knowledge necessary to become certified drone pilots. We offer comprehensive courses, including an 8-hour Drone Flight School with both virtual and in-person instruction, FAA Part 107 test prep, and drone photography and cinematography classes. Our experienced UAV instructors use a variety of drones to provide hands-on training, ensuring students receive a thorough education. With a focus on safety and practical learning, we aim to make our students proud holders of their FAA Part 107 certification. Join us to become a professional drone pilot and mentor to others in the field.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Drone/UAS\\nGround School\\nPart 107 Drone Testing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "6d2608cc-a842-4bc3-ab6e-8684328cfcce",
+  "slug": "ramona-flight-training-center",
+  "name": "Ramona Flight Training Center",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CA",
+  "city": "Ramona",
+  "baseAirport": "Ramona Airport",
+  "website": "https://www.ramonaftc.com/",
+  "email": "ric@goforthtech.com",
+  "phone": "'+1 760-486-2777",
+  "about": "The Ramona Flight Training Center is a full-service, state-of-the-art facility dedicated to providing high-quality flight instruction. Although not a 141 school, it offers a comprehensive range of training programs, including Private Pilot Certificate, Night Rating, Commercial Pilot Certificate, Flight Instructor, Instrument Rating, and specialized Mountain Training. The center boasts friendly and knowledgeable instructors, easy and organized aircraft scheduling, and a co-working facility that caters to the needs of instructors, students, and aircraft providers. With a commitment to excellence, Ramona Flight Training Center ensures a supportive and professional environment for all aspiring pilots. The center also organizes regular events and activities to enhance the learning experience. At Ramona Flight Training Center, we are dedicated to helping you achieve your aviation goals.",
+  "icao": "KRNM",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

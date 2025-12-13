@@ -1,0 +1,22 @@
+{
+  "id": "ae0e83d4-1970-4cde-a100-7ee6b97dbec2",
+  "slug": "nebraska-flight-center",
+  "name": "Nebraska Flight Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NE",
+  "city": "",
+  "baseAirport": "OMA -Eppley Airfield",
+  "website": "https://nebflight.com/",
+  "email": "info@nebflight.com",
+  "phone": "(402) 342-4314",
+  "about": "The Nebraska Flight Center is a comprehensive aviation training institution dedicated to providing ground school and flight training for pilots of all experience levels. Located in Nebraska, the center offers a structured program designed to equip students with the necessary skills and knowledge to excel in the aviation industry. From private pilot licenses to advanced commercial certifications, the Nebraska Flight Center ensures that students receive thorough instruction in both theoretical and practical aspects of flying. With a focus on personal responsibility and professionalism, the center prepares its graduates for successful careers in airlines, corporate aviation, and other aviation sectors. By offering a supportive learning environment and expert instructors, the Nebraska Flight Center is committed to helping aspiring pilots achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

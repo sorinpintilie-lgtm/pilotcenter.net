@@ -1,0 +1,22 @@
+{
+  "id": "c99189dd-6a39-4a30-8be8-86ef0a2d3656",
+  "slug": "hawk-aviation",
+  "name": "Hawk Aviation Inc.",
+  "continent": "North America",
+  "country": "USA",
+  "state": "MN",
+  "city": "Rush City",
+  "baseAirport": "Rush City Regional Airport",
+  "website": "https://www.hawk-aviation.com/",
+  "email": "ark@hawk-aviation.com",
+  "phone": "'+1 320-358-3665",
+  "about": "Hawk Aviation Inc., located at the Rush City Regional Airport in Minnesota, has been serving the aviation community since 1999. We offer a comprehensive range of flight training programs, including Private Pilot, Instrument Rating, Commercial Pilot, Multi-Engine, and Certified Flight Instructor (CFI) certifications. Our programs also include Sport Pilot, Finish Up Courses, and accelerated training options to suit various needs. Our facilities are equipped with an AATD Flight Simulator and we provide aircraft rental services. With a commitment to safety and excellence, our instructors, many of whom are experienced airline pilots, ensure a professional and effective learning environment. Hawk Aviation Inc. is dedicated to helping aspiring aviators achieve their aviation goals with high-quality training and personalized instruction.",
+  "icao": "ROS",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "42f57c44-7cbb-47ef-ac4f-3ffca1f3afde",
+  "slug": "acampo-flying-club",
+  "name": "Acampo Flying Club",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "1O3 -Lodi Airport",
+  "website": "https://flyacampo.com/",
+  "email": "business@flyacampo.com",
+  "phone": "(209) 649-7320",
+  "about": "Acampo Flying Club, located at the Acampo Airport in California, is a premier flight training and aircraft rental facility. We are dedicated to furthering general aviation for future generations. Our club offers quality flight instruction with a team of experienced and certified instructors. We provide a diverse fleet of single and multi-engine aircraft, including Beechcraft, Cessna, Piper, and Tailwheel models. With competitive rates, especially on block time for Cessna 172s, we cater to both aspiring pilots and seasoned aviators. Our convenient location allows easy access from Sacramento, Stockton, and the East Bay area. Join our club to make your dreams of flight a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

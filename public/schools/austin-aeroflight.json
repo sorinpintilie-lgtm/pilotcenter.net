@@ -1,0 +1,22 @@
+{
+  "id": "1c17549e-8665-4fdf-94f4-75beccd3f8e7",
+  "slug": "austin-aeroflight",
+  "name": "Austin Aeroflight, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MN",
+  "city": "",
+  "baseAirport": "AUM -Austin Municipal Airport",
+  "website": "http://austinaeroflight.com/",
+  "email": "austinaeroflight@austinaeroflight.biz",
+  "phone": "(507) 433-1813",
+  "about": "Austin Aeroflight, Inc. is a full-service Fixed Base Operator (FBO) located at the Austin Municipal Airport in Austin, Minnesota. Established in 1988 by Bruce Budahn, the school offers comprehensive flight training and ground instruction for airplanes, including courses for Private Pilot Licenses, Tailwheel Endorsements, and Instrument Ratings. Additionally, Austin Aeroflight provides a complete line of CATS computerized testing for all FAA or FCC written exams. The facility also includes professional maintenance services and heated hangar space to protect aircraft in all weather conditions. With a rich history and commitment to safety and technology, Austin Aeroflight is dedicated to meeting all your aviation needs in Southern Minnesota.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ceef3a79-b9e0-43da-ac6a-8891d7f61a38",
+  "slug": "brazos-valley-flight-services",
+  "name": "Brazos Valley Flight Services",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "CLL -Easterwood Field",
+  "website": "https://bvfs.net/",
+  "email": "info@bvfs.net",
+  "phone": "(979) 260-6322",
+  "about": "Brazos Valley Flight Services, located at Easterwood Field (KCLL) in College Station, TX, is a renowned flight school dedicated to providing high-quality flight training. We offer a comprehensive range of programs, from Private Pilot to Airline Transport Pilot (ATP) certifications, including Instrument Rating and Commercial Pilot certificates. Our fleet consists of Cessna 172SP and Cessna Skylane 182 aircraft, ensuring optimal training conditions. Recognized with the AOPA Distinguished Flight School Award, we are among the top 4% of flight schools in the USA. Our commitment to integrity, safety, and excellence makes us a trusted choice for aspiring pilots. Contact us at 979-260-6322 to schedule your first flight and embark on your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nGround School\\nIntro Flight\\nPart 107 Drone Testing\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

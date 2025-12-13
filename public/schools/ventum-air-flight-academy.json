@@ -1,0 +1,22 @@
+{
+  "id": "a56c9c3a-47d3-461e-8eb8-1f1b50669c16",
+  "slug": "ventum-air-flight-academy",
+  "name": "Ventum Air Flight Academy",
+  "continent": "Europe",
+  "country": "Poland",
+  "state": "",
+  "city": "Warsaw",
+  "baseAirport": "Warsaw-Babice Airport",
+  "website": "https://ventumair.eu/",
+  "email": "ato@ventumair.eu",
+  "phone": "'+48 795 100 000",
+  "about": "Ventum Air Flight Academy, located at Warsaw-Babice Airport in Poland, is a medium-sized Approved Training Organisation (ATO) dedicated to providing top-notch flight training. We offer a comprehensive range of courses from Private Pilot License (PPL) to Airline Transport Pilot License (ATPL), including Commercial Pilot License (CPL), Instrument Rating (IR), and Multi-Engine Pilot (MEP) training. Our experienced instructors, many with airline backgrounds, ensure personalized and efficient training programs. With modern aircraft featuring full glass cockpits, we cater to both local and international students. Our flexible and effective training approach has earned us a reputation for quick and successful certifications, often completed within 8-12 weeks. At Ventum Air, we are committed to guiding aspiring aviators every step of the way to launch their aviation careers.",
+  "icao": "EPBC",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

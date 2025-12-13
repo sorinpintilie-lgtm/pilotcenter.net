@@ -1,0 +1,22 @@
+{
+  "id": "eb18e18b-9cd6-4478-878f-0fb6fa0e7a63",
+  "slug": "volar-colombia",
+  "name": "Volar Colombia",
+  "continent": "South America",
+  "country": "Colombia",
+  "state": "COL",
+  "city": "",
+  "baseAirport": "Olaya Herrera Airport",
+  "website": "https://volarcolombia.com/",
+  "email": "info@volarcolombia.com",
+  "phone": "(57)(604) 3221715",
+  "about": "Volar Colombia is a reputable flight school located in Colombia, dedicated to providing comprehensive pilot training programs. We cater to both local and international students, offering a structured curriculum that meets the standards of the Aeronáutica Civil de Colombia. Our experienced instructors, with a focus on safety and excellence, guide students through ground training, flight simulations, and practical flying lessons. Volar Colombia ensures that students gain the necessary skills and hours to meet the hiring requirements of major Colombian airlines, such as Avianca and LATAM. With a commitment to quality education and career development, Volar Colombia is the ideal choice for aspiring pilots seeking a successful aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Aircraft Pilot\\nPrivate Helicopter Pilot\\nCommercial Airline Pilot\\nCommercial Helicopter Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "79fe8473-83bb-425c-b759-493eabb51242",
+  "slug": "1world-aero",
+  "name": "1World Aero",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MD",
+  "city": "",
+  "baseAirport": "FME -Tipton Airport",
+  "website": "https://www.1worldaero.com/",
+  "email": "T.Russell@1worlaero.com",
+  "phone": "(240) 481-4023",
+  "about": "1World Aero, located between Baltimore and Washington DC, has been providing comprehensive flight training since 2003. We offer certifications from Private Pilot to Airline Transport Pilot (ATP) for both single and multi-engine aircraft. Our fleet includes the Piper Warrior, Arrow, and Twin Camanche. We emphasize a gradual, building-block approach to training, focusing on quality instruction, safety, and client recurrent training. Our instructors are experienced and well-compensated to ensure the best learning environment. We promote regular training, crew resource management, and standardization of procedures to prepare students for unexpected situations. With a commitment to quality over quantity, we strive to make every student a safer and more proficient pilot. Join us for a rigorous and supportive flight training experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

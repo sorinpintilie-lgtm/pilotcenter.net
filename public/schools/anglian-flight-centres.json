@@ -1,0 +1,22 @@
+{
+  "id": "059cb3f4-60c5-4468-8a0f-f80a93f3528c",
+  "slug": "anglian-flight-centres",
+  "name": "Anglian Flight Centres",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Colchester",
+  "baseAirport": "Earls Colne Airfield",
+  "website": "https://www.anglianflightcentres.co.uk/",
+  "email": "enquiries@flyafc.co.uk",
+  "phone": "'+44 1787 223 676",
+  "about": "Anglian Flight Centres, located at Earls Colne Airfield in Essex, is a premier flying school dedicated to providing high-quality pilot training. Our team of experienced and supportive flying instructors and ground staff ensure a comprehensive learning environment. We offer a range of courses, including the Private Pilot Licence (PPL), National Private Pilot Licence (NPPL), Night Rating, and Commercial Pilot Licence (CPL). Additionally, we provide specialized ratings in aerobatics and Instrument Meteorological Conditions. Our fleet includes a variety of aircraft, and we also offer the unique experience of flying a 1942 Warbird Harvard. With competitive aviation fuel prices and reduced landing fees for bulk fuel purchases, Anglian Flight Centres is your first choice for quality pilot training. Contact us at 01787 223676 to start your aviation journey.",
+  "icao": "EGSR",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

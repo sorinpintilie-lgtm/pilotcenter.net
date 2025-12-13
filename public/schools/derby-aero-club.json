@@ -1,0 +1,22 @@
+{
+  "id": "684722fc-aefa-4307-9ea3-f24005934b87",
+  "slug": "derby-aero-club",
+  "name": "Derby Aero Club",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Egginton",
+  "baseAirport": "Derby Airport",
+  "website": "https://www.derbyaeroclub.com/",
+  "email": "Info@derbyaeroclub.com",
+  "phone": "'+44 1283 733 803",
+  "about": "Derby Aero Club and Flying School, established in 1987, offers a comprehensive range of flying training courses from Trial Flying Lessons to advanced programs for Private Pilots Licence (PPL) holders. Our fleet includes Cessna 140, 152, 172, and Beagle Pup 150 aircraft. We provide ground school training, including Radio Telephony examinations, and tailwheel differences training. Our experienced instructors conduct all training, ensuring a safe and advanced learning environment. We also offer aircraft hire to qualified pilots. Located at Derby Airfield, we are committed to providing a rewarding and challenging flying experience, culminating in the issuance of a UK-issued Pilots Licence. Contact us to experience the joy of flight.",
+  "icao": "EGBD",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

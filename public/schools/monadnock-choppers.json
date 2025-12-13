@@ -1,0 +1,22 @@
+{
+  "id": "909c6885-fc84-43a9-b010-3ed0db3964c6",
+  "slug": "monadnock-choppers",
+  "name": "Monadnock Choppers LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NH",
+  "city": "",
+  "baseAirport": "EEN -Dillant/Hopkins Airport",
+  "website": "https://www.monadnockchoppers.com/",
+  "email": "fly@monadnockchoppers.com",
+  "phone": "(760) 207-5101",
+  "about": "At Monadnock Choppers LLC, we are passionate about aviation and committed to providing exceptional flight training and maintenance services. Located in Keene, NH, our flight school offers comprehensive training programs for various certifications, including private, instrument, and commercial licenses for both helicopter and airplane students. Our experienced instructors are dedicated to ensuring each student receives personalized and thorough training. We also provide aircraft maintenance, fueling, and storage services to support our students and the broader aviation community. With a focus on safety and excellence, Monadnock Choppers is your trusted partner for achieving your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nFlight Instructor CFI\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

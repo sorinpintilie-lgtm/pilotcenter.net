@@ -1,0 +1,22 @@
+{
+  "id": "3f572fe3-c923-469d-b653-df2c0ee95ae8",
+  "slug": "global-aviators-academy",
+  "name": "Global Aviators Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "POC -Brackett Field",
+  "website": "https://www.globalaviatorsacademy.com/",
+  "email": "GlobalAviatorsAcademy@gmail.com",
+  "phone": "(909) 596-1900",
+  "about": "Global Aviators Academy is dedicated to providing top-notch flight training with the best technical equipment and instruction. As a premier flight school, we aim to produce the best pilots by offering a comprehensive and engaging learning experience. Our programs include demo flights for newcomers and extensive training for those pursuing professional pilot certifications. With a focus on hands-on training, our students gain practical experience flying over the scenic landscapes of Southern California. We are an authorized FAA testing center, ensuring our students receive the highest standard of education and preparation for their aviation careers. Join us to embark on a journey to become a skilled and confident pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

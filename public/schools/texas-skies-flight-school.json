@@ -1,0 +1,22 @@
+{
+  "id": "b352fab3-7752-47c4-a203-ef79f141c8b1",
+  "slug": "texas-skies-flight-school",
+  "name": "Texas Skies Flight School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "5C1 -Boerne Stage Airfield",
+  "website": "http://www.texasskiesflightschool.com/",
+  "email": "office@texasskiesflightschool.com",
+  "phone": "(830) 388-6350",
+  "about": "Texas Skies Flight School, established in 2018, is a veteran-owned flight training institution based at Boerne Stage Airfield in Texas. Founded by Casey Ratliff, a retired U.S. Air Force fighter pilot and instructor, the school has grown from humble beginnings to become a premier flight training center. As the only Cirrus Platinum Training Center in the region, Texas Skies offers quality instruction and aircraft rental in Cirrus SR 20/22 aircraft, emphasizing safety and comfort with advanced avionics and the Cirrus Airframe Parachute System® (CAPS®). The school boasts a state-of-the-art facility with conference space, classrooms, and a Cirrus simulator, providing comprehensive training for private and commercial pilots. With a strong team of instructors and support staff, Texas Skies is dedicated to delivering exceptional flight training experiences.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nAnnual Recurrent Training\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

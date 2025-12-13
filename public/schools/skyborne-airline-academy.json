@@ -1,0 +1,22 @@
+{
+  "id": "5978b1e8-ee56-4e33-bebb-9e879ae47579",
+  "slug": "skyborne-airline-academy",
+  "name": "Skyborne Airline Academy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "FL",
+  "city": "Vero Beach",
+  "baseAirport": "Vero Beach Airport",
+  "website": "https://skyborne.com/",
+  "email": "flyvero@skyborne.com",
+  "phone": "'+1 800-800-1411",
+  "about": "Skyborne Airline Academy is a premier airline training academy dedicated to selecting and developing the most talented student pilots. Founded by Lee Woodward, a veteran pilot with over 30 years of experience, Skyborne innovates flight training with a selective admissions process to ensure only those with the aptitude and attributes for airline service are trained. The academy offers state-of-the-art facilities, industry-leading equipment, and experience-driven instruction, preparing pilots from private pilot to CFI levels. With campuses in the UK and Vero Beach, Florida, Skyborne partners with major airlines like United Airlines, SkyWest Airlines, and British Airways to provide clear career pathways. The 12-month program includes all instructional time, equipment, and accommodations, with financing options available. Skyborne's commitment to quality and continuous learning ensures graduates are well-prepared and recognized by the airline industry.",
+  "icao": "KVRB",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

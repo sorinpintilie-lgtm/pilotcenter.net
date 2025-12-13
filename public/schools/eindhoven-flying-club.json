@@ -1,0 +1,22 @@
+{
+  "id": "9081d195-d789-4cdc-aecb-d1c5dc937e2c",
+  "slug": "eindhoven-flying-club",
+  "name": "Eindhoven Flying Club",
+  "continent": "Europe",
+  "country": "Netherlands",
+  "state": "NL",
+  "city": "",
+  "baseAirport": "Eindhoven Air Base",
+  "website": "https://www.eacm.nl/",
+  "email": "trialles@eacm.nl",
+  "phone": "06-58 84 29 69",
+  "about": "At Eindhoven Flying Club, we are dedicated to providing high-quality flight training at affordable prices. Located in Eindhoven, Netherlands, our flight school offers a range of approved courses, including ATPL, CPL, PPL, IR, SEP, MEP, MCC, FI, and JOC. Our fleet includes Diamond Twin Star DA-42, DA-40, TB-10, Cessna 182, Cessna 172, Cessna 152, and Mooney M20J aircraft. We operate from low-density IFR airports, ensuring an optimal training environment. All our prices include landing fees, fuel, and VAT. Our experienced instructors and comprehensive training programs are designed to help you achieve your aviation goals efficiently and safely. Join us at Eindhoven Flying Club to embark on your aviation journey with confidence and professionalism.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Theory training\\nPPL and LAPL\\nPractical training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

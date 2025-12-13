@@ -1,0 +1,22 @@
+{
+  "id": "6a6d033a-25f2-43e9-94fb-fb9e98f58817",
+  "slug": "flightsafety-international-north",
+  "name": "FlightSafety International - North",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "DFW -Dallas-Fort Worth International Airport",
+  "website": "https://www.flightsafety.com/locations/dallas-north-learning-center/",
+  "email": "sales@flightsafety.com",
+  "phone": "(972) 534-3200",
+  "about": "FlightSafety International is the world’s premier professional aviation training company, providing high-quality training to commercial, government, and military organizations. With a global network of learning centers, including the Dallas North Learning Center, we offer advanced simulation technology and factory-authorized training. Our training programs, designed by 1,800 professional instructors, include over 3,500 expertly crafted courses and utilize a fleet of more than 300 flight simulators. We are committed to helping our customers operate their aircraft to the highest level of safety, backed by ISO 9001 certifications and a dedication to ongoing innovation and customer care. Our mission is to deliver world-class training that enhances safety and operational excellence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nSimulator\\nAirline Transport Pilot ATP\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

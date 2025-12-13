@@ -1,0 +1,22 @@
+{
+  "id": "1b61d088-196b-4d17-a5bb-c053700bb164",
+  "slug": "eagle-east-aviation",
+  "name": "Eagle East Aviation, Inc",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MA",
+  "city": "",
+  "baseAirport": "LWM -Lawrence Municipal Airport",
+  "website": "https://www.eagleeastaviation.com/",
+  "email": "fly@eagleeastaviation.com",
+  "phone": "(978) 683-3314",
+  "about": "Eagle East Aviation, Inc., located at Lawrence Municipal Airport in North Andover, Massachusetts, has been a premier flight school for over 30 years. Owned and operated by Tim Campbell, the school offers quality flight and ground instruction for Private, Commercial, and Instrument ratings. With a fleet of well-maintained single-engine aircraft and a pilot shop for all training needs, Eagle East Aviation provides a comprehensive learning environment. The school is known for its friendly, knowledgeable, and professional staff of certified flight instructors. Eagle East Aviation is also deeply involved in the local community, having organized several successful fundraisers and community projects. Whether you're aiming to become a private pilot or pursue a career in aviation, Eagle East Aviation is dedicated to teaching you to fly safely, proficiently, and enjoyably.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

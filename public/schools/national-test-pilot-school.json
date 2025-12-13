@@ -1,0 +1,22 @@
+{
+  "id": "6d883172-8f39-4245-b6fa-10d94ebad035",
+  "slug": "national-test-pilot-school",
+  "name": "National Test Pilot School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "MHV -Mojave Air & Space Port/Rutan Field",
+  "website": "https://ntps.edu/",
+  "email": "ntps@ntps.edu",
+  "phone": "(661) 824-2943",
+  "about": "The National Test Pilot School (NTPS) is the only civilian test-pilot school in the United States, located in Mojave, California. Established in 1981, NTPS is a not-for-profit educational institute recognized by the international Society of Experimental Test Pilots. It offers Master of Science degrees in Flight Test Engineering and Flight Test and Evaluation, accredited by the Engineering Accreditation Commission of ABET. NTPS provides comprehensive flight test education and training, utilizing modern facilities, specialized laboratories, simulators, and a diverse fleet of instrumented aircraft. The school's experienced instructors, averaging over 15 years of flight test experience, ensure students gain the skills to safely and effectively plan, execute, and report on flight test programs. NTPS is committed to enhancing flight test competency, safety, and the aerospace profession worldwide.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nPart 107 Drone Testing\\nRotary Wing\"]",
+  "visaInsurance": "F-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

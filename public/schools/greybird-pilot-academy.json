@@ -1,0 +1,22 @@
+{
+  "id": "9d9cc536-623d-49e2-9849-cefb4918270f",
+  "slug": "greybird-pilot-academy",
+  "name": "GreyBird Pilot Academy",
+  "continent": "Europe",
+  "country": "Denmark",
+  "state": "DK",
+  "city": "",
+  "baseAirport": "Aarhus Airport",
+  "website": "https://greybird.dk/",
+  "email": "info@greybird.dk",
+  "phone": "'+45 70 770 110",
+  "about": "GreyBird Pilot Academy, based in Denmark at Aarhus Airport, is one of the oldest and largest pilot academies in the region, with over ten years of educational experience. Specializing in integrated training for commercial pilots, the academy offers a comprehensive program that introduces students to the international atmosphere of a commercial pilot’s daily work life. GreyBird operates a modern, environmentally friendly aircraft fleet, including the Tecnam P2006T, and utilizes state-of-the-art simulators to ensure a steep learning curve. Students have the opportunity to fly from bases in Denmark, Sweden, and Spain, and visit numerous European countries during their education. GreyBird Pilot Academy is dedicated to training professional pilots in a global and dynamic aviation environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Marketing APS MCC Course\\nUPRT (Upset Prevention Recovery Training)\\nFI course\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

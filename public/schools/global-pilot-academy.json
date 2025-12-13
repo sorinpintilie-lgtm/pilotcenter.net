@@ -1,0 +1,22 @@
+{
+  "id": "3d01d8ee-22b5-4a5c-be42-c7030a2f8a32",
+  "slug": "global-pilot-academy",
+  "name": "Global Pilot Academy, Inc.",
+  "continent": "North America",
+  "country": "USA",
+  "state": "FL",
+  "city": "Tampa",
+  "baseAirport": "Tampa Executive Airport",
+  "website": "https://www.gpapilot.com/",
+  "email": "learn2fly@gpapilot.com",
+  "phone": "'+1 813-600-4052 / '+1 844-877-4568",
+  "about": "Global Pilot Academy, Inc., located in the Tampa Bay Area, is renowned for its exceptional flight training programs that cater to students from around the world. We offer a range of certifications, from Private Pilot to Airline Pilot, in a structured, professional, and safe environment. Our fleet includes meticulously maintained aircraft such as the Cessna 172, Cessna 152, and Piper Seneca, along with advanced simulators. With highly trained instructors and flexible training options, we ensure students achieve their aviation goals efficiently. We also provide comfortable housing accommodations and assist international students with visa applications and TSA clearance. Our in-house maintenance staff guarantees the safest and best-maintained aircraft for your training. Join us to experience the best flight training in the Bay Area and achieve your aviation dreams.",
+  "icao": "KVDF",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

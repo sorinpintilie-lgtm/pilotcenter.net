@@ -1,0 +1,22 @@
+{
+  "id": "5774f14a-5aad-4f56-be66-90ad4ae37490",
+  "slug": "future-flyers-of-iowa",
+  "name": "Future Flyers of Iowa",
+  "continent": "North America",
+  "country": "USA",
+  "state": "IA",
+  "city": "Winterset",
+  "baseAirport": "Winterset Municipal Airport",
+  "website": "https://futureflyersofiowa.com/",
+  "email": "Office@FutureFlyersofIowa.com",
+  "phone": "'+1 515-954-2600",
+  "about": "Future Flyers of Iowa, located at the Winterset Municipal Airport in central Iowa, offers comprehensive flight training programs for Private Pilot, Instrument Rating, and Commercial Pilot licenses. Using a fleet of modern aircraft, including Cessna 172, Cessna 150, Liberty XL2, and a Seneca I for multi-engine training, all equipped with the latest avionics and GPS instruments. We pride ourselves on providing quality instruction at an affordable price, with a personalized approach to meet each student's needs. Our veteran-owned business also offers aircraft rental, aerial photography, ground instruction, and other aviation services. Contact us to schedule a discovery flight or a personalized tour to discuss our training programs in depth. We are committed to helping you achieve your flying goals.",
+  "icao": "3Y3",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

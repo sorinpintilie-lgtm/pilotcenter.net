@@ -1,0 +1,22 @@
+{
+  "id": "eaf97ab2-7aee-4bb7-8a14-f99c2a9f8cf6",
+  "slug": "tvsa-pilot-training",
+  "name": "TVSA Pilot Training",
+  "continent": "Oceania",
+  "country": "Australia",
+  "state": "",
+  "city": "",
+  "baseAirport": "Bacchus Marsh Aerodrome",
+  "website": "https://tvsa.edu.au/",
+  "email": "info@tvsa.edu.au",
+  "phone": "'+61 3-5369-5162",
+  "about": "TVSA Pilot Training, based in Bacchus Marsh, Australia, is a premier flight training institution dedicated to transforming aviation dreams into reality. Offering comprehensive programs including Private Pilot Licence (PPL), Night Rating, and Commercial Pilot Licence (CPL), TVSA equips aspiring pilots with the necessary skills and knowledge. With state-of-the-art aircraft, experienced instructors, and strategic career support, TVSA positions its students for success in the aviation industry. The school boasts a friendly and inviting environment, with facilities that include classrooms, engine rooms, and simulators. TVSA's commitment to excellence and personalized training makes it an ideal choice for those pursuing a career or hobby in aviation. Contact TVSA to embark on your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

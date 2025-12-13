@@ -1,0 +1,22 @@
+{
+  "id": "b84f4bcb-2d01-4558-8734-1a7bfa16c47d",
+  "slug": "fly-czech-sro",
+  "name": "Fly Czech s.r.o.",
+  "continent": "Europe",
+  "country": "Czech Republic",
+  "state": "CZEC",
+  "city": "",
+  "baseAirport": "Prague Letňany Airport",
+  "website": "https://www.flyczech.eu/",
+  "email": "info@flyczech.eu",
+  "phone": "'+420 777 316 243",
+  "about": "Fly Czech s.r.o. is a premier flying school in the Czech Republic, dedicated to providing top-notch aviation training. With a rich history and a team of experienced instructors, including former fighter pilots, airline pilots, and air rescue service pilots, we offer comprehensive training programs for various licenses such as PPL, CPL, and IR. Our state-of-the-art facilities, including a flight simulator, are located near Prague, ensuring easy access and a rich flying experience. We prioritize individualized training, ensuring each student receives tailored instruction to meet their needs. Our passion for flying is evident in every lesson, making us a trusted choice for aspiring pilots. At Fly Czech s.r.o., we are committed to turning your aviation dreams into reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Aircraft pilot\\nAFIS / RADIO\\nAviation mechanic\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

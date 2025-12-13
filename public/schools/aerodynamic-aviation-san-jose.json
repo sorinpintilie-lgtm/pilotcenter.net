@@ -1,0 +1,22 @@
+{
+  "id": "c34bad6d-6f59-462b-b4ea-06644ff3a687",
+  "slug": "aerodynamic-aviation-san-jose",
+  "name": "AeroDynamic Aviation - San Jose",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "RHV -Reid-Hillview of Santa Clara County Airport",
+  "website": "https://www.aerodynamicaviation.com/about/rhv/",
+  "email": "info@aerodynamicaviation.com",
+  "phone": "(408) 320-9614",
+  "about": "AeroDynamic Aviation, established in 1960, is a premier flight school dedicated to teaching the art of flying safely and proficiently. With locations at Reid-Hillview Airport in San Jose, Salinas Municipal Airport, and Monterey Peninsula Airport, we offer comprehensive flight training for Sport and Private Pilot, Instrument, Commercial, Multi-Engine, ATP, CFI, Tailwheel, Aerobatics, and mountain flying. Our experienced instructors, many of whom are former military and commercial pilots, teach with a passion for flying, emphasizing traditional stick-and-rudder skills. We provide ground school, aircraft rentals, and specialized training in vintage and modern aircraft, including tailwheel endorsements. Our goal is to build skilled and confident pilots in a safe and enjoyable environment. Come fly with us and experience the joy of aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

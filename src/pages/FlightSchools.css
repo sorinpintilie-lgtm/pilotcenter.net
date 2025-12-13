@@ -1,0 +1,228 @@
+.fs-page {
+  padding: 32px 16px 48px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.fs-hero-title {
+  font-size: 2.1rem;
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+/* Filters */
+.fs-filters-bar {
+  background: #f9fafb;
+  border-radius: 16px;
+  padding: 16px 20px;
+  margin-bottom: 24px;
+}
+
+.fs-filters-row {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+@media (max-width: 900px) {
+  .fs-filters-row {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  .fs-filters-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+.fs-filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.fs-filter-title {
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #6b7280;
+}
+
+.fs-select {
+  border-radius: 999px;
+  border: 1px solid #d1d5db;
+  padding: 8px 10px;
+  font-size: 0.9rem;
+}
+
+/* Map */
+.fs-map-section {
+  margin-bottom: 24px;
+}
+
+.fs-map-wrapper {
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid #e5e7eb;
+  height: 420px;
+}
+
+/* Grid */
+.fs-results-header {
+  margin-bottom: 12px;
+  font-size: 0.9rem;
+  color: #4b5563;
+}
+
+.fs-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 16px;
+}
+
+.fs-load-more-wrap {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.fs-load-more-btn {
+  border-radius: 999px;
+  padding: 9px 24px;
+  border: none;
+  background: #38bdf8;
+  color: #fff;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+/* Search + sort row */
+.fs-search-bar {
+  margin: 12px 0 20px;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.fs-search-wrapper {
+  position: relative;
+  flex: 1 1 220px;
+  max-width: 360px;
+}
+
+.fs-search-input {
+  width: 100%;
+  border-radius: 999px;
+  border: 1px solid #d1d5db;
+  padding: 8px 32px 8px 14px;
+  font-size: 0.9rem;
+  outline: none;
+  background: #ffffff;
+}
+
+.fs-search-input:focus {
+  border-color: #38bdf8;
+  box-shadow: 0 0 0 1px rgba(56, 189, 248, 0.25);
+}
+
+.fs-search-clear {
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+  border: none;
+  background: transparent;
+  font-size: 1.1rem;
+  line-height: 1;
+  cursor: pointer;
+  color: #9ca3af;
+}
+
+.fs-search-clear:hover {
+  color: #4b5563;
+}
+
+.fs-sort-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.fs-sort-label {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #6b7280;
+}
+
+.fs-sort-select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+
+  padding: 8px 36px 8px 14px;
+  font-size: 0.9rem;
+
+  border: 1px solid #d1d5db;
+  border-radius: 999px;
+  background-color: white;
+
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 20 20' fill='black'><path d='M5.5 7l4.5 4.5L14.5 7'/></svg>");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+
+  cursor: pointer;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.fs-sort-select:focus {
+  border-color: #38bdf8;
+  box-shadow: 0 0 0 2px rgba(56, 189, 248, 0.25);
+  outline: none;
+}
+
+.fs-select--disabled {
+  background-color: #f3f4f6;
+  color: #9ca3af;
+  cursor: not-allowed;
+}
+
+/* Infinite scroll sentinel */
+.fs-load-more-sentinel {
+  width: 100%;
+  height: 1px;
+  margin-top: 24px;
+}
+
+/* Map Info Panel */
+.map-info-panel {
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 20px 0;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e5e7eb;
+}
+
+.map-info-panel h3 {
+  color: #007bff;
+  margin: 0 0 15px 0;
+  font-size: 1.2rem;
+}
+
+.map-info-panel img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 15px 0;
+}
+
+/* Responsive adjustments for map */
+@media (max-width: 768px) {
+  .fs-map-section {
+    height: 350px;
+  }
+}

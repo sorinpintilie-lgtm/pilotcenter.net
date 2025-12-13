@@ -1,0 +1,22 @@
+{
+  "id": "660a416d-2608-4dea-a9ca-e69f2d9107bd",
+  "slug": "ifly-pilot-training",
+  "name": "IFLY Pilot Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "AVQ -Marana Regional Airport",
+  "website": "https://iflyflightschool.wixsite.com/home",
+  "email": "iflyflightschool.us@gmail.com",
+  "phone": "(785) 435-9001",
+  "about": "At iFLY Pilot Training, we offer cutting-edge aviation education with a focus on excellence and safety. Our state-of-the-art facilities are equipped with the latest flight simulators and modern aircraft, including Cessna 172R, Diamond DA20, and Diamond DA42NG. Our instructors are highly experienced, many having flown for major Canadian airlines, and provide personalized training in a supportive environment. We offer programs for private, commercial, and airline pilot licenses, with flexible part-time options and financial assistance available. Our comprehensive training includes 80 hours of ground instruction and a minimum of 200 flight hours, ensuring you are well-prepared for a successful aviation career. Join us to embark on a journey to become a skilled and confident pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

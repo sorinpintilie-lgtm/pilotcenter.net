@@ -1,0 +1,22 @@
+{
+  "id": "8438ed7e-da92-49a2-b021-94548ea28298",
+  "slug": "american-air-flight-training",
+  "name": "American Air Flight Training",
+  "continent": "Europe",
+  "country": "Georgia",
+  "state": "GA",
+  "city": "",
+  "baseAirport": "DeKalb-Peachtree Airport",
+  "website": "https://fly-aaft.com/",
+  "email": "steve@fly-aaft.com",
+  "phone": "(770) 455-4203",
+  "about": "American Air Flight Training, located at DeKalb-Peachtree Airport in Atlanta, offers personalized and comprehensive flight instruction. Led by Steve Shaner, with over 49 years of experience and 32 years as an FAA-Designated Pilot Examiner, the school provides one-on-one training tailored to each student's learning style. Students train in modern, well-maintained Piper Archer LX aircraft with G1000 NXi Glass Cockpits and enjoy state-of-the-art training facilities, including comfortable classrooms and high-definition video recording of flight lessons. The program exceeds FAA certification standards, ensuring graduates are among the safest and most confident pilots. With a focus on individual attention and safety, American Air Flight Training delivers a superior learning environment for aspiring pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nInstrument Pilot Rating\\nPractice FAA Checkrides\\nBasic Aerobatics Course / Spin Training Course\\nTailwheel Airplane Pilot Course\\nCommercial Pilot Airplane\\nStudents with Special Abilities\\nFlight Instructor Courses\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

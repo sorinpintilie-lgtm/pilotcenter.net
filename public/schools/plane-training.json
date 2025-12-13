@@ -1,0 +1,22 @@
+{
+  "id": "e3104aa7-df67-4ede-96ee-015d79da8582",
+  "slug": "plane-training",
+  "name": "Plane Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "SD",
+  "city": "",
+  "baseAirport": "RAP -Rapid City Regional Airport",
+  "website": "http://www.planeflighttraining.com/",
+  "email": "bijan@planeflighttraining.com",
+  "phone": "(605) 939-9326",
+  "about": "At Plane Training flying school, our mission is to empower aspiring pilots with the skills, knowledge, and confidence needed to achieve their aviation goals. Founded by experienced commercial pilots, we offer top-tier training programs that include state-of-the-art online courses, immersive in-person Ground School, and hands-on flight training. Our comprehensive curriculum covers essential theoretical subjects and practical flying skills, ensuring students are well-prepared for Private Pilot, Instrument, and Commercial Pilot licenses. We cater to busy schedules with flexible training plans and provide additional services such as aircraft support and adventure trips. Our commitment is to safety, proficiency, and making the dream of flying a reality for all our students.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

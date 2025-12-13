@@ -1,0 +1,22 @@
+{
+  "id": "00979e66-35a4-466e-ba55-e7012ac441f6",
+  "slug": "aeropro",
+  "name": "Aeropro",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AL",
+  "city": "",
+  "baseAirport": "JKA -Gulf Shores International/Jack Edwards Field",
+  "website": "https://www.aeroproinflight.com/",
+  "email": "admin@aeroproinflight.com",
+  "phone": "(833) 237-6776",
+  "about": "Aeropro Flight Academy is a premier aviation training institution, offering comprehensive flight training programs from private pilot certificates to commercial pilot licenses and instrument ratings. Located at Austin-Bergstrom Airport (KAUS), Aeropro boasts highly experienced instructors, high-quality aircraft such as the Cirrus SR20, and a strong emphasis on safety. The academy provides structured training modules, including ground school, airport operations, and radio procedures, ensuring students gain invaluable skills and confidence in the air. With flexible scheduling and a focus on career development, Aeropro supports its students in achieving their aviation goals and transitioning into professional piloting careers. Aeropro is committed to delivering top-notch training and exceptional support to aspiring pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nDrone/UAS\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nPart 107 Drone Testing\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nInstrument\\nPrivate Pilot\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

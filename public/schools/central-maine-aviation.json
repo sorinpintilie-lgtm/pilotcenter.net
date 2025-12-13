@@ -1,0 +1,22 @@
+{
+  "id": "cd1c5e86-d294-4fc9-8b80-eea0aced930f",
+  "slug": "central-maine-aviation",
+  "name": "Central Maine Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "ME",
+  "city": "",
+  "baseAirport": "2B7 -Pittsfield Municipal Airport",
+  "website": "http://www.centralmaineaviation.com/",
+  "email": "centralmaineaviation@gmail.com",
+  "phone": "(207) 249-8972",
+  "about": "Central Maine Aviation, located in Pittsfield, Maine, is a comprehensive flight school dedicated to providing expert flight training. We offer a range of programs, including Private Pilot, Commercial, and Instrument training, as well as Single Engine Land and Seaplane ratings. Our fleet includes the Piper Warrior II (PA28-161) for primary and instrument training. We also conduct Private Pilot Ground School sessions in the spring and fall. Led by certified flight instructors like Charlie Surprenant, who holds certifications as a CFII - ASEL, ASES, AGI, and IGI, we ensure high-quality instruction. Our services include biennial flight reviews and introductory flights. At Central Maine Aviation, we are committed to helping you explore your world from above with safety, professionalism, and excellence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

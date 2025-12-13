@@ -1,0 +1,22 @@
+{
+  "id": "9f1beb96-3b37-4045-9054-0b4e9d020cab",
+  "slug": "hilton-head-flyers",
+  "name": "Hilton Head Flyers",
+  "continent": "North America",
+  "country": "United States",
+  "state": "SC",
+  "city": "",
+  "baseAirport": "HXD -Hilton Head Airport",
+  "website": "https://hiltonheadflightschool.com/",
+  "email": "bbshank@gmail.com",
+  "phone": "(843) 384-4316",
+  "about": "Hilton Head Flyers, located on beautiful Hilton Head Island, South Carolina, offers superior quality flight training with a focus on safety and passion for aviation. Led by Bill Shank, an FAA Certified Flight Instructor (CFI/CFII) with over 40 years of flying experience and 7,000 hours in the air, the school provides comprehensive training in various aircraft, including Piper, Cessna, Mooney, and Bonanza. Bill, a former DOD educator trained by military instructors, has extensive international and domestic flying experience. The school uses state-of-the-art equipment, including Garmin 1000 glass cockpits and advanced flight simulators. Services include discovery flights, private and instrument pilot training, biannual flight reviews, and instrument proficiency checks. With a 100% pass rate for new pilots, Hilton Head Flyers is dedicated to helping you achieve your aviation dreams. Call us today to start your journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

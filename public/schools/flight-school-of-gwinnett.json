@@ -1,0 +1,22 @@
+{
+  "id": "638b00de-c80c-4978-9ab8-efa6939268c0",
+  "slug": "flight-school-of-gwinnett",
+  "name": "Flight School of Gwinnett, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "GA",
+  "city": "",
+  "baseAirport": "LZU -Gwinnett County/Briscoe Field",
+  "website": "https://www.theflightschool.com/",
+  "email": "tfs@theflightschool.com",
+  "phone": "(770) 513-0000",
+  "about": "The Flight School of Gwinnett, Inc., operating out of the Gwinnett County Airport at Briscoe Field (KLZU) and Athens Ben-Epps Airport (KAHN), is a premier flight school in the greater Atlanta area. Established in 1982, the school has trained thousands of pilots, from hobbyists to captains. As a Part 141 approved institution, it offers a range of programs including Private Pilot, Instrument Rating, Commercial Pilot, Multi-Engine, and Certified Flight Instructor certifications. With experienced CFIs and affordable prices, the school provides a comprehensive and supportive learning environment. Whether you're starting your aviation journey or advancing your career, The Flight School of Gwinnett is dedicated to helping you achieve your flying goals. Contact us today to start your aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

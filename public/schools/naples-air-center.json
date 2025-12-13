@@ -1,0 +1,22 @@
+{
+  "id": "1df0887e-749c-43b7-9a58-ace68be39d61",
+  "slug": "naples-air-center",
+  "name": "Naples Air Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "APF -Naples Municipal Airport",
+  "website": "https://www.naples-air-center.com/",
+  "email": "fly@naples-air-center.com",
+  "phone": "(239) 643-1717",
+  "about": "Naples Air Center, located at Naples Municipal Airport in Florida, is the premier flight school in Southwest Florida, offering professional and private flight training under FAA and EASA licensing authorities. With over 35 years of experience, owner Richard Gentil leads a team of more than 10 skilled instructors and a fleet of over 24 aircraft, including Piper, Diamond, and Cirrus models. NAC provides comprehensive training programs for Private Pilot, Instrument Pilot, Commercial Pilot, Multi Engine Pilot, Flight Instructor, and Airline Transport Pilot licenses. Known for its high safety standards and excellent maintenance facilities, NAC boasts a 96% first-time pass rate and is recognized for its personalized and synchronous training approach. Whether you aim for a professional or recreational flying career, Naples Air Center is dedicated to helping you achieve your aviation dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4dd00cdf-2840-4f71-8fe8-d0880c24cd05",
+  "slug": "air-galore",
+  "name": "Air Galore",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "LHM -Lincoln Regional/Karl Harder Field",
+  "website": "https://air-galore.com/",
+  "email": "c3458j@gmail.com",
+  "phone": "(707) 972-4498",
+  "about": "At Air Galore, we offer a comprehensive aviation experience, combining charter flights, car and bike rentals, and a robust ground and flight school program. Our facilities, located at various airports such as Jackson, Auburn, and Lincoln, provide students with a well-rounded education in aviation. Our experienced instructors and state-of-the-art training equipment ensure that students receive the highest quality training. We also provide valuable area information to help our clients navigate and enjoy their surroundings. With a focus on customer service and a commitment to excellence, Air Galore is your trusted partner for all your aviation needs. Whether you're aspiring to become a pilot or simply need convenient travel services, we are here to support you every step of the way.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

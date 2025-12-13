@@ -1,0 +1,22 @@
+{
+  "id": "eb18425b-1cb6-4d6d-b084-55b02817f4a8",
+  "slug": "bun-air",
+  "name": "Bun Air Corporation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "PA",
+  "city": "",
+  "baseAirport": "HMZ -Bedford County Airport",
+  "website": "https://www.bunaircorp.com/",
+  "email": "mail@bunaircorp.com",
+  "phone": "(814) 623-8171",
+  "about": "Bun Air Corporation is a comprehensive aviation services provider based in Bedford County, Pennsylvania. While not exclusively a flying school, Bun Air offers flight training as part of its extensive range of services. The company specializes in aircraft management, charter flights, and aircraft maintenance, ensuring a seamless aviation experience. With a fleet that includes Cessna CJ jets, Bun Air caters to various aviation needs, from on-demand charters to general aviation services. Their facilities at the Bedford County Airport include amenities such as a lounge, conference room, and weather briefing kiosk. Bun Air is committed to excellence and customer satisfaction, making it a reliable choice for all aviation requirements. Learn to fly or manage your aircraft with the expertise of Bun Air Corporation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "16d7aaff-e68d-4a7f-b1c4-cf695bcfae34",
+  "slug": "air-espace-flight-academy",
+  "name": "Air Espace - Flight Academy",
+  "continent": "Europe",
+  "country": "Switzerzerland",
+  "state": "",
+  "city": "Neuchâtel and Lausanne",
+  "baseAirport": "Neuchâtel and Lausanne Airport",
+  "website": "https://www.air-espace.net/",
+  "email": "info@air-espace.net",
+  "phone": "'+41 (0) 32 842 61 57",
+  "about": "Air Espace Flight Academy, based in Switzerland at Neuchâtel and Lausanne airports, specializes in modular flight training. We offer Private Pilot Licence (PPL) programs for airplanes and theoretical helicopter courses. Our training is conducted in a professional and safe environment, with the option for practical flight training to be completed in English. We also provide distance learning options, currently available in French. Our focus is on delivering high-quality, flexible training to meet the needs of aspiring pilots, ensuring they are well-prepared for their aviation careers. With a commitment to safety and excellence, Air Espace Flight Academy is dedicated to helping students achieve their flying goals.",
+  "icao": "LSGN/LSGL",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nNight Rating\\nEASA ATPL Ground School\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

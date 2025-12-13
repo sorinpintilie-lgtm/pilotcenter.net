@@ -1,0 +1,22 @@
+{
+  "id": "a26d44a4-8245-4cab-bc9e-afc84f9778d0",
+  "slug": "fte-jerez",
+  "name": "FTE Jerez",
+  "continent": "Europe",
+  "country": "Spain",
+  "state": "",
+  "city": "Jerez de la Frontera",
+  "baseAirport": "Jerez Airport",
+  "website": "https://www.ftejerez.com/",
+  "email": "info@ftejerez.com",
+  "phone": "'+34 956 317 800",
+  "about": "FTEJerez is a renowned aviation and airline pilot training academy located in Jerez de la Frontera, Spain. With over 30 years of experience, FTEJerez has a proven track record of training ab initio pilots to become captains for prominent airlines such as British Airways, Emirates, and Qatar Airways. The school offers the Airline First Officer Programme (AFOP), an integrated training route approved by EASA and the UK CAA, which prepares students for their first airline position and future captain roles. FTEJerez boasts a purpose-built campus, a low student-to-instructor ratio, and a fleet of advanced training aircraft and simulators. The academy is committed to providing high-quality training, personalized attention, and strong airline connections to ensure graduates secure their first job as a First Officer. With a team of experienced instructors and a supportive environment, FTEJerez is dedicated to helping aspiring pilots realize their dreams.",
+  "icao": "LEJR",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nMulti-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

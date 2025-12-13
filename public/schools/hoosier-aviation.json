@@ -1,0 +1,22 @@
+{
+  "id": "695ee7dd-c95f-406c-a1c8-7e405c7e4cc8",
+  "slug": "hoosier-aviation",
+  "name": "Hoosier Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "IN",
+  "city": "Terra Haute",
+  "baseAirport": "Terre Haute International Airport (HUF)",
+  "website": "https://www.hoosieraviation.com/",
+  "email": "info@hoosieraviation.com",
+  "phone": "'+1 812-877-7600",
+  "about": "Hoosier Aviation, located at the Terre Haute Regional Airport, is a family-owned and operated flight school and Fixed Base Operator (FBO) established by Jordan and Nicole Brown in 2011. The facility has undergone a complete upscale remodel to provide a welcoming and updated atmosphere. Hoosier Aviation offers comprehensive flight training for various pilot certificates and ratings, utilizing well-maintained and equipped aircraft, including models like the Piper Archer, Cessna 150, and Diamond DA20. Additionally, they provide aircraft rental, de-ice services, and on-site aircraft maintenance through their partner Williams Aviation. Known for their commitment to the Terre Haute community and their dedication to General Aviation, Hoosier Aviation strives to deliver the highest levels of service, embodying true Hoosier hospitality. They welcome all to experience their facilities and services.",
+  "icao": "HUF",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "703044b3-5dc1-4c22-94fd-5d480987eaa4",
+  "slug": "pavco-flight-center",
+  "name": "Pavco Flight Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "TIW -Tacoma Narrows Airport",
+  "website": "http://www.flypavco.com/",
+  "email": "mike@flypavco.com",
+  "phone": "(800) 645-3563",
+  "about": "Pavco Flight Center, located at the scenic Tacoma Narrows Airport in Gig Harbor, Washington, is a premier flight training facility dedicated to nurturing the next generation of pilots. With a diverse range of training programs, including private, instrument, commercial, airline transport pilot, and instructor ratings, Pavco caters to both aspiring aviators and those pursuing a professional career in aviation. The school offers training under both FAR Part 61 and Part 141 programs, with a designated FAA examiner on staff. Pavco also provides aircraft rentals, maintenance, and charters, along with scenic flights and introductory flights. Their highly qualified FAA Certified Flight Instructors and top-notch facilities ensure students receive comprehensive training tailored to their individual needs. Pavco Flight Center is committed to excellence and helping students achieve their aviation dreams. Contact them at (253) 851-5577 to embark on your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nAnnual Recurrent Training\\nComputerized Testing\\nExaminer\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nFlight Instructor CFI\\nCommercial\\nAirline Transport Pilot ATP\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

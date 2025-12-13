@@ -1,0 +1,22 @@
+{
+  "id": "9490230c-6495-4431-b49c-0752d92d6796",
+  "slug": "cortac",
+  "name": "Cortac",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "GT",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.cortac.co.za/",
+  "email": "info@cortac.co.za",
+  "phone": "'+27 861 267 822",
+  "about": "Cortac Flying School is a premier aviation training institution, accredited by the South African Civil Aviation Authority (SACAA). We specialize in training aspiring drone pilots, offering comprehensive and intensive programs designed to equip students with the skills and knowledge necessary to excel in the rapidly growing field of unmanned aerial vehicles. Our expert instructors provide hands-on training, ensuring students are well-versed in both theoretical and practical aspects of drone operation. With a focus on safety, innovation, and career readiness, Cortac Flying School is the ideal choice for those looking to embark on a successful career in drone aviation. We are committed to producing highly skilled and competent drone pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"INSTRUCTOR RATING\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

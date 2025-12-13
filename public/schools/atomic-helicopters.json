@@ -1,0 +1,22 @@
+{
+  "id": "b200b9c7-52cb-4f89-81d4-fbcf85313e92",
+  "slug": "atomic-helicopters",
+  "name": "Atomic Helicopters",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "BFI -Boeing Field/King County International",
+  "website": "http://www.atomichelicopters.com",
+  "email": "info@atomichelicopters.com",
+  "phone": "(206) 379-0648",
+  "about": "Atomic Helicopters, based in Seattle, is a premier provider of luxury helicopter experiences and flight training. With over a decade of operation, our team of friendly, professional, and passionate pilots offers superior, cost-efficient flight training in a safe and supportive environment. We provide a range of services including helicopter tours, charters, excursions, and aerial photography. Our excursions span across Washington and Oregon, featuring scenic flights to islands, mountains, and bustling cities. We also offer customizable charters and unique wedding and elopement flights. Known for our 100% safety rating and close-to-downtown Seattle location, Atomic Helicopters is dedicated to delivering the flight of a lifetime with exceptional customer service.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nFlight Instructor CFI\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

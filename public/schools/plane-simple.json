@@ -1,0 +1,22 @@
+{
+  "id": "4cbc1928-e77e-44ec-82b9-17ab367e112a",
+  "slug": "plane-simple",
+  "name": "Plane Simple",
+  "continent": "North America",
+  "country": "United States",
+  "state": "LA",
+  "city": "",
+  "baseAirport": "LCH -Lake Charles Regional Airport",
+  "website": "https://www.planesimple.net/",
+  "email": "info@planesimple.net",
+  "phone": "(337) 513-3319",
+  "about": "Plane Simple Flying School is a premier aviation training institution dedicated to providing comprehensive and flexible flight training programs. Located in the heart of the aviation community, our school is staffed by experienced and certified instructors with decades of combined experience. We offer a range of programs, from private pilot certificates to commercial and multi-engine ratings, all designed to get you safely in the air as quickly as possible. Our fleet includes modern Cessna 172s and Piper Senecas, equipped with advanced avionics such as Garmin G5 and G3X flight displays. We prioritize a safe, professional, and supportive learning environment, ensuring our students gain the knowledge, skills, and confidence to navigate the skies with precision. With flexible scheduling and financing options available, Plane Simple Flying School is committed to making your aviation dreams a reality. Join us and take the first step towards a successful aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nCommercial\\nPrivate Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

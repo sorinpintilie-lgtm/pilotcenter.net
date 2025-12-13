@@ -1,0 +1,22 @@
+{
+  "id": "90999d41-52ce-499a-a7ca-16551fe62e86",
+  "slug": "747-aviation",
+  "name": "7:47 Aviation, Inc.",
+  "continent": "North America",
+  "country": "USA",
+  "state": "NY",
+  "city": "Cortland",
+  "baseAirport": "Cortland County Chase Field Airport",
+  "website": "https://www.747aviation.com/",
+  "email": "info@747aviation.com",
+  "phone": "'+1 607-662-4505",
+  "about": "7:47 Aviation, Inc. is a premier flight school located at the Cortland County Airport in Cortland, New York. We offer a comprehensive range of flight training programs, including Private Pilot Certificate, Commercial Pilot Certificate, Flight Instructor, and Instrument Rating. Our training is conducted by experienced instructors and is available weekdays from 9AM to 6PM and Saturdays from 8AM to 6PM. We also provide financing options for flight training to make your aviation dreams more accessible. With a focus on safety and professional development, 7:47 Aviation, Inc. is your gateway to a successful career in aviation. Join us to embark on your flight training journey with confidence and excellence.",
+  "icao": "N03",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nSeaplane Rating\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "45bc8967-cab5-40c6-b9e9-6fdc04571422",
+  "slug": "cae-santiago",
+  "name": "CAE Santiago",
+  "continent": "South America",
+  "country": "Chile",
+  "state": "CL",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.cae.com/",
+  "email": "",
+  "phone": "'+44 (0) 1865 84 1234",
+  "about": "CAE Santiago is a premier flight training facility located close to Santiago International Airport in Chile. As part of CAE's global network, it offers comprehensive airline pilot and cabin crew training programs using state-of-the-art equipment, including CAE 7000XR series full-flight simulators. The centre provides ground school and simulator pilot training, catering to the growing pilot training needs of airlines in the Americas. With a commitment to excellence and safety, CAE Santiago is a leading choice for aspiring pilots, ensuring they receive the highest standard of training to succeed in their aviation careers. CAE Santiago is dedicated to making flying safer and more efficient.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Pilot Training\\nBusiness Pilot Training\\nAircraft Maintenance Training\\nAvailable Aircraft Platforms for Training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

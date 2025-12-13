@@ -1,0 +1,22 @@
+{
+  "id": "a2c10161-f0c4-4728-9f7c-8a41c9dc94d4",
+  "slug": "don-davis-aviation",
+  "name": "Don Davis Aviation, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "KY",
+  "city": "",
+  "baseAirport": "EHR -Henderson City-County Airport",
+  "website": "https://dondavisaviation.com/",
+  "email": "customerservice@dondavisaviation.com",
+  "phone": "(270) 826-6000",
+  "about": "Don Davis Aviation, Inc., a family-owned and operated aviation company since 1957, provides comprehensive aviation services at the Henderson City-County Airport in Kentucky. We offer personalized flight training from Private Pilot to Commercial Certificates, including Instrument Ratings and Certified Flight Instructor certifications. Our fleet includes modern Diamond DA40s, Cessna 172s, and the Diamond DA42 TDI for multi-engine training. As a full-service FBO, we also provide aircraft rental, charter services, maintenance, and various amenities such as hangar and tie-down facilities, fueling, and courtesy cars. Our goal is to continue delivering exceptional, family-friendly service, ensuring comfort and convenience for all our customers. We strive to be the best in aviation, not just the biggest.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "215ff70a-dda1-4a4f-a718-c68a85635049",
+  "slug": "middle-tennessee-state-university",
+  "name": "Middle Tennessee State University",
+  "continent": "North America",
+  "country": "USA",
+  "state": "TN",
+  "city": "Murfreesboro",
+  "baseAirport": "Murfreesboro Municipal Airport",
+  "website": "https://www.mtsu.edu/",
+  "email": "https://www.mtsu.edu/",
+  "phone": "'+1 615-898-2300\n+1 615-898-2788",
+  "about": "Middle Tennessee State University's Aerospace Department, established in 1942, is one of the nation's most respected and largest collegiate aviation programs. With 20 full-time faculty members, over 100 flight instructors, and more than 1,000 majors, the department offers diverse concentrations including Professional Pilot, Aviation Management, Flight Dispatch, Maintenance Management, Aerospace Technology, and Unmanned Aircraft Systems Operations. Students from 32 states and 16 foreign countries are drawn to its comprehensive programs, which include master’s degrees in Aeronautical Science. MTSU trains in state-of-the-art aircraft with computerized flight decks and an innovative, scenario-based curriculum, preparing graduates for careers with major airlines, regional airlines, corporations, and government agencies. The department is committed to providing a robust educational foundation, ensuring students excel as aviation professionals.",
+  "icao": "KMBT",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "F-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

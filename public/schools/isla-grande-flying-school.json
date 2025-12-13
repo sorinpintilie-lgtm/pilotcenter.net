@@ -1,0 +1,22 @@
+{
+  "id": "dffe5897-dce3-4cb9-85c2-d9c96c5a37ae",
+  "slug": "isla-grande-flying-school",
+  "name": "Isla Grande Flying School",
+  "continent": "North America",
+  "country": "United",
+  "state": "PR",
+  "city": "",
+  "baseAirport": "SIG -Fernando Luis Ribas Dominicci Airport",
+  "website": "https://www.islagrandeflying.com/index.html",
+  "email": "igfsserv@prtc.net",
+  "phone": "(787) 725-5760",
+  "about": "Isla Grande Flying School, located on the North Ramp of Fernando L. Ribas-Dominicci Airport in San Juan, Puerto Rico, has been a beacon of excellence in aviation training since 1953. As one of only three FAA and Department of Education recognized schools in Puerto Rico, it offers a comprehensive range of training programs for airplane and helicopter pilots. The school boasts a diverse fleet including basic single-engine trainers, advanced \"glass cockpit\" aircraft, complex aircraft, twin-engine airplanes, tail draggers, and helicopters. As the first International Cessna Pilot Center, Isla Grande Flying School is committed to providing high-quality training with highly qualified and experienced instructors. With nearly seven decades of service, the school remains a one-stop shop for all aviation needs in Puerto Rico, dedicated to helping students achieve their dream of flight.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nComputerized Testing\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nPart 107 Drone Testing\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

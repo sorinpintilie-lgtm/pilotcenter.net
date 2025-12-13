@@ -1,0 +1,22 @@
+{
+  "id": "93509b77-9fcd-41c5-928d-a107b848664f",
+  "slug": "vliegschool-hilversum",
+  "name": "Vliegschool Hilversum",
+  "continent": "Europe",
+  "country": "Netherlands",
+  "state": "NL",
+  "city": "",
+  "baseAirport": "Hilversum Airport (EHHV)",
+  "website": "https://www.vliegschool-hilversum.nl/",
+  "email": "info@vliegschool-hilversum.nl",
+  "phone": "'+31 (0)35 5771201",
+  "about": "Vliegschool Hilversum is a reputable aviation education institution based at Hilversum Airport (EHHV) in the Netherlands. Specializing in pilot certification, the school offers training programs for both Light Aircraft Pilot License (LAPL) and Private Pilot License (PPL). With a fleet of 10 aircraft, including Tecnam P2002JFs, Cessna 172, and Piper Archer III and Warrior II models, Vliegschool Hilversum provides comprehensive flight training. The school also facilitates the conversion of FAA PPL licenses to EU PPL licenses, offering customized training programs and e-learning resources. Known for its professional and personalized approach, Vliegschool Hilversum is committed to delivering high-quality aviation education. Whether you are a novice or an experienced pilot, Vliegschool Hilversum is dedicated to helping you achieve your flying goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"LAPL license\\nPPL License\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

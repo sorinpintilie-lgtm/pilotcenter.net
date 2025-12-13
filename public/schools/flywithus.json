@@ -1,0 +1,22 @@
+{
+  "id": "295f158c-abdb-4f3b-858e-8ddb7ce989d4",
+  "slug": "flywithus",
+  "name": "Flywithus",
+  "continent": "South America",
+  "country": "Chile",
+  "state": "CL",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://flywithus.cl/",
+  "email": "contact@flywithus.cl",
+  "phone": "'+56932436137",
+  "about": "Flywithus flying school is a premier aviation training institution dedicated to providing high-quality flight education. Located in a strategic aviation hub, we serve students from diverse backgrounds, offering programs from private pilot to commercial and airline transport pilot certifications. Our experienced and certified flight instructors prioritize student progression and safety, ensuring a personalized and professional learning environment. With state-of-the-art facilities, including advanced flight simulators and a fleet of well-maintained aircraft, we cater to both aspiring pilots and seasoned aviators. Our mission is to foster a passion for aviation, promote general aviation, and support the career aspirations of our students. Join us to embark on a journey that combines technical challenges, personal growth, and the thrill of flight. At Flywithus, we are committed to helping you achieve your aviation dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"COMMERCIAL PILOT AIRBUS A320\\nCOMMERCIAL PILOT\\nIFR QUALIFICATION\\nFLIGHT INSTRUCTOR\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

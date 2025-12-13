@@ -1,0 +1,22 @@
+{
+  "id": "ed2e6317-6252-44ca-bf14-bb57fd72e642",
+  "slug": "flight-center-international-academy",
+  "name": "Flight Center International Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "HWO -North Perry Airport",
+  "website": "https://flightcenterinternational.com/",
+  "email": "flightcenter_int@instruction.com",
+  "phone": "(954) 668-0203",
+  "about": "Flight Center International Academy is a premier flight training institution located at North Perry Airport in Hollywood, Florida, just minutes from Miami and Fort Lauderdale. We offer FAA Part 61 flight training for private, commercial, and instrument certifications, as well as certified flight instructor training. Our team of professional, often bi-lingual instructors provides personalized training tailored to each student's needs. We offer a range of services including pilot training instruction, airplane rentals, discovery flights, and aviation training for international students. Our aircraft are maintained to the highest safety standards, and we provide a cost-effective way to train in a supportive and safe learning environment. Contact us today to start your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

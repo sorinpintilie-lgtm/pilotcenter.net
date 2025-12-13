@@ -1,0 +1,22 @@
+{
+  "id": "fbcf7e34-e0d5-43ab-a1a7-c5195394350a",
+  "slug": "kingsky-flight-academy",
+  "name": "KingSky Flight Academy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "FL",
+  "city": "Lakeland",
+  "baseAirport": "Lakeland Linder International Airport",
+  "website": "https://www.kingskyfa.com/",
+  "email": "mauricio@kingskyfa.com / info@kingskyfa.com",
+  "phone": "'+1 863-248-2543",
+  "about": "Kingsky Flight Academy, located in Lakeland, Florida, boasts over 60 years of experience in aviation training. Owned and operated by two seasoned airline captains, the academy emphasizes safety and quality above all else. With a strong focus on maintaining the FAA's highest standards, Kingsky ensures its aircraft are safe and reliable through strict adherence to maintenance protocols. The academy offers a range of programs, from private pilot to airline transport pilot, including advanced Type Ratings. Partnerships with four major colleges enhance the academic rigor, and the academy also trains U.S. Air Force JROTC cadets. With its ideal year-round weather and accelerated courses, Kingsky Flight Academy is dedicated to guiding aspiring pilots through every phase of their training journey. Whether you're starting or advancing your aviation skills, Kingsky's experienced team is committed to helping you achieve your goals and soar.",
+  "icao": "KLAL",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

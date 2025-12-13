@@ -1,0 +1,22 @@
+{
+  "id": "1dd57593-9184-4bdf-88c2-717c5ceb3a85",
+  "slug": "international-pilot-academy",
+  "name": "International Pilot Academy",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "ON",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://intlpilotacademy.com/",
+  "email": "info@intlpilotacademy.com",
+  "phone": "'+1 819-800-9918",
+  "about": "International Pilot Academy, established in 2011, is a leading flight training school in Canada, offering comprehensive programs for prospective commercial pilots. We provide professional flight instruction, aviation consulting services, and aircraft rentals. Our team, led by experienced instructors like Jules Selwan and Tony Kaminskyj, ensures high-quality training. With a focus on safety and customer satisfaction, we cater to both local and international students, providing a one-stop solution for all pilot needs. Our dedicated instructors and supportive staff ensure a personalized learning experience, preparing students for successful careers in aviation. Choose International Pilot Academy for your flight training needs and embark on a journey to become a skilled and confident pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

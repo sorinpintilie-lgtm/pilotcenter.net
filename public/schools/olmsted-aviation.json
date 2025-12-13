@@ -1,0 +1,22 @@
+{
+  "id": "4207ee0a-5f86-4b98-8f74-6a16c45eba95",
+  "slug": "olmsted-aviation",
+  "name": "Olmsted Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SZP -Santa Paula Airport",
+  "website": "https://olmstedaviation.com/",
+  "email": "chris@olmstedaviation.com",
+  "phone": "(831) 334-7232",
+  "about": "Olmsted Aviation is a premier flight school located in Southern California, specializing in advanced pilot training. Founded with a focus on enhancing pilots' skills, the school offers specialized courses in upset recovery, aerobatic flying, and tailwheel training. Led by experienced instructor Chris Olmsted, the school provides Pitts checkouts and other advanced training programs. With a commitment to safety and excellence, Olmsted Aviation challenges pilots to reach new heights in their aviation careers. Whether you are a seasoned pilot or looking to advance your skills, Olmsted Aviation is dedicated to providing top-notch training in a supportive and professional environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "dcd8e22f-1cf3-4a73-8066-16117839748e",
+  "slug": "jetstream-aviation",
+  "name": "Jetstream Aviation, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "ID",
+  "city": "",
+  "baseAirport": "BOI -Boise Air Trml/Gowen Field",
+  "website": "http://www.jetstreamaviation.com",
+  "email": "fly@jetstreamaviation.com",
+  "phone": "(208) 345-3730",
+  "about": "Jetstream Aviation, Inc., located in Boise, Idaho, is Idaho's largest FAA Part 141 approved flight school, also offering Part 61 training. As the only Boise flight school providing Part 141 training, we specialize in professional pilot training, dedicated to helping our students excel in their aviation careers. Our comprehensive training programs include Commercial Pilot Licence (CPL), Flight Instructor, and Instrument Rating. With a strong focus on quality and safety, Jetstream Aviation, Inc. is committed to providing top-notch aviation education, ensuring our graduates are well-prepared for successful careers in the aviation industry. We pride ourselves on our experienced instructors and state-of-the-art facilities, making us a premier choice for aspiring pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

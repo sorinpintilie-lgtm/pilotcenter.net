@@ -1,0 +1,22 @@
+{
+  "id": "08a0f24d-13fa-4dc3-b772-d92a57fccc59",
+  "slug": "fly-corps-aviation-savannah",
+  "name": "Fly Corps Aviation Savannah",
+  "continent": "North America",
+  "country": "United States",
+  "state": "GA",
+  "city": "",
+  "baseAirport": "SAV -Savannah/Hilton Head International Airport",
+  "website": "https://flycorps.com/",
+  "email": "info@flycorps.com",
+  "phone": "(912) 226-2500",
+  "about": "Fly Corps Aviation, based at Savannah/Hilton Head International Airport, is dedicated to creating tomorrow’s aviators. We offer a comprehensive training experience with a variety of aircraft, including Diamond DA-42s, Cessna Skyhawks, and Piper Cherokees. Our experienced instructors provide personalized training, and our location in Savannah ensures ample flying days due to the city's high number of sunny days. We support our students with funding options and a structured training program under both Part 141 and Part 61 regulations. Join us for a discovery flight over historic Downtown Savannah and Tybee Island, and let us guide you every step of the way towards achieving your pilot's license.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

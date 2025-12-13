@@ -1,0 +1,22 @@
+{
+  "id": "65ad1800-ecd1-4cdc-b24d-288fc8bde68f",
+  "slug": "escuela-costarricense-de-aviacion",
+  "name": "Escuela Costarricense de Aviación",
+  "continent": "North America",
+  "country": "Costa Rica",
+  "state": "CR",
+  "city": "",
+  "baseAirport": "Tobias Bolanos Airport",
+  "website": "https://www.ecdea.com/",
+  "email": "info@ecdea.com",
+  "phone": "(506) 2231-1025",
+  "about": "Escuela Costarricense de Aviación (ECDEA) is a premier flight school in Costa Rica, operating from the Tobias Bolaños International Airport. With over 25 years of experience, ECDEA is dedicated to providing top-notch aviation training. Our fleet is unparalleled, and our instructors are among the most experienced in the industry. We offer a range of programs, including Private Pilot Licence (PPL) and Commercial Pilot Licence (CPL), as well as training in Instrument Flight Rules (IFR) and multi-engine flying. ECDEA is committed to turning aspiring pilots into professionals, ensuring a comprehensive and high-quality education. Invest in your future with a serious and reputable institution like ECDEA.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"GROUNDSCHOOL\\nPrivate Pilot License\\nInstrument Flight Rules\\nCommercial Pilot License\\nMULTI-ENGINE\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

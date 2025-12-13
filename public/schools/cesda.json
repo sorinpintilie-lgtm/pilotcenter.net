@@ -1,0 +1,22 @@
+{
+  "id": "5da3b0e4-12f5-46d9-bd4e-1586a5143a6e",
+  "slug": "cesda",
+  "name": "CESDA",
+  "continent": "Europe",
+  "country": "Spain",
+  "state": "",
+  "city": "Reus",
+  "baseAirport": "Reus Airport",
+  "website": "https://www.cesda.com/",
+  "email": "cesda@cesda.com",
+  "phone": "'+34 977 300 027",
+  "about": "CESDA is the first university centre in Europe to offer the Commercial Aviation Pilot and Air Operations Degree. Recognized worldwide, this EASA-licensed program is designed to develop each student's full potential, training them to become excellent commercial pilots. With a focus on comprehensive aviation studies and training, CESDA collaborates with other aviation institutions to enhance its programs. The school is committed to ensuring that every student receives the highest quality education and training, preparing them for successful careers in the aviation industry. At CESDA, the goal is to produce well-rounded, skilled pilots ready to meet the demands of the global aviation sector.",
+  "icao": "LERS",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

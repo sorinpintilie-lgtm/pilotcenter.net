@@ -1,0 +1,22 @@
+{
+  "id": "7360d6f5-1e5d-4227-9a67-46ff555de59e",
+  "slug": "air-shasta-rotor-and-wing",
+  "name": "Air Shasta Rotor and Wing",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "RDD -Redding Regional Airport",
+  "website": "https://airshasta.com/",
+  "email": "info@airshasta.com",
+  "phone": "(530) 222-0100",
+  "about": "Air Shasta Rotor & Wing, based at the Redding Municipal Airport in California, boasts over 30 years of experience in providing comprehensive aviation services. As the premier authorized Robinson dealer in Northern California, we offer a wide range of services including helicopter tours, sales, maintenance, and flight training. Our professional team excels in customizing operations to meet the needs of our customers, from individual charter flights to specialized programs with firefighting partners. We provide flight training for Private Pilot, Commercial Pilot, and Flight Instructor certifications. Our facilities include aircraft maintenance, avionics and structures repair, and various amenities such as aviation fuel, ground handling, and hangar leasing. Known for our community-oriented approach and exceptional customer service, Air Shasta is the trusted choice for all your aviation needs.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

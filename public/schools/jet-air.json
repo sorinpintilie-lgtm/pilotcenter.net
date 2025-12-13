@@ -1,0 +1,22 @@
+{
+  "id": "abd69b85-0b60-406e-bd46-2daaacdf7fb7",
+  "slug": "jet-air",
+  "name": "Jet Air, Inc",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "MQB -Macomb Municipal Airport",
+  "website": "https://jetairinc.com/",
+  "email": "mqb@jetairinc.com",
+  "phone": "(309) 833-3324",
+  "about": "Jet Air, Inc., located at the Galesburg Municipal Airport in Galesburg, Illinois, has been a reputable provider of flight training for over 40 years. Since 1969, we have been serving the aviation community with a range of services, including airplane flight training, aircraft rental for certificated pilots, and comprehensive maintenance services. Our flight school offers various certifications and ratings, such as the Private Pilot Certificate, Commercial Pilot Certificate, and Flight Instructor ratings. With a dedicated team of experienced instructors and technicians, we ensure a safe and supportive learning environment. We are committed to helping our students excel in both ground and flight training, preparing them for successful careers in aviation. At Jet Air, Inc., we take pride in our long-standing tradition of excellence and look forward to helping you achieve your flying aspirations.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

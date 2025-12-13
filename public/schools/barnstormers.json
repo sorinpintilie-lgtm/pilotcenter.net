@@ -1,0 +1,22 @@
+{
+  "id": "ad185e8b-f2a0-4d52-9c34-61f612b029df",
+  "slug": "barnstormers",
+  "name": "Barnstormers, Inc",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MN",
+  "city": "",
+  "baseAirport": "BJI -Bemidji Regional Airport",
+  "website": "https://flybarnstormers.com/",
+  "email": "flybarnstormers@gmail.com",
+  "phone": "(218) 209-8992",
+  "about": "Barnstormers, Inc. is a premier flight school dedicated to providing comprehensive and specialized aviation training. Located in the Twin Cities metro, we have established a reputation as a top flight school, helping numerous students achieve their flying goals. Our expert instructors offer a range of programs, including private pilot certification, instrument flight rules (IFR), commercial pilot training, and aerobatic instruction. We are committed to safety, airmanship, and personalized attention, ensuring each student receives the highest quality education. With a focus on both theoretical knowledge and practical skills, we prepare our students for successful careers in aviation. At Barnstormers, Inc., we are passionate about fostering a community of skilled and confident pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nSport Pilot\\nRecreational Pilot\\nInstrument\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2ac18a2a-6ebf-427e-85cb-88d6e9829173",
+  "slug": "paris-flight-academy",
+  "name": "Paris Flight Academy",
+  "continent": "Europe",
+  "country": "France",
+  "state": "FR",
+  "city": "",
+  "baseAirport": "Saint-Cyr l'école",
+  "website": "https://paris-air-services.com/fr/",
+  "email": "contact@paris-air-services.com",
+  "phone": "'+33(0)1 84 73 11 80",
+  "about": "Paris Flight Academy is a professional airplane pilot school and a certified Approved Training Organization (ATO) under the reference FR.ATO.0271. Located at the aerodrome Saint-Cyr L’Ecole, the academy offers rigorous and standardized training validated by the DGAC. Students can pursue the Private Pilot License (PPL), Night Flight certification, and tailored Aeronautical English training. The academy supervises experience building for both private and professional pilot aspirations. With a focus on personalized service and English-speaking instructors, Paris Flight Academy provides a comprehensive and welcoming environment for international students to achieve their aviation goals. Come and experience top-notch training in the heart of France.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"AIRPLANE PERMIT\\nRIPENING\\nNight flight\\nAERONAUTICAL ENGLISH\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

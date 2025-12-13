@@ -1,0 +1,22 @@
+{
+  "id": "1428dca6-1b3d-415d-a29d-08b7f419cf19",
+  "slug": "pontiac-flying-service",
+  "name": "Pontiac Flying Service, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "PNT -Pontiac Municipal Airport",
+  "website": "https://pontiacflyingservice.com/",
+  "email": "kris@pontiacflyingservice.com",
+  "phone": "(815) 844-2707",
+  "about": "Pontiac Flying Service, LLC, located at the Pontiac Municipal Airport in Illinois, offers comprehensive flight training programs. We provide certifications and ratings including Private Pilot, Commercial Pilot, Flight Instructor, and Instrument Rating. Our services include ground school and introductory flights. With a focus on thorough training and safety, we cater to aspiring pilots of all levels. Our experienced instructors and well-maintained facilities ensure a supportive and professional learning environment. Whether you're pursuing a career in aviation or flying for pleasure, Pontiac Flying Service is dedicated to helping you achieve your flying goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

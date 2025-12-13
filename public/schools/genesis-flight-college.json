@@ -1,0 +1,22 @@
+{
+  "id": "ae45c40e-5ccb-4689-8768-ebebd93986f2",
+  "slug": "genesis-flight-college",
+  "name": "Genesis Flight College",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "ON",
+  "city": "",
+  "baseAirport": "Collingwood Airport",
+  "website": "https://flygenesis.ca/",
+  "email": "No email",
+  "phone": "\"+1 877-359-3245",
+  "about": "Genesis Flight College, located at the Collingwood Regional Airport, is a renowned institution in the aviation community and a registered Private Career College. With decades of experience, our management and staff provide comprehensive pilot training, maintenance, and turbine aircraft management services. We offer a variety of programs, including Private Pilot, Instrument, Commercial, and Multi-Engine Ratings, utilizing a premium fleet and certified simulators. Our diploma program can be completed in 12 to 14 months, with part-time options available, and includes industry introductions. We also offer Instrument Proficiency Checks and recreational permits. Our aviation education modules are designed to be flexible and tailored to individual availability and budget. At Genesis Flight College, we are committed to providing high-quality training to help you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nSeaplane Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

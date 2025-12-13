@@ -1,0 +1,22 @@
+{
+  "id": "f3bab512-ce33-4c04-9bd1-64f16e1eaec0",
+  "slug": "mission-aviation-fellowship-maf-haiti",
+  "name": "Mission Aviation Fellowship (MAF Haiti)",
+  "continent": "North America",
+  "country": "Haiti",
+  "state": "HAT",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://mafhaiti.org/",
+  "email": "flyhaiti@maf.org",
+  "phone": "'+509 3783-8185",
+  "about": "Mission Aviation Fellowship (MAF) Haiti is an Evangelical Christian organization providing critical aviation, communications, and learning technology services to remote areas of Haiti. Since 1986, MAF has supported Christian missions, churches, and non-government organizations by operating and maintaining aircraft from a base in Port-au-Prince. MAF pilots and maintenance personnel, often with dual roles, fly to 13 airstrips, delivering aid, conducting medical evacuations, and transporting personnel and supplies. The organization plays a vital role in disaster relief, such as after the 2010 earthquake and Hurricane Matthew in 2016. MAF Haiti's work is driven by a commitment to sharing the love of Jesus Christ and bringing hope and healing to isolated communities.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Cargo transport\\nMail courier service\\nPhoto tours\\nMedical evacuation and team transport\\nGeological survey\\nNon-medical evacuation\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

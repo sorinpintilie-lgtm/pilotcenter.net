@@ -1,0 +1,22 @@
+{
+  "id": "fdcb94ae-feef-4c84-ab94-daf38c13afc4",
+  "slug": "amaury-de-la-grange",
+  "name": "Amaury de la Grange",
+  "continent": "Europe",
+  "country": "France",
+  "state": "",
+  "city": "Merville",
+  "baseAirport": "LaGrange Airport",
+  "website": "https://www.iaag-aero.com/",
+  "email": "contact@iaag-aero.com",
+  "phone": "'+33 3 28 42 94 44",
+  "about": "Institut Aéronautique Amaury de la Grange (IAAG), established in 1962, is one of the oldest and most respected civil aviation training institutions in France. Collaborating closely with major airlines such as Air France, Air Inter, and UTA, IAAG specializes in aviation training, including pilot training, aircraft maintenance, and construction. With over 50 years of excellence, the school has trained nearly 15,000 pilots and technicians. IAAG offers ATPL programs, both in-person and through distance e-learning, and boasts state-of-the-art facilities, including aircraft, helicopters, engines, and multimedia classrooms. The school is committed to adapting its training content to meet the evolving demands of the aviation industry, ensuring students receive the most relevant and effective education. IAAG provides a comprehensive learning environment, including on-campus student accommodations, to support the success of its students.",
+  "icao": "LFQT",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

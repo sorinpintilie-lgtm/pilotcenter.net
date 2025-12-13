@@ -1,0 +1,22 @@
+{
+  "id": "37a7e6d4-5990-4c8f-b973-a75fb4619d3a",
+  "slug": "au-aviation-services",
+  "name": "AU Aviation Services",
+  "continent": "North America",
+  "country": "United States",
+  "state": "VA",
+  "city": "",
+  "baseAirport": "DAN -Danville Regional Airport",
+  "website": "https://auaviationservices.aero/",
+  "email": "(434) 791-7232",
+  "phone": "(605) 753-1230",
+  "about": "AU Aviation Services, part of Averett University, is a unique and comprehensive flying school located at Danville Regional Airport in Virginia. With a 40-year presence at the airport, our program operates out of the George J. Falk Flight Operations Center and is the only school in the state to manage a fixed-based operator (FBO). This integration provides students with hands-on experience in both the technical and business aspects of aviation. Our students start flying from the first day of classes and can solo within two weeks, receiving more individual attention than at larger institutions. Internships with the FBO offer valuable industry experience, and our certified flight instructors guide students to achieve the necessary hours for airline careers. Our program stands out for its practical training, immediate flight opportunities, and the professional development it offers, making Averett University a premier choice for aspiring aviation professionals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

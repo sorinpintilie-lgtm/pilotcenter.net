@@ -1,0 +1,22 @@
+{
+  "id": "814be16f-c088-4356-8dc0-0f839465e3c2",
+  "slug": "pegasus-flight-school",
+  "name": "Pegasus Flight School",
+  "continent": "North America",
+  "country": "United",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "PWG -Mc Gregor Exec Airport",
+  "website": "https://www.pegasusflightschool.com/",
+  "email": "",
+  "phone": "(254) 723-2670",
+  "about": "Pegasus Flight School, located in Waco, Texas, is a premier aviation training institution dedicated to creating not only better pilots but also better people. Our mission is to teach students to be safe and courteous to those they fly with. We offer a range of programs, including private pilot certification, multi-engine training in our Cessna 310R, and a comprehensive Professional Pilot Program that includes instrument rating, commercial pilot certification, and certified flight instructor training. Our flexible scheduling allows students to learn at their own pace, with instructors available 7 days a week. We provide all-inclusive training costs, financing options through Pilot Finance, and ensure students are well-prepared for their check rides. At Pegasus, we strive to make your flying dreams a reality while fostering a community of responsible and skilled aviators.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "8490feea-1870-4999-9042-0a7167b56095",
+  "slug": "jb-aviation-flight-school",
+  "name": "JB Aviation Flight School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "10C -Galt Field",
+  "website": "https://www.flywithjb.com/",
+  "email": "info@flywithJB.com",
+  "phone": "(815) 648-2433",
+  "about": "JB Aviation Flight School, located at Galt Airport in Wonder Lake, Illinois, is a thriving aviation institution founded in 2011 by Justin Cleland and Brian Spiro. The school has grown from a single airplane and three employees to a robust operation with over 20 staff members and 10 aircraft. JB Aviation offers comprehensive flight training, ground school instruction, and aircraft maintenance services. The school is renowned for its community engagement and was named Illinois Department of Transportation's “Airport of the Year” in 2014. With experienced instructors like Justin Cleland, a CFII since 2008, and Brian Spiro, an A&P/IA, the school provides personalized and professional training. JB Aviation is committed to delivering high-quality aviation education and fostering a strong airport community. Whether you are training for a career or recreational flying, JB Aviation is dedicated to helping you become the best pilot possible.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

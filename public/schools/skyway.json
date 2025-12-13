@@ -1,0 +1,22 @@
+{
+  "id": "3f332690-20cd-400f-8ed7-bfe1e5b1c642",
+  "slug": "skyway",
+  "name": "SKYWAY",
+  "continent": "Europe",
+  "country": "Poland",
+  "state": "POL",
+  "city": "",
+  "baseAirport": "Mirosławice EPMR Airport",
+  "website": "http://skyway.com.pl/",
+  "email": "dyrektor@skyway.com.pl",
+  "phone": "697 858 894",
+  "about": "SKYWAY flying school, partnered with Accelerated Flight & Instrument Training (AFIT), is a premier flight training destination based at Karl Harder Field/Lincoln Regional Airport in California. We offer comprehensive flight training programs, including private, instrument, commercial, certified flight instructor (CFI), and airline transport pilot certifications. Our team of 49 highly experienced FAA-certified flight instructors provides safe, affordable, and efficient training. With a focus on accelerated flight training, we enhance skills, proficiency, and confidence, mirroring the successful methods used by the US military. Our services include flight instruction, ground instruction, and aircraft rental, catering to diverse aviation needs and ensuring our students gain the freedom to travel on their terms. Join us to experience flight training at its best and take control of your aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Theoretical course\\nPractical aviation training\\nEnglish for pilots\\nIntroductory flight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

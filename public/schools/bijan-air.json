@@ -1,0 +1,22 @@
+{
+  "id": "ee2d8739-7e30-484c-aaa1-5a32a1c83143",
+  "slug": "bijan-air",
+  "name": "Bijan Air, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MI",
+  "city": "",
+  "baseAirport": "ARB -Ann Arbor Municipal Airport",
+  "website": "https://www.bijanair.com/",
+  "email": "bijan@bijanair.com",
+  "phone": "(734) 769-8400",
+  "about": "Bijan Air, Inc., located at the Ann Arbor Municipal Airport (KARB), is a reputable flight school dedicated to providing comprehensive aviation training. With a strong focus on safety and excellence, our highly skilled instructors offer a range of programs from introductory flights to advanced certifications. We cater to both recreational and career-oriented pilots, ensuring personalized training that fits each student's schedule and goals. Our state-of-the-art facilities and well-maintained fleet ensure a superior learning environment. At Bijan Air, Inc., we are committed to helping you achieve your aviation dreams with professionalism and dedication. Contact us today to start your flying journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

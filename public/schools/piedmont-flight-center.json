@@ -1,0 +1,22 @@
+{
+  "id": "704a4e21-72e7-478b-a156-16985419b23c",
+  "slug": "piedmont-flight-center",
+  "name": "Piedmont Flight Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MD",
+  "city": "",
+  "baseAirport": "2W6 -St Mary's County Regional Airport",
+  "website": "https://www.fly-piedmont.com/",
+  "email": "dstanton@flyrcs.com",
+  "phone": "(240) 718-8001",
+  "about": "Piedmont Flight Center, located at 44174 Airport Rd, California, MD, offers a comprehensive and engaging flight training experience. With a focus on safety and professionalism, our certified instructors guide students through various programs, including Private Pilot Certification, Instrument Rating, and more. Our Discovery Flight introduces newcomers to the thrill of flying in a casual and fun environment. As a family-oriented school, we pride ourselves on creating a supportive and encouraging atmosphere, making every student feel at home. Our fleet includes state-of-the-art aircraft such as the Cessna 172, Piper Archers, and Piper Seneca, all IFR certified and maintained by our on-site team. Whether you're aiming for a private pilot license or a career in aviation, Piedmont Flight Center is your gateway to exciting adventures and lifelong skills. Join us to take your first steps towards becoming a pilot and experience the joy of flying.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nExaminer\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

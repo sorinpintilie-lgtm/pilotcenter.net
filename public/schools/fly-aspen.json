@@ -1,0 +1,22 @@
+{
+  "id": "d6ea49b4-21f4-4429-8b23-80a2d805946d",
+  "slug": "fly-aspen",
+  "name": "Fly Aspen",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CO",
+  "city": "",
+  "baseAirport": "ASE -Aspen-Pitkin County/Sardy Field",
+  "website": "https://www.flyaspen.net/",
+  "email": "flyataspen@gmail.com",
+  "phone": "(970) 924-0845",
+  "about": "Fly Aspen, operated by the Aspen Flight Academy, is a 501(c)(3) nonprofit organization dedicated to empowering youth and adults to learn the joys and responsibilities of flying. Located in the Colorado Rocky Mountains, the academy offers a comprehensive flight training program that includes classroom and flight instruction necessary for piloting aircraft. Students can enroll in elective courses through Aspen High School, which cover aviation careers, college programs, and flight training. The academy provides access to Aspen Airport's FAA Control Tower and utilizes late-model Technological Advanced Aircraft Diamond DA40s for training. With a strong focus on safety and skill development, Fly Aspen prepares students for Private Pilot Licenses and beyond, ensuring they gain the aeronautical experience needed to pursue professional piloting careers. By supporting Fly Aspen, you are investing in the future of aviation and helping students achieve their flying dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

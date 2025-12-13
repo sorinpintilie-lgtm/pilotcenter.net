@@ -1,0 +1,22 @@
+{
+  "id": "51849f9d-3d3d-416e-8251-1df4f191fe01",
+  "slug": "aeropole-oy",
+  "name": "Aeropole Oy",
+  "continent": "Europe",
+  "country": "Finland",
+  "state": "FI",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.aeropole.fi/",
+  "email": "info@aeropole.fi",
+  "phone": "'+358 9 5627 4600",
+  "about": "Aeropole Oy is a premium flight school founded in 2010, driven by a passion for aviation and a commitment to exceptional customer service. Based in Helsinki, Finland, at Helsinki-Malmi Airport, Aeropole aims to be the number one flight school in Northern Europe in terms of quality and safety. We employ a highly pedagogic approach, focusing on training safe and confident pilots for both professional and leisure flying. Our training methods are world-class, adapted for the Nordic environment and fully compliant with European aviation regulations. We promise superior quality in customer service, training, equipment, and personnel, ensuring an excellent learning experience for all our students.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Professional Training Modules\\nATPL programme\\nPractical Flight Training\\nTheoretical Training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

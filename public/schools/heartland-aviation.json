@@ -1,0 +1,22 @@
+{
+  "id": "ee4155e0-beb2-42b2-bc4a-21caeea983e0",
+  "slug": "heartland-aviation",
+  "name": "Heartland Aviation",
+  "continent": "North America",
+  "country": "United",
+  "state": "OK",
+  "city": "",
+  "baseAirport": "ADH -Ada Regional Airport",
+  "website": "http://heartlandaviationada.com/",
+  "email": "heartlandaviation@cableone.net",
+  "phone": "(580) 421-7742",
+  "about": "Heartland Aviation is a comprehensive aviation service provider with two primary locations, one in Eau Claire, Wisconsin, and the other in Alliance, Nebraska. At our facilities, we offer a full range of services including flying lessons, aircraft maintenance, fuel, aircraft rental, and hangar rental. Our team of Certified Flight Instructors provides personalized instruction for aspiring pilots, covering certifications such as Private Pilot, Commercial Pilot, and Flight Instructor. We pride ourselves on delivering exceptional service, ensuring that every client receives top-notch care and attention. Whether you are a novice pilot or an experienced aviator, Heartland Aviation is dedicated to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ddff8b48-47e8-489e-9a26-748eebd9d252",
+  "slug": "aviator-zone-academy",
+  "name": "Aviator Zone Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "TMB -Miami Exec Airport",
+  "website": "https://www.aviator.zone/",
+  "email": "fly@aviator.zone",
+  "phone": "(305) 306-7416",
+  "about": "Aviator Zone Academy, located at the Miami Executive Airport, is a premier flight training provider in Miami and Fort Lauderdale, Florida. Founded by Felipe Santiago, who began his aviation journey at 12, the academy is dedicated to training top-notch pilots through personalized, one-on-one instruction. Offering both Part 61 and Part 141 flight training, Aviator Zone provides structured yet flexible programs that mirror airline training standards, catering to both career-oriented pilots and those flying for recreation. With a fleet of seven flight training aircraft and a team of experienced instructors, the academy has been recognized as the 2021 AOPA Flight Training Experience Survey Southern regional award winner. Aviator Zone is committed to delivering high-quality, affordable training in a welcoming and professional environment. Join us to experience the difference in flight training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nMulti-Engine\\nSeaplane\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

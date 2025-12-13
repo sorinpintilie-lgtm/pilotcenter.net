@@ -1,0 +1,22 @@
+{
+  "id": "f9fe1921-f5e1-47db-84ab-c96242a6d3c0",
+  "slug": "windsor-flying-club",
+  "name": "Windsor Flying Club",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "ON",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://windsorflyingclub.com/",
+  "email": "info@windsorflyingclub.com",
+  "phone": "'+1 519-969-9320",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

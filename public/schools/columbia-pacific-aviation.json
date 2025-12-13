@@ -1,0 +1,22 @@
+{
+  "id": "3db659c9-f426-42b9-88dc-e5f380423a83",
+  "slug": "columbia-pacific-aviation",
+  "name": "Columbia Pacific Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "MWH -Grant County International Airport",
+  "website": "https://columbiapacificaviation.com/",
+  "email": "info@columbiapacificaviation.com",
+  "phone": "(509) 762-1016",
+  "about": "Columbia Pacific Aviation, Inc. (CPA) is a full-service Fixed Base Operator (FBO) based at the Grant County International Airport (KMWH) since 1993. We offer a comprehensive range of aviation services, including air cargo, aircraft maintenance, aircraft management, aircraft rental, flight test support, flight training, ground support, and pilot services. Our facilities are designed to meet various needs, with a large fleet and extensive ramp space for airliner storage. The airport, operated by the Port of Moses Lake, features multiple instrument approaches and is 14 CFR Part 139-compliant, ensuring high safety standards. We are committed to serving our customers from cargo, corporate, general aviation, USFS contractors, military, and airline flight departments with exceptional support. At CPA, we pride ourselves on exceeding customer expectations and providing top-notch services to all our clients.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

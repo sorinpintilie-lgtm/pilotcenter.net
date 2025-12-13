@@ -1,0 +1,22 @@
+{
+  "id": "d14ae362-3857-49d3-ad92-d2807397faed",
+  "slug": "bmg-aviation",
+  "name": "BMG Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IN",
+  "city": "",
+  "baseAirport": "BMG -Monroe County Airport",
+  "website": "http://www.bmgaviation.com/#&panel1-1",
+  "email": "info@bmgaviation.com",
+  "phone": "(812) 825-7979",
+  "about": "BMG Aviation, located at the Monroe County Airport in Bloomington, Indiana, offers comprehensive airplane flight training with over 70 years of combined aviation experience. Our programs include certifications for Private Pilot, Commercial Pilot, Flight Instructor, and Instrument Rating. We provide additional ground school and seminars to ensure thorough education. With competitive rates, aircraft rental starts at $88 per hour and instruction at $35 per hour. Our experienced instructors are dedicated to helping you achieve your aviation goals. Contact us to arrange an introductory flight and start your journey in aviation today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

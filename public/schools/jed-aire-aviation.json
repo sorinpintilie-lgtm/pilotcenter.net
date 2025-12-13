@@ -1,0 +1,22 @@
+{
+  "id": "3a8a9203-645f-43ce-9325-6406307ba05c",
+  "slug": "jed-aire-aviation",
+  "name": "Jed-Aire Aviation, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MN",
+  "city": "",
+  "baseAirport": "BBB -Benson Municipal Airport",
+  "website": "https://jed-aireaviation.com/",
+  "email": "jason@jed-aireaviation.com",
+  "phone": "(320) 843-4461",
+  "about": "Jed-Aire Aviation, LLC, located at the Benson Municipal Airport in Benson, Minnesota, is a comprehensive flight training and aviation services provider. With a strong focus on safety and professionalism, Jed-Aire offers a range of services including flight instruction, aircraft rental, and maintenance. The school is committed to providing personalized training programs tailored to the needs of each student, from private pilot licenses to advanced certifications. Backed by experienced instructors and a well-maintained fleet, Jed-Aire Aviation is dedicated to helping aspiring pilots achieve their aviation goals. Whether you are a beginner or an experienced aviator, Jed-Aire Aviation is your trusted partner in the skies.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

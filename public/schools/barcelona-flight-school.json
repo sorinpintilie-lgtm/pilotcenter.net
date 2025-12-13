@@ -1,0 +1,22 @@
+{
+  "id": "77dc542a-6c82-4420-926c-84630fab57ed",
+  "slug": "barcelona-flight-school",
+  "name": "Barcelona Flight School",
+  "continent": "Europe",
+  "country": "Spain",
+  "state": "",
+  "city": "Sabadell",
+  "baseAirport": "Sabadell Airport",
+  "website": "https://barcelonaflightschool.com/",
+  "email": "info@barcelonaflightschool.com",
+  "phone": "'+34 937 10 19 52",
+  "about": "Barcelona Flight School, located at Sabadell Airport just 20 kilometers from Barcelona, is the professional pilots school of Aeroclub Barcelona-Sabadell, the second oldest and largest aeroclub in Europe. With over 60 years of experience, the school boasts a fleet of over 40 aircraft, including fixed-wing and helicopters, and a team of 20 experienced instructors. Certified by the European Aviation Safety Agency (EASA) and the Agencia Estatal de Seguridad Aérea (AESA), the school offers comprehensive training programs such as Integrated ATPL, Modular ATPL, Private Pilot License, and various ratings. Known for its high success rate, with over 90% of students passing exams on their first attempt, Barcelona Flight School provides an ideal environment for aspiring pilots, combining advanced theory with intensive flight practices and enjoying over 300 flyable days per year. Join us to embark on a successful and sustainable aviation career.",
+  "icao": "LELL",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

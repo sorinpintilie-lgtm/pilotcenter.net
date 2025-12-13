@@ -1,0 +1,22 @@
+{
+  "id": "c4ab1fa6-0ad2-4a87-8df1-9d90be23dc95",
+  "slug": "flightsafety-international",
+  "name": "FlightSafety International",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "ICT -Wichita Dwight D Eisenhower Ntl Airport",
+  "website": "https://www.flightsafety.com/locations/wichita-cessna-learning-center/",
+  "email": "info@flightsafety.com",
+  "phone": "(316) 220-3100",
+  "about": "FlightSafety International, a Berkshire Hathaway company, is a global leader in aviation training, founded in 1951 at New York's LaGuardia Airport. We specialize in providing high-quality, safety-focused training to aviation professionals worldwide. With a network of learning centers globally, we offer over 3,500 expertly designed courses taught by 1,800 professional instructors, utilizing a fleet of more than 300 advanced flight simulators. Our training is backed by factory-authorized programs and supported by superior simulation technology. We serve customers from 167 countries and support the U.S. Armed Forces and government contractors. Our commitment to safety and innovation has made us a trusted resource for airlines, corporate flight departments, and military organizations. We are dedicated to enhancing safety in all aspects of aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Simulator\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

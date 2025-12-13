@@ -1,0 +1,22 @@
+{
+  "id": "1140e02b-4387-46fd-b7f4-79ddb62629d8",
+  "slug": "icarus-flying-academy",
+  "name": "Icarus Flying Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NY",
+  "city": "",
+  "baseAirport": "FRG -Republic Airport",
+  "website": "https://www.flyicarusny.com/",
+  "email": "Info@flyicarusny.com",
+  "phone": "(631) 465-0142",
+  "about": "Icarus Flying Academy, based in New York, serves the tri-state area with a passion for aviation. Founded by two highly motivated enthusiasts, the academy offers comprehensive flight instruction using a fleet of meticulously maintained Piper aircraft, including the PA28-161 and PA28-181 models. With certified flight instructors, students learn the art of flight over breathtaking landscapes from Republic Airport in Farmingdale, NY. The academy is committed to providing a professional and supportive learning environment, ensuring each student achieves their flying goals. Whether you're a beginner or advancing your skills, Icarus Flying Academy is dedicated to helping you soar.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

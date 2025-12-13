@@ -1,0 +1,22 @@
+{
+  "id": "e953f0bc-2d7e-4ea6-a171-a3ed2e1f0296",
+  "slug": "kuwait-flight-academy",
+  "name": "Kuwait Flight Academy",
+  "continent": "Asia",
+  "country": "Kuwait",
+  "state": "KW",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://kuwaitflightacademy.com/",
+  "email": "info@kuwaitflightacademy.com",
+  "phone": "",
+  "about": "Kuwait Flight Academy is a premier flight training institution dedicated to producing professional pilots. Located in Kuwait, the academy offers a range of programs, including Private Pilot License (PPL) and Airline Transport Pilot License (ATPL) training. Our curriculum includes comprehensive ground training and flight instruction on single-engine piston aircraft, adhering to visual flight rules (VFR) and instrument flight rules (IFR). The academy provides interactive ground briefings, Computer Based Training (CBT), and practical exams to ensure students demonstrate excellent airmanship and adherence to regulations. With a focus on safety, our experienced instructors guide students through each stage of training, ensuring they are well-prepared for a successful aviation career. Kuwait Flight Academy is committed to delivering high-quality training and supporting students every step of the way to achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"EASA Private Pilot License\\nAirline Transportation Pilot License theory\\nNight Rating\\nInstrument Rating\\nMulti Engine Piston\\nCommercial Pilot License\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

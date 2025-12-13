@@ -1,0 +1,22 @@
+{
+  "id": "91d34ffe-914b-4024-863c-a42fba748522",
+  "slug": "storm-flying-service",
+  "name": "Storm Flying Service, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IA",
+  "city": "",
+  "baseAirport": "EBS -Webster City Municipal Airport",
+  "website": "http://www.stormflyingservice.com/",
+  "email": "info@stormflyingservice.com",
+  "phone": "(515) 832-3723",
+  "about": "Storm Flying Service, Inc., founded in 1968, is a renowned flight school and aviation service based at the Webster City Municipal Airport in Iowa. With nearly 50 years of service, we have established a reputation for safety, reliability, and customer satisfaction. Our comprehensive flight training programs include certifications for private, instrument, commercial, multi-engine, flight instructor, and ATP ratings. In addition to flight instruction, we offer charter flights, aerial applications such as crop spraying, seeding, and fertilizing, and other specialized aviation services. Our commitment to meeting our customers' needs in a safe and timely manner has been the cornerstone of our success. Whether you are pursuing aviation for personal pleasure, business, or professional advancement, Storm Flying Service is your trusted partner in the skies.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

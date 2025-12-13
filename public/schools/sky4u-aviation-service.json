@@ -1,0 +1,22 @@
+{
+  "id": "c42e75ca-cc84-432c-9686-808f23eedc53",
+  "slug": "sky4u-aviation-service",
+  "name": "SKY4u Aviation Service",
+  "continent": "Europe",
+  "country": "Germany",
+  "state": "",
+  "city": "Berlin",
+  "baseAirport": "Berlin-Schönefeld\nBerlin Brandenburg Airport (BER)",
+  "website": "https://www.sky4u-berlin.com/",
+  "email": "info@sky4u.com",
+  "phone": "'+49 30 692 070 25",
+  "about": "SKY4u Aviation Service, based in Berlin, Germany, is a leading provider of professional pilot training and aviation services. We offer a comprehensive range of courses, including Jet Orientation Courses, Multi Crew Coordination, Type Rating, and Simulator Dry/Wet Lease, as well as Line Training and Airline Introduction Programs. Our network includes experts and teams dedicated to developing and optimizing aviation programs, focusing on quality, flexibility, and innovation. We collaborate with major airlines such as Ryanair, airBaltic, and easyJet Suisse to ensure our training aligns with industry standards. Our goal is to familiarize newly graduated pilots with standard airline operating practices from the outset, providing a smooth transition into the aviation industry. With a commitment to excellence and a supportive, professional environment, SKY4u Aviation Service is the ideal choice for aspiring and established pilots alike.",
+  "icao": "EDDB",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Multi-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

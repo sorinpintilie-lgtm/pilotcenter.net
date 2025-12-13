@@ -1,0 +1,22 @@
+{
+  "id": "ae98795e-a410-41ab-bf3f-dbfbbe5e0143",
+  "slug": "aero-club-milano",
+  "name": "Aero Club Milano",
+  "continent": "Europe",
+  "country": "Italy",
+  "state": "",
+  "city": "Bresso",
+  "baseAirport": "Bresso Airport",
+  "website": "https://www.aeroclubmilano.it/",
+  "email": "info@ftopadova.it / segreteria@aeroclubmilano.it",
+  "phone": "\"+39 02 610 1625",
+  "about": "Aero Club Milano, located at Milano-Bresso Airport, is Italy's oldest and most prestigious aero club. Established with a rich history of producing skilled aviators, the club offers premier flight training through modular programs. Students benefit from comprehensive instruction, utilizing the facilities at Aeroporto Di Milano Bresso. With a commitment to excellence, Aero Club Milano provides a supportive and professional environment for aspiring pilots to achieve their aviation goals. For more information, visit our website at www.aeroclubmilano.it.",
+  "icao": "LIMB",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

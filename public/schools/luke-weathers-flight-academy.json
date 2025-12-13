@@ -1,0 +1,22 @@
+{
+  "id": "97e6fcbe-e3e3-4965-bc81-3cf30a5c1038",
+  "slug": "luke-weathers-flight-academy",
+  "name": "Luke Weathers Flight Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MS",
+  "city": "",
+  "baseAirport": "OLV -Olive Branch/Taylor Field",
+  "website": "https://obap.org/lwfa/",
+  "email": "flightacademy@obap.org",
+  "phone": "(901) 708-0115",
+  "about": "The Luke Weathers Flight Academy, located in Olive Branch, Mississippi, is a comprehensive aviation training facility named in honor of Lieutenant Colonel Luke Weathers Jr., a WWII fighter pilot and the first African American air traffic controller for the FAA. Established by the Organization of Black Aerospace Professionals (OBAP), the academy offers a wide range of programs, including FAR 141 and 61 Flight Training, JET Transition Training, Maintenance and Air Traffic Control Academy, UAV Pilot Training, and Military Rotor Fixed Wing Transition. It also provides the OBAP Lt. Col Luke Weathers Solo Flight Academy, a two-week intensive program for young adults aged 16-19. The academy emphasizes mentorship, safety, and professionalism, aiming to make aviation careers accessible to a diverse student body. With a strong focus on support and mentorship, the Luke Weathers Flight Academy is dedicated to helping aspiring pilots achieve their dreams and carry on the legacy of its namesake.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Drone/UAS\\nGround School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

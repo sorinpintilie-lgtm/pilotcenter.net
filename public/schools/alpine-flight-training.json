@@ -1,0 +1,22 @@
+{
+  "id": "8283338a-93d5-48b4-915e-2d663928f995",
+  "slug": "alpine-flight-training",
+  "name": "Alpine Flight Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CO",
+  "city": "",
+  "baseAirport": "GWS -Glenwood Springs Municipal Airport",
+  "website": "https://alpineflighttraining.com/",
+  "email": "info@alpineflighttraining.com",
+  "phone": "(970) 401-5105",
+  "about": "Alpine Flight Training, located at Eagle County Regional Airport in Colorado, offers comprehensive flight instruction in accordance with FAA Part 61. Our programs include Private Pilot, Instrument Rating, Commercial Pilot, Certified Flight Instructor, and specialized courses like Mountain Flying and Seaplane Ratings. We utilize modern avionics-equipped aircraft such as the Piper PA-28 Archer and Cessna 182. Our experienced instructors have extensive knowledge in various aircraft types and provide patient, professional guidance. We emphasize safety and offer structured syllabi, ground school, and flight training to prepare students for FAA exams and checkrides. Our unique mountain training curriculum is nationally recognized, and we cater to all skill levels, from beginners to advanced pilots. With a focus on safety, service, and full certification, Alpine Flight Training is dedicated to helping you become the best pilot you can be.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

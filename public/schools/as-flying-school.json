@@ -1,0 +1,22 @@
+{
+  "id": "cf7e7c31-4f91-4b45-a050-234bf4e84654",
+  "slug": "as-flying-school",
+  "name": "A.S. Flying School",
+  "continent": "Oceania",
+  "country": "Australia",
+  "state": "",
+  "city": "",
+  "baseAirport": "Archerfield Airport",
+  "website": "https://asflyingschool.com/about/",
+  "email": "info@asflyingschool.com",
+  "phone": "'+61 7-3157-4555",
+  "about": "At A.S. Flying School, we are dedicated to providing the highest quality aviation training for both private and professional pilots. Established with a commitment to safety, our experienced instructors hold advanced pilot and instructor certificates, ensuring a pleasant, fun, and rewarding learning experience. Our personalized instruction is tailored to meet individual needs and learning abilities, with a focus on structured, organized, and time-efficient programs. With ideal training conditions and superior facilities, we strive to make each student a highly competent and safe aviator. Join us to start your journey towards a successful aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

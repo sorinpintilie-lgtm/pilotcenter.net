@@ -1,0 +1,22 @@
+{
+  "id": "a9731559-2161-4633-b00d-9f466671d94f",
+  "slug": "urbe-aero",
+  "name": "Urbe Aero",
+  "continent": "Europe",
+  "country": "Italy",
+  "state": "ITLY",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.urbe.aero/en/",
+  "email": "training@urbe.aero",
+  "phone": "'+39 06 88643187",
+  "about": "Urbe Aero Flight Academy, located at Rome Urbe airport, is a leading airline pilot training organization in Europe with over 20 years of experience. Originally founded as Diamond Aero in 2003, the academy has evolved to offer comprehensive training, maintenance, and technical support. With an EASA Approved Training Organization (EASA IT.ATO.0065) status, Urbe Aero provides high-quality training in compliance with European standards, utilizing a state-of-the-art fleet of Diamond Aircraft, including DA20, DA40 NG, and DA42-VI models. The academy boasts over 50 specialized instructors, modern multimedia classrooms, and advanced simulators. Collaborating with major airlines like Alitalia, EasyJet, and Ryanair, Urbe Aero prepares cadets for successful careers in aviation, ensuring they meet the high standards required by the industry. With a commitment to excellence, innovation, and environmental sustainability, Urbe Aero stands as a premier flight training institution.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"ATPL Integrated\\nATPL modular\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

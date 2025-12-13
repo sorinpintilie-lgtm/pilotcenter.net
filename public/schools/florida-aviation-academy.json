@@ -1,0 +1,22 @@
+{
+  "id": "e0737042-3712-4eaf-8a4e-b918c08ca4c3",
+  "slug": "florida-aviation-academy",
+  "name": "Florida Aviation Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "PMP -Pompano Beach Airpark",
+  "website": "https://flaviationacademy.com/",
+  "email": "Info@FLAviationAcademy.com",
+  "phone": "(954) 788-3887",
+  "about": "Florida Aviation Academy is a FAA-approved Part 141 flight school with nearly 30 years of aviation training experience. Founded by Captain \"Jack\" Fitzgerald, a highly accomplished airline pilot, the academy offers accelerated flight training courses that can take students from zero hours to a commercial pilot license in as little as 16 weeks. With a low student-to-instructor ratio and a state-of-the-art facility, Florida Aviation Academy provides in-depth flight and one-on-one ground sessions, ensuring students become proficient and safe pilots. The academy's mission is to present a well-planned program in a structured yet friendly environment, providing the highest quality and safest flight training possible. Florida Aviation Academy is trusted by airlines worldwide for producing accomplished and safe pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\\nMulti-Engine\\nMulti-Engine\\nInstrument\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

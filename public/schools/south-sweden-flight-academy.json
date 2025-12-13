@@ -1,0 +1,22 @@
+{
+  "id": "6d760696-9b02-4d5e-bd04-512c6b45a9ba",
+  "slug": "south-sweden-flight-academy",
+  "name": "South Sweden Flight Academy",
+  "continent": "Europe",
+  "country": "Sweden",
+  "state": "",
+  "city": "Malmö",
+  "baseAirport": "Malmö Sturup Airport",
+  "website": "https://www.southsweden.se/",
+  "email": "info@southsweden.se",
+  "phone": "'+46 70 66 44 217",
+  "about": "South Sweden Flight Academy, located at Malmö Airport Sturup, is one of Sweden's largest and most reputable flight schools, approved by the Swedish CAA authority, Transportstyrelsen. Since 2015, with new management since 2017, the academy offers a wide range of courses, including the \"Airline Pilot Zero to MCC\" integrated program, as well as modular training for various licenses and ratings such as PPL, CPL, IR, ME, and MCC. Our experienced instructors, many with backgrounds in the airforce and commercial airlines, provide comprehensive and tailored training to students from around the world. We pride ourselves on a student-friendly and professional environment, emphasizing quality, team spirit, and safety. With a well-maintained fleet and a supportive learning environment, South Sweden Flight Academy is your gateway to a successful aviation career.",
+  "icao": "ESMS",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

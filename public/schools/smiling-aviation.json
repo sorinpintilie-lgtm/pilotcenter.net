@@ -1,0 +1,22 @@
+{
+  "id": "10a548c2-662f-4345-b523-4187d84aa568",
+  "slug": "smiling-aviation",
+  "name": "Smiling Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CO",
+  "city": "",
+  "baseAirport": "AJZ -Blake Field",
+  "website": "http://www.smilingaviation.com/",
+  "email": "smiley@smilingaviation.com",
+  "phone": "(970) 874-5181",
+  "about": "At Smiling Aviation, we are dedicated to providing top-notch flight training with a personal touch. Located at a convenient airport, our flight school offers professional commercial pilot training from zero experience to 1,500 hours. Our students benefit from full financing options, fixed-cost pricing, and access to a large fleet of aircraft. We pride ourselves on high safety standards, experienced instructors, and strong airline hiring partnerships. Our comprehensive programs, including fast-track options and associate degrees, are designed to prepare you for a successful aviation career. Join us and take the first step towards becoming a licensed pilot in a supportive and encouraging environment. Start your aviation journey today and let your dreams take flight.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

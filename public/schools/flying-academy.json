@@ -1,0 +1,22 @@
+{
+  "id": "e810c8b4-0d54-467b-b059-0f41c7417f36",
+  "slug": "flying-academy",
+  "name": "Flying Academy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "FL",
+  "city": "Miami",
+  "baseAirport": "Miami Executive Airport",
+  "website": "https://miami.flyingacademy.com/",
+  "email": "Fly@FlyingAcademy.com",
+  "phone": "'+1 (305) 255-8753",
+  "about": "Flying Academy is a premier institution for professional pilot training, with locations in Van Nuys, Corona, Miami, Prague, Brno, and Vienna. Our experienced instructors and state-of-the-art facilities ensure top-notch training. We offer year-round flying opportunities due to favorable climates in our locations. Our programs range from private pilot to airline transport pilot certifications, and we also provide degree programs in partnership with local universities. With a focus on individualized training and safety, we help aspiring pilots achieve their aviation goals efficiently and effectively. Join Flying Academy to embark on a career in aviation with expert guidance and unparalleled training opportunities.",
+  "icao": "KTMB",
+  "iata": "TMB",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"FAA Private Pilot License Aeroplane \\nFAA Private Pilot License Helicopter\\nFAA Commercial Pilot License Aeroplane\\nFAA Private Pilot License Helicopter\\nFAA Airline Transport Pilot\\nFAA Flight Instructor (CFI / FI)\\nFAA Flight Instructor - Instrument (CFII / IRI)\\nFAA Flight Instructor - Multi-Engine (MEI)\\nJet Orientation Course (JOT)\\nFAA Instrument Rating (IR)\\nFAA Multi-Engine Rating\\nFAA Type Rating\\nTime Building\\nFAA 0 to CPL(A)\\nFAA Discovery Flight\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

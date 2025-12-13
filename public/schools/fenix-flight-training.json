@@ -1,0 +1,22 @@
+{
+  "id": "a505e283-101c-4a9b-8f86-38b761bd2b68",
+  "slug": "fenix-flight-training",
+  "name": "Fenix Flight Training Ltd",
+  "continent": "Australia",
+  "country": "New Zealand",
+  "state": "NZ",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://fenixuas.nz/",
+  "email": "enquiries@fenixuas.nz",
+  "phone": "027 287 1468",
+  "about": "At Fenix Flight Training Ltd, we are dedicated to nurturing flying enthusiasts into competent and successful pilots. Our mission is to contribute to the growth of individuals who reflect the highest quality of our institution, adhering to aviation ethical rules and values. We develop and implement new training models to meet the employment requirements of each layer of aviation, ensuring continuous development and improvement. Our open systems and facilities are designed to make flying accessible to everyone, responding to the aviation industry’s needs with analytical thinking and a commitment to safety and excellence. We strive to be a preferred choice both nationally and internationally, empowering every individual with a flying dream to achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"UAS Courses\\nFlight Testing\\nNight Ratings\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

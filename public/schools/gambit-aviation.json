@@ -1,0 +1,22 @@
+{
+  "id": "6c2bbeb8-f1c4-4f1f-bc31-968153b9dd7c",
+  "slug": "gambit-aviation",
+  "name": "Gambit Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "ARR -Aurora Municipal Airport",
+  "website": "https://flygambit.com/",
+  "email": "info@flygambit.com",
+  "phone": "(815) 593-0813",
+  "about": "Gambit Aviation, located at Aurora Municipal Airport, offers a unique and comprehensive flight training experience. Led by Master Certified Flight Instructor-Aerobatic Jared Sebesta, the school provides private, instrument, and commercial pilot certifications, as well as specialized training in aerobatics, upset recovery, tailwheel endorsements, and more. With a diverse team of instructors and a fleet including the Extra 330LX, T-6 Texan, and Pitts S2B, Gambit Aviation emphasizes personalized, hands-on training to build confidence and versatility in pilots. The school is committed to providing a safe, enjoyable, and low-stress learning environment, making aviation accessible to all passionate about flight. Gambit Aviation invites aspiring pilots to embark on a transformative flight journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

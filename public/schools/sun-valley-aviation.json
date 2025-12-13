@@ -1,0 +1,22 @@
+{
+  "id": "568155ad-4894-4980-aeec-1aa1d80248cd",
+  "slug": "sun-valley-aviation",
+  "name": "Sun Valley Aviation, Inc",
+  "continent": "North America",
+  "country": "United",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "HRL -Valley International Airport",
+  "website": "https://www.svatexas.com/",
+  "email": "info@svatexas.com",
+  "phone": "(956) 421-4545",
+  "about": "Sun Valley Aviation, Inc., located at the Rio Grande Valley's Harlingen Airport (KHRL), is a Part 61 flight school dedicated to providing high-quality flight training and aviation services. Our experienced team has extensive knowledge and expertise in flying and training across the United States, Mexico, and Latin America. We offer a comprehensive range of flying lessons, from private pilot certifications to advanced training programs. Our ground school and flight training are designed to develop your flight skills, understand aircraft functions and maneuvers, and enhance your judgment and situational awareness. With a focus on safety and excellence, Sun Valley Aviation is committed to helping you achieve your aviation goals. We are proud to serve the Rio Grande Valley and beyond with our exceptional training and service.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

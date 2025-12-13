@@ -1,0 +1,22 @@
+{
+  "id": "272c38a7-7daa-4fcb-b0ef-66dedd79d591",
+  "slug": "gofly-academy",
+  "name": "GoFly Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "OPF -Miami-Opa Locka Exec Airport",
+  "website": "https://www.goflyacademy.com/",
+  "email": "info@goflyacademy.com",
+  "phone": "(305) 399-7353",
+  "about": "GoFly Academy is a FAA-approved Part 141 flight school based in Miami, dedicated to providing high-quality flight training. Our experienced Certified Flight Instructors offer comprehensive training for the Private Pilot License, covering aerodynamics, FAA regulations, and aircraft maneuvers. Students learn to master daytime cross-country flights in our single-engine Cessna 172 fleet. We adhere to strict FAA requirements, ensuring all students meet the necessary age, medical, and language criteria. As a family-owned and run aviation school, GoFly Academy is driven by a passion for flying and adventure, committed to making every student's learning experience positive and life-changing.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "9b507962-ac86-4a1c-9bce-1276ac9ffb46",
+  "slug": "gulf-air-academy",
+  "name": "Gulf Air Academy",
+  "continent": "Europe",
+  "country": "Greece",
+  "state": "",
+  "city": "Athens",
+  "baseAirport": "Athens International Airport",
+  "website": "https://gulfair-academy.com/",
+  "email": "info@gulfair-academy.com",
+  "phone": "'+30 2109844175",
+  "about": "Gulf Air Academy, located in Athens, Greece, is an EASA-approved professional pilot training organization committed to excellence in aviation education. With a diverse team from over seven countries, the academy offers a multinational and engaging educational environment. Utilizing state-of-the-art training materials and methods, Gulf Air Academy provides top-tier training programs, including EASA ATPL courses with 230 flying hours. The academy ensures a supportive and friendly environment, with fully furnished accommodation and a range of social activities. Despite some logistical challenges reported, the academy is known for its professional instructors and comprehensive support for international students, making it a significant player in addressing the global pilot shortage. Gulf Air Academy is dedicated to providing high-quality training and a seamless educational experience for aspiring pilots.",
+  "icao": "LGAV",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

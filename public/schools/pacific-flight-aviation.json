@@ -1,0 +1,22 @@
+{
+  "id": "723a8685-783d-4ceb-9053-253265ab2337",
+  "slug": "pacific-flight-aviation",
+  "name": "Pacific Flight Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "John Wayne/Orange County Airport",
+  "website": "https://www.pacificflight.com/",
+  "email": "info@pacificflight.com",
+  "phone": "(949) 359-4144",
+  "about": "Pacific Flight Aviation, based at John Wayne Airport in Orange County, California, offers comprehensive flight training programs for Private Pilot, Instrument Rating, and Commercial Pilot certificates. Our courses combine hands-on training with traditional lessons, adhering to Federal Aviation Administration (FAA) requirements. Students are guided by experienced instructors through structured syllabi, ensuring organization, consistency, and safety. We provide personalized 1-on-1 flight and ground instruction, flexible scheduling, and use a diverse fleet including Piper Archer III, Piper Arrow III, Piper Seneca V, and Cirrus SR22-T aircraft. Our training includes all necessary materials and resources, preparing students for successful careers in aviation. With a focus on individual success, we ensure each student is trained to proficiency as required by the FAA. Join us to embark on a rewarding journey to become a certified pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "52d79fea-527f-45a9-936b-669f34adf4e2",
+  "slug": "del-rio-aviation",
+  "name": "Del Rio Aviation, Inc",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "PRB -Paso Robles Municipal Airport",
+  "website": "http://www.delrioaviation.com/",
+  "email": "delriousa@thegrid.net",
+  "phone": "(805) 238-0800",
+  "about": "Del Rio Aviation, Inc. is a small, family-owned and operated flight school located in the heart of Paso Robles, California, within the beautiful wine country of San Luis Obispo County. We pride ourselves on providing exceptional service and value, with a team of proven, safe, dependable, and responsible mechanics and pilots. Our instructors, such as Kevin Barter, are highly knowledgeable and skilled, ensuring a comfortable and informative learning experience for all students. We treat our customers like family, offering a range of services including flight instruction, helicopter tours, and aircraft maintenance. At Del Rio Aviation, we are committed to making your flying experience memorable and enjoyable. We look forward to welcoming you to our aviation family.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

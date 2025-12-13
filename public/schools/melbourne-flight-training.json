@@ -1,0 +1,22 @@
+{
+  "id": "ac3583eb-bd84-4764-8b5f-e9d06ff6984e",
+  "slug": "melbourne-flight-training",
+  "name": "Melbourne Flight Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "MLB -Melbourne Orlando International Airport",
+  "website": "https://mlbflight.com/",
+  "email": "derek@mlbflight.com",
+  "phone": "(321) 345-3194",
+  "about": "Melbourne Flight Training is a family-owned flight school dedicated to safety and excellence in aviation education. Located at Melbourne, Florida, we offer a range of programs, including the accelerated Career Aviator Pathway (CAP) which takes students from zero experience to fully certified multi-engine instructors in just six months. Our fleet includes 34 aircraft, including Cessna 172, Cirrus SR20 and SR22, and Tecnam P2006T. We provide FAA Part 61 and Part 141 training, as well as specialized courses like Cirrus training and additional endorsements. With a focus on upfront pricing, no hidden fees, and financial assistance options, we ensure our students receive personalized and efficient training. Our experienced instructors and supportive staff are committed to guiding students towards successful aviation careers. At Melbourne Flight Training, we are dedicated to making your aviation dreams a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nIntro Flight\\nSimulator\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

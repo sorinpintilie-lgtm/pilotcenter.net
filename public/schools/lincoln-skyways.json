@@ -1,0 +1,22 @@
+{
+  "id": "06ada1d5-30de-43bb-bc45-b205a9d05d99",
+  "slug": "lincoln-skyways",
+  "name": "Lincoln Skyways, Inc.",
+  "continent": "North America",
+  "country": "United",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "LHM -Lincoln Regional/Karl Harder Field",
+  "website": "https://www.lincolnskywaysinc.com/",
+  "email": "Byron@lincolnskywaysinc.com",
+  "phone": "(916) 730-0788",
+  "about": "Lincoln Skyways, Inc., located at Karl Harder Field/Lincoln Regional Airport in California, is a premier flight training destination. We offer comprehensive flight training programs, including private, instrument, commercial, certified flight instructor (CFI), CFII, and airline transport pilot certifications. Our partnership with AFIT (Accelerated Flight & Instrument Training) enables us to provide intense, full-time training that enhances skills, proficiency, and confidence. With a team of 49 experienced FAA-certified flight instructors and technical specialists, we provide safe, affordable, and efficient training. We also offer ground instruction, aircraft rental, and specialized courses such as Cirrus Training and helicopter certifications. Lincoln Skyways is recognized for excellence in service, serving clients across the United States and globally. Join us to gain the freedom to travel on your terms.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

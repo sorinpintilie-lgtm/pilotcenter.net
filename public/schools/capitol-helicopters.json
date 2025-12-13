@@ -1,0 +1,22 @@
+{
+  "id": "689c2c92-10b9-48fa-a901-711a580cc924",
+  "slug": "capitol-helicopters",
+  "name": "Capitol Helicopters",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SAC -Sacramento Exec Airport",
+  "website": "https://capitolhelicopters.com/",
+  "email": "info@capheli.com",
+  "phone": "(916) 277-8426",
+  "about": "Capitol Helicopters, founded by Oren Breedlove, an experienced Helicopter Airline Transport Pilot (ATP), is based at Sacramento Executive Airport (KSAC) in California’s capital city. Our expert staff is versed in various helicopter disciplines, including flight training, Grand Canyon tours, airborne law enforcement, search and rescue, and corporate transport. As a Part 61 and Part 141 approved Flight School, we offer flexible flight instruction for private, commercial, instrument, and flight instructor certifications, among others. We also provide scenic tours, aerial photography, and specialized services like electronic news gathering and power line patrol. Our central location allows for affordable flights to the San Francisco Bay Area, Napa’s wine country, Lake Tahoe, and the High Sierras. Contact us today to experience top-notch helicopter training and services.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nExaminer\\nInstrument Proficiency Check\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

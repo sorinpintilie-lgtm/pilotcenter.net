@@ -1,0 +1,22 @@
+{
+  "id": "fafe8362-eddc-4bc8-91c8-d6b6b496c9de",
+  "slug": "santa-monica-flyers",
+  "name": "Santa Monica Flyers",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SMO -Santa Monica Municipal Airport",
+  "website": "https://www.santamonicaflyers.com/",
+  "email": "reception@santamonicaflyers.com",
+  "phone": "(310) 800-8050",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nPrivate Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

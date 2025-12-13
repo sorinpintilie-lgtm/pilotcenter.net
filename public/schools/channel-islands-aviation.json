@@ -1,0 +1,22 @@
+{
+  "id": "7a5968df-ea5f-4280-b570-b3ba32218f06",
+  "slug": "channel-islands-aviation",
+  "name": "Channel Islands Aviation, Inc",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "CMA -Camarillo Airport",
+  "website": "https://flycia.com/",
+  "email": "cia@flycia.com",
+  "phone": "(805) 987-1301",
+  "about": "Channel Islands Aviation, Inc., established in 1976, is Camarillo’s first full-service Fixed Base Operator (FBO) and a leading flight training school in Southern California. As an FAA Approved Part 141 Pilot School, we offer comprehensive training programs for Private Pilot, Instrument Rating, Commercial Single Engine, Commercial Multi Engine, and Certified Flight Instructor certifications. We are a Cessna Pilot Center and Cessna Service Center, operating an all Textron Aviation fleet. Our services include fuel sales, hangar space, aircraft maintenance, avionics work, and executive jet charter. We also provide flights to the Channel Islands National Park and a VA Approved Education Program for veterans. With a commitment to excellence and safety, Channel Islands Aviation ensures a top-notch learning environment for all aspiring pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "42e9bead-0f51-46ca-bd86-0c25376f4e73",
+  "slug": "goldwings-flight-academy",
+  "name": "GoldWings Flight Academy",
+  "continent": "Europe",
+  "country": "Poland",
+  "state": "",
+  "city": "Warsaw",
+  "baseAirport": "Warsaw-Babice Airport",
+  "website": "https://www.goldwings.pl/",
+  "email": "goldwings@goldwings.pl / ato@goldwings.pl",
+  "phone": "'+48 662 331 222",
+  "about": "GoldWings Flight Academy, located in Warsaw, Poland, is a dynamically expanding flight school specializing in professional pilot training. Owned by airline pilot Arkadiusz Jesionek, the academy focuses on training professionals in PPL(A), CPL(A), ME(A), FI(A), and ATPL(A). With a strong emphasis on safety and theoretical knowledge, GoldWings ensures students learn to fly through a structured and rigorous program. Instructors are strictly selected, many being airline pilots and captains, providing high-quality training. The academy offers a range of aircraft, including Cessna 172s, AT-3s, Piper III Seneca, and DA-42, along with advanced simulators for IR and MCC/JOC training. GoldWings is committed to providing integrated training and professional care, making it an ideal choice for aspiring pilots aiming to achieve their aviation goals.",
+  "icao": "EPBC",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

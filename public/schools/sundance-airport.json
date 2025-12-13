@@ -1,0 +1,22 @@
+{
+  "id": "2c7a4162-3301-4455-a6ed-588540802be2",
+  "slug": "sundance-airport",
+  "name": "Sundance Airport, LLC",
+  "continent": "North America",
+  "country": "United",
+  "state": "OK",
+  "city": "",
+  "baseAirport": "HSD -Sundance Airport",
+  "website": "http://www.sundanceairport.com/",
+  "email": "flightacademy@sundanceairport.com",
+  "phone": "(405) 373-3886",
+  "about": "Sundance Airport, LLC, home to Sundance Flight Academy, is a premier aviation facility in Oklahoma City. As the largest privately owned/public use jetport in Oklahoma, Sundance Airport offers a comprehensive flight training program. Our academy provides FAA Part 61 training, including Private Pilot and Instrument Rating courses, with flexible scheduling to fit busy agendas. Students benefit from hands-on introductory flights and integrated training methods that put them at the controls from day one. With competitive pricing, modern aircraft, and a Redbird simulator, we ensure a high-quality learning experience. Our certified flight instructors are dedicated to safety and excellence, and our facilities include a pilot's lounge, ground school services, and aircraft rental options. Join us to embark on an exciting journey in aviation and become a licensed pilot with confidence and skill.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

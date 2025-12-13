@@ -1,0 +1,22 @@
+{
+  "id": "1c43b9fc-8dc4-4b5f-9ac1-fb0dc9f0a65d",
+  "slug": "professional-flight-centre",
+  "name": "Professional Flight Centre",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "BC",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://proifr.com/",
+  "email": "info@proifr.com",
+  "phone": "'+1 604-952-4635",
+  "about": "Professional Flight Centre, established in 1986, is one of Canada's largest and most respected flight training institutes. With a reputation for excellence, we attract students from around the world. Our programs include Private Pilot License (PPL), Commercial Pilot License (CPL), and Instrument Rating (IFR), all regulated by Transport Canada. International students who complete our CPL or Instructor rating are eligible for a Post-Graduation Work Permit (PGWP) in Canada. We pride ourselves on our experienced instructors, state-of-the-art facilities, and a fleet of well-maintained aircraft. Our goal is to provide comprehensive training that prepares students for successful careers in aviation, ensuring they are well-equipped to navigate the industry with confidence and skill. At Professional Flight Centre, we are committed to helping you achieve your aviation dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

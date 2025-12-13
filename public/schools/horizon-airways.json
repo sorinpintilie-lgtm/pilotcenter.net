@@ -1,0 +1,22 @@
+{
+  "id": "228b3f57-c0d6-476d-b997-471a2788ea26",
+  "slug": "horizon-airways",
+  "name": "Horizon Airways",
+  "continent": "Oceania",
+  "country": "Australia",
+  "state": "",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.horizonairways.com/",
+  "email": "reception@horizonairways.com",
+  "phone": "'+61 7-4957-2446",
+  "about": "Horizon Airways, founded in 1994, has a longstanding reputation for excellence in flight training. Located in Mackay and Cloncurry, the school offers comprehensive programs for Recreational, Private, and Commercial Pilot Licences, as well as various ratings. With a dedicated team of experienced instructors, Horizon Airways provides a supportive and professional environment for students to achieve their aviation goals. The school's commitment to quality training and safety has made it a trusted name in the industry, helping numerous students transition into successful careers in aviation. Horizon Airways is your reliable partner for all your flight training needs.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nMulti-Pilot License (MPL)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

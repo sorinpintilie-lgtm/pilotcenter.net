@@ -1,0 +1,22 @@
+{
+  "id": "2c666e75-3983-489e-8f8f-4c56d01de4ab",
+  "slug": "planesmart-aviation",
+  "name": "PlaneSmart! Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "ADS -Addison Airport",
+  "website": "https://www.planesmart.com/",
+  "email": "info@planesmart.com",
+  "phone": "(888) 228-4283",
+  "about": "PlaneSmart Aviation is a licensed air carrier and professional aircraft management company offering innovative and cost-effective air transportation solutions. We manage a diverse fleet of high-performance piston, turboprop, and jet airplanes, including Cirrus SR20 and SR22 models. Our services include shared ownership programs, aircraft management, and charter services. As a Cirrus Authorized Training Center, we provide personalized pilot training for private, instrument, and commercial licenses, conducted by highly experienced Cirrus Standardized Instructor Pilots. Our comprehensive training programs ensure clients receive factory-standard instruction, and our management services handle all aspects of aircraft ownership, from maintenance to insurance. PlaneSmart Aviation simplifies aviation for pilots and non-pilots alike, making private air travel accessible and efficient. We are dedicated to providing exceptional service and safety in all our operations.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

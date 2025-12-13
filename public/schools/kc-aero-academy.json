@@ -1,0 +1,22 @@
+{
+  "id": "830cde31-5b13-48ad-b467-c7c275d1740c",
+  "slug": "kc-aero-academy",
+  "name": "KC Aero Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "X39 -Tampa North Aero Park Airport",
+  "website": "https://kcaeroacademy.com/",
+  "email": "dispatch@KCAeroAcademy.com",
+  "phone": "(656) 223-2370",
+  "about": "KC Aero Academy, located in Lutz, Florida, is a comprehensive flight school dedicated to providing high-quality aviation training. We offer a range of programs for aspiring pilots, including Private Pilot, Instrument Pilot, Commercial Pilot, and Flight Instructor certifications. Our syllabus-based training is structured around online and in-flight instruction, ensuring students have a clear path to their aviation goals. Experienced instructors guide students through discovery flights and hands-on training, providing a thorough and supportive learning environment. At KC Aero Academy, we are committed to helping our students achieve their full potential in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\n\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

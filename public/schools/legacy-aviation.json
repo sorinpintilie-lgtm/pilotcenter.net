@@ -1,0 +1,22 @@
+{
+  "id": "c4b9b08c-ac26-470b-a331-6be704425bad",
+  "slug": "legacy-aviation",
+  "name": "Legacy Aviation, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "SD",
+  "city": "",
+  "baseAirport": "Y14 -Marv Skie-Lincoln County Airport",
+  "website": "https://www.legacyaviationsd.com/",
+  "email": "office@legacyaviationsd.com",
+  "phone": "(605) 368-2841",
+  "about": "Legacy Aviation, LLC is a premier flying school dedicated to providing exceptional flight training and aviation education. Founded by experienced pilots and aviation professionals, our school is committed to safety, excellence, and personalized instruction. We offer a range of programs from private pilot licenses to commercial and instrument ratings, as well as specialized training in aerobatics and multi-engine aircraft. Our state-of-the-art fleet and modern facilities ensure students receive the best possible training environment. With a focus on both theoretical knowledge and practical skills, we prepare our students for successful careers in aviation. At Legacy Aviation, we strive to build confident, competent pilots who embody the legacy of safe and skilled flying.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

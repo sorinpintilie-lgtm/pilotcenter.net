@@ -1,0 +1,22 @@
+{
+  "id": "8a65158d-d681-4973-ac4e-ae2477e23b33",
+  "slug": "flight-ventures-aviation-academy",
+  "name": "Flight Ventures Aviation Academy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CA",
+  "city": "Murrieta",
+  "baseAirport": "French Valley Airport",
+  "website": "https://www.flightventuresaviationacademy.com/",
+  "email": "chrishaug@flightventuresaviationacademy.com / info@flightventuresaviationacademy,com",
+  "phone": "'+1 833-484-3759",
+  "about": "Flight Ventures Aviation Academy, located at French Valley Airport (F70) in Murrieta, California, is a full-service flight school offering both rotor and fixed-wing training. Founded on the principle that flight training should mirror real-world experiences, the academy provides a comprehensive program from private pilot to advanced certifications like CFII, MEI, and ATP. With a 6,500 square foot classroom and 12,000 square foot hangar space, the academy ensures maximum learning time. Safety is the top priority, and instructors are hand-picked to meet the highest industry standards. The school also features state-of-the-art helicopter and fixed-wing flight simulators and offers various financing options. By choosing Flight Ventures Aviation Academy, students can achieve their aviation goals in a professional and supportive environment.",
+  "icao": "F70",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Sport Pilot License\\nPrivate Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nATP-CTP Course\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

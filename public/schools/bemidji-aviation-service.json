@@ -1,0 +1,22 @@
+{
+  "id": "4f660862-cecb-4a65-9bfd-d654174ff3b2",
+  "slug": "bemidji-aviation-service",
+  "name": "Bemidji Aviation Service",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MN",
+  "city": "",
+  "baseAirport": "BJI -Bemidji Regional Airport",
+  "website": "https://bemidjiaviation.com/",
+  "email": "customerservice@bemidjiaviation.com",
+  "phone": "(218) 751-1880",
+  "about": "Bemidji Aviation Services, Inc., located at the Bemidji Regional Airport in Minnesota, is a full-service Fixed Base Operator (FBO) and flight school. We offer comprehensive flight training programs guided by FAA Certified Flight Instructors, catering to students at all levels, from private pilots to those pursuing a career in aviation. Our training includes both ground and flight instruction, covering topics such as aerodynamics, aircraft systems, and navigation. We provide flexible scheduling, a Fly This Sim Touch Trainer for instrument training, and various payment options. As a full-service FBO, we also offer fuel, maintenance, hangar rental, plane rental, and pilot supplies. Our commitment to service and safety ensures a supportive and professional environment for all our students. Whether you're flying for fun or career aspirations, Bemidji Aviation is dedicated to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nSport Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

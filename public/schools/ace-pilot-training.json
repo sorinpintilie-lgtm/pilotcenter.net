@@ -1,0 +1,22 @@
+{
+  "id": "c102fe5b-f44f-4837-8b3b-82e28cc30e41",
+  "slug": "ace-pilot-training",
+  "name": "Ace Pilot Training",
+  "continent": "North America",
+  "country": "USA",
+  "state": "PA",
+  "city": "Allentown",
+  "baseAirport": "Lehigh Valley International Airport",
+  "website": "https://www.acepilot.com/",
+  "email": "office@acepilot.com",
+  "phone": "'+1 610-264-1105",
+  "about": "Ace Pilot Training, Inc., has been a reputable provider of quality airplane flight instruction and aircraft rentals since 1992. Our highly skilled flight instructors, many with years of experience, offer comprehensive training programs tailored to help students achieve their private pilot's license and beyond. We utilize well-maintained aircraft, such as the Beechcraft Musketeer 23, to ensure safe and effective training. Our programs include both ground school instruction and in-air training, with the option for discovery flights to introduce new students to the world of flying. We also offer financing options to make flight training more accessible. With a focus on safety, knowledge, and skill-building, Ace Pilot Training is committed to producing highly competent and confident pilots. Join us to embark on your aviation career with confidence and excellence.",
+  "icao": "KABE",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

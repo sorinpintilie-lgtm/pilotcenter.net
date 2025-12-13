@@ -1,0 +1,22 @@
+{
+  "id": "fdadb298-b464-4212-9a9e-7563bb463dba",
+  "slug": "dominion-aviation-services",
+  "name": "Dominion Aviation Services, Inc",
+  "continent": "North America",
+  "country": "United",
+  "state": "VA",
+  "city": "",
+  "baseAirport": "FCI -Richmond Exec/Chesterfield County Airport",
+  "website": "https://www.dominionaviation.com/",
+  "email": "Fly@DominionAviation.com",
+  "phone": "(804) 271-7793",
+  "about": "Dominion Aviation Services, Inc., based at Richmond Executive-Chesterfield County Airport, is a premier aviation provider offering comprehensive flight training. Our flight school utilizes the safest and most technologically advanced Cirrus Aircraft, equipped with Garmin Perspective avionics and the Cirrus Airframe Parachute System. With a curriculum led by industry-experienced instructors, we guide students from discovery flights to becoming certified pilots, including private pilot, instrument rating, and flight instructor certifications. Our facilities include a flight simulator, rental aircraft, and a range of pilot services to ensure continuous skill development. Committed to safety and excellence, Dominion Aviation provides a supportive and professional environment for aspiring pilots to achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

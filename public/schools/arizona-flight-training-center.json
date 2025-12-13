@@ -1,0 +1,22 @@
+{
+  "id": "3716af80-7a99-4b4d-9afe-8637a75d7472",
+  "slug": "arizona-flight-training-center",
+  "name": "Arizona Flight Training Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "GEU -Glendale Regional Airport",
+  "website": "https://arizonaflighttrainingcenter.com/",
+  "email": "info@flyaftc.com",
+  "phone": "(623) 877-9334",
+  "about": "Arizona Flight Training Center (AFTC), established in 2008, is the Valley's premier custom flight training provider. As an FAA Part 141 Certified Flight Training Facility and VA-approved for U.S. military personnel, AFTC offers training from zero time through Commercial Pilot certification. Our state-of-the-art facilities include a 5,000 square foot training building and a dedicated 5,400 square foot maintenance hangar. Our fleet features a variety of aircraft from Light Sport to multi-engine models by Cessna, Piper, and Cirrus, some equipped with advanced \"glass\" panels. With a strong emphasis on pilot safety, our experienced instructors provide personalized, structured programs tailored to individual needs. AFTC is committed to excellence, professionalism, and customer service, making it an ideal choice for both recreational and career-oriented pilots. Whether you're a student pilot or a transitioning military aviator, AFTC is dedicated to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nPart 107 Drone Testing\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "44962331-28f2-418f-95e8-1a1a289e133b",
+  "slug": "dream-flight-school",
+  "name": "Dream Flight School",
+  "continent": "North America",
+  "country": "USA",
+  "state": "MD",
+  "city": "Westminister",
+  "baseAirport": "Carroll County Regional Airport",
+  "website": "https://www.dreamflightschool.com/",
+  "email": "info@dreamflightschool.com",
+  "phone": "'+1 443-244-9218",
+  "about": "Dream Flight School, located at the Carroll County Area Airport in Westminster, Maryland, is a premier training facility offering comprehensive airplane flight instruction. We provide training for private pilot certificates, commercial certificates, and instrument ratings, as well as bi-annual flight reviews. In addition to flight instruction, we offer discovery flights, aircraft rentals for current pilots, and sightseeing tours. Our experienced instructors and modern fleet ensure a safe and effective learning environment. Whether you are aspiring to become a pilot or simply looking to enjoy the thrill of flight, Dream Flight School is dedicated to helping you achieve your aviation goals.",
+  "icao": "KDMW",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

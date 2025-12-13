@@ -1,0 +1,22 @@
+{
+  "id": "820bf804-4169-4b61-a9ae-dfcd4e863258",
+  "slug": "baker-aircraft",
+  "name": "Baker Aircraft",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OR",
+  "city": "",
+  "baseAirport": "BKE -Baker City Municipal Airport",
+  "website": "http://www.bakeraircraft.com",
+  "email": "Gen@bakeraircraft.com",
+  "phone": "(541) 523-5663",
+  "about": "Baker Aircraft, located at Baker City Airport, is a 100% American owned and operated facility, also certified as a Veteran-Owned Small Business (VOSB) and a Woman Owned Small Business (WOSB). As a full-service Fixed Base Operator (FBO), we offer 24-hour call-out services, maintenance, rental aircraft, and charters. Our experienced crews operate helicopters, including the UH-1H and Robinson R44II, providing services such as animal capture, firefighting, game surveys, and aerial crane work. We also specialize in power line services, telemetry, search and rescue, and air attack forest reconnaissance. With self-serve fuel options and convenient facilities, Baker Aircraft is your reliable partner for all aviation needs, ensuring safe and efficient operations. We are committed to delivering world-class aviation services.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

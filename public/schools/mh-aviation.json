@@ -1,0 +1,22 @@
+{
+  "id": "6683adb8-d01e-4178-8bb3-45edd76fd40d",
+  "slug": "mh-aviation",
+  "name": "MH Aviation Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "WJF -General Wm J Fox Airfield",
+  "website": "https://mhaviation.com/",
+  "email": "info@mhaviation.com",
+  "phone": "(661) 948-7779",
+  "about": "MH Aviation Inc. is a family-owned and operated flight school with over two decades of experience in the aviation community. Based in Canada, MH Aviation stands out for its unique offerings, including an Introduction to Aerobatics flight with a qualified pilot in a brand new aircraft. The school integrates taildragger and aerobatics training into its commercial pilot programs, providing comprehensive and specialized education. With clients from across the country, MH Aviation is committed to delivering high-quality training and exceptional service, making it a staple in the aviation industry. MH Aviation is dedicated to helping aspiring pilots achieve their flying dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nInstrument Proficiency Check\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

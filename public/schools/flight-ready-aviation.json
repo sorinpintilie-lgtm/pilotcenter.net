@@ -1,0 +1,22 @@
+{
+  "id": "7df39245-9f1a-4623-a633-1a6699756fee",
+  "slug": "flight-ready-aviation",
+  "name": "Flight Ready Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "ORL -Exec Airport",
+  "website": "https://www.flightreadyaviation.com/",
+  "email": "info@flightreadyaviation.com",
+  "phone": "(407) 898-5050",
+  "about": "Flight Ready Aviation, LLC, based at Orlando Executive Airport, is a comprehensive flight training institution dedicated to redefining aviation education. With a fleet of single-engine and multi-engine aircraft, we offer a wide range of training programs, including Private Pilot, Instrument Rating, Commercial Pilot, and Certified Flight Instructor certifications. Our team of certified instructors, with thousands of hours of flight and training experience, provide high-quality multimedia lessons and personalized training. We also offer discovery flights, sightseeing tours, and charter services. Committed to excellence, Flight Ready Aviation has trained over 60,000 pilots and continues to support aviation professionals with a blend of self-study and instructor-led training, ensuring students are well-prepared for their aviation careers.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nMulti-Engine\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

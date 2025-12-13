@@ -1,0 +1,22 @@
+{
+  "id": "6dc30e95-318c-459e-92ff-efc1aabef91e",
+  "slug": "ja-air-center",
+  "name": "J.A. Air Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "ARR -Aurora Municipal Airport",
+  "website": "https://www.jaair.com/",
+  "email": "info@jaair.com",
+  "phone": "(630) 549-2152",
+  "about": "J.A. Air Center's flight school, located at Aurora Municipal Airport near Chicago, is a Federal Aviation Administration (FAA) certified institution offering comprehensive flight training programs. Established in 2008, the school has grown into one of the fastest-growing flight schools in the Chicago area, providing training up to the Airline Transport Pilot (ATP) rating. Utilizing the Cessna Pilot Center curriculum, JA Flight Training offers flexible web-based classes and hands-on instruction with a focus on safety and airmanship. The school boasts a modern fleet of Garmin G1000 aircraft and advanced simulators, and its unique affiliation with Southern Airways Express provides a fast-track path to airline careers. With a commitment to delivering top-notch aviation education, JA Flight Training is dedicated to helping students achieve their flying dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nComputerized Testing\\nExaminer\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "77a823dc-3fb5-4339-ad80-7c571e329877",
+  "slug": "omni-aviation-school",
+  "name": "Omni Aviation School",
+  "continent": "South America",
+  "country": "Brazil",
+  "state": "BR",
+  "city": "",
+  "baseAirport": "Jacarepagua Airport",
+  "website": "http://www.omniescoladeaviacao.com.br/",
+  "email": "escola@omniescola.com.br",
+  "phone": "55 21 3478-7942",
+  "about": "Omni Aviation Corporation, located in Clark, Philippines, is a premier flight training facility in the region. Established in 1993, it is owned by experienced airline captains with over 250 years of combined aeronautical experience. The school operates a private airport within the Clark Freeport Zone, offering a 640-meter asphalt runway and extensive facilities. Omni provides a range of training programs, including Private Pilot License (PPL), Commercial Pilot License (CPL), and Instrument Flight Rules (IFR) training, taught by highly qualified instructors. The school's fleet includes Cessna 152, Cessna 172, and Piper Seneca 34-200 aircraft. Known for its safety record and international student body, Omni Aviation is an ideal choice for aspiring pilots, offering a comprehensive and supportive learning environment. With its commitment to safety and excellence, Omni Aviation stands as a leading aviation training institution in Asia.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"R22 Ground School\\nPrivate Pilot\\nCommercial Pilot\\nFlight Instructor\\nInstrument flight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "44da3819-dcb6-433a-b45e-3945cfcc3f13",
+  "slug": "tier-1-helicopters",
+  "name": "Tier-1 Helicopters",
+  "continent": "Europe",
+  "country": "Georgia",
+  "state": "GA",
+  "city": "",
+  "baseAirport": "Henry County Airport (KHMP)",
+  "website": "https://tier1helicopters.com/",
+  "email": "",
+  "phone": "770-851-1725",
+  "about": "Tier-1 Helicopters is a premier helicopter training school committed to quality and service. We offer comprehensive flight training programs, including private pilot licenses, instrument ratings, and commercial pilot certificates. Our experienced instructors provide training in various helicopter operations, from visual flight rules (VFR) to instrument flight rules (IFR) conditions. In addition to flight training, we provide services such as movie production, sight-seeing, and passenger transportation, and partner with local law enforcement agencies. With a strong focus on safety and excellence, Tier-1 Helicopters is dedicated to guiding students through their aviation journey with expertise and professionalism. Contact us today to start your path to becoming a skilled helicopter pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Helicopter Flight Training\\nPrivate pilot\\nCommercial pilot\\nInstrument rating\\nCFI & CFII training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

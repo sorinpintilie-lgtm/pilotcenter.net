@@ -1,0 +1,22 @@
+{
+  "id": "be8d6584-592b-49ca-9879-52a2f0a01b2c",
+  "slug": "trade-winds-aviation",
+  "name": "Trade Winds Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CA",
+  "city": "San Jose",
+  "baseAirport": "Reid-Hillview Airport",
+  "website": "https://www.tradewindsaviation.com/",
+  "email": "mail@tradewindsaviation.com",
+  "phone": "'+1 408-729-5100",
+  "about": "Trade Winds Aviation, based at Reid-Hillview Airport in San Jose, California, is a Part 141 flight school offering a comprehensive range of training programs. We provide courses for Sport Pilot, Private Pilot, Instrument Rating, Commercial Pilot, Multi-Engine Rating, and Certified Flight Instructor certifications. Our programs include ground school classes, accelerated training, and the Pilot Proficiency Award Program (WINGS). We emphasize safety and affordability, with discounted rates for active duty military and Metro State students. Our experienced instructors and diverse fleet of aircraft ensure students can achieve their aviation goals efficiently. With a strong focus on community and safety, we invite aspiring and experienced pilots to join our aviation family and experience the thrill of flight training.",
+  "icao": "KRHV",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

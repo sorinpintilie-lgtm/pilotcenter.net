@@ -1,0 +1,22 @@
+{
+  "id": "d5bbe2bd-15cb-4fdd-9a75-7c82937675a0",
+  "slug": "dento-aviation",
+  "name": "Dento Aviation",
+  "continent": "Europe",
+  "country": "Cyprus",
+  "state": "",
+  "city": "Larnaca",
+  "baseAirport": "Larnaca International Airport",
+  "website": "https://www.dentoaviation.com/",
+  "email": "info@dentoaviation.com",
+  "phone": "'+357-24-343454",
+  "about": "Dento Aviation, located at Larnaca Airport in Cyprus, is a premier flight training institution founded by industry veterans with extensive experience in top airlines. We offer exceptional flight training programs designed to cultivate professional, responsible, and highly skilled pilots. Our training includes diverse programs tailored for aspiring pilots, with a strong commitment to excellence in training and safety. Our instructors are constructive and focused on the particular needs of each trainee, and we provide flexible options such as online classes. With state-of-the-art facilities, including an A320 APT and FBS, Dento Aviation is well-prepared to equip the next generation of aviation professionals. We are dedicated to helping you embark on a rewarding aviation career with confidence.",
+  "icao": "LCLK",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Multi-Pilot License (MPL)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nPrivate Pilot License\"]",
+  "visaInsurance": "Other",
+  "fleetSize": "",
+  "logoUrl": ""
+}

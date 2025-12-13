@@ -1,0 +1,22 @@
+{
+  "id": "8cb60674-ff46-4e88-bbcc-b916f3157b7c",
+  "slug": "sunrise-aviation",
+  "name": "Sunrise Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SNA -John Wayne/Orange County Airport",
+  "website": "https://www.sunriseaviation.com/",
+  "email": "info@sunriseaviation.com",
+  "phone": "(949) 852-8850",
+  "about": "Sunrise Aviation, with over 30 years of experience, is a renowned flight training academy operating in multiple locations. In Florida, we have facilities in Ormond Beach, Lakeland, and Jacksonville, providing diverse aviation environments for top-notch training. We offer a range of programs, including Private Pilot Certificate, Commercial Pilot Certificate, and Flight Instructor training, as well as Bachelor’s and Associate’s degrees. Known for our excellent safety record, we have trained professional pilots from more than 50 countries. Sunrise Aviation is committed to excellence and career advancement opportunities for all students. Join us for a comprehensive and safe flight training experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

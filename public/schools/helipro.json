@@ -1,0 +1,22 @@
+{
+  "id": "6fe74ac9-39e1-4dbd-9ced-2b5613905035",
+  "slug": "helipro",
+  "name": "HELIPRO",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SBP -San Luis Obispo County Regional Airport",
+  "website": "https://www.helitraining.com/",
+  "email": "info@helitraining.com",
+  "phone": "(805) 543-2713",
+  "about": "Helipro, established in 1993, is a renowned flight school based in San Luis Obispo, California, offering professional helicopter pilot training to students worldwide. With 30 years of experience, Helipro is FAA-approved under FAR Part 141 and Part 61. Our international approach, with operations in the USA, Italy, and Nepal, ensures a job-oriented training methodology with exceptional outcomes. Our low student-to-instructor ratio is supported by highly qualified and experienced instructors. Located in sunny California, our students benefit from perfect weather conditions and diverse flying scenarios within the San Francisco-Los Angeles-Las Vegas triangle. Our fleet includes Robinson 22, Robinson 44, Bell 206 Jetranger 3 helicopters, and professional flight simulators. We provide personalized training at competitive prices, fostering a close-knit community that feels like a family. At Helipro, we are committed to preparing our students for the challenges of the real aviation world.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

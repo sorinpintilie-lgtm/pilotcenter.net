@@ -1,0 +1,22 @@
+{
+  "id": "9dbc4eb0-e09a-4df5-8f43-b9fbbf40bc51",
+  "slug": "tae-aviation-academy",
+  "name": "TAE Aviation Academy",
+  "continent": "Europe",
+  "country": "Greece",
+  "state": "",
+  "city": "Thessaloniki",
+  "baseAirport": "Thessaloniki Airport",
+  "website": "https://tae.aero/",
+  "email": "info@tae.gr",
+  "phone": "'+30 2296081999",
+  "about": "TAE Aviation Academy, located in Megara-Athens, Greece, is a premier institution for professional pilot training. Recognized by EASA and the Hellenic Civil Aviation Authority, the academy offers comprehensive programs from zero experience to Type Ratings and Initial Cabin Crew training. With a fleet of modern, well-maintained aircraft, including the DA-40 and DA-42, TAE prioritizes safety and excellence. The academy is staffed by experienced instructors, many of whom have backgrounds in both military and civilian aviation. TAE's mission is to shape future pilots, providing a supportive environment where students can thrive. The academy is committed to expanding and leading the Greek market with a responsible and sustainable business outlook, adding value to clients, partners, and employees. TAE Aviation Academy is dedicated to delivering top-quality aviation education, ensuring students become skilled and responsible aviators.",
+  "icao": "LGTS",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

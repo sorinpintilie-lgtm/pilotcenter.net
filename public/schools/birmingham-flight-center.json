@@ -1,0 +1,22 @@
+{
+  "id": "b7fad952-fe74-44c8-9c62-647f520cfb79",
+  "slug": "birmingham-flight-center",
+  "name": "Birmingham Flight Center",
+  "continent": "North America",
+  "country": "USA",
+  "state": "AL",
+  "city": "Birmingham",
+  "baseAirport": "Birmingham-Shuttlesworth International Airport",
+  "website": "https://www.bhmflightcenter.com/",
+  "email": "Info@bhmflightcenter.com",
+  "phone": "'+1 205-849-7722",
+  "about": "Birmingham Flight Center, located at Birmingham Shuttlesworth International Airport, is a locally owned and family-operated flight school established in 2005. Starting with a single airplane, BFC has grown into a leading flight training establishment in Alabama, boasting a diverse fleet of training aircraft and a staff of top-notch instructors. As an FAA-approved Part 61 training facility, BFC offers primary through advanced flight training, commercial pilot services, and recurrent training. We prioritize quality over quantity, catering to individual learners' needs and training in challenging airspace. Our principles of integrity, attentiveness to students' needs, and a commitment to safety and professionalism guide our operations. We have trained thousands of pilots and strive to make the sky safer for everyone. At BFC, we are dedicated to helping you achieve your aviation goals with the highest degree of professionalism and service.",
+  "icao": "KBHM",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "30aef9fe-cd20-40ae-82de-c7c756cef791",
+  "slug": "skyward-air",
+  "name": "Skyward Air",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SMO -Santa Monica Municipal Airport",
+  "website": "https://iflyskyward.com/",
+  "email": "Iflyskyward@icloud.com",
+  "phone": "(310) 307-5400",
+  "about": "Skyward Air Pilot Academy is a boutique flight school renowned for developing highly skilled pilots. Located in Santa Monica, California, we offer a comprehensive range of flight training programs tailored for various goals, whether it's obtaining a private pilot's license, flying corporate jets, or pursuing a career with a major airline. Our experienced instructors, such as Bret, have thousands of hours in the cockpit and are dedicated to providing safe, intellectually engaging, and enjoyable learning experiences. We offer introductory flights, private pilot training, and advanced courses, ensuring each student receives personalized attention and state-of-the-art training. Our commitment to excellence and safety makes Skyward Air Pilot Academy the ideal choice for aspiring pilots. We are passionate about aviation and dedicated to helping our students reach new heights.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

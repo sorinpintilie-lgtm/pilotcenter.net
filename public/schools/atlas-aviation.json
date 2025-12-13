@@ -1,0 +1,22 @@
+{
+  "id": "d2af0c99-4b17-4d33-8f81-cbeda7e233e5",
+  "slug": "atlas-aviation",
+  "name": "Atlas Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "TPF -Peter O Knight Airport",
+  "website": "https://atlasaviation.com/",
+  "email": "INFO@AtlasAviation.com",
+  "phone": "(813) 251-1752",
+  "about": "Atlas Aviation, established in 2002 in Florida, is a premier provider of airport services and flight training. Founded by President and Founder Deric Dymerski, the company operates full-service Fixed Base Operations (FBOs) and flight schools at Peter O. Knight Airport in Tampa and Plant City Airport. As a Cessna Pilot Center and Cirrus Training Center, Atlas Aviation offers individualized flight instruction using state-of-the-art training programs. The school provides a diverse fleet of rental aircraft, including Cessna 162 SkyCatchers, Cessna 172SP Skyhawks, Cessna 182T Skylanes, and Cirrus SR-22 GTS. With a commitment to professional service, Atlas Aviation also offers comprehensive line services, aircraft maintenance, and rental options 24 hours a day. Dedicated to excellence, Atlas Aviation is the go-to destination for aviation needs in the Tampa Bay area.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

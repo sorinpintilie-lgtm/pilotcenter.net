@@ -1,0 +1,22 @@
+{
+  "id": "f64f03e6-ef05-46b7-8710-59a706f49926",
+  "slug": "all-aircraft-training",
+  "name": "All Aircraft Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "FXE -Fort Lauderdale Exec Airport",
+  "website": "https://www.allaircrafttraining.com/",
+  "email": "admin@allaircrafttraining.com",
+  "phone": "(877) 228-2013",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

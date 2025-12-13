@@ -1,0 +1,22 @@
+{
+  "id": "1286b879-6d2c-4dbe-824e-b159e7873df2",
+  "slug": "south-dakota-state-university",
+  "name": "South Dakota State University",
+  "continent": "North America",
+  "country": "USA",
+  "state": "SD",
+  "city": "Brookings",
+  "baseAirport": "Brookings Regional Airport",
+  "website": "https://www.sdstate.edu/",
+  "email": "sdsu.admissions@sdstate.edu",
+  "phone": "'+1 800-952-3541",
+  "about": "The South Dakota State University Aviation Program is a renowned 4-year program offering high-quality aviation training at competitive rates. Students earn a Bachelor of Science Degree in Aviation and can specialize in Aviation Education or Aviation Maintenance Management. The Aviation Education specialization, accredited by the Aviation Accreditation Board International (AABI), prepares students to become Certified Flight Instructors and professional pilots, with top performers often serving as flight instructors during their junior and senior years. The Aviation Maintenance Management specialization partners with FAA-approved A&P programs, providing students with real-world maintenance experience. With specialized educational pathways and unmatched career support, SDSU graduates are well-prepared for successful careers in the aviation industry.",
+  "icao": "KBKX",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "F-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

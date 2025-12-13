@@ -1,0 +1,22 @@
+{
+  "id": "b1aa0922-35c9-4419-85bb-cdec694cc3fd",
+  "slug": "elmendorf-aero-club",
+  "name": "Elmendorf Aero Club",
+  "continent": "North America",
+  "country": "United",
+  "state": "AK",
+  "city": "",
+  "baseAirport": "EDF -Elmendorf Air Force Base",
+  "website": "https://www.jberaeroclub.com/",
+  "email": "natalie.vlahovich@us.af.mil",
+  "phone": "(907) 552-5435",
+  "about": "The Elmendorf Aero Club, located at Joint Base Elmendorf-Richardson (JBER), offers a comprehensive flight training program for individuals with base access, including Active Duty, Retired, Dependents, Law Enforcement, DOD Contractors, and Civil Air Patrol members. The club provides training for private pilot's licenses, as well as introductory flights and ground school courses. Members can benefit from affordable aircraft rental and parking options. The Aero Club is VA-approved, supporting advanced flight training for those with Post 9/11 GI Bill and Montgomery GI Bill benefits. To get started, prospective students can visit the facility for a tour, meet the staff, and schedule an introductory flight. The club is committed to helping individuals achieve their private pilot certificates with professional instruction and supportive resources. Visit us to take your first steps towards becoming a pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nGround School\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

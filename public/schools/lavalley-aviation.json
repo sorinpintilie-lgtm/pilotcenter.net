@@ -1,0 +1,22 @@
+{
+  "id": "3bfcc182-de38-46bd-a794-1aa27d33ae6a",
+  "slug": "lavalley-aviation",
+  "name": "Lavalley Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NY",
+  "city": "",
+  "baseAirport": "PTD -Potsdam Muni/Damon Field",
+  "website": "http://www.fly-potsdam.com/contact.html",
+  "email": "kurt@fly-potsdam.com",
+  "phone": "(315) 566-1042",
+  "about": "LaValley Aviation, located at the Potsdam Municipal Airport in Potsdam, NY, is a comprehensive aviation training facility dedicated to helping aspiring pilots achieve their dreams. Led by Chief Flight Instructor Kurt Thomas, an airline pilot with over a decade of experience, our team of professional instructors offers a range of training programs including Sport Pilot, Private Pilot, Instrument, Multi-Engine, Commercial, and Sea Plane certifications. In addition to flight training, we provide services in aircraft maintenance, scenic flights, aerial photography, aircraft management, and aircraft sales and acquisition. Our state-of-the-art online scheduling system allows students to manage their flight lessons efficiently. At LaValley Aviation, we are committed to providing top-notch instruction and support to ensure our students succeed in their aviation careers. Contact us today to schedule a discovery flight and take the first step towards your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

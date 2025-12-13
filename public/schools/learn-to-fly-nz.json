@@ -1,0 +1,22 @@
+{
+  "id": "555b6f52-80c8-4f35-a659-d06b7d8d9990",
+  "slug": "learn-to-fly-nz",
+  "name": "Learn To Fly NZ",
+  "continent": "Australia",
+  "country": "New Zealnd",
+  "state": "NZ",
+  "city": "",
+  "baseAirport": "Wanaka  Airport",
+  "website": "https://www.learntoflynz.com/",
+  "email": "info@learntoflynz.com",
+  "phone": "03 443 4043",
+  "about": "Learn To Fly NZ is a premier flight training institution in New Zealand, offering a comprehensive range of aviation courses from Private Pilot Licences to Commercial Pilot Licences and specialized programs like Mountain Flying. With no minimum educational requirements to start, our training is accessible to all, though an understanding of Mathematics and Physics is beneficial. Our experienced instructors provide hands-on, personalized training, utilizing a diverse fleet of aircraft. Based in the stunning mountainous regions, we offer a unique flying environment that enhances your skills. Whether you're aiming for recreational flying or a career in aviation, our professional full-time instructors guide you through structured training programs, ensuring you gain the necessary skills and experience to fly safely and confidently. We are dedicated to making your flying dreams a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground Courses\\nPrivate Pilot Licence (PPL)\\nCommercial Pilot Licence (CPL)\\nDiploma in Aviation (Aeroplane)\\nFlight Instructor Rating\\nType Ratings\\nFlight Packages\\nVisiting Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

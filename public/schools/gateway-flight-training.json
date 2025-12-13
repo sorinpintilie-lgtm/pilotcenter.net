@@ -1,0 +1,22 @@
+{
+  "id": "836e316f-10a0-4713-ad87-a40f7ead7495",
+  "slug": "gateway-flight-training",
+  "name": "Gateway Flight Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MO",
+  "city": "",
+  "baseAirport": "1H0 -Creve Coeur Airport",
+  "website": "https://www.gatewayflight.com/",
+  "email": "info@gatewayflight.com",
+  "phone": "(314) 780-7899",
+  "about": "Gateway Flight Training is a reputable flight school dedicated to providing high-quality aviation education. Approved by the FAA under Part 61 regulations, we offer a comprehensive range of training programs, including ground school, introductory flights, and examiner services. Our training meets the stringent standards set by the FAA, ensuring students receive thorough and professional instruction. As an insurance-approved flight training provider, we cater to various needs, from private pilot certifications to commercial multi-engine training. With a focus on hands-on flight training and rigorous ground lessons, Gateway Flight Training prepares students for successful careers in aviation, making it an excellent choice for those aspiring to become professional pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

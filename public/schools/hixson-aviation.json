@@ -1,0 +1,22 @@
+{
+  "id": "ceb2e5ee-5969-4409-9d85-add79cd570a5",
+  "slug": "hixson-aviation",
+  "name": "Hixson Aviation",
+  "continent": "North America",
+  "country": "United",
+  "state": "TN",
+  "city": "",
+  "baseAirport": "CHA -Lovell Field",
+  "website": "https://hixsonaviation.com/",
+  "email": "fly@hixsonaviation.com",
+  "phone": "(423) 842-9845",
+  "about": "Hixson Aviation Flying Club, located at the Chattanooga Metropolitan Airport in Tennessee, offers comprehensive flight training programs for aspiring pilots. We provide private and commercial pilot training, as well as specialized courses such as aerobatic training. Our certified flight instructors ensure high-quality education, adhering to Federal Aviation Regulations. The private pilot program requires a minimum of 40 hours of flight time, including dual instruction and solo flights. We also offer aircraft rental services and membership options with annual dues of $20. Our goal is to make flying accessible and enjoyable, while maintaining the highest standards of safety and instruction. Join us to embark on your aviation journey with experienced and dedicated instructors.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "8baedcde-3957-47c8-b9fd-b4f7dcde8b21",
+  "slug": "pilot-institute",
+  "name": "Pilot Institute",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "PRC -Prescott Regional - Ernest A Love Field",
+  "website": "https://pilotinstitute.com/",
+  "email": "contact@pilotinstitute.com",
+  "phone": "(855) 933-1440",
+  "about": "Pilot Institute, headquartered in Prescott, Arizona, is dedicated to providing world-class aviation training for both manned and unmanned aircraft. Founded by Greg Reverdiau, a commercial pilot and certified flight instructor, and Johann Beishline, with a background in Computer Information Systems and a passion for aviation, the institute aims to bridge the gap between theory and practical flight skills. Accredited by IACET and a member of the FAA Safety Team, Pilot Institute offers comprehensive online courses taught by certified professionals, ensuring students are well-prepared for FAA exams and real-world flying. With over 200,000 students in 98 countries and a 99% success rate, Pilot Institute focuses on making aviation accessible, safe, and enjoyable, adhering to its core values of being Connected, Current, Capable, and Confident. Our mission is to help you achieve your dreams of flight with ease and proficiency.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Drone/UAS\\nGround School\\n\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "61720e2f-d8b0-4253-a984-5c3d50f2ecb6",
+  "slug": "heritage-flight-academy",
+  "name": "Heritage Flight Academy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "NY",
+  "city": "Ronkonkoma",
+  "baseAirport": "Long Island MacArthur Airport",
+  "website": "https://heritageflightacademy.com/",
+  "email": "info@heritageflightacademy.com",
+  "phone": "'+1 631-471-3550",
+  "about": "Heritage Flight Academy is a premier flying school dedicated to providing exceptional aviation training. With a rich history and a commitment to safety, our academy offers a comprehensive range of programs from private pilot licenses to commercial aviation certifications. Our experienced instructors and state-of-the-art facilities ensure students receive top-notch education and hands-on training. We pride ourselves on fostering a supportive learning environment that prepares students for successful careers in aviation. At Heritage Flight Academy, we are passionate about nurturing the next generation of pilots with excellence and integrity.",
+  "icao": "KISP",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

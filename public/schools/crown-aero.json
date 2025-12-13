@@ -1,0 +1,22 @@
+{
+  "id": "0bdc0f85-317f-470d-ae97-0468ad534b6d",
+  "slug": "crown-aero",
+  "name": "Crown Aero",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "UDD -Bermuda Dunes Airport",
+  "website": "https://crownaero.com/",
+  "email": "customerservice@crownaero.com",
+  "phone": "(760) 345-2558",
+  "about": "Crown Aero's flight school, located at Bermuda Dunes Airport, offers comprehensive aviation training in a thriving and well-equipped environment. With over 50 years of service, the airport is a hub for aviation activities, serving the Coachella Valley area including Indian Wells, Palm Desert, and Palm Springs. The flight school provides access to a variety of aircraft, from single-engine piston planes to multi-engine corporate jets. Students benefit from professional instructors, state-of-the-art facilities, and a safe learning environment certified by the National Air Transportation Association’s Safety 1st Clean Standard. Crown Aero is committed to safeguarding clients and employees while maintaining the highest standards of cleanliness and disinfection. Our mission is to help students reach new heights in aviation with utmost care and professionalism.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

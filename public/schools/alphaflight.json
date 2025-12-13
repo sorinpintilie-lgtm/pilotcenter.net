@@ -1,0 +1,22 @@
+{
+  "id": "66a6c67d-7e0f-455b-aca1-f2fc9a143ea9",
+  "slug": "alphaflight",
+  "name": "AlphaFlight LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IN",
+  "city": "",
+  "baseAirport": "C65 -Plymouth Municipal Airport",
+  "website": "https://alphaflight.aero/",
+  "email": "alphaflight@alphaflight.aero",
+  "phone": "(574) 914-2119",
+  "about": "AlphaFlight LLC, based at Plymouth Municipal Airport in Indiana, is a Part 141 flight school dedicated to shaping the next generation of professional pilots. With over seven decades of combined aviation experience, including military and commercial flying, our instructors provide personalized training using the Symbiotics ADAPT Aviation Assessment tool. We offer a range of programs, including a two-year vocational aviation program for high school students, which includes college credits, simulator hours, and flight hours. Our approach emphasizes both the technical and human aspects of flying, ensuring students are well-prepared for their aviation careers. We also provide housing options for our Career Pilot students and are committed to mentoring and guiding students in all aspects of aviation. At AlphaFlight, we strive to raise the training bar for future aviators.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nInstrument Proficiency Check\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

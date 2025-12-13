@@ -1,0 +1,22 @@
+{
+  "id": "e8524ddc-fef6-4dd9-9aea-7d198715fe8f",
+  "slug": "california-flight-academy",
+  "name": "California Flight Academy, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SEE -Gillespie Field",
+  "website": "https://flycfa.com/",
+  "email": "info@flycfa.com",
+  "phone": "(619) 448-2212",
+  "about": "California Flight Academy, LLC, has been a premier flight training institution since 1989, offering high-quality instruction for Private Pilot, Commercial Multi-Engine, and Airline Transport Pilot (ATP) licenses. As an FAA-approved school under part 141 and part 61, and an authorized Cessna Pilot Center, CFA ensures the highest standards of safety, comfort, and education. Located in sunny San Diego, our students benefit from ideal climate conditions, a diverse student body, and a fleet of meticulously maintained aircraft. We provide personalized mentoring, job placement assistance, and career coaching to support our students' professional aviation careers. With a strong track record of graduate success, CFA is committed to helping aspiring pilots achieve their goals and excel in the aviation industry.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

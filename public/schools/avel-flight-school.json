@@ -1,0 +1,22 @@
+{
+  "id": "b82ff92d-e151-4fe6-8222-5f1b1ee640b9",
+  "slug": "avel-flight-school",
+  "name": "Avel Flight School",
+  "continent": "North America",
+  "country": "USA",
+  "state": "IL",
+  "city": "West Chicago",
+  "baseAirport": "DuPage Airport",
+  "website": "https://www.avelflightschool.com/",
+  "email": "fly@avelflightschool.com",
+  "phone": "'+1 847-466-5161",
+  "about": "Avel Flight School, located at Schaumburg Regional Airport in Chicago, is a world-renowned flight training organization known for its high standards and safety protocols that surpass FAA and ICAO requirements. Our faculty consists of highly trained, FAA-certified instructors with excellent communication skills and a passion for teaching, ensuring personalized attention for each student. The school offers a range of courses, including Private Pilot License, Commercial Pilot License, Airline Transport Pilot License, Instrument Rating, and various instructor ratings. Our facilities include fully air-conditioned classrooms, simulators, and the latest audio-visual aids, providing a conducive learning environment. With a focus on safety and broad-based training, Avel Flight School is committed to helping students achieve their aviation dreams efficiently and effectively. Join us to make your aviation aspirations a reality.",
+  "icao": "KDPA",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

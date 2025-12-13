@@ -1,0 +1,22 @@
+{
+  "id": "0d58e39b-f6ff-4210-99bc-0cc446c039c6",
+  "slug": "socal-aviation",
+  "name": "SoCal Aviation, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "CNO -Chino Airport",
+  "website": "https://socalaviationinc.com/",
+  "email": "flightschool@socalaviationinc.com",
+  "phone": "(909) 952-8036",
+  "about": "SoCal Aviation, Inc., is a family-owned flight school based in Chino, California, dedicated to providing excellent and affordable flight training. Founded by Instructor Suhail, a gold seal instructor with a high passing rate, the school offers customized training programs tailored to each student's needs. With a fleet that includes Cessna 172s equipped with G1000 glass panels, SoCal Aviation ensures a comprehensive and safe flying experience. The school is conveniently located at Chino Airport, offering easy access and favorable year-round weather. SoCal Aviation is recognized as a Distinguished Flight School and is committed to helping students achieve their aviation goals with passion and dedication. We strive to make learning to fly enjoyable and rewarding, ensuring our students take to the skies with newfound confidence and skill.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

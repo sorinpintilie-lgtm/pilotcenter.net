@@ -1,0 +1,22 @@
+{
+  "id": "f1318482-51eb-453e-9428-5ea107605b48",
+  "slug": "advanced-aviation",
+  "name": "Advanced Aviation, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "GA",
+  "city": "",
+  "baseAirport": "LZU -Gwinnett County/Briscoe Field",
+  "website": "https://www.advancedaviation.com/",
+  "email": "info@advancedaviation.com",
+  "phone": "(770) 682-9007",
+  "about": "Advanced Aviation, Inc. is a full-service flight school based in the Atlanta area, with locations at Gwinnett County Airport and DeKalb Peachtree Airport. Since 1992, we have been providing comprehensive flight training for private pilot, instrument, commercial, and certified flight instructor certifications. Our fleet includes Diamond, Cessna, and Piper aircraft, all equipped with state-of-the-art GPS navigation equipment. We also feature a certified simulator for instrument rating training and proficiency checks. With over 10 highly qualified certified flight instructors and operations 7 days a week, we offer flexible and personalized training to meet each student's needs. Additionally, we provide aircraft rental and FAA computerized testing services. Advanced Aviation is committed to delivering high-quality aviation training in a supportive and professional environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

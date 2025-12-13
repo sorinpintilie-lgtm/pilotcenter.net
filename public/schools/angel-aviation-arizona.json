@@ -1,0 +1,22 @@
+{
+  "id": "c4596b13-675b-452a-ad0c-2010327aa5b4",
+  "slug": "angel-aviation-arizona",
+  "name": "Angel Aviation - Arizona",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "GEU -Glendale Regional Airport",
+  "website": "https://angelaviation.com/",
+  "email": "Fly@AngelAviation.com",
+  "phone": "(623) 698-1413",
+  "about": "Angel Aviation Arizona Flight School, established in 2001, is a premier aviation training institution located at the Glendale Municipal Airport (KGEU). With over 15 years of experience, we have trained thousands of pilots for the aviation industry. Our fleet includes well-maintained Cessna 172s and a Piper Seneca, offering competitive rates on aircraft rental, flight instruction, and time-building programs. Founded by an aviation professional with 30 years of commercial flying experience, our school is dedicated to providing high-quality instruction and a safe learning environment. We aim to help students achieve their pilot certificates, whether for a career or a hobby, in the most efficient and safe manner possible. Our location in the greater Phoenix area offers ideal flying conditions with nearly 350 days of clear skies annually.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

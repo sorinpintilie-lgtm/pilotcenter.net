@@ -1,0 +1,22 @@
+{
+  "id": "e00343af-c5cd-4c89-9ff6-9edf34e2ef5b",
+  "slug": "epa-training-center",
+  "name": "EPA Training Center",
+  "continent": "South America",
+  "country": "Brazil",
+  "state": "",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://epa.aero/",
+  "email": "training@epa.aero",
+  "phone": "'+55-413-356-3636",
+  "about": "The EPA Training Center, with over 50 years of experience in pilot training, is a renowned institution in Brazil, Latin America. Specializing in high-quality aviation education, the center offers a range of programs including Private Pilot Licence (PPL), Night Rating, and Commercial Pilot Licence (CPL). Equipped with advanced full flight simulators, EPA Training Center provides comprehensive training that goes beyond simulator sessions, covering all aspects of aviation. Known for its outstanding instructors and excellent staff, the center has earned a reputation for delivering safe and effective training, making it a preferred choice for pilots from various nationalities. EPA Training Center is committed to excellence and customer satisfaction, ensuring a comfortable and supportive learning environment for all its students.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

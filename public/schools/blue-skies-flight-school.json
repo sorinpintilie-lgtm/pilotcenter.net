@@ -1,0 +1,22 @@
+{
+  "id": "8528c1d9-0865-43c8-8f9d-e18b6289b598",
+  "slug": "blue-skies-flight-school",
+  "name": "Blue Skies Flight School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OK",
+  "city": "",
+  "baseAirport": "GOK -Guthrie/Edmond Regional Airport",
+  "website": "https://blueskiesflightschool.com/",
+  "email": "info@blueskiesflightschool.com",
+  "phone": "(405) 260-1010",
+  "about": "Blue Skies Flight School, located at the Edmond / Guthrie airport in Oklahoma, offers comprehensive flight training from introductory levels to advanced certifications. We provide training for single engine Private, Instrument, Commercial, Flight Instructor, and ATP certificates. Our programs include personalized guidance, ground training in subjects like weather and regulations, and extensive flight time. An introductory flight, costing $125, allows prospective students to experience flight training and log hours towards their license. Our fleet includes well-equipped Cessna aircraft, and we offer additional services such as flight reviews and recurrent training. With a commitment to safety and proficiency, Blue Skies Flight School is dedicated to helping aspiring pilots achieve their aviation goals. Contact us today to start your flight training journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

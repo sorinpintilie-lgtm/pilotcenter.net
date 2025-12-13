@@ -1,0 +1,22 @@
+{
+  "id": "284f7882-c531-4e08-ac47-4229271cc356",
+  "slug": "smartaero",
+  "name": "Smartaero",
+  "continent": "Europe",
+  "country": "Poland",
+  "state": "POL",
+  "city": "",
+  "baseAirport": "Mazowiecki Warsaw-Modlin Airport",
+  "website": "https://smartaero.pl/",
+  "email": "info@smartaero.pl",
+  "phone": "'+48 530 380 090",
+  "about": "Smartaero, located near Warsaw at Modlin Airport (EPMO), is a flight school dedicated to providing comprehensive and personalized aviation training. We conduct all training in compliance with PART-FCL regulations and offer individual conversion programs to cater to the unique needs of each student. Upon enrollment, each candidate is assigned a dedicated instructor who proposes a tailored \"learning path\" to ensure optimal progress. Our training facilities operate year-round, day and night, ensuring flexibility for our students. With a focus on individual approach and compliance with stringent aviation standards, Smartaero is committed to helping aspiring pilots achieve their aviation goals. Join us to embark on a professional and fulfilling aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Training for the PPL(A) tourist pilot license\\nVFR NIGHT\\nTraining for MEP(L) qualification\\nIR(A) SE/M\\nCPL(A)\\nFI(A) Flight Instructor Training\\nATPL(A) Airline Pilot License Training\\nCRI(SP)S / CRI(SP)M qualification training\\nInstrument Flight Instructor Training IRI(A)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

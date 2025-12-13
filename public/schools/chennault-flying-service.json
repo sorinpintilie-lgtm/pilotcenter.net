@@ -1,0 +1,22 @@
+{
+  "id": "d40d3fb0-817a-41a7-b27e-1a94fdf929a0",
+  "slug": "chennault-flying-service",
+  "name": "CHENNAULT FLYING SERVICE",
+  "continent": "North America",
+  "country": "USA",
+  "state": "NV",
+  "city": "North Las Vegas",
+  "baseAirport": "North Las Vegas Airport",
+  "website": "https://www.chennaultflyingservice.com/",
+  "email": "admin@cfsflightschool.com",
+  "phone": "'+1 702-835-1222\n+1 702-707-6510",
+  "about": "Chennault Flying Service (CFS) is a veteran-owned and operated, full-service flight training company based in Las Vegas, NV. Founded in 2015, CFS merged with Elite Aviation VGT in 2021 to offer FAA Part 141 certified training programs. We provide high-quality instruction in private, commercial, instrument, ATP, and flight instructor certifications, with a focus on personalized and efficient training. Our instructors are hand-selected and undergo rigorous training based on military flying principles, ensuring a high pass rate on first-time check-rides and successful job placements. We offer various programs, including accelerated career pilot programs with job placement assistance and financing options. Our commitment to quality over quantity ensures our students achieve their aviation goals quickly and effectively. At CFS, we prepare you for success in aviation with professional and dedicated training.",
+  "icao": "KVGT",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

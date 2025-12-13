@@ -1,0 +1,22 @@
+{
+  "id": "9d663aca-7bfe-4821-ae4e-11bf1822d29d",
+  "slug": "jefferson-city-flying-service",
+  "name": "Jefferson City Flying Service",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MO",
+  "city": "",
+  "baseAirport": "JEF -Jefferson City Memorial Airport",
+  "website": "https://jcfs.net/",
+  "email": "mail@jcfs.net",
+  "phone": "(573) 636-5118",
+  "about": "Jefferson City Flying Service is a comprehensive aviation facility located at the Jefferson City Memorial Airport in Missouri. We offer a range of flight training programs, including Private Pilot Certificate, Commercial Pilot Certificate, Flight Instructor, and Instrument Rating certifications. Our flight school is equipped with a diverse fleet and provides additional ground school and seminars to ensure thorough preparation for all aviation aspirations. Beyond flight training, we provide line service, customer service, maintenance, and avionics support, making us a one-stop solution for all your aviation needs. Our friendly and professional staff are dedicated to helping you achieve your flying goals. Whether you're a novice or an experienced pilot, Jefferson City Flying Service is here to meet all of your aviation requirements.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

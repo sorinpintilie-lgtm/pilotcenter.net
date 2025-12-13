@@ -1,0 +1,22 @@
+{
+  "id": "ea6c1e6c-44ae-45a4-a3ba-2790928e53d3",
+  "slug": "eas-barcelona",
+  "name": "EAS Barcelona",
+  "continent": "Europe",
+  "country": "Spain",
+  "state": "",
+  "city": "Sabadell",
+  "baseAirport": "Sabadell Airport",
+  "website": "https://easbcn.com/",
+  "email": "info@easbcn.com",
+  "phone": "'+34 932 50 20 20",
+  "about": "EAS Barcelona, located at Sabadell Airport near Barcelona, Spain, is a premier flight school with over 30 years of experience in pilot training. Recognized for its quality, EAS Barcelona has trained over 2,000 pilots, many of whom are now captains and first officers with leading airlines worldwide. The school offers comprehensive programs, including the Integrated ATPL Course, Modular Training, Advanced Upset Prevention and Recovery Training, and Airline Pilot Standard Multi-Crew Cooperation training using Airbus A320 simulators. With a modern fleet of Tecnam aircraft and a commitment to integrating new technologies, EAS Barcelona ensures students are well-prepared for a successful aviation career. The school's dedication to excellence and continuous updating of training philosophies makes it a leading aviation training institution in Europe. EAS Barcelona is the ideal choice for aspiring pilots seeking a high-quality education and a promising future in aviation.",
+  "icao": "LELL",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

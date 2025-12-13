@@ -1,0 +1,22 @@
+{
+  "id": "d8fa809e-fee0-4a3b-95c6-de1640098c5d",
+  "slug": "visalia-flyers",
+  "name": "Visalia Flyers LLC",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CA",
+  "city": "Visalia",
+  "baseAirport": "Visalia Municipal Airport",
+  "website": "https://www.visaliaflyers.com/",
+  "email": "byron@visaliaflyers.com",
+  "phone": "'+1 559-804-4080",
+  "about": "Visalia Flyers LLC is a premier Part 61 flight school located at the Visalia Municipal Airport (KVIS). We offer affordable and professional flight training in our fleet of Cessna 150 and 172 aircraft. Our experienced and certified flight instructors (CFIs) are dedicated to helping both novice and seasoned pilots achieve their aviation goals. In addition to flight training, we provide aircraft rental services, catering to a wide range of aviation needs. Whether you're pursuing a private pilot's license or advanced certifications, Visalia Flyers is committed to providing a safe, supportive, and comprehensive learning environment. Unlock the skies with us and start your flying journey today.",
+  "icao": "KVIS",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

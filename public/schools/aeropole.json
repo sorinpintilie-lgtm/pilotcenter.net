@@ -1,0 +1,22 @@
+{
+  "id": "a6652167-45ba-4ac9-a8e9-a96aac995e37",
+  "slug": "aeropole",
+  "name": "Aeropole",
+  "continent": "Europe",
+  "country": "Finland",
+  "state": "",
+  "city": "Helsinki",
+  "baseAirport": "Helsinki-Vantaa Airport (HEL, EFHK)",
+  "website": "https://www.aeropole.fi/",
+  "email": "info@aeropole.fi",
+  "phone": "'+358 9 5627 4600",
+  "about": "Aeropole, located in Helsinki, Finland, offers high-quality flight training in a disciplined and controlled environment at Helsinki-Malmi Airport. We provide international students the opportunity to train on latest-generation aircraft, with a focus on glass cockpit (G1000) training as well as basic tuition on traditional instruments. Our programs are designed to balance hard study with extracurricular activities, given the airport's proximity to the city centre. Aeropole is committed to delivering excellent customer service and ensuring a well-rounded education for aspiring pilots. We strive to create a professional and supportive learning environment, making Aeropole an ideal choice for those seeking to pursue a career in aviation.",
+  "icao": "EFHK",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nInstrument Rating (IR)\\nSeaplane Rating\\nNight Rating\\nEASA ATPL Ground School\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "e4c326db-2c5b-41a1-a89d-1a3368848f52",
+  "slug": "aspen-flying-club",
+  "name": "Aspen Flying Club",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CO",
+  "city": "Englewood",
+  "baseAirport": "Centennial Airport",
+  "website": "https://americanflightschools.com/",
+  "email": "fly@aspenflyingclub.com",
+  "phone": "'+1 303-799-6794",
+  "about": "Aspen Flying Club, located at Centennial Airport in Denver, Colorado, is a renowned flight training school and flying club with a history spanning over 35 years. Founded in 1977, the club has grown to include 30 aircraft and over 400 members. We offer comprehensive flight training programs for private, instrument, commercial, multi-engine, CFI, and ATP certifications. Our diverse fleet includes Cessna, Piper, Diamond, and Gobosh aircraft, and we provide state-of-the-art facilities, including a full motion flight simulator. With a focus on quality, safety, and service, Aspen Flying Club creates a friendly and engaging environment for both recreational and professional pilots. We are committed to providing exceptional customer service and the most affordable flight lessons in the Denver area. Join us to experience the best in aviation training and community.",
+  "icao": "KAPA",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

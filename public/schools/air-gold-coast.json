@@ -1,0 +1,22 @@
+{
+  "id": "b9379e1e-c699-4abe-9ad2-9a79626f863a",
+  "slug": "air-gold-coast",
+  "name": "Air Gold Coast",
+  "continent": "Oceania",
+  "country": "Australia",
+  "state": "",
+  "city": "",
+  "baseAirport": "Gold Coast Airport",
+  "website": "https://airgoldcoast.com.au/",
+  "email": "admin@airgoldcoast.com.au",
+  "phone": "'+61 7-5536-2822",
+  "about": "Air Gold Coast is a premier Flight Training academy in Australia, located at the Gold Coast International Airport, Coolangatta. We offer a world-class training facility, late-model training aircraft, and an innovative curriculum, making us the logical choice for career-oriented pilots. With the ability to provide training from single-engine aircraft to Citation Jet ratings, we cater to a wide range of aviation aspirations. Our location in the Gold Coast, known for its ideal coastal climate and favourable weather, ensures year-round flight training. Operating from a radar-controlled airport, students gain valuable experience among commercial airliners. Safety and security are paramount, and our friendly, professional staff and well-maintained facilities ensure a supportive and educational environment. We are a Registered Training Organisation with CRICOS approval, making us an excellent choice for both domestic and international students. Contact us to start your flying career today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

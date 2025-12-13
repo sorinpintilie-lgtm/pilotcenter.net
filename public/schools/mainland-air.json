@@ -1,0 +1,22 @@
+{
+  "id": "954a330a-830d-4415-86ba-437c8bed1c6b",
+  "slug": "mainland-air",
+  "name": "Mainland Air",
+  "continent": "Oceania",
+  "country": "New Zealand",
+  "state": "",
+  "city": "",
+  "baseAirport": "Dunedin International Airport",
+  "website": "https://www.mainlandair.com/",
+  "email": "info@mainlandair.com",
+  "phone": "'+64 3-486-2200",
+  "about": "Mainland Air, established in 1991, is a renowned flight training and air charter company based in Dunedin, New Zealand. Our flying school, Mainland Aviation College, offers professional training programs including the Private Pilot's Licence (PPL) and the NZ Diploma in Aviation. We utilize a fleet of Cessna 152, Cessna 172, Piper Chieftain, and Piper Seneca aircraft for training and charter services. Our experienced instructors provide personalized training, and we have a proud history of safely training hundreds of students from around the world. In addition to flight training, Mainland Air offers scenic flights and executive air charters, showcasing New Zealand's breathtaking scenery. We are committed to providing a safe, supportive, and inclusive learning environment for all our students. Join us to achieve your aviation goals with the expertise and passion of Mainland Air.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

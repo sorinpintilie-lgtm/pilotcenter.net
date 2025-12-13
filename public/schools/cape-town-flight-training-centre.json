@@ -1,0 +1,22 @@
+{
+  "id": "603cd52b-cb54-49f7-8a63-2d32f65c9ca4",
+  "slug": "cape-town-flight-training-centre",
+  "name": "Cape Town Flight Training Centre",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "WC",
+  "city": "",
+  "baseAirport": "Cape Winelands Airport",
+  "website": "https://ctftc.co.za/",
+  "email": "info@cape-town-flying.co.za",
+  "phone": "'+27 (0) 21 976 7053",
+  "about": "Cape Town Flight Training Centre (CTFTC), established in 2003 at Cape Winelands Airport, offers professional flight training for both private and commercial pilots. With a team of 25 staff, including 11 full-time instructors, and a fleet of nine modern aircraft, CTFTC provides comprehensive training programs that include Private Pilot's Licence, Commercial Pilot's Licence, Instrument Rating, and various ratings. As a licensed Aviation Training Organisation (ATO) of the South African Civil Aviation Authority (SACAA), CTFTC adheres to international standards set by the International Civil Aviation Organisation (ICAO). The school is known for its high safety record and personalized approach to training, ensuring each student receives customized guidance throughout their program. CTFTC is committed to providing the highest standard of flight training, inspiring students to continually improve their competency as recreational or professional pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot’s License\\nCommercial Pilot’s License\\nGround School\\nRatings\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

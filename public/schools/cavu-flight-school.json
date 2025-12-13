@@ -1,0 +1,22 @@
+{
+  "id": "28383951-6ccd-4a42-bbbf-0d95099ee510",
+  "slug": "cavu-flight-school",
+  "name": "CAVU Flight School",
+  "continent": "North America",
+  "country": "United States",
+  "state": "SC",
+  "city": "",
+  "baseAirport": "GMU -Greenville Downtown Airport",
+  "website": "https://cavuflightschool.com/",
+  "email": "contact@cavuflightschool.com",
+  "phone": "(864) 518-3806",
+  "about": "CAVU Flight School, located in Greenville, South Carolina, offers a comprehensive flight training experience tailored to aspiring pilots of all levels. From the initial Private Pilot Certificate to advanced Commercial Single and Multi-Engine aircraft ratings, our programs are designed to meet the unique needs of each student. Instruction is provided on a one-to-one basis, ensuring personalized attention and expertise from our experienced instructors. We guide students through every step, from private flying to professional aviation careers, with clear pathways outlined for obtaining Instrument and Commercial Pilot Licenses. With a focus on safety, professionalism, and community engagement, CAVU Flight School is dedicated to helping you achieve your aviation dreams. Let your dreams take flight with us.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

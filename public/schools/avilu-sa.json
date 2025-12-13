@@ -1,0 +1,22 @@
+{
+  "id": "05e1e9a8-33aa-4d83-bd68-6684a3e39ee3",
+  "slug": "avilu-sa",
+  "name": "Avilu SA",
+  "continent": "Europe",
+  "country": "Switzerland",
+  "state": "",
+  "city": "",
+  "baseAirport": "Lugano Airport",
+  "website": "https://avilu.ch/en/",
+  "email": "info@avilu.ch",
+  "phone": "'+41 91 610 16 16",
+  "about": "Avilù SA, located at Lugano Airport in Agno, Switzerland, is a renowned flight school with a rich history dating back to 1937. As an Approved Training Organisation (ATO), Avilù offers comprehensive training programs for private PPL, commercial CPL, and airline ATPL pilots, as well as for balloon and drone pilots. The school boasts a diverse fleet of modern and traditional aircraft, including the Tecnam P2010 TDI, Pipistrel Velis Electro, and Diamond DA-42 NG. With a team of over 40 certified instructors, Avilù provides both practical and theoretical training adhering to international standards. The school is committed to professionalism, precision, and flexibility, offering ad hoc programs to meet every need. Avilù has been a trusted partner in aviation education for nearly a century, dedicated to training tomorrow’s pilots with Swiss quality and excellence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airplanes\\nHot air balloons\\nDrones / UAV\\nHelicopters\\nBoating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

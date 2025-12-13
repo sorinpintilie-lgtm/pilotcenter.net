@@ -1,0 +1,22 @@
+{
+  "id": "895b5a96-98ee-4985-bffa-ed702cba44c4",
+  "slug": "wings-of-eagles",
+  "name": "Wings of Eagles",
+  "continent": "North America",
+  "country": "USA",
+  "state": "TN",
+  "city": "Smyrna",
+  "baseAirport": "Smyrna Airport, TN (MQY)",
+  "website": "https://www.flywingsofeagles.com/",
+  "email": "info@flywoe.com",
+  "phone": "'+1 615-355-0033",
+  "about": "Wings of Eagles Aviation is a premier flight training institution based in Middle Tennessee, with over 16 years of experience in providing professional flight training. As a FAA-approved 141 flight training facility and an affiliate of Liberty University, we offer a comprehensive range of programs including sport pilot, private pilot certification, instrument rating, multi-engine rating, and commercial pilot certification. Our training includes both single-engine aircraft and simulator sessions, along with additional ground school and seminars. We are committed to helping our students achieve their aviation goals, whether it's transitioning from rotor to fixed-wing aircraft or advancing to commercial flying careers. Our dedicated team of instructors ensures a high standard of training, preparing students for successful careers in aviation. For more information, contact us at 615-355-0033.",
+  "icao": "KMQY",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

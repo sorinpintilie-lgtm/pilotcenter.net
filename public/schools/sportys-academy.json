@@ -1,0 +1,22 @@
+{
+  "id": "62c0498b-3e11-4079-a30a-cbb78291b975",
+  "slug": "sportys-academy",
+  "name": "Sporty’s Academy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "OH",
+  "city": "Batavia",
+  "baseAirport": "Clermont County Airport",
+  "website": "https://sportysacademy.com/",
+  "email": "Fly@SportysAcademy.com",
+  "phone": "'+1 513-735-9500",
+  "about": "Sporty’s Academy, located at the Clermont County Airport in Ohio, is a premier pilot training center with a rich history dating back to 1961. Founded by Hal Shevers, a dedicated flight instructor, the academy offers a wide range of training programs from recreational to career pilot certifications. Partnered with the University of Cincinnati, Sporty’s provides associate's and bachelor's degrees in business administration with an aviation minor. The academy is known for its high-quality aircraft, including late-model Cessna 172s and other advanced planes, and its experienced instructors, many of whom are Master Flight Instructors. With a focus on quality, service, and making flight training accessible and enjoyable, Sporty’s Academy ensures a comprehensive and rewarding aviation experience for all its students.",
+  "icao": "I69",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

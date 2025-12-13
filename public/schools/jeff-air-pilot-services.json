@@ -1,0 +1,22 @@
+{
+  "id": "b4f4ea5a-1e02-4dd9-a8bb-6c1c8b5f8855",
+  "slug": "jeff-air-pilot-services",
+  "name": "Jeff Air Pilot Services",
+  "continent": "North America",
+  "country": "USA",
+  "state": "IN",
+  "city": "Greenwood",
+  "baseAirport": "Indy South Greenwood Airport",
+  "website": "https://flywithjeffair.com/",
+  "email": "fly@flywithjeffair.com",
+  "phone": "'+1 317-887-5723",
+  "about": "Jeff Air Pilot Services, founded in 2011 by retired airline pilot Tom Jeffries, is a family-owned and operated flight school based in Greenwood, Indiana. We offer a wide array of flight training programs under FAA Part 141 and Part 61 regulations, catering to both aspiring professionals and recreational pilots. Our highly skilled instructors, with backgrounds in corporate travel, wildlife studies, and airline piloting, provide syllabus-driven, professional flight lessons. We maintain meticulously inspected aircraft and offer flexible training schedules. As a Veteran benefits flight school, we support U.S. military veterans through the Montgomery and Post-9/11 GI Bill programs. With a 96% satisfaction rate, we are committed to making flight training accessible and enjoyable for everyone. Whether you're starting a career in aviation or pursuing a new hobby, our dedicated team will help you achieve your flying goals.",
+  "icao": "KHFY",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

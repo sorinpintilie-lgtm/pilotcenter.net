@@ -1,0 +1,22 @@
+{
+  "id": "326abf84-3905-44a7-8488-c5189aff2c49",
+  "slug": "neu-aviation",
+  "name": "Neu Aviation, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "LA",
+  "city": "",
+  "baseAirport": "DTN -Shreveport Downtown Airport",
+  "website": "https://www.neuaviation.com/",
+  "email": "info@neuaviation.com",
+  "phone": "(318) 734-9840",
+  "about": "Neu Aviation, LLC, is a premier flight school located at the Shreveport Downtown Airport in Louisiana. As a family-owned and operated business, we are dedicated to providing personalized and safe flight training. Our instructors, many of whom are military-trained veterans, bring over 30 years of combined instruction experience and more than 6,000 aircraft hours. We offer a range of programs, including private pilot's licenses, instrument ratings, commercial certificates, and multi-engine ratings. Our fleet includes three Cessna Skyhawks and a Travel Air, all equipped with the latest Garmin avionics. Our maintenance team, staffed by FAA-certified A&P/IA technicians, ensures our aircraft are always in excellent condition. We prioritize safety and proficiency, fostering a community of aviators in the Shreveport-Bossier area. Join us for a discovery flight and start your aviation journey today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

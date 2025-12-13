@@ -1,0 +1,22 @@
+{
+  "id": "dc81769d-06ae-4a62-a8c4-e93f1b7aa1b1",
+  "slug": "university-of-central-missouri",
+  "name": "University of Central Missouri",
+  "continent": "North America",
+  "country": "USA",
+  "state": "MO",
+  "city": "Warrensburg",
+  "baseAirport": "Max B. Swisher Skyhaven Airport",
+  "website": "https://www.ucmo.edu/",
+  "email": "admit@ucmo.edu",
+  "phone": "'+1 660-543-4111",
+  "about": "The University of Central Missouri's Department of Aviation offers a renowned Professional Pilot program, grounded in over 50 years of tradition and history. Located at the Max B. Swisher Skyhaven Airport, the only university-owned airport in Missouri, students benefit from hands-on learning and access to a fleet of aircraft, including C-172s and B58s, as well as state-of-the-art Frasca and Redbird flight simulators. The program is accredited by the Council on Aviation Accreditation (CAA) and boasts a 100% job placement rate for pilots. With a strong emphasis on safety, critical thinking, and teamwork, UCM prepares students for successful careers as professional pilots or in aviation management, ensuring they are well-equipped to navigate the complexities of modern flight operations. UCM's aviation program is a gateway to an exciting and rewarding career in the aviation industry.",
+  "icao": "KRCM",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "F-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

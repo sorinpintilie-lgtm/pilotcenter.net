@@ -1,0 +1,22 @@
+{
+  "id": "0f4f2429-4d2c-478e-b080-d84ae318dc24",
+  "slug": "avia-aviation-pty",
+  "name": "AVIA AVIATION PTY LTD",
+  "continent": "Australia",
+  "country": "Victoria",
+  "state": "VIC",
+  "city": "",
+  "baseAirport": "Moorabbin Airport",
+  "website": "https://www.aviaaviation.com.au/",
+  "email": "info@aviaaviation.com.au",
+  "phone": "(03) 8677 7760",
+  "about": "Avia Aviation, founded in 2011, is a premier flight school based at Moorabbin Airport in Melbourne, Australia. As the longest-standing Cirrus training organisation in Australia, Avia boasts a team of highly experienced instructors, including a Platinum Cirrus Standardised Instructor Pilot (CSIP). Our staff, with over 14,000 hours of combined flying experience, are dedicated to providing world-class general aviation services. We offer training for Recreational, Private, and Commercial Pilot Licences, as well as Multi-Engine and IFR training. Our commitment to safety and client satisfaction is unwavering, ensuring a smooth and efficient aviation experience. With a focus on tailored instruction and continuous learning, Avia Aviation is your trusted partner in achieving your aviation goals. We are passionate about flying and dedicated to helping you succeed.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Recreational Pilot Licence (RPL)\\nPrivate Pilot Licence (PPL)\\nCommercial Licence\\nNight VFR Rating\\nMulti-Engine Class Rating\\nInstrument Rating\\nInstrument Proficiency Check\\nFlight Instructor Rating\\nCAPS® Training\\nCirrus Training\\nOverseas Licence Conversion\\nRusty Pilots Course\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

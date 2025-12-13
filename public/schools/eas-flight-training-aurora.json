@@ -1,0 +1,22 @@
+{
+  "id": "50d7f8a8-fb3b-4ec7-b509-e8c4a2323358",
+  "slug": "eas-flight-training-aurora",
+  "name": "EAS Flight Training - Aurora",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MO",
+  "city": "",
+  "baseAirport": "2H2 -Jerry Sumners Sr Aurora Municipal Airport",
+  "website": "https://www.easflighttraining.com/",
+  "email": "info@easflighttraining.com",
+  "phone": "(417) 678-3000",
+  "about": "EAS Flight Training, operating at the Aurora location, is a comprehensive FAA Part 61 flight training center. We provide complete flight and ground training for various certifications, including private, instrument, commercial, initial flight instructor, and multi-engine ratings. As an FAA-certified written testing center, we offer all FAA and FCC testing in cooperation with PSI. Our programs are designed to meet the standards for each certification, with total program costs clearly outlined. We also offer specialized training such as tailwheel, complex, and high-performance endorsements. With experienced instructors and a commitment to safety, EAS Flight Training is dedicated to helping students achieve their aviation goals efficiently and effectively. We welcome students of all levels, from beginners to career pilots, and are open 7 days a week from 8:00 AM to 5:30 PM. EAS Flight Training is your trusted partner in aviation education.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

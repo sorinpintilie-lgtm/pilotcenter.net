@@ -1,0 +1,22 @@
+{
+  "id": "35e1a88d-f73a-4462-83a8-9c625020131f",
+  "slug": "columbus-flying-club",
+  "name": "Columbus Flying Club",
+  "continent": "North America",
+  "country": "United",
+  "state": "OH",
+  "city": "",
+  "baseAirport": "OSU -Ohio State University Airport",
+  "website": "https://www.columbusflyingclub.org/",
+  "email": "info@columbusflyingclub.org",
+  "phone": "(614) 696-9936",
+  "about": "Columbus Flying Club, established in 2020, is a dedicated flight training institution based in Columbus, Ohio. We offer comprehensive training programs for both Sport Pilot and Private Pilot certificates, adhering to FAA regulations. Our experienced instructors, including Abel Joel and Parimal Dandekar, provide personalized ground and flight instruction. Members can take advantage of discovery flights to gauge their interest and skill level. We prioritize safety through thorough pre-flight inspections, comprehensive safety briefings, and the use of aircraft equipped with full airframe parachutes. Our training costs are transparent, with estimates provided for both minimum FAA requirements and national averages. Join us to embark on your aviation journey with a commitment to safety, excellence, and member satisfaction.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nIntro Flight\\nCommercial\\nPrivate Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

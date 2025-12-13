@@ -1,0 +1,22 @@
+{
+  "id": "2e350e51-3669-4bce-a371-954153495e35",
+  "slug": "air-trek-north",
+  "name": "Air Trek North",
+  "continent": "North America",
+  "country": "USA",
+  "state": "MN",
+  "city": "Lakeville",
+  "baseAirport": "Lakeville Airport FBO",
+  "website": "https://www.airtreknorth.com/",
+  "email": "info@airtreknorth.com",
+  "phone": "'+1 952-594-1184",
+  "about": "Air Trek North, located at Airlake Airport in Lakeville, Minnesota, is a distinguished flight school offering a comprehensive range of training programs. We provide airplane and seaplane flight training, including Private, Instrument, Commercial, Multi-Engine, and Certified Flight Instructor (CFI) certifications. Recognized by AOPA as a Distinguished Flight School in 2019, we pride ourselves on personalized training plans tailored to each student's schedule and learning needs. With an owner who is an airline pilot, we have a strong track record of placing graduates in major airlines, regional airlines, cargo carriers, and charter companies worldwide. Our commitment to individualized instruction ensures that every student receives the best possible training to achieve their flying dreams. Turn your dream into reality with Air Trek North.",
+  "icao": "KLVN",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nSeaplane Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

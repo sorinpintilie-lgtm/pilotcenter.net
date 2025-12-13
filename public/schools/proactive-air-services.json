@@ -1,0 +1,22 @@
+{
+  "id": "5e1058fe-c8de-49af-93a7-edc895185138",
+  "slug": "proactive-air-services",
+  "name": "Proactive Air Services",
+  "continent": "Africa",
+  "country": "Kenya",
+  "state": "KENY",
+  "city": "",
+  "baseAirport": "Wilson Airport",
+  "website": "https://www.proactiveairservices.com/",
+  "email": "info[at]proactiveairservices.com",
+  "phone": "'+254 772 292 016",
+  "about": "Proactive Air Services is a Kenya Civil Aviation Authority (KCAA) approved flight training school based at Wilson Airport, Nairobi, Kenya. As an Approved Training Organisation (ATO), we offer comprehensive training for aspiring pilots, whether they aim to become private pilots or commercial pilots. Our courses are designed for individuals aged 17 and above, with a high school diploma or higher tertiary qualification, a national ID or passport, and a valid Kenyan medical certificate. We prioritize safety, professionalism, and quality assurance, ensuring that our students are well-trained and nurtured. Our experienced instructors provide customized training to suit full-time professionals and part-time students alike. At Proactive Air Services, we equip you with the skills to pilot an aircraft and open the door to a career filled with excitement and exploration.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nMEIR\\nLicense Conversion\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

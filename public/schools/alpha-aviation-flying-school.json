@@ -1,0 +1,22 @@
+{
+  "id": "99f38bf4-2d9b-4578-920e-4b38cb2caa3b",
+  "slug": "alpha-aviation-flying-school",
+  "name": "Alpha Aviation Flying School",
+  "continent": "Africa",
+  "country": "Kenya",
+  "state": "KENY",
+  "city": "",
+  "baseAirport": "Wilson Airport",
+  "website": "https://alphaaviation.co.ke/",
+  "email": "info@alphaaviation.co.ke",
+  "phone": "'+254 701 030725",
+  "about": "At Alpha Aviation, we are dedicated to shaping the future of aviation by providing exceptional flight training. Led by experienced airline professionals, our mission is to offer personalized and comprehensive learning experiences for aspiring pilots. We incorporate state-of-the-art flight simulation and aviation technology, and our training programs include Part 141 and Part 61 certifications. With a focus on safety, opportunity for all, and professionalism, we ensure our students receive a well-rounded education and mentorship from active pilots. Our goal is to empower students to achieve their career goals with confidence, preparing them for successful careers in aviation. Join our community of professional pilots and start your journey to becoming a commercial pilot today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"C.P.L\\nP.P.L\\nF.O.D\\nMULTI-IR TRAINING\\nMECHANICAL ENGINEERING\\nF.I.R\\nCABIN CREW\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

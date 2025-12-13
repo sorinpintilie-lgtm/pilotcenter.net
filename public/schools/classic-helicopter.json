@@ -1,0 +1,22 @@
+{
+  "id": "55d3bd52-ca20-425c-973e-0024cdd20f86",
+  "slug": "classic-helicopter",
+  "name": "Classic Helicopter Corporation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "S50 -Auburn Municipal Airport",
+  "website": "http://www.classicheli.com",
+  "email": "info@classicheli.com",
+  "phone": "(206) 767-0515",
+  "about": "Classic Helicopter Corp., a veteran-owned and operated flight school, is the only Part 141, Federal Aviation Administration (FAA)-regulated helicopter flight school in Washington State. Located in Seattle, Washington, the school offers a comprehensive range of FAA-approved CFR Part 141 courses. Our experienced and best-in-class pilots provide top-notch training, ensuring students receive the highest quality education. We are also certified as a Part 133 external load operator and approved for training veterans under the GI Bill and AVOTEC. At Classic Helicopter Corp., we are dedicated to producing skilled and confident helicopter pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nGround School\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

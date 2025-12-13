@@ -1,0 +1,22 @@
+{
+  "id": "3e8e078e-5ba7-4d85-8de7-4892a50149e1",
+  "slug": "fly-the-beach",
+  "name": "Fly The Beach",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "DTS -Destin Exec Airport",
+  "website": "https://flythebeach.com/",
+  "email": "contactus@flythebeach.com",
+  "phone": "(850) 290-2261",
+  "about": "Fly The Beach flying school is a premier aviation training institution, dedicated to providing top-notch flight education in a friendly and professional environment. Located in a scenic coastal area, our school offers a range of programs, including private pilot, instrument rating, and commercial pilot licenses. We utilize state-of-the-art aircraft and advanced flight simulators to ensure comprehensive training. With a low student-to-instructor ratio, our experienced instructors provide personalized attention to each student. Our partnerships with major airlines and career placement assistance guarantee a smooth transition into a professional flying career. Whether you aspire to fly for recreation or as a career, Fly The Beach flying school is committed to making your aviation dreams a reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nPrivate Pilot\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

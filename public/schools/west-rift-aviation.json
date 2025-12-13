@@ -1,0 +1,22 @@
+{
+  "id": "5637710e-eb8f-4439-aea3-0ac084830bda",
+  "slug": "west-rift-aviation",
+  "name": "West Rift Aviation",
+  "continent": "Africa",
+  "country": "Kenya",
+  "state": "KENY",
+  "city": "",
+  "baseAirport": "Wilson Airport",
+  "website": "https://westriftaviation.co.ke/",
+  "email": "info@westriftaviation.co.ke",
+  "phone": "'+254 704 26 50 37",
+  "about": "West Rift Aviation, established on May 31, 2013, is a leading aviation flight school in Kenya, based at Wilson Airport. We offer premium and affordable flight training courses, including Private Pilot License (PPL), Commercial Pilot License (CPL), Airline Transport Pilot License (ATPL), Flight Instructor Rating (FIR), and Instrument Rating (IR), as well as conversion and refresher training. Our modern fleet of aircraft and highly professional, certified instructors ensure top-notch training. With a supportive management team and well-maintained facilities, we provide an inclusive and organized learning environment. West Rift Aviation is committed to delivering quality flight training to aspiring pilots, fostering success and satisfaction in their aviation careers.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot Licence\\nCommercial Pilot Licence\\nFlight Instructors Course\\nInstrumental Rating\\nFlight Dispatch\\nAir Transport Pilot's License\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

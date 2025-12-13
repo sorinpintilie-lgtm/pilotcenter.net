@@ -1,0 +1,22 @@
+{
+  "id": "0b57c06b-e231-4adc-959c-f3e8eb93fd79",
+  "slug": "dakota-flight-center",
+  "name": "Dakota Flight Center, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "SD",
+  "city": "",
+  "baseAirport": "MHE -Mitchell Municipal Airport",
+  "website": "https://www.dakotaflight.com/",
+  "email": "partners@dakotaflight.com",
+  "phone": "(605) 299-4359",
+  "about": "Dakota Flight Center, LLC, located at the Mitchell Municipal Airport (KMHE), is a comprehensive flight training institution dedicated to nurturing the next generation of aviators. We offer a wide range of training programs, including Biennial Flight Reviews, Ground School, IFS Certifications, Instrument Proficiency Checks, Introductory Flights, and Time Building Programs. Our experienced instructors and state-of-the-art facilities ensure that students receive high-quality training in a safe and supportive environment. At Dakota Flight Center, we are committed to helping our students achieve their aviation goals with professionalism and excellence. We strive to make every flight a memorable and educational experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nIFS Certifications\\nInstrument Proficiency Check\\nIntro Flight\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nPrivate Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

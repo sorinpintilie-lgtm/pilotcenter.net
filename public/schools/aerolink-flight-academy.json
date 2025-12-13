@@ -1,0 +1,22 @@
+{
+  "id": "f1ca891b-61b5-4471-bf39-142c166f7915",
+  "slug": "aerolink-flight-academy",
+  "name": "Aerolink Flight Academy",
+  "continent": "Europe",
+  "country": "Spain",
+  "state": "",
+  "city": "Sabadell",
+  "baseAirport": "Sabadell Airport",
+  "website": "https://aerolink.es/",
+  "email": "info@aerolink.es / training@aerolink.es",
+  "phone": "'+34 671 421 233",
+  "about": "Aerolink Flight Academy is a premier flight training institution dedicated to producing highly skilled and safety-conscious pilots. Established with a commitment to excellence, our academy offers a comprehensive range of programs from private pilot licenses to commercial aviation certifications. Our state-of-the-art facilities, modern fleet, and experienced instructors ensure a rigorous and supportive learning environment. We prioritize individualized attention and flexible scheduling to accommodate diverse student needs. With a strong focus on safety, professionalism, and continuous improvement, Aerolink Flight Academy is the ideal choice for aspiring pilots seeking a successful aviation career. We are proud to be a trusted name in flight education.",
+  "icao": "LELL",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

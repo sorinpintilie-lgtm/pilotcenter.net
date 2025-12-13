@@ -1,0 +1,22 @@
+{
+  "id": "9f0b3e16-e354-48e3-9af2-11e83e996306",
+  "slug": "mi-air-aviation-education",
+  "name": "M.I. Air Aviation Education",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "CNO -Chino Airport",
+  "website": "https://www.miairservices.com/",
+  "email": "info@miairservices.com",
+  "phone": "(909) 393-7686",
+  "about": "M.I. Air Aviation Education, located at Chino Airport in California, is an FAA-approved flight school offering both Part 141 and Part 61 training programs. We provide world-class aviation education, ensuring students become proficient and skilled pilots. Our comprehensive curriculum includes private pilot certification, instrument rating, commercial pilot training, and more. With a focus on safety and professionalism, our experienced instructors guide students through hands-on training in a supportive and dynamic environment. Whether you're aiming for a career in aviation or flying for personal enjoyment, M.I. Air Aviation Education is dedicated to helping you achieve your flying goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

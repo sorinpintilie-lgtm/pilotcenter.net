@@ -1,0 +1,22 @@
+{
+  "id": "8695a0f7-834d-4b28-ac1c-2d4ec0a323c1",
+  "slug": "maui-flight-academy",
+  "name": "Maui Flight Academy",
+  "continent": "North America",
+  "country": "United",
+  "state": "HI",
+  "city": "",
+  "baseAirport": "OGG -Kahului Airport",
+  "website": "https://www.mauiflightacademy.com/",
+  "email": "instructor@mauiflightacademy.com",
+  "phone": "(808) 298-5188",
+  "about": "Maui Flight Academy is the premier flying school in Maui, renowned for its exceptional safety record and top-tier instruction. With a 100% 5-star rating on TripAdvisor, we offer a range of programs from private pilot training to instrument flight rules (IFR) and commercial pilot certifications. Our instructors, including experienced professionals like Laurence and Chris Bryant, provide personalized and scenario-based training in the advanced Cirrus SR22 aircraft, known for its safety features including a standard parachute system. We cater to both novice and seasoned pilots, offering introductory flights, air tours, and specialized training such as angle of attack and landing clinics. Our commitment to safety, professionalism, and fun ensures an unforgettable flying experience over Hawaii's stunning landscapes. Whether you're a local or a visitor, Maui Flight Academy is your gateway to the skies.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

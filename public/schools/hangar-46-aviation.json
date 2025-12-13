@@ -1,0 +1,22 @@
+{
+  "id": "12d69bd8-74cf-48fc-b945-0f39e0edbb8f",
+  "slug": "hangar-46-aviation",
+  "name": "Hangar 46 Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SBP -San Luis Obispo County Regional Airport",
+  "website": "http://www.hangar46.com/",
+  "email": "mike@hangar46.com",
+  "phone": "(805) 215-8914",
+  "about": "Hangar 46 Aviation, located at the San Luis Obispo County Regional Airport (KSBP), is a dedicated flight training facility committed to providing high-quality aviation education. Our experienced instructors offer personalized training programs tailored to meet the needs of both recreational and career-oriented pilots. Operating from the west side hangars near the self-serve fuel station, we are available Monday through Friday from 8:00 AM to 5:00 PM, with additional hours available by appointment. Our focus is on safety and fun, ensuring that every student receives comprehensive training in a supportive and professional environment. Whether you are pursuing a private pilot license, instrument rating, or commercial pilot certification, Hangar 46 Aviation is here to help you achieve your aviation goals. Contact us today to take the first step in your flying journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

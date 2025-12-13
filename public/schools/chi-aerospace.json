@@ -1,0 +1,22 @@
+{
+  "id": "38e76c5c-42ea-4b21-a319-21e67dcef620",
+  "slug": "chi-aerospace",
+  "name": "CHI Aerospace",
+  "continent": "North America",
+  "country": "USA",
+  "state": "NH",
+  "city": "Portsmouth",
+  "baseAirport": "Portsmouth International Airport at Pease",
+  "website": "https://www.chiaerospace.com/",
+  "email": "info@chiaerospace.com",
+  "phone": "'+1 978-237-8166\n+1 603-380-9951",
+  "about": "CHI Aerospace, located at Portsmouth International Airport in New Hampshire, offers exceptional flight training programs tailored for aspiring aviators of all skill levels. Specializing in Sport and Private pilot training, instrument ratings, and specialized programs for individuals with disabilities, CHI Aerospace utilizes modern aircraft with advanced features such as touchscreen glass cockpits, ADS-B traffic and weather, and dual-axis autopilot. The school also employs full-motion Redbird flight simulators for comprehensive training. With a focus on safety and enthusiasm for aviation, CHI Aerospace provides a supportive and professional learning environment, ensuring students are well-prepared for their aviation careers or personal flying endeavors. Whether you're aiming for a private license or advanced certifications, CHI Aerospace is dedicated to helping you take to the skies with confidence.",
+  "icao": "KPSM",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nFlight Instructor (CFI / FI)\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

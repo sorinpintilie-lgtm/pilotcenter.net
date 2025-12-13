@@ -1,0 +1,22 @@
+{
+  "id": "fff8a6fe-5fa8-4101-ad64-5824b6b54cfd",
+  "slug": "aeroklub-ceske-republiky",
+  "name": "Aeroklub Ceske Republiky",
+  "continent": "Europe",
+  "country": "Czech Republic",
+  "state": "",
+  "city": "Prague",
+  "baseAirport": "Prague Letňany International Airport (LKLT)",
+  "website": "https://www.aeroklub.cz/",
+  "email": "sec@aecr.cz",
+  "phone": "'+420-266-722-122",
+  "about": "Aeroklub Ceske Republiky is a renowned flying school in the Czech Republic, dedicated to providing comprehensive flight training since its establishment. We offer a range of courses, including Private Pilot License (PPL), Commercial Pilot License (CPL), and Airline Transport Pilot License (ATPL), as well as specialized training in NIGHT, IR(A), and MEP(A). Our experienced instructors and modern fleet ensure high-quality theoretical and practical training. With a strong focus on safety and regulatory compliance, we prepare students for successful careers in aviation. Join us to embark on a journey to become a professional pilot with Aeroklub Ceske Republiky.",
+  "icao": "LKLT",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

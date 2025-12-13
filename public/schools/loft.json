@@ -1,0 +1,22 @@
+{
+  "id": "33cd7519-0961-4aeb-9579-6e4ef169c954",
+  "slug": "loft",
+  "name": "LOFT",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "CRQ -Mc Clellan-Palomar Airport",
+  "website": "https://www.loft.aero/",
+  "email": "info@loft.aero",
+  "phone": "(760) 476-0890",
+  "about": "LOFT, located in Carlsbad, California, is a premier flying school specializing in CJ and Citation training. With over 15 years of experience, our team of seasoned veteran pilots, with backgrounds in private, military, airline, and charter operations, provide personalized and comprehensive training. We offer initial type ratings, recurrent training, and SIC ratings for CE-500 and CE-525 aircraft, utilizing certified Level C and Level D full flight simulators. Our programs are FAA and insurance approved, and we cater to both aircraft owners and aspiring airline pilots. Our commitment to pilot education is evident in our relaxed and flexible learning environment, ensuring each pilot receives the best all-around training experience. Contact LOFT to sign up for your Citation training today and benefit from our expert instructors and state-of-the-art facilities.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nSimulator\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

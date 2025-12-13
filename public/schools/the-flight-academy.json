@@ -1,0 +1,22 @@
+{
+  "id": "d24ca850-52ea-4f51-9e35-15838f28dad1",
+  "slug": "the-flight-academy",
+  "name": "The Flight Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "BFI -Boeing Field/King County International",
+  "website": "https://www.theflightacademy.com/",
+  "email": "info@theflightacademy.com",
+  "phone": "(206) 219-3720",
+  "about": "The Flight Academy, founded in 2002 by former Cirrus Aircraft instructors, specializes in providing high-quality, specialized flight training tailored to busy clients. We focus on producing safer, more proficient pilots through personalized training plans, often conducted in full day or multi-day blocks to accommodate busy schedules. Our services extend beyond flight instruction to include aircraft brokerage, ferry services, and management. With a strong emphasis on safety and fun, our experienced instructors are experts in Cirrus aircraft and the teaching process. We offer adventure trips and comprehensive aviation support, making learning to fly an enjoyable and transformative experience. The Flight Academy is dedicated to opening up the world of aviation to our clients in a unique and enriching way.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

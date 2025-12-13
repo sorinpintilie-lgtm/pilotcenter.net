@@ -1,0 +1,22 @@
+{
+  "id": "e533baf7-539c-4e47-ade4-ea6d5b6fd83b",
+  "slug": "swiss-aviation-school-gmbh",
+  "name": "Swiss Aviation School GmbH",
+  "continent": "Europe",
+  "country": "Switzerland",
+  "state": "CH",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.aviationschool.ch/",
+  "email": "info@aviationschool.ch",
+  "phone": "'+41 76 246 40 19",
+  "about": "Swiss Aviation Training (SAT), a fully-owned subsidiary of Swiss International Air Lines, specializes in providing comprehensive training for commercial pilots, cabin personnel, and aircraft mechanics. Located beside Zurich Airport, SAT leverages extensive industry expertise with a workforce of around 300 employees. The school offers type-specific pilot training courses approved by JAA/EASA and FOCA, utilizing advanced simulators for various aircraft types. SAT also provides cabin crew training compliant with EU-OPS requirements and human factors training using innovative methods. With a strong focus on quality and compliance, SAT ensures its training programs meet the highest standards recognized by global aviation authorities. SAT is committed to delivering top-notch training to prepare professionals for successful careers in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"IR / CBIR - Instrument Rating\\nPPL / LAPL - Private Pilot\\nNIT - Night VFR\\nHPA - High Performance Aircraft\\nClass Rating Piper Meridian PA-46 SET\\nMOU - Mountain Flying\\nMI - Mountain Instructor\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

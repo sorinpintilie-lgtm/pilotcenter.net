@@ -1,0 +1,22 @@
+{
+  "id": "bd8e3831-87a2-44b4-a873-19d2505fb676",
+  "slug": "new-haven-aviation-center",
+  "name": "New Haven Aviation Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CT",
+  "city": "",
+  "baseAirport": "HVN -Tweed (New) Haven Airport",
+  "website": "https://www.hvnac.com/",
+  "email": "fly@hvnac.com",
+  "phone": "(203) 815-9542",
+  "about": "New Haven Aviation Center, located at Tweed New Haven Airport, is a premier flight school serving the communities of New Haven, East Haven, West Haven, Milford, Branford, Guilford, and the Shoreline area. Established to fill the need for a family-friendly and professional flight training facility, we offer a fun and friendly atmosphere for aspiring pilots. Our courses include Private Pilot Certificates, Ground School Classes, Recurrent Training, Advanced Instrument, and Commercial Ratings. We also provide introductory flights, aircraft rentals, gift certificates, and GPS training. With a focus on personalized customer service and a casual, friendly environment, we invite you to start your aviation journey with an introductory flight with one of our experienced instructors. Join us to earn your wings in a supportive and professional setting.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

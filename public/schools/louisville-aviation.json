@@ -1,0 +1,22 @@
+{
+  "id": "6d1bfc2b-b036-4cd6-82e0-1dff5554df34",
+  "slug": "louisville-aviation",
+  "name": "Louisville Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "KY",
+  "city": "",
+  "baseAirport": "LOU -Bowman Field",
+  "website": "https://louisvilleaviation.com/",
+  "email": "mpratt@louisvilleaviation.com",
+  "phone": "(502) 905-8747",
+  "about": "Louisville Aviation, located at Bowman Field in Louisville, Kentucky, is the oldest operating flight school in the area, proudly serving students for over 20 years. We offer a tailored, interactive training program through our partnership with Cessna as an authorized Cessna Pilot Center, utilizing Cessna 172 aircraft equipped with advanced technology. Our instructors, many of whom are former military and airline pilots, provide top-quality training for both recreational and career pilots. We also partner with Purdue Global for educational enhancement and offer financing options through Kentucky Telco Federal Credit Union and Pilot Finance. Our commitment to safety and excellence is evident in our meticulously maintained fleet and high student success rates. Choose Louisville Aviation for a fun and professional flying experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nComputerized Testing\\nExaminer\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

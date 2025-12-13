@@ -1,0 +1,22 @@
+{
+  "id": "7e24f062-b278-4d17-abea-9551ca68e138",
+  "slug": "fly-america",
+  "name": "Fly America, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IL",
+  "city": "",
+  "baseAirport": "DKB -De Kalb Taylor Municipal Airport",
+  "website": "https://www.fly-america.com/",
+  "email": "contact@fly-america.com",
+  "phone": "(815) 981-3307",
+  "about": "Fly America, Inc. is a premier flying school dedicated to providing comprehensive and personalized flight training. Established to foster a passion for aviation, we offer FAA-approved programs for aspiring pilots, from private pilot licenses to commercial pilot certifications. Our experienced instructors and state-of-the-art facilities ensure a safe and effective learning environment. With a strong focus on customer satisfaction and career readiness, we provide support resources, mentorship, and career events to help our students succeed. Located in ideal flying conditions, Fly America, Inc. is committed to producing confident, professional pilots ready for a successful career in aviation. Join us to achieve your flying dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

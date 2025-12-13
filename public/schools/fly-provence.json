@@ -1,0 +1,22 @@
+{
+  "id": "afca21b6-3708-4d52-a58e-ae3bb543f7dc",
+  "slug": "fly-provence",
+  "name": "Fly Provence",
+  "continent": "Europe",
+  "country": "France",
+  "state": "FR",
+  "city": "",
+  "baseAirport": "Aix en Provence",
+  "website": "https://www.fly-provence.aero/",
+  "email": "contact@fly-provence.aero",
+  "phone": "(+33) 06 22 63 08 59",
+  "about": "Fly Provence is a premier flying school based in Aix-en-Provence, dedicated to providing comprehensive and engaging flight training programs. With a passion for teaching, flying, and discovering the beautiful region, our school offers a range of activities including introductory flights, flying courses for all levels, and professional pilot licenses. Our experienced instructors, with over 20 years of expertise, ensure students receive the best possible support and training. We utilize state-of-the-art flight simulators and operate from Aix les Milles and Castellet international airports. At Fly Provence, we combine pleasure, discovery, and rigorous training to prepare our students for successful careers in aviation. Our commitment to safety, innovation, and personalized training makes us an ideal choice for aspiring pilots. Join us to embark on a journey that combines the joy of flying with professional excellence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ab-initio training for airline pilots ATPL – CPL – IRME – MCC\\nTheoretical airline pilot – ATPL Modular\\nCommercial Pilot License – CPL\\nPrivate Pilot License – PPL\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

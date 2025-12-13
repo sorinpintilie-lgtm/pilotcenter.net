@@ -1,0 +1,22 @@
+{
+  "id": "36531de9-92a8-44be-af05-b06956742be9",
+  "slug": "flight-fundamentals",
+  "name": "Flight Fundamentals Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "AZ",
+  "city": "",
+  "baseAirport": "P33 -Cochise County Airport",
+  "website": "https://www.ffiaz.com/",
+  "email": "info@ffiaz.com",
+  "phone": "(602) 644-1890",
+  "about": "Flight Fundamentals Inc. (FFI) is a specialized flight school located in Willcox, Arizona, dedicated to providing advanced flight training and specialty programs. We prioritize safety, emphasizing caring leadership, well-maintained equipment, and a conscious mindset to create a safe and supportive learning environment. Our programs go beyond the standard curriculum, offering comprehensive training that prepares students for various aviation careers. With a focus on quality instruction and state-of-the-art facilities, FFI is committed to helping aspiring pilots achieve their goals and become proficient, safe, and skilled aviators. We strive to make every flight training experience meaningful and successful.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nDrone/UAS\\nExaminer\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor \\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

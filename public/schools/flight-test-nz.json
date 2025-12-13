@@ -1,0 +1,22 @@
+{
+  "id": "febdb613-9160-4b03-9f93-87051b657dea",
+  "slug": "flight-test-nz",
+  "name": "Flight Test (NZ) Limited",
+  "continent": "Australia",
+  "country": "New Zealand",
+  "state": "NZ",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://flighttest.co.nz/",
+  "email": "admin@flighttestnz.co.nz",
+  "phone": "'+64 7 866 5623",
+  "about": "Flight Test New Zealand Limited is a Civil Aviation Authority of NZ certified Part 141 aviation training organisation. We provide a wide range of aviation services, including pilot flight testing, specialised pilot training, drone training, and Part 102 manual preparation. Our services include instrument rating continued competency, endorsement removal, and instructor rating additional privileges. We also offer flight simulator sales and support. With examiners and instructors located throughout New Zealand, we ensure the highest standards of aviation safety through our safety management system and experienced staff. Our goal is to not only help pilots pass check flights but also to ensure they learn and grow in their aviation careers.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Pilot flight testing\\nSimulator operation\",\"sales\",\"and IFR training\\nSpecialised pilot training courses\\nDrone training courses\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

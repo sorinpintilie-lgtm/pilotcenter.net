@@ -1,0 +1,22 @@
+{
+  "id": "c9b27835-7c0a-4943-902a-f4a03d236af0",
+  "slug": "saudi-aviation-club",
+  "name": "Saudi Aviation Club",
+  "continent": "Asia",
+  "country": "Saudi Arabia",
+  "state": "SA",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://sac.com.sa/",
+  "email": "info@sac.com.sa",
+  "phone": "920011582",
+  "about": "The Saudi Aviation Club (SAC) is the official aviation club of the Kingdom of Saudi Arabia, established by the Council of Ministers on December 4, 2000. Founded by HRH Prince Sultan bin Salman bin Abdulaziz, the SAC aims to promote aeronautical sciences and encourage public participation in aviation. Based at Thumamah Airport, north of Riyadh, the club offers a range of aviation activities, including flight training through the Saudi Aviation Flight Academy, paragliding, paramotoring, and skydiving. The SAC is a member of the World Air Sports Federation (FAI) and the Aircraft Owners and Pilots Association (AOPA), and it hosts various aviation events, seminars, and exhibitions. The club provides aircraft maintenance, fuel services, and rental options, and it organizes annual fly-in flights to promote general aviation across the Kingdom. The SAC is dedicated to fostering talents in aviation and contributing to the advancement of aviation culture and sciences in Saudi Arabia.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Flight Training\\nAircraft Fueling\\nIntroductory Flight\\nAircraft Hangaring\\nAircraft Maintenance\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

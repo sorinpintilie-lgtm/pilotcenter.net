@@ -1,0 +1,22 @@
+{
+  "id": "af925f39-2609-49c6-98dc-53e182ba34bf",
+  "slug": "aeolus-flight-academy",
+  "name": "Aeolus Flight Academy",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "ON",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.aeolusflightacademy.com/",
+  "email": "info@aeolusflightacademy.com",
+  "phone": "'+1 519-455-2345",
+  "about": "Aeolus Flight Academy, located in the heart of Ontario, Canada, offers a comprehensive and immersive flight training experience. With a successful track record of training over 500 pilots, the academy boasts modern aircraft and highly qualified instructors. The curriculum includes ground school instruction and practical flight training, emphasizing safety and personalized instruction. Each student is paired with a dedicated instructor to customize their training program. The academy features advanced flight simulators and a diverse range of well-maintained aircraft, from single-engine trainers to multi-engine aircraft. Aeolus Flight Academy is committed to providing a superior flight training experience, equipping students with the necessary skills and knowledge to launch a successful career in aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "6bcef6cc-d76f-4a32-a7d3-d825b261bc6e",
+  "slug": "colorado-flight-center",
+  "name": "Colorado Flight Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CO",
+  "city": "",
+  "baseAirport": "GJT -Grand Junction Regional Airport",
+  "website": "https://www.coloradoflightcenter.com/",
+  "email": "info@coloradoflightcenter.com",
+  "phone": "(970) 254-0444",
+  "about": "Colorado Flight Center, located in Grand Junction, Colorado, is Western Colorado’s premier flight training, air charter, and aircraft rental facility. Operating out of the Grand Junction Regional Airport and the Garfield County Regional Airport, we offer a diverse range of pilot training programs, including Private Pilot, Commercial Pilot, Instrument Rating, and Certified Flight Instructor courses. Our fleet includes the Diamond DA20 and Cessna 182, both equipped with modern avionics for optimal training. As a Cessna Pilot Center, we provide top-quality, professional training with well-versed instructors and state-of-the-art facilities. Whether you're a novice pilot or seeking advanced ratings, Colorado Flight Center is dedicated to helping you achieve your aviation goals with safety, confidence, and excellence. Join us to embark on your aviation journey today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

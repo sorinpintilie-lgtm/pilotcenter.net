@@ -1,0 +1,22 @@
+{
+  "id": "90bfb389-ae05-4ff9-bada-696d67ada819",
+  "slug": "sunwest-aviation",
+  "name": "SunWest Aviation, Inc",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SBP -San Luis Obispo County Regional Airport",
+  "website": "https://www.flysunwest.com/",
+  "email": "csr@flysunwest.com",
+  "phone": "(805) 783-2359",
+  "about": "SunWest Aviation, Inc., founded in 1987, is a family-operated flight school dedicated to providing high-quality flight training and management services. Our flight school boasts a fleet of six well-maintained aircraft and a team of four experienced instructors, along with supportive office staff. We operate 7 days a week from 9am-5pm, with flights available at any time with advance booking. Our policy emphasizes unparalleled competence, professionalism, integrity, and courtesy, ensuring uncompromising safety and convenience for all customers. We offer a range of training programs, including Private Pilot, IFR, Commercial, CFI, and CFII licenses. Our goal is to make flying fun and productive while earning your confidence, loyalty, and friendship. Contact us today to start your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

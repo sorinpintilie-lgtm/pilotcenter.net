@@ -1,0 +1,22 @@
+{
+  "id": "85afb236-656a-4423-a946-c88277c96bcb",
+  "slug": "hangar-9",
+  "name": "Hangar 9, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "SD",
+  "city": "",
+  "baseAirport": "ABR -Aberdeen Regional Airport",
+  "website": "https://flyhangar9.com/",
+  "email": "mark@hawk-aviation.com",
+  "phone": "(605) 725-4774",
+  "about": "Hangar 9, Inc. is a premier flying school dedicated to providing exceptional aviation training. Located in a state-of-the-art facility, our school offers a comprehensive range of programs from private pilot licenses to commercial and instructor certifications. Our experienced instructors, many of whom are active professionals in the aviation industry, ensure students receive personalized and rigorous training. With a fleet of well-maintained aircraft and advanced simulators, we cater to both novice and seasoned pilots. Our commitment to safety, excellence, and student success sets us apart as a leader in flight education. At Hangar 9, Inc., we are passionate about helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "fb03ec10-61ca-4279-a399-920d3121e989",
+  "slug": "pine-tree-helicopters",
+  "name": "Pine Tree Helicopters",
+  "continent": "North America",
+  "country": "United States",
+  "state": "ME",
+  "city": "",
+  "baseAirport": "SFM -Sanford Seacoast Regional Airport",
+  "website": "https://www.pinetreehelicopters.com/",
+  "email": "Parker@pinetreehelicopters.com",
+  "phone": "(207) 432-5189",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

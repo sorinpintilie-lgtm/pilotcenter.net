@@ -1,0 +1,22 @@
+{
+  "id": "e4473d16-4f9b-445e-bb38-3d5d08eda30f",
+  "slug": "bellator-aviation",
+  "name": "Bellator Aviation",
+  "continent": "North America",
+  "country": "United",
+  "state": "",
+  "city": "",
+  "baseAirport": "LRU -Las Cruces International Airport",
+  "website": "https://www.bellatoraviation.com/",
+  "email": "admin@bellatoraviation.com",
+  "phone": "(575) 373-5539",
+  "about": "Bellator Aviation is a premier flying school dedicated to providing exceptional flight training and aviation education. Founded by experienced pilots and aviation professionals, our school is committed to safety, excellence, and personalized instruction. We offer a range of programs from private pilot licenses to commercial and ATP certifications, using state-of-the-art aircraft and advanced simulators. Our instructors are highly qualified and passionate about mentoring the next generation of pilots. With a focus on both theoretical knowledge and practical skills, we ensure our students are well-prepared for a successful career in aviation. At Bellator Aviation, we strive to create a supportive and inclusive learning environment that fosters growth and achievement. Join us to embark on your aviation journey with confidence and excellence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

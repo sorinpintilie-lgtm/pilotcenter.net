@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile Cards Test</title>
+    <style>
+        /* Simulate the mobile viewport */
+        @media (max-width: 768px) {
+            body::before {
+                content: "MOBILE VIEW (≤768px)";
+                display: block;
+                background: #4CAF50;
+                color: white;
+                padding: 10px;
+                text-align: center;
+                font-weight: bold;
+            }
+        }
+
+        @media (min-width: 769px) {
+            body::before {
+                content: "DESKTOP VIEW (>768px)";
+                display: block;
+                background: #f44336;
+                color: white;
+                padding: 10px;
+                text-align: center;
+                font-weight: bold;
+            }
+        }
+
+        /* Test card styling */
+        .test-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .column-item {
+            flex: 1 1 300px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            padding: 15px;
+            background: white;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .column-item img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 6px;
+            margin-bottom: 15px;
+        }
+
+        .column-content {
+            min-height: 150px;
+        }
+
+        .column-content h3 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .column-content p {
+            color: #666;
+            line-height: 1.4;
+        }
+
+        /* Mobile-specific CSS (should override desktop) */
+        @media (max-width: 768px) {
+            .column-item {
+                height: auto !important;
+                min-height: auto !important;
+                max-height: none !important;
+                margin-bottom: 20px;
+            }
+
+            .column-item img {
+                height: auto !important;
+                width: 100%;
+                object-fit: cover;
+            }
+
+            .column-content {
+                height: auto !important;
+                min-height: auto !important;
+            }
+
+            .image-placeholder {
+                min-height: auto !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Mobile Cards Test</h1>
+    <p>Resize your browser window to see the mobile/desktop switch at 768px breakpoint.</p>
+
+    <div class="test-container">
+        <!-- Card 1: Short content -->
+        <div class="column-item">
+            <img src="https://via.placeholder.com/300x150" alt="Test image">
+            <div class="column-content">
+                <h3>Short Content Card</h3>
+                <p>This card has minimal content to test height adjustment.</p>
+            </div>
+        </div>
+
+        <!-- Card 2: Medium content -->
+        <div class="column-item">
+            <img src="https://via.placeholder.com/300x200" alt="Test image">
+            <div class="column-content">
+                <h3>Medium Content Card</h3>
+                <p>This card has a bit more content to demonstrate how the height adjusts based on the amount of text. The content should determine the card height.</p>
+            </div>
+        </div>
+
+        <!-- Card 3: Long content -->
+        <div class="column-item">
+            <img src="https://via.placeholder.com/300x250" alt="Test image">
+            <div class="column-content">
+                <h3>Long Content Card</h3>
+                <p>This card contains significantly more content to really show the difference in height adjustment. On mobile devices, this card should be noticeably taller than the others because it has more text content that needs to be displayed. The height should be determined solely by the content, not by any fixed constraints.</p>
+            </div>
+        </div>
+    </div>
+
+    <div style="margin-top: 30px; padding: 15px; background: #f5f5f5; border-radius: 5px;">
+        <h2>Test Instructions</h2>
+        <ol>
+            <li>Resize your browser window to be narrower than 768px to simulate mobile view</li>
+            <li>Observe that the cards should have different heights based on their content</li>
+            <li>In mobile view, all fixed height constraints should be removed</li>
+            <li>The cards should only take up the vertical space required by their content</li>
+            <li>Proper spacing should be maintained between cards</li>
+        </ol>
+    </div>
+</body>
+</html>

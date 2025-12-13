@@ -1,0 +1,22 @@
+{
+  "id": "f74c87bd-32d1-4b01-b120-2e5bde6aea7c",
+  "slug": "national-flight-centre",
+  "name": "National Flight Centre Limited",
+  "continent": "Europe",
+  "country": "Ireland",
+  "state": "IRE",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.nfc.ie/",
+  "email": "info@nfc.ie",
+  "phone": "'+353(1)-6282930",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Introductory Flights\\nWings Course\\nPrivate Pilot License (PPL)\\n PPL Groundschool Course\\nCommercial Pilot License (CPL)   \\nATPL (A) Integrated Pilot Programme\\nModular ATPL\\nMulti-Engine Piston Rating (MEP)\\nATPL Distance Learning\\nFlight Instructor Course (FI)\\nInstrument Rating (IR)\\nHelicopter Private Pilot's License\\nNight Rating\\nRyanair Simulator Assessment Preparation\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

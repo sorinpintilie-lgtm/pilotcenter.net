@@ -1,0 +1,22 @@
+{
+  "id": "10f4a347-70ff-4c56-be73-d1ab289919db",
+  "slug": "mauna-loa-helicopters",
+  "name": "Mauna Loa Helicopters",
+  "continent": "North America",
+  "country": "United",
+  "state": "HI",
+  "city": "",
+  "baseAirport": "HNL -Daniel K Inouye International Airport",
+  "website": "https://maunaloahelicopters.edu/",
+  "email": "info@maunaloahelicopters.edu",
+  "phone": "(808) 834-6799",
+  "about": "Mauna Loa Helicopters is an FAA Part 141 approved and ACCSC-accredited flight school located in the beautiful Hawaiian islands. With bases on Oahu and the Big Island, we offer structured and efficient flight training in one of the world's most dynamic environments. Hawaii's diverse terrain, including mountains up to 13,796 feet, valleys, and busy Class B airspace, provides an ideal setting for comprehensive helicopter and fixed-wing training. Our seasoned instructors, many of whom are our own graduates, ensure personalized attention and industry-respected training. We are VA-approved and authorized to issue I-20 forms for foreign students. With a strong industry reputation, our graduates are employed globally, and we pride ourselves on helping career-minded students find their first job in aviation. Train with us and experience the unique benefits of flying in Hawaii's favorable year-round weather.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "F-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "282f06e5-739a-4853-b3ca-4e4515cccb77",
+  "slug": "epic-flight-academy",
+  "name": "Epic Flight Academy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "FL",
+  "city": "New Smyrna Beach",
+  "baseAirport": "New Smyrna Beach Municipal Airport",
+  "website": "https://epicflightacademy.com/",
+  "email": "communications@epicflightacademy.com",
+  "phone": "'+1 386-409-5583",
+  "about": "Epic Flight Academy, founded in 1999 by CEO Danny Perna, is a premier flight school located in New Smyrna Beach, Florida. Initially known as Epic Aviation, the school shifted its focus to flight training in 2002. Epic offers FAA Part 141 and Part 61 pilot training, as well as FAA Part 147 aircraft mechanic training. Known for its innovative approach, Epic was one of the first schools to use standardized glass-cockpit aircraft, allowing students to train on technology similar to that used by airlines. The school's Professional Pilot Pathway can take students from zero experience to an airline pilot in as few as two years. Epic has trained thousands of pilots from over 80 countries, with graduates flying for over 300 airlines worldwide. The school is recognized for its excellence, having received Cessna’s “Flight Training Excellence” award and maintaining a growing fleet of new generation aircraft. Epic is committed to providing exceptional training in a safe and timely manner.",
+  "icao": "KEVB",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

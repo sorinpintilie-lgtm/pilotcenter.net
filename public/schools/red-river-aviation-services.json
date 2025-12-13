@@ -1,0 +1,22 @@
+{
+  "id": "d9b0b778-8cc6-414a-a38d-f5d5a02dc39e",
+  "slug": "red-river-aviation-services",
+  "name": "Red River Aviation Services, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OK",
+  "city": "",
+  "baseAirport": "AXS -Altus/Quartz Mountain Regional Airport",
+  "website": "https://www.tothaviation.com/",
+  "email": "services@redriveraviation.com",
+  "phone": "(580) 482-4288",
+  "about": "Red River Aviation Services, LLC, operates the Red River Flight Academy, a comprehensive flight training institution offering certifications from private pilot licenses to Certified Flight Instructor (CFII) certifications. Located in Altus, the academy provides a complete line of pilot supplies, including headsets, log books, and study guides. Students can benefit from aircraft rental services and a range of training programs tailored to individual needs. The academy emphasizes safety, quality, and value, ensuring students receive top-notch instruction and support. With additional services such as ground school, simulator training, and computerized testing, Red River Flight Academy is dedicated to helping aspiring pilots achieve their aviation goals efficiently and safely.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

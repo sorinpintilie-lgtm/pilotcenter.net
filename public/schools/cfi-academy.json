@@ -1,0 +1,22 @@
+{
+  "id": "a8fc138d-afcb-4be3-adf9-69c970c93513",
+  "slug": "cfi-academy",
+  "name": "CFI Academy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CA",
+  "city": "Acampo",
+  "baseAirport": "Lodi Municipal Airport",
+  "website": "https://www.cfiacademy.com/",
+  "email": "admin@cfiacademy.com",
+  "phone": "'+1 916-209-0234",
+  "about": "CFI Academy is a premier institution for Certified Flight Instructor (CFI) training, renowned for its accelerated and personalized programs. Located in Sunny Lodi, California, we offer a 3-week course that prepares students to pass their CFI Checkride, with a near 100% success rate. Our expert instructors, with over 27 years of experience, provide one-on-one ground training and flight instruction, focusing on the 'why' and 'how' of flight to ensure deep understanding and retention. We emphasize small class sizes, onsite DPEs, and comprehensive ground school, including spin training. Our campus offers comfortable dorms, camping options, and nearby hotels. We pride ourselves on creating elite pilots and instructors, and our graduates have praised our dedicated and supportive environment. Choose CFI Academy for a thorough, hands-on, and effective training experience that sets you up for success as a flight instructor.",
+  "icao": "",
+  "iata": "103",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "7d8fcd4d-2a3b-4bf5-abb8-3bc63af59a25",
+  "slug": "ignite-flight-academy",
+  "name": "Ignite Flight Academy",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NE",
+  "city": "",
+  "baseAirport": "LNK -Lincoln Airport",
+  "website": "https://igniteflight.com/",
+  "email": "fly@igniteflight.com",
+  "phone": "(402) 475-8400",
+  "about": "Ignite Flight Academy, located in Lincoln, Nebraska, is a premier flight school driven by a passion for aviation and a commitment to helping individuals achieve their aviation dreams. Founded in 2004 by Bill Heckathorn, the academy offers comprehensive training for airline, charter, corporate aviation, and recreational flying. With a dedicated facility and affordable luxury student housing, Ignite Flight Academy provides a small school feel while offering the resources of a large academy. The team, including experienced instructors and administrative staff, is dedicated to inspiring, empowering, and transforming lives through aviation. Ignite Flight Academy is truly honored to inspire and enable your aviation dreams.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

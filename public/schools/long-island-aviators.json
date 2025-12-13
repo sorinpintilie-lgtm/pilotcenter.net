@@ -1,0 +1,22 @@
+{
+  "id": "6f924292-fb5d-4760-92a2-e7b9f652857e",
+  "slug": "long-island-aviators",
+  "name": "Long Island Aviators",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NY",
+  "city": "",
+  "baseAirport": "FRG -Republic Airport",
+  "website": "https://longislandaviators.com/",
+  "email": "info@longislandaviators.com",
+  "phone": "(631) 465-0588",
+  "about": "Long Island Aviators, established in 2003 by four aviation enthusiast friends, has evolved into a premier flight school at Republic Airport in Farmingdale, NY. Initially started as a shared plane ownership among friends, the school now offers instruction for all ratings from primary students to ATP. With a fleet of 21 meticulously maintained aircraft and two FAA-approved flight simulators, Long Island Aviators prides itself on providing affordable rates and high-quality training. The school is run by highly qualified instructors, including the owners who are certified pilots and mechanics. The staff is dedicated to ensuring each student receives tailored lessons to enhance their skills and confidence. Long Island Aviators invites you to join their family and take to the skies with confidence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "00260755-75f5-4564-a370-005bac987c98",
+  "slug": "la-porte-aviation-services",
+  "name": "La Porte Aviation Services",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IN",
+  "city": "",
+  "baseAirport": "PPO -La Porte Municipal Airport",
+  "website": "https://flylpas.com/",
+  "email": "info@flylpas.com",
+  "phone": "(219) 325-9823",
+  "about": "La Porte Aviation Services, located at the La Porte Municipal Airport in Indiana, offers comprehensive flight training and aviation services. Our flight training program, now operated through Eagle Aircraft in Valparaiso, provides courses for Private Pilot, Instrument Pilot, and Commercial Pilot certifications. We also offer additional endorsements and programs, including float ratings and aircraft maintenance services. Our facility maintains its own fleet of aircraft and provides hangar space and aircraft sales. The school is part of a vibrant aviation community, supported by the La Porte Aero Club, which promotes education and awards scholarships to aspiring pilots. With a focus on professional and hands-on training, La Porte Aviation Services is dedicated to helping students achieve their aviation goals in a supportive and experienced environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nGlider\\nInstrument\\nMulti-Engine\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "63e22e3f-fd72-4927-b597-1865ae1447b3",
+  "slug": "aero-safety-training",
+  "name": "Aero Safety Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NJ",
+  "city": "",
+  "baseAirport": "N07 -Lincoln Park Airport",
+  "website": "https://lpawings.com/",
+  "email": "info@lpawings.com",
+  "phone": "(973) 872-6213",
+  "about": "Aero Safety Training, based at Lincoln Park Airport in New Jersey, has been dedicated to training pilots since 1993. We offer comprehensive flight training programs, including the Private Pilot Certificate, as well as additional ground school and seminars. Our commitment to safety and excellence is paramount, ensuring that all students receive top-notch instruction in a supportive and safe learning environment. We also host AeroCamp, a unique day camp program for young people to explore aviation and aerospace. With a focus on both theoretical and practical training, Aero Safety Training is a trusted institution for aspiring pilots. We are committed to fostering a safe and educational experience for all our students.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nPart 107 Drone Testing\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

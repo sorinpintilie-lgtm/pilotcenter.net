@@ -1,0 +1,22 @@
+{
+  "id": "130bfd05-5060-410a-9559-8d29ea41ca45",
+  "slug": "carter-flygare",
+  "name": "Carter Flygare, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SAC -Sacramento Exec Airport",
+  "website": "http://www.cfi.com/",
+  "email": "fly@cfi.com",
+  "phone": "(916) 427-7707",
+  "about": "Carter Flygare, Inc., located at the Executive Airport in Sacramento, has been providing top-notch flight training since 1964. Led by President and Chief Pilot Carter W. Flygare, the school offers a wide range of certifications, including Private Pilot, Instrument Rating, Commercial Pilot, and Airline Transport Pilot (ATP) licenses. With a fleet of well-maintained aircraft, including Cessna 152, C172, Debonair, and Seminole models equipped with advanced avionics, students can train in various categories such as single-engine and multi-engine land and sea aircraft. The school is open 7 days a week, catering to both local and international students, and is known for its personalized instruction and supportive environment. Carter and his wife Heidy ensure a seamless experience, handling all administrative tasks while providing exceptional flight training. Whether you're a beginner or an experienced pilot, Carter Flygare, Inc. is dedicated to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

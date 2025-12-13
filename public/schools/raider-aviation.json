@@ -1,0 +1,22 @@
+{
+  "id": "b95bc309-acae-49e9-a4bb-19fad87d6283",
+  "slug": "raider-aviation",
+  "name": "Raider Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "F49 -City of Slaton/Larry T Neal Memorial Airport",
+  "website": "https://www.raider-aviation.com/",
+  "email": "raiderflight@gmail.com",
+  "phone": "(806) 300-1457",
+  "about": "Raider Aviation is a comprehensive flight training institution dedicated to helping aspiring pilots achieve their aviation goals. We offer a range of programs, including private pilot certification, instrument rating, and commercial pilot training. Our Discovery Flight program allows newcomers to experience flying with a certified instructor, familiarizing them with the aircraft, airport, and flight controls. Ground training is thorough, using resources like the Instrument Flying Handbook and Airplane Flying Handbook, while flight training is conducted in Cessna 172 or Piper Cherokee 140/180 aircraft. Our courses are designed to be challenging yet rewarding, preparing students for various weather conditions and complex flight maneuvers. With a focus on safety and proficiency, Raider Aviation is committed to guiding students through every step of their aviation journey to ensure they become skilled and confident pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

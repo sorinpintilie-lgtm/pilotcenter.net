@@ -1,0 +1,84 @@
+.fs-card {
+  border-radius: 16px;
+  border: 1px solid #e5e7eb;
+  padding: 16px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.fs-card-top {
+  display: flex;
+  gap: 12px;
+}
+
+.fs-card-logo-wrap {
+  flex-shrink: 0;
+}
+
+.fs-card-logo {
+  width: 72px;
+  height: 72px;
+  object-fit: contain;
+  border-radius: 12px;
+}
+
+.fs-card-logo--placeholder {
+  width: 72px;
+  height: 72px;
+  border-radius: 12px;
+  background: #f3f4f6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+
+.fs-card-info {
+  flex: 1;
+}
+
+.fs-card-name {
+  margin: 0 0 4px;
+  font-size: 1rem;
+}
+
+.fs-card-location {
+  font-size: 0.85rem;
+  color: #6b7280;
+  margin-bottom: 6px;
+}
+
+.fs-stars {
+  font-size: 0.85rem;
+}
+
+.fs-stars-star {
+  color: #e5e7eb;
+}
+.fs-stars-star--full {
+  color: #facc15;
+}
+
+.fs-card-actions {
+  margin-top: 12px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.fs-card-btn {
+  border-radius: 999px;
+  padding: 7px 18px;
+  font-size: 0.85rem;
+  border: 1px solid #d1d5db;
+  background: #ffffff;
+  cursor: pointer;
+  text-decoration: none;
+  color: #111827;
+}
+
+.fs-card-btn:hover {
+  border-color: #00a3ff;
+}

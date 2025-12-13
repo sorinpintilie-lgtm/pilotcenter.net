@@ -1,0 +1,22 @@
+{
+  "id": "e57af2b5-ac23-4f36-828f-2bce99cadd14",
+  "slug": "avian-flight-center",
+  "name": "Avian Flight Center",
+  "continent": "North America",
+  "country": "USA",
+  "state": "WA",
+  "city": "Bremerton",
+  "baseAirport": "Bremerton National Airport (KPWT)",
+  "website": "https://www.avianflight.com/",
+  "email": "frontdesk@avianflight.com",
+  "phone": "'+1 360-674-2111",
+  "about": "Avian Flight Center, located at Bremerton National Airport (KPWT), is the Kitsap Peninsula's only full-service FBO, flight school, and maintenance facility under one roof. We offer aircraft and simulator rental, flight instruction for private, instrument, and commercial pilot certificates, as well as airframe, engine, and cylinder maintenance and repair. Our team of experienced instructors is committed to safety and provides personalized training programs. We also feature a PSI/FAA testing center, a pilot shop, and charter flights. With a modern fleet of aircraft and flexible financing options, Avian Flight Center is dedicated to helping students achieve their aviation goals in a supportive and professional environment. Contact us at +1 (360) 674-2111 to start your flight training journey.",
+  "icao": "KPWT",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

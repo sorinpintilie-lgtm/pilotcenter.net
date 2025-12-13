@@ -1,0 +1,22 @@
+{
+  "id": "657b324d-8dd0-4303-80c0-045131091a16",
+  "slug": "airwin-aviator-school",
+  "name": "Airwin Aviator School",
+  "continent": "Europe",
+  "country": "Hungary",
+  "state": "",
+  "city": "Tököl",
+  "baseAirport": "Tököl Airport",
+  "website": "https://airwin.hu/",
+  "email": "register@airwin.hu",
+  "phone": "'+36 70 671 1148",
+  "about": "Airwin Aviator School, located at Tököl Airfield in Budapest, Hungary, is a premier flight training institution specializing in both integrated and modular training. We boast a fully digitalized training platform, utilizing the newest AT Aero-3 aircraft with Glass Cockpit technology, and are fully EASA-accredited. Our training environment includes a busy airport with both paved and grass runways, ensuring students gain confidence in various flight conditions. With a team of experienced and enthusiastic instructors, we provide industry-leading training for both airline and individual pilots. Our state-of-the-art Training Management System ensures seamless and error-free documentation, and our friendly environment facilitates effective teaching and learning. Join us to achieve your pilot dreams with confidence and safety.",
+  "icao": "LHTL",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nEASA ATPL Ground School\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

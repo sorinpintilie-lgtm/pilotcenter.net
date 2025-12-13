@@ -1,0 +1,22 @@
+{
+  "id": "4160d133-62ec-4754-b859-62764540de41",
+  "slug": "flight-training-centers-sheridan",
+  "name": "Flight Training Centers - Sheridan",
+  "continent": "North America",
+  "country": "United States",
+  "state": "IN",
+  "city": "",
+  "baseAirport": "5I4 -Sheridan Airport",
+  "website": "https://flighttrainingcenters.com/",
+  "email": "info@flighttrainingcenters.com",
+  "phone": "(765) 319-3295",
+  "about": "Flight Training Centers - Sheridan is a premier flight school located in Sheridan, Indiana, offering a comprehensive range of aviation training programs. We provide certifications in Private Pilot, Sport Pilot, Commercial, and Flight Instructor (CFI and CFII) licenses. Our training includes options for complex, high-performance, and tailwheel aircraft. Students can experience a 20-minute Discovery Flight for $99, allowing them to fly with a Certified Flight Instructor. We emphasize affordability and flexibility, making recreational flying accessible. With a focus on safety and skill development, Flight Training Centers - Sheridan is your ticket to the freedom of aviation. Whether you're just starting or enhancing your skills, we have the resources and expertise to guide you every step of the way.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "0a764f4b-f5db-42d5-b8cd-2c982d205c4f",
+  "slug": "fly-right",
+  "name": "Fly Right",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NC",
+  "city": "",
+  "baseAirport": "JQF -Concord-Padgett Regional Airport",
+  "website": "https://www.flyrightinc.com/",
+  "email": "train@FlyRightInc.com",
+  "phone": "(704) 720-9623",
+  "about": "FlyRight Inc. is a premier flight training institution located at the Concord Regional Airport. Our modern, comfortable, and spacious training center is equipped with state-of-the-art classrooms featuring LED SmartBoards and large-screen displays. We offer a structured learning environment with dedicated study rooms, internet access, and brief and debrief rooms for simulator sessions. Our programs include traditional flight training, group classes, and extensive hands-on training managed by industry experts. We prioritize quality education and student success, ensuring that each pilot is well-prepared for a career in aviation. At FlyRight, we are committed to exceeding your expectations and helping you achieve your flying goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nSimulator\\nAirline Transport Pilot ATP\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

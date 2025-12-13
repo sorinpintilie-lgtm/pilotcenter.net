@@ -1,0 +1,22 @@
+{
+  "id": "e7b36fb9-2be9-4047-b7b5-821204de6259",
+  "slug": "royal-aero-para-club-de-spa",
+  "name": "Royal Aero Para Club de Spa",
+  "continent": "Europe",
+  "country": "Belgium",
+  "state": "",
+  "city": "Spa",
+  "baseAirport": "Spa-La Sauvenière Aerodrome",
+  "website": "https://www.spa-aviation.be/index.php/fr/",
+  "email": "info@spa-aviation.be",
+  "phone": "'+32-473-53-13-7",
+  "about": "The Royal Aero Para Club de Spa, located in the scenic Belgian Ardennes, is a premier aviation training facility committed to excellence in flight instruction. With a team of 4 flight instructors and 5 ground instructors, and a fleet of 7 aircraft, the club provides comprehensive theoretical and practical training. Recognized as a Declared Training Organization (DTO) under the reference BE.DTO.118, the school offers training leading to the Private Pilot License (PPL) with SEP (Land) and night VFR qualifications, adhering to European Aviation Safety Agency (EASA) standards. The club's cutting-edge facilities and knowledgeable teachers ensure excellent instruction and practical learning opportunities, making it an ideal choice for aspiring pilots and aviation enthusiasts alike. Whether pursuing a career in aviation or flying for pleasure, the Royal Aero Para Club de Spa is dedicated to helping you achieve your aviation goals.",
+  "icao": "EBSP",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

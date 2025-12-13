@@ -1,0 +1,22 @@
+{
+  "id": "79383019-b864-45b7-8ed8-1c592bbe31ba",
+  "slug": "air-hawkes-bay-flight-academy",
+  "name": "Air Hawke's Bay Flight Academy",
+  "continent": "Oceania",
+  "country": "New Zealand",
+  "state": "",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://airhawkesbayflightschool.co.nz/",
+  "email": "info@airhb.co.nz",
+  "phone": "'+64 6-879-8466",
+  "about": "Air Hawke's Bay Flight Academy is a leading New Zealand flight school with over 90 years of experience in pilot training. Accredited by the CAA with Part 141 and Part 135 certifications, we offer full-time integrated pilot training from beginner to advanced levels, including Private Pilot Licence, Commercial Pilot Licence, Instrument Rating, and more. Our fleet includes Piper Tomahawks, Cessna 172s, and Twin Engine Piper Senecas, supported by CAA-approved simulators. With 15 experienced instructors and a strong safety culture, we provide a holistic learning environment in New Zealand's varied and challenging geography. Our internship program enhances employment prospects, and our ICAO-recognized licenses are globally respected. We are committed to producing world-class pilots in a safe, effective, and efficient manner. Contact us to begin your aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

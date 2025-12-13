@@ -1,0 +1,22 @@
+{
+  "id": "125b24e1-513e-482d-bd89-25af8c13e5da",
+  "slug": "aeolus-aviation",
+  "name": "AEOLUS AVIATION",
+  "continent": "Europe",
+  "country": "Greece",
+  "state": "GRC",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://aeolus.gr/",
+  "email": "info@aeolus.gr",
+  "phone": "'+30 2310 465930",
+  "about": "AEOLUS Aviation Academy, based in Greece, is an EASA-approved training organisation dedicated to providing high-quality flight training and type rating services. Founded with a commitment to excellence, the academy offers a range of programs including Private Pilot Licence (PPL), Night Rating, and Commercial Pilot Licence (CPL). Our training is structured to comply with the latest Aircrew Regulation requirements and is designed to be completed efficiently to maintain cost effectiveness. We ensure a best possible learning environment, utilizing qualified instructors and appropriate aircraft. Our goal is to produce professional, safe, and successful aviators, and we are unconditionally committed to providing the most up-to-date training necessary for success in the demanding aviation environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"UPSET PREVENTION & RECOVERY TRAINING\\nPERFORMANCE-BASED NAVIGATION\\nENGLISH LANGUAGE PROFICIENCY\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

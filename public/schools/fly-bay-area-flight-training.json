@@ -1,0 +1,22 @@
+{
+  "id": "b6652c37-2da2-4d52-b0bd-5f55d880ad5c",
+  "slug": "fly-bay-area-flight-training",
+  "name": "Fly Bay Area - Flight Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SQL -San Carlos Airport",
+  "website": "https://www.flybayarea.com/learn-to-fly",
+  "email": "info@flybayarea.com",
+  "phone": "(650) 631-2927",
+  "about": "Fly Bay Area, located at the San Carlos Airport, is a premier flight training facility and official Cessna Flight Training Center. Our team of passionate and certified flight instructors provides comprehensive training programs for individuals at all stages of their aviation journey, from earning a private pilot license to advanced certifications. We also offer unique U-Fly Aerial Tours, where passengers can experience flying an aircraft over iconic landmarks like the Golden Gate Bridge and the San Francisco skyline. Our aircraft operate on unleaded fuel, promoting environmental sustainability. With a focus on safety, fun, and affordability, Fly Bay Area is dedicated to igniting a passion for aviation in every student and passenger. Join us to experience the thrill of flying in the beautiful San Francisco Bay Area.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

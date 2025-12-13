@@ -1,0 +1,22 @@
+{
+  "id": "bc500ece-f650-4223-8e22-20433d6ec7eb",
+  "slug": "sport-aviation-center",
+  "name": "Sport Aviation Center LLC",
+  "continent": "North America",
+  "country": "USA",
+  "state": "NV",
+  "city": "Carson City",
+  "baseAirport": "Carson City Airport",
+  "website": "https://sportaviationcenter.com/",
+  "email": "paul@sportaviationcenter.com",
+  "phone": "'+1 775-772-8232",
+  "about": "Sport Aviation Center LLC, located in Carson City, Nevada, is a premier flight training facility specializing in Light Sport Aircraft (LSA) and weight-shift control trikes. Led by industry leader Paul Hamilton, our full-time instructors are dedicated to teaching, not just building flight hours. We utilize top-of-the-line aircraft such as the Sling 2 and Evolution Trikes REVO, and our location in the High Sierra Desert near Lake Tahoe offers year-round favorable flying conditions. Our comprehensive training program, the Hamilton Pilot Training System (HPTS), includes online courses and over 270 instructional videos. We cater to all levels, from student pilots to certified flight instructors, ensuring a supportive and immersive learning environment. At Sport Aviation Center, we are committed to making flying more accessible and enjoyable for everyone. Come train with us and achieve your aviation dreams.",
+  "icao": "KCXP",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

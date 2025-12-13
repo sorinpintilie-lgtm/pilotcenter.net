@@ -1,0 +1,22 @@
+{
+  "id": "8cb5918b-7141-4dd0-b7ee-e954a5d6fcee",
+  "slug": "afit-accelerated-flight-instrument-training",
+  "name": "AFIT Accelerated Flight & Instrument Training",
+  "continent": "North America",
+  "country": "USA",
+  "state": "CA",
+  "city": "Van Nuys",
+  "baseAirport": "Van Nuys Airport",
+  "website": "https://www.afit-info.com/",
+  "email": "training@afit-info.com / AFIT@twc.com",
+  "phone": "'+1 866-270-8224",
+  "about": "AFIT Accelerated Flight & Instrument Training is a leading provider of accelerated flight training programs, with over 25 years of experience serving the General Aviation Industry, aircraft manufacturers, private companies, and individuals. Our team of 49 highly experienced Senior Flight Instructors and technical specialists offers comprehensive training in private, instrument, commercial, and airline transport pilot certifications. We are recognized for excellence in service by local, national, and international communities, with thousands of satisfied clients worldwide. Our intensive, full-time training approach has proven to enhance skills, proficiency, and confidence, mirroring the successful methods used by the US military. Partnered with Lincoln Skyways, we provide safe, affordable, and efficient pilot training, ensuring you gain the freedom to travel on your terms. Join AFIT to experience flight training at its best.",
+  "icao": "KVNY",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

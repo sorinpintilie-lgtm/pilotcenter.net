@@ -1,0 +1,22 @@
+{
+  "id": "e8ffdc4a-8785-4bfd-af20-5c1abe71852f",
+  "slug": "baron-enterprises",
+  "name": "Baron Enterprises",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OH",
+  "city": "",
+  "baseAirport": "MNN -Marion Municipal Airport",
+  "website": "https://baronenterprises.wordpress.com/",
+  "email": "baronent@acc-net.com",
+  "phone": "(740) 383-4914",
+  "about": "Baron Enterprises flying school is dedicated to providing comprehensive and specialized flight training, particularly for pilots of Bonanzas, Barons, Travel Airs, Twin Bonanzas, and Dukes. Our courses are presented in-person by experienced founders and feature type-specific, full-immersion training in your own aircraft. We offer virtual ground school options via Zoom or video subscription, allowing flexibility for busy schedules. Our world-class Certified Flight Instructors have thousands of hours in the specific aircraft types, ensuring you receive the highest quality training. Upon completion, you will receive endorsements for your flight review and instrument proficiency check, along with significant insurance premium discounts. At Baron Enterprises, we are committed to making your flight training experience both effective and enjoyable.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nGround School\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nGlider\\nInstrument\\nMulti-Engine\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

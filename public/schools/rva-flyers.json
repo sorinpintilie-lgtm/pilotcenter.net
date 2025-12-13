@@ -1,0 +1,22 @@
+{
+  "id": "56b1f449-9677-4e90-846c-ca421a0bbcc2",
+  "slug": "rva-flyers",
+  "name": "RVA Flyers",
+  "continent": "North America",
+  "country": "United",
+  "state": "VA",
+  "city": "",
+  "baseAirport": "RIC -Richmond International Airport",
+  "website": "https://www.rvaflyers.com/",
+  "email": "customerservice@rvaflyers.com",
+  "phone": "(804) 773-8584",
+  "about": "RVA Flyers is a premier flight training center located in the heart of central Virginia. Since its establishment, RVA Flyers has been dedicated to providing comprehensive and cutting-edge flight training programs. Our state-of-the-art facilities and fleet of Diamond aircraft ensure students receive the best possible training environment. Our team of highly qualified and experienced instructors, including Chief Flight Instructors Sam Klarar and Josh Das, are committed to guiding students through private, instrument, commercial, and multi-engine training programs. We utilize advanced tools like ForeFlight to enhance flight planning, weather analysis, and overall safety. With a focus on flexibility, cost-effectiveness, and a fast-paced training program, RVA Flyers is the ideal choice for aspiring pilots. Apply today and embark on your journey to becoming a successful pilot.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

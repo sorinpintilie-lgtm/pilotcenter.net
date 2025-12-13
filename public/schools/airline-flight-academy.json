@@ -1,0 +1,22 @@
+{
+  "id": "e615723f-1d3f-4636-bdfa-5dff2b500433",
+  "slug": "airline-flight-academy",
+  "name": "Airline Flight Academy",
+  "continent": "Africa",
+  "country": "Tunisia",
+  "state": "TN",
+  "city": "",
+  "baseAirport": "",
+  "website": "http://www.airlineflightacademy.com.tn/",
+  "email": "afa@unat.ens.tn",
+  "phone": "(+216) 70 860 780",
+  "about": "At Airline Flight Academy, we are committed to providing the highest quality aviation training for aspiring and professional pilots. As a premier airline pilot training academy, we combine extensive airline experience with a first-class training approach, radically redefining every aspect of aircrew training. Our focus on quality and commitment to the best training standards sets us apart. We form partnerships with the world’s most reputable airlines to create various career pathways and offer financial support options to facilitate your training journey. Our instructors are highly experienced, and our training is tailored to ensure you graduate well-prepared and recognized by the airline industry. We are dedicated to producing highly competent and safe aviators, and our continuous support system ensures your success from the start. Join us to embark on a professional and rewarding aviation career.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"GROUND AGENT\\nTECHNICAL OPERATIONS AGENT\\nAircraft Mechanic\\nAirline Pilot\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

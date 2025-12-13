@@ -1,0 +1,22 @@
+{
+  "id": "33e9cd01-6084-4094-affe-5c2d30de6408",
+  "slug": "air-academy-new-cag",
+  "name": "Air Academy New CAG",
+  "continent": "Europe",
+  "country": "Belgium",
+  "state": "",
+  "city": "Charleroi",
+  "baseAirport": "Brussels South International Airport",
+  "website": "https://www.newcag.be/en/",
+  "email": "info@newcag.be",
+  "phone": "'+32-713-57-77-7",
+  "about": "Air Academy New CAG, established in 1976 as New Centre d'Aviation Generale, is a renowned flying school based in Gosselies, Belgium. With over 30 experienced flight instructors, many of whom are current airline and air force pilots, the school offers a comprehensive range of pilot training programs from Private Pilot Licence (PPL) to Airline Transport Pilot (ATPL). The academy is EASA certified and provides modular training, as well as specialized courses such as Multi-Crew Cooperation (MCC) on the Airbus A300 and turboprop ratings on the Beech 90. Air Academy New CAG has a strong track record, with approximately 300 of its trained pilots employed globally. The school's commitment to excellence is reflected in its 100% pass rates for CPL and MEIR, making it a trusted institution for aspiring pilots.",
+  "icao": "EBCI",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nMulti-Crew Cooperation Course (MCC)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "88abf8c9-6823-4893-9d95-862631bc6b04",
+  "slug": "flugschule-grenchen",
+  "name": "Flugschule Grenchen",
+  "continent": "Europe",
+  "country": "Switzerland",
+  "state": "CH",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://fliegen.ch/",
+  "email": "info@fliegen.ch",
+  "phone": "032 654 11 88",
+  "about": "Flugschule Grenchen, established in 2000, is a leading Flight Training Organization (FTO) in Switzerland, certified by the Swiss Federal Office of Civil Aviation (FOCA) according to European Aviation Safety Agency (EASA) standards. We offer comprehensive training programs for private and commercial pilot licenses, instrument ratings, and flight instructor certifications on single and multi-engine piston aircraft and gliders. Our courses are tailored to individual needs, with a unique approach where students learn in groups of three, alternating between flying and observing to enhance efficiency. With a team of full-time and part-time staff, including tow pilots, flight pilots, and theory teachers, we ensure a supportive and excellence-driven environment. Located at Grenchen Airport, we provide optimal training conditions and a commitment to nurturing the next generation of aviation professionals. Contact us to embark on your aviation journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot LAPL / PPL\\nprofessional pilot CPL / IR\\nflight instructor and CRI\\nContinuing education\\nradio telephony\\nAviation English\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

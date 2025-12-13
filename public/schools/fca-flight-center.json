@@ -1,0 +1,22 @@
+{
+  "id": "fe9be135-9f5d-49e5-8c11-092b846e23a3",
+  "slug": "fca-flight-center",
+  "name": "FCA Flight Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MA",
+  "city": "",
+  "baseAirport": "FIT -Fitchburg Municipal Airport",
+  "website": "https://www.fcaflightcenter.com/",
+  "email": "info@fcaflightcenter.com",
+  "phone": "(978) 345-0373",
+  "about": "FCA Flight Center, located at the Fitchburg Municipal Airport (KFIT) since 1999, is a renowned flight school dedicated to providing high-quality aviation training. With a team of hand-picked, certified flight instructors, FCA offers a range of training courses from beginner to advanced ratings, including Private Pilot, Commercial Pilot, and Instrument Pilot licenses. Recognized by the Aircraft Owners and Pilots Association (AOPA) for its high standards, FCA prides itself on creating a supportive pilot community. The school features a diverse fleet of aircraft, including technically advanced Cirrus models, and offers online scheduling for convenience. Join FCA Flight Center to become part of an active and empowering aviation community.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

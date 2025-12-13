@@ -1,0 +1,22 @@
+{
+  "id": "8123fbde-aabf-4ea6-a6c3-8a4221b5eaa3",
+  "slug": "florida-flight-center",
+  "name": "Florida Flight Center",
+  "continent": "North America",
+  "country": "USA",
+  "state": "FL",
+  "city": "Sarasota",
+  "baseAirport": "Sarasota-Bradenton International Airport",
+  "website": "https://floridaflightcenter.com/",
+  "email": "info@floridaflightcenter.com",
+  "phone": "'+1 941-376-3500",
+  "about": "Florida Flight Center, based in Sarasota, Florida, at Sarasota/Bradenton International Airport, has been serving pilots since 1996. We offer personalized training programs, blending formal instruction with one-on-one attention, catering to both professional pilots and those seeking their first type rating. Our instructors are active professional pilots, providing real-world experience and proven training methods to ensure a pleasant and effective learning experience. We emphasize safety, conducting all training in actual aircraft to enhance proficiency. With flexible scheduling and the option for on-site training, we accommodate various needs. Located in a tropical climate, our training environment is ideal year-round, offering a unique blend of professional training and leisure activities. Our commitment to safety, professionalism, and personalized training makes Florida Flight Center an excellent choice for aspiring and seasoned pilots alike.",
+  "icao": "KSRQ",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot\\nJet Orientation Course (JOT)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

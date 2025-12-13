@@ -1,0 +1,22 @@
+{
+  "id": "c5b316f5-bb09-4d22-a99c-54214b636062",
+  "slug": "mustang-aviation",
+  "name": "Mustang Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "SD",
+  "city": "",
+  "baseAirport": "PIR -Pierre Regional Airport",
+  "website": "https://www.mustangaviation.aero/",
+  "email": "info@mustangaviation.aero",
+  "phone": "(605) 224-9000",
+  "about": "Mustang Aviation is a premier flight training institution dedicated to providing comprehensive and innovative aviation education. Our curriculum spans from private pilot to airline transport pilot certifications, utilizing a fleet of advanced aircraft including Diamond DA40s, DA42 twins, DA62 twins, and Cessna Citation Mustangs. We employ state-of-the-art Redbird Flight Simulations and Level D simulators to ensure realistic training experiences. Our instructors are certified and experienced, focusing on safety, proficiency, and enthusiasm for aviation. We offer flexible training programs, including on-site and remote instruction, and a mentoring system to guide pilots through various levels of certification. At Mustang Aviation, our goal is to produce highly skilled and safe pilots, ready to excel in the aviation industry.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nGround School\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

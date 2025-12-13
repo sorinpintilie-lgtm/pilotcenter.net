@@ -1,0 +1,22 @@
+{
+  "id": "1762e367-8918-4ed7-8376-e8dadaf8919a",
+  "slug": "anson-aviation",
+  "name": "Anson Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "SGR -Sugar Land Regional Airport",
+  "website": "https://www.ansonair.com/",
+  "email": "Dennis@ansonair.com",
+  "phone": "(281) 242-2555",
+  "about": "Anson Aviation is a professionally run flight school located at KSGR, emphasizing safety and high standards in aviation training. Our courses are FAA-approved under Part 141, ensuring rigorous and consistent training. We offer a \"Cleared for Takeoff\" private pilot course, a multi-engine add-on rating, and other specialized training programs using state-of-the-art resources like King Schools' online curriculum and Redbird simulators. Our fleet includes reliable Cessna 172 aircraft and Piper PA-44 multi-engine planes. With one-on-one instruction from FAA-certified instructors, we provide a comprehensive and tailored learning experience. Anson Aviation is committed to equipping pilots with the skills necessary for safe and successful flight operations.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nComputerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nMulti-Engine\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

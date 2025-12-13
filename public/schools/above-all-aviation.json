@@ -1,0 +1,22 @@
+{
+  "id": "bfc4a0bb-29c1-42ba-aa5b-dcb4e1949416",
+  "slug": "above-all-aviation",
+  "name": "Above All Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SBA -Santa Barbara Municipal Airport",
+  "website": "https://www.aboveallsba.com/",
+  "email": "ssullivan@aboveallsba.com",
+  "phone": "(805) 683-7575",
+  "about": "Above All Aviation is Santa Barbara's premier flight school, offering a comprehensive and supportive learning environment. With an AOPA Flight Training Experience Award, we provide FAA Certificated Part 141 training programs and flexible Part 61 options. Our fleet of 12 airplanes, full-motion flight simulator, and highly qualified instructors ensure efficient and safe training. We are committed to core values of safety, quality, integrity, and value, measuring success by the competence and proficiency of our pilots. Join us for private, instrument-rated, commercial, multi-engine, or airline transport pilot training, and experience a family-like atmosphere where students and instructors share a passion for flying. Above All Aviation is dedicated to your success from your first lesson to your check ride.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

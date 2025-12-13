@@ -1,0 +1,22 @@
+{
+  "id": "96b0cd0d-f90d-4039-8233-e002be41cfc6",
+  "slug": "rexair-flight-school",
+  "name": "RexAir Flight School",
+  "continent": "North America",
+  "country": "USA",
+  "state": "FL",
+  "city": "Naples",
+  "baseAirport": "Naples Municipal Airport",
+  "website": "https://www.rexair.net/",
+  "email": "Info@rexair.net",
+  "phone": "'+1 (239)-799-0217 or +1 239-649-8822",
+  "about": "RexAir Flight School, located in Florida, offers comprehensive and personalized flight training programs tailored to each student's unique needs and goals. Our academy at Sebring Regional Airport provides an accelerated 8-month program that takes students from zero flight time to a Commercial Pilot Certificate, Instrument Rating, and Flight Instructor Certificate. Using the Vans RV-12 and simulators, our 360-Degree Pilot Training method focuses on both piloting skills and professional development. We also have a location in Naples, where we offer training for single-engine and multi-engine land certifications, from private pilot to ATP. Our commitment to individualized career counseling and small class sizes ensures students receive the personal attention they need to succeed. With provided housing and financing options available, RexAir is dedicated to helping aspiring pilots achieve their aviation dreams.",
+  "icao": "KAPF",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

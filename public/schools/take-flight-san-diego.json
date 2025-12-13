@@ -1,0 +1,22 @@
+{
+  "id": "236f9c19-e20f-4abd-897c-b8a738210834",
+  "slug": "take-flight-san-diego",
+  "name": "Take Flight San Diego",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SEE -Gillespie Field",
+  "website": "https://www.takeflightsandiego.com/",
+  "email": "dave@takeflightsandiego.com",
+  "phone": "(858) 254-7504",
+  "about": "Take Flight San Diego is a premier flight training institution dedicated to providing high-level safety and proficiency in aviation. Specializing in Cirrus aircraft training, our programs are designed to help students achieve a high standard of flying skills. With a focus on personalized training, we cater to both recreational and professional pilots. Our state-of-the-art facilities and experienced instructors ensure a comprehensive learning environment. Whether you're aiming for a private pilot license or a commercial career, Take Flight San Diego offers tailored programs to meet your needs, ensuring you fly confidently and safely. We are committed to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

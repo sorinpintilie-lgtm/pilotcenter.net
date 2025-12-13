@@ -1,0 +1,22 @@
+{
+  "id": "a6f2e3ff-af31-413e-a1b8-525e4f8ce45b",
+  "slug": "nortavia-transportes-aereos-sa",
+  "name": "Nortávia - Transportes Aéreos, SA",
+  "continent": "Europe",
+  "country": "Portugal",
+  "state": "PORT",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.nortavia.com/",
+  "email": "geral@nortavia.com",
+  "phone": "'+351 229 683 176",
+  "about": "Nortávia - Transportes Aéreos, SA is a renowned flight school located in Maia, near Porto, Portugal, with over 30 years of experience in aviation training. Founded in 1989, Nortávia is an Approved Training Organization (ATO) certified by the Portuguese Civil Aviation Authority (ANAC) and compliant with EASA standards. The school offers integrated ATPL(A) courses, CPL(H), MCC, and other specialized training programs, ensuring students receive high-quality, secure, and comprehensive training. Nortávia's facilities include a fleet of over 10 aircraft and state-of-the-art training equipment, providing an excellent aeronautical environment for both theoretical and practical training. With a passion for flying and a commitment to excellence, Nortávia has become a leading reference in aviation, helping many young people achieve their dream of becoming professional pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"ATPL(A) Light\\nATPL(A) Base\\nATPL(A) Premium\\nCPL(H) Helicopter Pilot\\nAirplane Flight Instructor (FI-A)\\nATPL(A) E-Learning\\nQualifications & Conversions\\nRevalidations\\nAircraft Type Maintenance Training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

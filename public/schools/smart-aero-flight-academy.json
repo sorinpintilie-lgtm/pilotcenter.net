@@ -1,0 +1,22 @@
+{
+  "id": "e397e760-4cc6-44df-b49b-dd419e8e4951",
+  "slug": "smart-aero-flight-academy",
+  "name": "Smart Aero Flight Academy",
+  "continent": "Europe",
+  "country": "Poland",
+  "state": "",
+  "city": "Nowy Dwór Mazowiecki",
+  "baseAirport": "Warsaw-Modlin Airport",
+  "website": "https://smartaero.pl/en/home-2/",
+  "email": "info@smartaero.pl",
+  "phone": "'+48 530 380 090",
+  "about": "Smart Aero Flight Academy is a comprehensive flight training center dedicated to producing highly skilled pilots. Located in Poland, our academy utilizes a diverse fleet of aircraft, including the Cessna 152, Piper PA30 Twin Comanche, and Piper PA28R-201 Arrow, to conduct training for PPL(A), VFR night, CPL(A), and FI(A) certifications. Our modern aircraft, recently overhauled to ensure optimal performance and safety, are used for various training programs, including IR(A)ME and multi-engine MEP(L) training. Our experienced instructors, with a passion for aviation, provide personalized training tailored to each student's needs, ensuring a high standard of education and preparing graduates for successful careers in aviation. With a focus on safety, efficiency, and individualized training, Smart Aero Flight Academy is an excellent choice for aspiring pilots seeking professional and thorough flight training.",
+  "icao": "EPMO",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nNight Rating\\nEASA ATPL Ground School\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

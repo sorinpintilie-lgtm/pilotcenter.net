@@ -1,0 +1,22 @@
+{
+  "id": "1dfdc7f9-0af4-4d03-bc01-d39b4381c9a0",
+  "slug": "alto-flight-academy",
+  "name": "Alto Flight Academy",
+  "continent": "North America",
+  "country": "United",
+  "state": "OK",
+  "city": "",
+  "baseAirport": "HSD -Sundance Airport",
+  "website": "https://altoflight.com/",
+  "email": "capt.harris@altoflight.com",
+  "phone": "(405) 789-1234",
+  "about": "Alto Flight Academy, located at KHSD in Yukon, Oklahoma, is a comprehensive flight training institution dedicated to providing high-quality aviation education. We offer a range of programs tailored for students of all levels, from recreational flyers to those aspiring for a career in aviation. Our curriculum includes private pilot training, instrument rating, commercial pilot certification, and multi-engine training, all conducted under FAA Part 141 certification. With a fleet of well-maintained aircraft and experienced instructors, we ensure a safe and effective learning environment. Our commitment to excellence is reflected in the achievements of our students, and we are proud to be a leading flight academy in the region, helping aspiring pilots achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

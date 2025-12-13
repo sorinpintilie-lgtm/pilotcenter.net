@@ -1,0 +1,22 @@
+{
+  "id": "ee66f93e-2c83-4c61-90da-94fdaf32b8dc",
+  "slug": "hewison-aviation",
+  "name": "Hewison Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NY",
+  "city": "",
+  "baseAirport": "4B0 -South Albany Airport",
+  "website": "https://hewisonaviation.com/",
+  "email": "hewisonaviation@gmail.com",
+  "phone": "(518) 415-5107",
+  "about": "Hewison Aviation is a premier flight training center based in Central New York and the Capital District, founded in 2014 by Christopher and Maura Hewison. With over 10 years of experience, the school is dedicated to providing high-quality flight training and services. Our instructors are highly experienced aviation professionals, each with over 500 hours of flight time, ensuring a safe and effective learning environment. We offer a range of courses, including Private Pilot, Commercial Pilot, and Instrument Rating, using a fleet of reliable Piper aircraft. Our mission is to help students achieve their aviation goals with a personal and disciplined approach, promoting general aviation safety and excellence. Hewison Aviation is committed to setting the bar high for quality and reliability in flight training.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

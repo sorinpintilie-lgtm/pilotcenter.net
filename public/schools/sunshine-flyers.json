@@ -1,0 +1,22 @@
+{
+  "id": "f22009a4-fbdb-4cb9-89eb-49e39e84472b",
+  "slug": "sunshine-flyers",
+  "name": "Sunshine Flyers",
+  "continent": "North America",
+  "country": "United",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "AUN -Auburn Municipal Airport",
+  "website": "https://sunshineflyers.com/",
+  "email": "sunshineflyersaviation@gmail.com",
+  "phone": "(530) 820-3442",
+  "about": "Sunshine Flyers, located at the Auburn Airport just outside of Sacramento, California, is a premier flight school dedicated to providing exceptional flight training in a fun and supportive environment. We offer a range of instructional programs, including training for student, sport, and private pilot licenses, as well as specialized endorsements such as tail wheel training. Our FAA-certified instructors are known for their expertise, knowledge, and can-do attitude, ensuring an enjoyable and comprehensive learning experience. With a focus on safety and personalized instruction, Sunshine Flyers is the ideal choice for those aspiring to achieve their aviation goals. Whether you're a beginner or an experienced pilot, we pave the way to whatever path in aviation you are trying to achieve.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

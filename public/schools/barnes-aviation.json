@@ -1,0 +1,22 @@
+{
+  "id": "d0cfc468-6cf7-4892-9518-29c371a960c2",
+  "slug": "barnes-aviation",
+  "name": "Barnes Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "WJF -General Wm J Fox Airfield",
+  "website": "https://www.barnesaviation.com/",
+  "email": "info@barnesaviation.com",
+  "phone": "(661) 948-4048",
+  "about": "Barnes Aviation, located at the William J. Fox Airport in Lancaster, California, is a comprehensive flight school dedicated to training safe and competent pilots. We offer a range of programs, including Private Pilot Certificate, Commercial Pilot Certificate, Flight Instructor, and Instrument Rating, all in accordance with Federal Aviation Administration (FAA) standards. Our fleet includes Cessna 152, Cessna 172, Piper Warrior, Piper Aztec, and Citabria aircraft. In addition to flight training, we provide ground school and seminars to ensure our students receive a well-rounded education. Our goal is to produce skilled and confident pilots, and we are committed to maintaining the highest standards of safety and professionalism. By choosing Barnes Aviation, you are investing in a quality aviation education that prepares you for a successful career in flying.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

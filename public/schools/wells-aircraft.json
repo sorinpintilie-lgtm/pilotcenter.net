@@ -1,0 +1,22 @@
+{
+  "id": "b8553353-b0f0-4d66-a402-b630e4ae8353",
+  "slug": "wells-aircraft",
+  "name": "Wells Aircraft, Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MO",
+  "city": "",
+  "baseAirport": "FWB -Branson West Municipal - Emerson Field",
+  "website": "https://www.wellsac.com/",
+  "email": "dd@wellsac.com",
+  "phone": "(417) 272-3921",
+  "about": "Wells Aircraft, Inc. is a premier aviation service provider with a rich history and dedication to quality flight training. Located in both Branson West, Missouri, and Hutchinson, Kansas, we offer comprehensive flight training programs for Private, Instrument, Commercial, and ATP certifications. As a certified Cirrus Training Facility, we provide initial and recurrent training on Cirrus Aircraft. In addition to our training services, we are the Midwest's leading Cirrus Service Center and charter company, offering competitive pricing for aircraft rentals. With membership in the Aircraft Electronics Association since 1998, we ensure the highest standards in aviation electronics and maintenance. Our commitment to excellence makes us a trusted name in the aviation industry. We are dedicated to providing unparalleled expertise in all facets of aviation.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

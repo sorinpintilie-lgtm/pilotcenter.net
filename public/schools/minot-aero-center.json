@@ -1,0 +1,22 @@
+{
+  "id": "18e34d7c-541f-4ea0-b682-7036db3880cd",
+  "slug": "minot-aero-center",
+  "name": "Minot Aero Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "ND",
+  "city": "",
+  "baseAirport": "MOT -Minot International Airport",
+  "website": "https://minotaerocenter.com/",
+  "email": "info@minotaerocenter.com",
+  "phone": "(701) 852-4092",
+  "about": "The Minot Aero Center, established in 1952 by Alfred Pietsch, is a locally owned and operated business providing comprehensive aviation services. Initially offering crop spraying and flight instruction, the center has expanded to become a full-service fixed base operation (FBO). It is the only Authorized Mooney Service Center in North Dakota and offers aircraft maintenance, flight instruction for various certifications, aircraft rentals, and testing services. With a diverse fleet including Cessna 172s, Piper Warriors, a Piper Seneca, a Mooney, and a Citabria, the center caters to both private and commercial aviation needs. Under the current ownership of Jay and Suzanne Blessum, the Minot Aero Center has seen significant growth, including an increase in female students and the addition of multi-engine instruction. The center is committed to community involvement and provides a supportive environment for all aspiring pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nComputerized Testing\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nPart 107 Drone Testing\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

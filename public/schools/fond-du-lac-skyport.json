@@ -1,0 +1,22 @@
+{
+  "id": "89de1949-16e3-4725-8103-5998b7e24d50",
+  "slug": "fond-du-lac-skyport",
+  "name": "Fond Du Lac Skyport",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WI",
+  "city": "",
+  "baseAirport": "FLD -Fond Du Lac County Airport",
+  "website": "https://www.fdlco.wi.gov/departments/departments-a-e/airport/fond-du-lac-skyport-3997",
+  "email": "skyport@fdlskyport.com",
+  "phone": "(920) 922-6000",
+  "about": "Fond du Lac Skyport is a premier flight school located in Fond du Lac, Wisconsin, offering exceptional flight training programs. Our instructors boast over a century of combined aviation experience, having worked in various roles from airlines to business aviation. We provide flexible scheduling, allowing students to earn their licenses at their own pace. Our training includes the option to add additional ratings for flying in the clouds or for hire, all conducted under FAA certification standards.\n\nWe offer a range of amenities, including online scheduling, rental of two-seat or four-seat aircraft, an on-site store with aviation books and FAA charts, and free access to Jeppesen training videos. Our facility is open seven days a week and features one-on-one and group classes, as well as ground time for questions. Fond du Lac Skyport is committed to providing comprehensive and personalized flight training to ensure our students achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "09dd04d1-b0c1-4105-9823-2aad4cb6315f",
+  "slug": "advantage-aviation",
+  "name": "Advantage Aviation Inc.",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "PAO -Palo Alto Airport",
+  "website": "https://advantage-aviation.com/",
+  "email": "info@advantage-aviation.com",
+  "phone": "(650) 494-7248",
+  "about": "Advantage Aviation Inc. is Palo Alto's premier flight club, offering expert flight instruction, aircraft rental, maintenance, and management. With a fleet of over 50 modern aircraft, including Garmin G1000 glass cockpit planes, we provide top-quality training from the best instructors in the Bay Area. Our facilities include a fully staffed modern lounge, instruction rooms, and state-of-the-art maintenance services. We offer training for beginner pilots, instrument and commercial licenses, multi-engine ratings, and tailwheel endorsements. Our introductory flight packages are instructional and hands-on, counting towards FAA pilot certificate requirements. We pride ourselves on providing a world-class flying club experience with exclusive member benefits, seminars, and events. Join us for a comprehensive and enjoyable flight training experience.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

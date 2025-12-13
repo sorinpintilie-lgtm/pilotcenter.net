@@ -1,0 +1,22 @@
+{
+  "id": "fcf2476a-32c4-4572-860d-0aaca665a0eb",
+  "slug": "greycat-aviation",
+  "name": "GreyCat Aviation",
+  "continent": "North America",
+  "country": "United",
+  "state": "VA",
+  "city": "",
+  "baseAirport": "PVG -Hampton Roads Exec Airport",
+  "website": "https://www.greycataviation.com/",
+  "email": "rob@greycataviation.com",
+  "phone": "(757) 339-1335",
+  "about": "GreyCat Aviation, located in Chesapeake, Virginia, offers a comprehensive and personalized flight training experience. Led by Rob Garcia, a Gold Seal CFI, CFII, and MEI, the school provides individualized instruction from Sport Pilot to ATP certifications. Students can benefit from tailwheel training and a variety of flight programs tailored to their needs. With a focus on high-quality training, GreyCat Aviation ensures that each pilot receives the skills and knowledge necessary to excel in the ever-evolving world of aviation. Whether you are a beginner or an experienced pilot, GreyCat Aviation is dedicated to helping you achieve your flying goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nInstrument Proficiency Check\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

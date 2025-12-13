@@ -1,0 +1,22 @@
+{
+  "id": "7b759752-ede0-4091-8d66-743b6b8e7dbd",
+  "slug": "petaluma-pilot-training-center",
+  "name": "Petaluma Pilot Training Center",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "O69 -Petaluma Municipal Airport",
+  "website": "https://www.petalumapilots.com/",
+  "email": "info@petalumapilottrainingcenter.com",
+  "phone": "(707) 765-1889",
+  "about": "Petaluma Pilot Training Center, located at the Petaluma Municipal Airport (O69), is dedicated to providing top-quality flight training from private to commercial pilot licenses. Our experienced instructors offer personalized training, including introductory flights, private pilot certificates, instrument ratings, and complex aircraft endorsements. We utilize online scheduling for convenient flight reservations and maintain our aircraft on-site through our parent company, Mangon Aircraft. With a focus on safety and community, our training programs are designed to meet and exceed FAA standards, ensuring you become a proficient and confident pilot. Contact us at (707) 765-1889 to schedule your introductory flying lesson today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "11e9df00-b637-4b28-a8b1-2116117d805d",
+  "slug": "harvey-rihn-aviation",
+  "name": "Harvey & Rihn Aviation",
+  "continent": "North America",
+  "country": "United",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "T41 -La Porte Municipal Airport",
+  "website": "https://www.harveyrihn.com/",
+  "email": "info@harveyrihn.com",
+  "phone": "(281) 471-1675",
+  "about": "Harvey & Rihn Aviation, located at 101 Airport Blvd in La Porte, Texas, has been a leader in the aviation training industry for over 45 years. We offer a comprehensive range of flight training programs, including basic flight training, tail wheel, multiengine instruction, and renowned aerobatic training, including our legendary spin training course. Our services also include additional ground school and seminars, computerized testing, and FBO services such as medical exams, aircraft repair, and plane hangar facilities. With a commitment to excellence and safety, Harvey & Rihn Aviation is dedicated to helping aspiring pilots achieve their aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nIntro Flight\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

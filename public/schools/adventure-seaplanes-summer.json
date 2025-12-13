@@ -1,0 +1,22 @@
+{
+  "id": "d5597e47-87d7-4fff-817d-1592247bf6f4",
+  "slug": "adventure-seaplanes-summer",
+  "name": "Adventure Seaplanes - Summer",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MN",
+  "city": "",
+  "baseAirport": "12D -Tower Municipal Airport",
+  "website": "https://www.adventureseaplanes.com/",
+  "email": "fly@adventureseaplanes.com",
+  "phone": "(612) 749-1337",
+  "about": "Adventure Seaplanes is a premier flying school specializing in seaplane instruction and tours. Based at Tower Municipal Airport and Seaplane Base in Minnesota, we offer private and commercial seaplane ratings, which can be completed in 6-8 hours of flight training over 2-3 days. Our experienced instructors provide comprehensive training in various water environments, including canals, rivers, and lakes, covering skills such as beaching, docking, and emergency landings. We also offer advanced training programs, including bush flying, fishing, and hunting trips to the Arctic, Northwest Territories, and Alaska. With a fleet that includes the Cessna 172, C185 Amphibious, and Dehavilland Beaver, Adventure Seaplanes ensures a unique and fun learning experience, making you a better, safer, and more knowledgeable pilot. Join us for an unforgettable flying adventure.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Intro Flight\\nCommercial\\nFlight Instructor CFI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\\nSeaplane\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

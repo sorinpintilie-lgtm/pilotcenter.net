@@ -1,0 +1,22 @@
+{
+  "id": "8de29f32-3e52-48d4-adb8-dee1403b9698",
+  "slug": "the-pilot-shoppe",
+  "name": "The Pilot Shoppe",
+  "continent": "North America",
+  "country": "United States",
+  "state": "TX",
+  "city": "",
+  "baseAirport": "SAT -San Antonio International Airport",
+  "website": "https://www.thepilotshoppe.com/",
+  "email": "PilotShop@aol.com",
+  "phone": "(210) 524-9525",
+  "about": "The Pilot Shoppe is a comprehensive resource for aviation enthusiasts and aspiring pilots, although it is not primarily a flying school. We specialize in providing a wide range of aviation training materials, equipment, and accessories. Our catalog includes items such as private pilot test prep guides, instrument oral exam guides, and various aviation-themed products. While we do not offer flight training programs, we support pilots through educational materials and supplies, ensuring they have the tools necessary to succeed in their aviation careers. Our commitment to quality and customer satisfaction makes us a trusted name in the aviation community. We are here to help you navigate your aviation journey with the best resources available.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nPart 107 Drone Testing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "9305816a-4241-400a-b6d2-1c205efc98cf",
+  "slug": "focus-air-cc",
+  "name": "Focus Air CC",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "NL",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.focusair.co.za/",
+  "email": "info@focusair.co.za",
+  "phone": "'+27(0)31 313 9786",
+  "about": "At Focus Air Flight School, we are dedicated to developing students into highly knowledgeable and safe professional pilots. With a flight training syllabus refined over 20 years, we pride ourselves on the quality of our courses. Our experienced instructors and comprehensive training programs ensure that students receive exceptional education and hands-on training. We strive to produce competent pilots ready to excel in the aviation industry, emphasizing both theoretical knowledge and practical skills. Our commitment to excellence and safety makes us a trusted choice for aspiring pilots. Focus Air is where passion for flying meets professional excellence.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Air Transport License\\nCommercial Pilot License\\nPrivate Pilot License\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

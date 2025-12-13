@@ -1,0 +1,22 @@
+{
+  "id": "7d592b3a-4c6e-42b8-a926-ce8dc7e4c3da",
+  "slug": "north-flying-as",
+  "name": "North Flying A/S",
+  "continent": "Europe",
+  "country": "Denmark",
+  "state": "DK",
+  "city": "",
+  "baseAirport": "Aalborg Airport",
+  "website": "https://www.northflying.com/",
+  "email": "info@northflying.com",
+  "phone": "'+ 45 96322900",
+  "about": "North Flying A/S is a premier aviation service provider based in Denmark, with a strong focus on flight safety and extensive experience. Established with over 20 years of expertise, particularly in air ambulance operations, North Flying operates a fleet of 10 fixed-wing aircraft, including Cessna Citation jets and Fairchild Metroliner turboprops. The company boasts a 24/7 operation office and its own maintenance facilities at Aalborg Airport. North Flying's highly specialized medical crew, comprising anaesthetists, aviation medicine specialists, and nurses, ensures top-notch medical evacuations. The company prioritizes safety, with all pilots undergoing rigorous training, and offers comprehensive services including aircraft management, air taxi, and charter flights. With a commitment to maintaining and developing expertise, North Flying continues to be a leading provider in Northern Europe.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground operations\\nMaintenance\\nFlight department\\nVIP & Business Flights\\nAir Ambulances\\nAir Freight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

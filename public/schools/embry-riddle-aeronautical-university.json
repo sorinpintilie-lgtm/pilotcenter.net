@@ -1,0 +1,22 @@
+{
+  "id": "29e21d0c-7898-4ef0-aae9-da9c9d7c7bf9",
+  "slug": "embry-riddle-aeronautical-university",
+  "name": "Embry-Riddle Aeronautical University",
+  "continent": "North America",
+  "country": "USA",
+  "state": "FL",
+  "city": "Daytona Beach",
+  "baseAirport": "Daytona Beach International Airport",
+  "website": "https://erau.edu/",
+  "email": "DaytonaBeach@erau.edu",
+  "phone": "'+1 800-862-2416 or+1 386-226-6100",
+  "about": "Embry-Riddle Aeronautical University is a globally recognized leader in aviation and aerospace education. Founded in 1926, the university offers comprehensive programs in flight training, aeronautical science, and other related fields. With campuses in Daytona Beach, Florida, and Prescott, Arizona, Embry-Riddle provides state-of-the-art facilities and experienced instructors to ensure students receive top-notch education. The university's flying school is renowned for its rigorous curriculum, safety standards, and hands-on training, preparing students for successful careers in the aviation industry. Embry-Riddle's commitment to excellence has made it a preferred choice for aspiring pilots and aviation professionals worldwide.",
+  "icao": "KDAB",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nSeaplane Rating\\nEASA ATPL Ground School\\nEASA ATPL Ab Initio\"]",
+  "visaInsurance": "F-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

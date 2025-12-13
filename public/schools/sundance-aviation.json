@@ -1,0 +1,22 @@
+{
+  "id": "3873fcc5-919e-4ab7-839f-8b3c7736b0a8",
+  "slug": "sundance-aviation",
+  "name": "Sundance Aviation",
+  "continent": "North America",
+  "country": "United States",
+  "state": "WA",
+  "city": "",
+  "baseAirport": "RLD -Richland Airport",
+  "website": "https://www.sundanceaviation.com/",
+  "email": "info@sundanceaviation.com",
+  "phone": "(509) 946-2515",
+  "about": "At Sundance Aviation, we offer comprehensive flight training tailored to fit your busy schedule. Our integrated training method puts you in control from day one, ensuring a hands-on introduction to flying. We encourage prospective pilots to take an introductory flight for $149, which includes a 30-minute flight with a certified instructor. To become a Private Pilot, you must be at least 17 years old and obtain a 3rd Class Medical/Student Pilot Certificate. Our training includes flexible scheduling, online reservation options, and the use of fully-restored Piper Cherokee 140 and 150 aircraft. We also provide Flight Reviews and Instrument Rating training. Our facilities include a 24-hour pilots lounge with amenities like Wi-Fi and a courtesy car. At Sundance Aviation, we are committed to making your flight training experience both effective and enjoyable.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nGround School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\\nUltralight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

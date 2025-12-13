@@ -1,0 +1,22 @@
+{
+  "id": "ce427975-46ee-4faf-a825-8d80a847e566",
+  "slug": "skytrek-flying-school",
+  "name": "Skytrek Flying School",
+  "continent": "Europe",
+  "country": "United Kingdom",
+  "state": "",
+  "city": "Chatham",
+  "baseAirport": "Rochester Airport",
+  "website": "https://www.skytrekair.com/",
+  "email": "office@skytrekair.com",
+  "phone": "'+44 1634 200 787",
+  "about": "Skytrek Flying School, located in Chatham, England, is a leading aviation training institute dedicated to providing high-quality education to aspiring pilots. Founded with the goal of making aviation accessible to everyone, the school offers private and trade school courses, aircraft rental services, and a variety of flight training programs, including private pilot, commercial pilot, and instrument rating training. With a commitment to excellence, Skytrek Flying School ensures personalized training for each student, utilizing a fleet of modern, well-maintained aircraft. The school also provides job placement assistance, helping graduates secure employment in the aviation industry. Known for its knowledgeable instructors and positive reviews, Skytrek Flying School is a top choice for those seeking a successful career in aviation.",
+  "icao": "KRST",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

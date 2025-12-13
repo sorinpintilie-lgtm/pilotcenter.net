@@ -1,0 +1,22 @@
+{
+  "id": "979d3219-0478-478f-ad4c-bfbe25c6cf68",
+  "slug": "microsimulacion-flight-center",
+  "name": "MICROSIMULACION Flight Center",
+  "continent": "South America",
+  "country": "Chile",
+  "state": "CL",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.microsimulacion.com/",
+  "email": "",
+  "phone": "'+562 2672 5309",
+  "about": "At MICROSIMULACION Flight Center, we are dedicated to providing high-quality, personalized flight training tailored to each student's unique needs. Located in a premier flight training environment, our school offers a wide range of certifications, including private pilot, instrument rating, commercial, multi-engine, and instructor training. Our staff consists of experienced, multilingual instructors who use real-world, scenario-based training to ensure fun and effective learning. We maintain a fleet of well-maintained, safety-inspected aircraft and utilize advanced simulator technology to enhance training. With a focus on safety, community, and adventure, we strive to create safe, competent pilots and provide a seamless path to a career in aviation. Join us to achieve your aviation goals in a supportive and professional environment.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"A 320 APS MCC-ELT\\nA320 OBTAINS TYPE RATING\\nIFR Revalidation in FTD Simulator\\nA320 RENEWAL TYPE RATING-A320\\nAirline Pilot Career\\nFuture Pilot Course\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

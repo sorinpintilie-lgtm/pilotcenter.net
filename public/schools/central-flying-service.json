@@ -1,0 +1,22 @@
+{
+  "id": "f0cb739a-fda0-4ae3-8b73-7daac91b8128",
+  "slug": "central-flying-service",
+  "name": "Central Flying Service",
+  "continent": "North America",
+  "country": "USA",
+  "state": "AK",
+  "city": "Little Rock",
+  "baseAirport": "Bill & Hillary Clinton National Airport",
+  "website": "https://central.aero/",
+  "email": "inquire@central.aero",
+  "phone": "'+1 501-375-3245",
+  "about": "Central Flying Service, based at Adams Field Airport in Little Rock, Arkansas, is a comprehensive aviation facility offering a wide range of services. We provide professional flight training for private and commercial pilots, with a student-focused approach that prioritizes safety and personalized instruction. Our services also include aircraft sales, full-service maintenance, repair, and overhaul (MRO), aircraft painting, interior refurbishment, and avionics upgrades. Additionally, we offer aircraft management and charter services, ensuring convenient travel solutions for both business and leisure. Our culture is built on drive, commitment, and mastery, with a strong emphasis on employee development and customer satisfaction. We are dedicated to connecting with people to simplify their aviation journey and deliver world-class quality and service. At Central Flying Service, we strive to make every customer's experience exceptional.",
+  "icao": "KLIT",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

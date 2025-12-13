@@ -1,0 +1,22 @@
+{
+  "id": "6279c00e-5cc0-4147-8a8f-16a74f214669",
+  "slug": "orbic-helicopters",
+  "name": "Orbic Helicopters",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "CMA -Camarillo Airport",
+  "website": "https://orbichelicopters.com/",
+  "email": "orbicheli@gmail.com",
+  "phone": "(805) 389-1070",
+  "about": "Orbic Helicopters, established in 1990, is a premier helicopter flight school and service provider based at the Camarillo Airport in Southern California. Founded by Ken Obi, a seasoned pilot with over 18,000 flight hours, the company is dedicated to providing high-quality, practical flight training. Orbic offers a range of services including private pilot licenses, commercial pilot certificates, instrument ratings, and certified flight instructor training. The school is known for its highly experienced instructors and well-maintained fleet of Robinson helicopters. In addition to flight training, Orbic Helicopters provides scenic tours, photo flights, charter services, and maintenance as a Federal Aviation Administration-approved part 145 repair station. With a strong focus on safety and customer satisfaction, Orbic Helicopters has built a reputation for producing highly trained and confident pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Commercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\\nRotary Wing\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

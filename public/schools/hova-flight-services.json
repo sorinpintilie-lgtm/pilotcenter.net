@@ -1,0 +1,22 @@
+{
+  "id": "2b6cf474-e798-4a5e-aa72-02fed0455fc3",
+  "slug": "hova-flight-services",
+  "name": "HOVA Flight Services",
+  "continent": "North America",
+  "country": "USA",
+  "state": "VA",
+  "city": "Ashland",
+  "baseAirport": "Hanover County Municipal Airport",
+  "website": "https://flyhova.com/",
+  "email": "CUSTOMERSERVICEOFP@FLYHOVA.COM / ustomerserviceofp@flyhova.com",
+  "phone": "'+1 804-798-6500",
+  "about": "HOVA Flight Services, located at Hanover County Municipal Airport in Ashland, Virginia, has been a cornerstone of aviation services since 1992. As a full-service Fixed Base Operator (FBO), HOVA offers a wide range of amenities including fuel, line services, hangared aircraft storage, transient parking, and comprehensive aircraft maintenance. The facility boasts a newly constructed 7,000 sq. ft. private terminal with spacious lobby seating, a large conference room, kitchen facilities, and Wi-Fi. HOVA also provides concierge services such as travel assistance, crew cars, and baggage help. The flight school at HOVA offers top-notch flight training in a supportive and fun environment, catering to both recreational and professional pilots. With its convenient location near Richmond and easy access to I-95 and I-295, HOVA Flight Services is the preferred choice for pilots and visitors, ensuring a seamless and enjoyable aviation experience.",
+  "icao": "KOFP",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

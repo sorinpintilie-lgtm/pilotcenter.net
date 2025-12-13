@@ -1,0 +1,22 @@
+{
+  "id": "ec73ed20-83bb-49ad-96ef-a66275100d51",
+  "slug": "principal-air",
+  "name": "Principal Air Ltd.",
+  "continent": "North America",
+  "country": "Canada",
+  "state": "BC",
+  "city": "",
+  "baseAirport": "Abbotsford International Airport",
+  "website": "https://www.principalair.ca/",
+  "email": "info@principalair.ca",
+  "phone": "'+1 604-850-0290",
+  "about": "Principal Air Ltd., located in Abbotsford, British Columbia, is a premier flight training center and charter service operator. With over 20 years of experience, we pride ourselves on providing superior customer service and a friendly, supportive environment. Our aircraft are well-maintained to the highest standards, and our instructors, including a Class 1 CFI with over 10,000 hours of teaching time, ensure high-quality instruction. We offer fixed-wing flight training, scenic flights, charter flights, and pilot supplies. Our commitment to honesty and integrity makes us a trusted choice for aspiring pilots. At Principal Air, students are treated like family, and we look forward to helping you achieve your aviation goals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nInstrument Rating (IR)\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

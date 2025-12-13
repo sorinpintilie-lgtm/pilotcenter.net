@@ -1,0 +1,22 @@
+{
+  "id": "d55ddf6b-d7ce-4263-90b9-bd94ef5e4c91",
+  "slug": "mp-aviation",
+  "name": "MP Aviation",
+  "continent": "North America",
+  "country": "United",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "APC -Napa County Airport",
+  "website": "https://www.mp-aviation.com/",
+  "email": "mark@mp-aviation.com",
+  "phone": "(925) 595-1980",
+  "about": "MP Aviation, based in the Bay Area, is a specialized flying school focused on aerobatic flights and advanced pilot training. Founded by a certified flight instructor and airline pilot, the school offers thrilling aerobatic experiences, including flights in the unlimited aerobatic Extra 300. Additionally, MP Aviation provides Upset Prevention and Recovery Training (UPRT) to enhance pilots' safety and control. Other services include tailwheel endorsements, BFRs, aircraft sales, delivery, and ferry services. With a passion for flying fast and performing complex maneuvers, MP Aviation is the go-to source for aerobatic flights and advanced aviation training in Silicon Valley. Whether you're seeking an adrenaline-packed experience or professional pilot development, MP Aviation delivers exceptional instruction and safety.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nIntro Flight\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

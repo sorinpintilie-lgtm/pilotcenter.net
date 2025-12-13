@@ -1,0 +1,22 @@
+{
+  "id": "400fd1d6-545f-4359-a901-5b980c8c79fa",
+  "slug": "pitea-flygklubb",
+  "name": "Piteå Flygklubb",
+  "continent": "Europe",
+  "country": "Sweden",
+  "state": "SE",
+  "city": "",
+  "baseAirport": "Piteå Airport",
+  "website": "https://pfk.pitea-flygklubb.se/",
+  "email": "kontakt@pitea-flygklubb.se",
+  "phone": "070 - 617 67 80",
+  "about": "",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"LAPL(A) – Light Airplane Pilot Licence\\nPPL(A) – Pilot Pilot Licence\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

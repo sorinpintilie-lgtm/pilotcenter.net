@@ -1,0 +1,22 @@
+{
+  "id": "f0c79157-4dc8-437c-ad10-f49bf600cba5",
+  "slug": "cargo-learning-academy-pty",
+  "name": "Cargo Learning Academy (Pty) Ltd",
+  "continent": "Africa",
+  "country": "South Africa",
+  "state": "GT",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://cargolearning.co.za/",
+  "email": "bookings@cargolearning.co.za",
+  "phone": "(+27)11 394 4035",
+  "about": "Cargo Learning Academy (Pty) Ltd, established in 2003, is a premier training institution dedicated to the aviation, cargo, and forwarding industries. The academy provides comprehensive training programs, including Airside Induction Training, air cargo security, and other essential courses. These programs focus on preventing and reducing risks, adhering to legislation, and enforcing safety regulations. The academy also offers consultancy services to uplift individuals and companies within the industry. With a strong commitment to education and safety, Cargo Learning Academy continues to be a trusted resource for aviation professionals.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airside Induction Training\\nAirside Vehicle Operator Permit\\nIntroduction to Cargo\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "7b5c2edd-e2c0-41dc-a973-a6d32addff7d",
+  "slug": "maine-instrument-flight",
+  "name": "Maine Instrument Flight",
+  "continent": "North America",
+  "country": "United States",
+  "state": "ME",
+  "city": "",
+  "baseAirport": "AUG -Augusta State Airport",
+  "website": "https://www.maineinstrumentflight.com/",
+  "email": "mail@mif.aero",
+  "phone": "(207) 622-1211",
+  "about": "Maine Instrument Flight, established in 1946, is one of the oldest civilian flight schools in the country. With over 74 years of experience, we offer comprehensive flight training, air charter services, and a full range of FBO services. Our FAA Part 141 approved school provides high-quality, professional instruction for private pilot certification and beyond. Our fleet is maintained by FAA-licensed mechanics, and our instructors are dedicated to teaching at each student's pace. We also provide aircraft rentals, sales, maintenance, hangars, and tie downs. Safety and customer service are our top priorities. Contact us to start your aviation journey today.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nGround School\\nComputerized Testing\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

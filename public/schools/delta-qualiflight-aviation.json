@@ -1,0 +1,22 @@
+{
+  "id": "c5182a3b-304d-4a94-959e-5feb31eb4d90",
+  "slug": "delta-qualiflight-aviation",
+  "name": "Delta-Qualiflight Aviation",
+  "continent": "North America",
+  "country": "USA",
+  "state": "TX",
+  "city": "Fort Worth",
+  "baseAirport": "Meacham International Airport",
+  "website": "https://www.deltaqualiflight.com/",
+  "email": "mail@deltaqualiflight.com",
+  "phone": "'+1 817-626-6300",
+  "about": "Delta Qualiflight Aviation Academy, located in the Dallas/Fort Worth area, has been a premier flight training institution for over five decades. Since 1969, we have trained more than 8,000 pilots from over 100 countries. Our programs are designed to be efficient and affordable, allowing students to complete their training from zero experience to commercial pilot certification in as little as 9 to 12 months. We offer a range of certifications, including private pilot, commercial pilot, instrument rating, and multi-engine ratings. Our state-of-the-art facility at Fort Worth Meacham Airport features advanced flight simulators, fully equipped classrooms, and meticulously maintained aircraft. With a team of top flight instructors and a commitment to excellence, Delta Qualiflight Aviation Academy is dedicated to preparing students for successful careers in aviation. Contact us today to start your journey to becoming a professional pilot.",
+  "icao": "KFTW",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "M-1 Visa",
+  "fleetSize": "",
+  "logoUrl": ""
+}

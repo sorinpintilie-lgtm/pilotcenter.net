@@ -1,0 +1,22 @@
+{
+  "id": "e715460a-4da3-4a19-a0ed-23a50f806092",
+  "slug": "saa-flight-training",
+  "name": "SAA Flight Training",
+  "continent": "North America",
+  "country": "United States",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "SEE -Gillespie Field",
+  "website": "https://www.saaintl.com/",
+  "email": "info@scanavia.com",
+  "phone": "(619) 631-0323",
+  "about": "SAA Flight Training, located at Gillespie Field in El Cajon, California, is a reputable flight school offering a comprehensive range of aviation training programs. We provide certifications in Private Pilot, Night Rating, Commercial Pilot, Flight Instructor, and Instrument Rating. Our training includes additional ground school and seminars to ensure thorough preparation for aspiring pilots. With a focus on safety and excellence, SAA Flight Training is dedicated to helping students achieve their aviation goals. Our experienced instructors and state-of-the-art facilities make us an ideal choice for those seeking a career in aviation. We are committed to providing top-quality training to help our students succeed in the skies.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nExaminer\\nGround School\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

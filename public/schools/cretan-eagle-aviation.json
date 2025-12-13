@@ -1,0 +1,22 @@
+{
+  "id": "80fc412e-cad0-4a92-bc47-3c50e4d25e60",
+  "slug": "cretan-eagle-aviation",
+  "name": "Cretan Eagle Aviation",
+  "continent": "Europe",
+  "country": "Greece",
+  "state": "GRC",
+  "city": "",
+  "baseAirport": "Heraklion International Airport",
+  "website": "https://www.cretaneagle.com/",
+  "email": "info@cretaneagle.gr",
+  "phone": "'+30 2810 331 890",
+  "about": "Cretan Eagle Aviation, based at Nikos Kazantzakis Airport in Heraklion, Crete, Greece, has been a reputable flight training institution since 2002. As an EASA certified training organization (EL ATO-133), we offer comprehensive flight training programs, including Private Pilot License (PPL), conversions from ICAO PPL to EASA PPL, night qualification, and hour building. Our training extends to commercial pilot licenses, covering various roles such as cargo pilots, executive pilots, and flight instructors. We provide both flight and ground training, utilizing aircraft like the Cessna 172R. With the advantage of a 24-hour operational airport, our students can train without time restrictions. Our courses are designed to enhance skills in diverse weather conditions across the Aegean Sea and Mediterranean regions. Cretan Eagle Aviation is committed to providing high-quality aviation training to aspiring pilots.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Airline Transport Pilot Licence\\nCommercial Pilot Licence\\nPrivate Pilot Licence\"]",
+  "visaInsurance": "Other",
+  "fleetSize": "",
+  "logoUrl": ""
+}

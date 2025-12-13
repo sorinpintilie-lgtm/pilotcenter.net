@@ -1,0 +1,22 @@
+{
+  "id": "fac7bd2c-03f8-4292-a0bf-c6abad1b2182",
+  "slug": "florida-keys-flight-academy",
+  "name": "Florida Keys Flight Academy",
+  "continent": "North America",
+  "country": "USA",
+  "state": "FL",
+  "city": "Marathon",
+  "baseAirport": "The Florida Keys Marathon International Airport",
+  "website": "https://floridakeysflightacademy.com/",
+  "email": "flyvero@skyborne.com",
+  "phone": "'+1 844-539-7247",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "KMTH",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nMulti-Pilot License (MPL)\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nMulti-Crew Cooperation Course (MCC)\\nJet Orientation Course (JOT)\\nInstrument Rating (IR)\\nMulti-Engine Rating\\nSeaplane Rating\\nNight Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "50d424a5-33f3-4eb2-821e-ee658aa0516c",
+  "slug": "classic-aviation",
+  "name": "Classic Aviation, Inc.",
+  "continent": "North America",
+  "country": "USA",
+  "state": "IA",
+  "city": "Pella",
+  "baseAirport": "Pella Municipal Airport",
+  "website": "https://flyclassicaviation.com/",
+  "email": "hane@flyclassicaviation.com",
+  "phone": "'+1 641-628-9393",
+  "about": "Classic Aviation, Inc., located in Pella, Iowa, is a comprehensive aviation service provider specializing in flight instruction, aircraft maintenance, and corporate flight department support. Our FAA certified flight instructors offer training from private to advanced pilot levels, adhering to the highest professional standards. Led by Chief Flight Instructor Shane Vande Voort, a certified pilot examiner and Master CFI, our team ensures flexible and rigorous training under FAR § 61. We utilize a diverse fleet including Cessna 172, Cessna 177RG, Piper J-3 Cub, American Champion Citabria, Beech Duchess, and Cirrus® SR20 GTS. Our services also include ground instruction, introductory lessons, and multi-engine training. Dedicated to helping you achieve your aviation goals, Classic Aviation, Inc. is your trusted partner in central Iowa for all your aviation needs.",
+  "icao": "KPEA",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

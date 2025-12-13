@@ -1,0 +1,22 @@
+{
+  "id": "d69de1f7-baf8-4d5a-8fff-b0d280d5100c",
+  "slug": "hood-aero",
+  "name": "Hood Aero",
+  "continent": "North America",
+  "country": "United States",
+  "state": "OR",
+  "city": "",
+  "baseAirport": "4S2 -Ken Jernstedt Airfield",
+  "website": "http://www.hoodaero.com",
+  "email": "fbo@hoodaero.com",
+  "phone": "(541) 386-1133",
+  "about": "Hood Aero is a premier aviation destination located in the scenic Columbia River Gorge and Cascades. We offer comprehensive services including flight training, aircraft rental, scenic tours, and expert maintenance. Our flight training programs, in partnership with TacAero, specialize in advanced tailwheel curriculum and cater to pilots of all levels. We provide self-serve and concierge fuel services, courtesy cars, catering, hangar storage, and a well-stocked lounge. Our dedicated maintenance and avionics repair facilities ensure your aircraft is always in top condition. With a focus on hospitality and service, Hood Aero creates memorable experiences for all aviation enthusiasts. Come fly with us and enjoy the beauty of the Columbia River Gorge.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Examiner\\nGround School\\nIntro Flight\\nSimulator\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

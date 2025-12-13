@@ -1,0 +1,22 @@
+{
+  "id": "726b7504-3ede-449c-aa0e-900c9231eb8e",
+  "slug": "accademia-del-volo",
+  "name": "Accademia del Volo",
+  "continent": "Europe",
+  "country": "Italy",
+  "state": "ITLY",
+  "city": "",
+  "baseAirport": "International Airport Via dell'Aeroporto",
+  "website": "https://www.accademiadelvolo.it/",
+  "email": "",
+  "phone": "'+39 075 592 8701",
+  "about": "Accademia del Volo, located at San Francesco d’Assisi International Airport in Perugia, Italy, is a renowned flight training center certified by the Italian Civil Aviation Authority (ENAC) and the European Aviation Safety Authority (EASA). The school offers comprehensive training programs leading to the attainment of Private Pilot Licenses (PPL), Commercial Pilot Licenses (CPL), and Airline Transport Pilot Licenses (ATPL) for both airplanes and helicopters. With a staff of highly experienced instructors, Accademia del Volo ensures professionalism and safety at the highest levels. The airport's infrastructure supports diurnal, nocturnal, instrument, and visual flight training. The school welcomes international students and provides a full personal support service to help them achieve their flight training goals. Accademia del Volo is dedicated to transforming passion for flying into a professional reality.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"LAPL License (A)\\nPPL License (A)\\nCPL License (A)\\nATPL Modular Theoretical License\\nATPL theoretical/CPL/IR/ME license\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

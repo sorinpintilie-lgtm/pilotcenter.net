@@ -1,0 +1,22 @@
+{
+  "id": "b6b30e3f-505f-4339-9701-f0793a25fb80",
+  "slug": "flyboys-flight-centers",
+  "name": "FlyBoys Flight Centers",
+  "continent": "North America",
+  "country": "United States",
+  "state": "GA",
+  "city": "",
+  "baseAirport": "6A2 -Griffin-Spalding County Airport",
+  "website": "https://flyboys.biz/",
+  "email": "terry@flyboys.biz",
+  "phone": "(770) 228-7759",
+  "about": "FlyBoys Flight Centers, located in Griffin, Georgia, offers comprehensive aircraft rental and flight instruction for both low and high-wing aircraft. Under the guidance of owner and chief flight instructor Terry Anderson, who has over 3,000 hours of experience in fixed-wing aircraft and has been teaching since 2005, students can engage in hands-on flight training from their very first lesson. The school provides training for ratings from Private to Instructor and also offers aerial photography services. With a focus on safety and personalized instruction, FlyBoys Flight Centers ensures that every student receives the highest quality training to become a skilled pilot. For more information, contact us at (770) 228-7759.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Annual Recurrent Training\\nBiennial Flight Review\\nDrone/UAS\\nExaminer\\nGround School\\nInstrument Proficiency Check\\nIntro Flight\\nSimulator\\nTime Building Programs\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

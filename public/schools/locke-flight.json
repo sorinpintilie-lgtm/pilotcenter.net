@@ -1,0 +1,22 @@
+{
+  "id": "00366e83-2a67-4090-b797-b9f446d3aaac",
+  "slug": "locke-flight",
+  "name": "Locke Flight, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NE",
+  "city": "",
+  "baseAirport": "SWT -Seward Municipal Airport",
+  "website": "https://www.sewardaviation.com/",
+  "email": "lockeflight@gmail.com",
+  "phone": "",
+  "about": "Locke Flight, LLC, located at the Seward Municipal Airport in Seward, Nebraska, is a dedicated flight training institution. We offer a comprehensive range of services including Private Pilot, Commercial, and Instrument training programs. Additionally, we provide Biennial Flight Reviews and Instrument Proficiency Checks to ensure our pilots stay proficient. Our introductory flights are perfect for those considering a career in aviation or simply wanting to experience the thrill of flying. With a focus on safety and personalized instruction, Locke Flight, LLC is committed to helping aspiring pilots achieve their aviation goals. We look forward to guiding you through your flight training journey.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Biennial Flight Review\\nInstrument Proficiency Check\\nIntro Flight\\nCommercial\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

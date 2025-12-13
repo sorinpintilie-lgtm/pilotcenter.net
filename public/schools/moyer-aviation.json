@@ -1,0 +1,22 @@
+{
+  "id": "00066c6f-7d82-429a-9e70-c232f86abe01",
+  "slug": "moyer-aviation",
+  "name": "Moyer Aviation, Inc",
+  "continent": "North America",
+  "country": "USA",
+  "state": "PA",
+  "city": "Tobyhanna",
+  "baseAirport": "Pocono Mountain Regional Airport",
+  "website": "https://moyeraviation.com/",
+  "email": "vern.moyer@moyeraviation.com",
+  "phone": "'+1 570-839-7161",
+  "about": "Moyer Aviation, Inc., located at the Pocono Mountain Regional Airport in Tobyhanna, PA, is a renowned provider of aviation services with over 25 years of experience. Our flight school offers advanced FAA Part 141 training programs, affiliations with Liberty University’s School of Aeronautics and Lehigh Carbon Community College, allowing students to pursue professional pilot degrees. We provide comprehensive training from private to ATP certificates, including instrument, commercial, and multiengine ratings. Our highly credentialed instructors use state-of-the-art Cessna aircraft and computerized training programs. Moyer Aviation also offers charter services, aircraft sales, maintenance, and rentals, ensuring a holistic aviation experience. With a strong focus on safety, customer satisfaction, and service excellence, Moyer Aviation is your gateway to a successful aviation career.",
+  "icao": "KMPO",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Private Pilot License\\nCommercial Pilot License\\nAirline Transport Pilot\\nFlight Instructor (CFI / FI)\\nFlight Instructor - Instrument (CFII / IRI)\\nFlight Instructor - Multi-Engine (MEI)\\nInstrument Rating (IR)\\nMulti-Engine Rating\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

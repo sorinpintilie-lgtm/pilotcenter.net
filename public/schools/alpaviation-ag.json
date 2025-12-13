@@ -1,0 +1,22 @@
+{
+  "id": "2bfbc777-e869-4073-8ea0-047947a6b19f",
+  "slug": "alpaviation-ag",
+  "name": "alpaviation ag",
+  "continent": "Europe",
+  "country": "Switzerland",
+  "state": "CH",
+  "city": "",
+  "baseAirport": "Bern-Belp Airport",
+  "website": "https://www.alpaviation.ch/",
+  "email": "",
+  "phone": "'+41 31 960 22 22",
+  "about": "Alpaviation AG, founded in 1988 as Malbuwit, has a rich history of over 35 years in aviation training. Following a merger with alp-air in 2018, the company was rebranded as alpaviation AG. We have trained hundreds of private, professional, and airline pilots, offering a comprehensive range of fixed-wing aviation training programs. Our services include private pilot licenses, commercial pilot licenses, and airline transport pilot licenses, as well as additional training in areas such as instrument flying and type ratings. We also provide rental aircraft for our trained pilots and offer scenic flights guided by experienced instructors. With a strong commitment to quality and safety, alpaviation AG is your trusted partner for all your aviation training needs.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"private pilot\\nprofessional pilot\\nairline pilot\\nRatings & Authorizations\\ncontinuing education\\ninstructor training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

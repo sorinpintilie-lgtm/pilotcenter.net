@@ -1,0 +1,22 @@
+{
+  "id": "d7ebddb8-4a38-431f-9b11-ea48affbef18",
+  "slug": "atd-flight-systems",
+  "name": "ATD Flight Systems, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "MO",
+  "city": "",
+  "baseAirport": "MKC -Charles B Wheeler Downtown Airport",
+  "website": "https://atdflightsystems.com/",
+  "email": "andrew@atdflightsystems.com",
+  "phone": "(816) 221-8455",
+  "about": "ATD Flight Systems, LLC is a full-service flight training facility located at the historic downtown Kansas City airport. Established in 1996 by Bill, a veteran of corporate aviation, the school aims to provide a productive and collaborative environment for aspiring pilots. With a fleet of Piper and Cessna aircraft, as well as advanced flight simulators, ATD offers a range of FAA-approved training programs, including Private Pilot, Instrument Rating, Commercial Pilot, and Certified Flight Instructor certifications. The school is known for its experienced instructors, such as Jim Rainen and Andrew, who bring extensive aviation backgrounds and a passion for teaching. ATD's accelerated programs can take students from zero to CFI in under nine months, and the school maintains strong recruitment relationships with regional airlines. With a focus on safety, structured training, and individualized instruction, ATD Flight Systems is dedicated to helping students achieve their flying careers.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

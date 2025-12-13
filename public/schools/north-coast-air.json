@@ -1,0 +1,22 @@
+{
+  "id": "fd4d4669-26d6-433a-ab61-43fd77a88b93",
+  "slug": "north-coast-air",
+  "name": "North Coast Air, Inc.",
+  "continent": "North America",
+  "country": "United",
+  "state": "CA",
+  "city": "",
+  "baseAirport": "STS -Charles M Schulz - Sonoma County Airport",
+  "website": "https://www.northcoastair.com/",
+  "email": "info@northcoastair.com",
+  "phone": "(707) 542-8687",
+  "about": "North Coast Air, Inc., located at the Charles M. Schulz Sonoma County Airport in Santa Rosa, California, offers a comprehensive range of flight training services. With a focus on personalized instruction, we provide private pilot certificates, commercial pilot certificates, and other aviation training programs. Our fleet includes reliable Cessna 152 and Cessna 172 aircraft, and we also offer scenic air tours and aircraft rental services. We emphasize a one-on-one teacher-student relationship, ensuring students are matched with instructors who meet their learning needs. Additionally, we provide ground school and support financial options through Flight Training Finance, LLC. Our commitment to safety, comfort, and educational excellence makes us a trusted choice for aspiring pilots. Visit us to meet our staff, tour our facility, and experience the beauty of Sonoma County from the air.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Computerized Testing\\nExaminer\\nGround School\\nIntro Flight\\nSimulator\\nAirline Transport Pilot ATP\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nFlight Instructor Sport CFIS\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nRecreational Pilot\\nSport Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

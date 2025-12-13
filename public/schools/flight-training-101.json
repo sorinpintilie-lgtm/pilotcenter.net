@@ -1,0 +1,22 @@
+{
+  "id": "30171c67-f7ae-4602-b1e7-4bcf770916ed",
+  "slug": "flight-training-101",
+  "name": "Flight Training 101",
+  "continent": "North America",
+  "country": "United States",
+  "state": "FL",
+  "city": "",
+  "baseAirport": "GIF -Winter Haven Regional Airport",
+  "website": "https://flighttraining101.com/",
+  "email": "info@flighttraining101.com",
+  "phone": "(386) 235-5288",
+  "about": "Flight Training 101 is a comprehensive aviation school dedicated to providing top-notch pilot training programs. Our school offers a range of courses, including Private Pilot and Commercial Pilot certificates, designed to equip students with the skills and knowledge necessary for a successful aviation career. With experienced instructors and state-of-the-art facilities, we ensure a safe and supportive learning environment. Our curriculum covers all aspects of flight, from aircraft controls and the four forces of flight to preflight checks and complex navigation techniques. We are committed to helping students overcome initial fears and build confidence as they progress in their aviation journey. Start your path to becoming a licensed pilot with Flight Training 101.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nPrivate Pilot\\nInstrument\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

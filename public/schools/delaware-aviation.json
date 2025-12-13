@@ -1,0 +1,22 @@
+{
+  "id": "78ff82da-6669-464c-b073-df874b1600b4",
+  "slug": "delaware-aviation",
+  "name": "Delaware Aviation, LLC",
+  "continent": "North America",
+  "country": "United States",
+  "state": "NY",
+  "city": "",
+  "baseAirport": "N23 -Sidney Municipal Airport",
+  "website": "https://delawareaviation.net/",
+  "email": "bcford@airservice.net",
+  "phone": "(607) 563-3777",
+  "about": "Delaware Aviation, LLC is a premier aviation company based in New Castle, Delaware, offering comprehensive flight training and aircraft charter services. Located at the New Castle Airport (ILG), our flight school provides a convenient and professional environment for aspiring pilots. Our instructors are experienced career pilots, ensuring high-quality training that meets FAA standards. We cater to various needs, from private pilot certifications to multi-engine and instrument ratings. Additionally, we provide recurrent training programs and unique opportunities to fly historic aircraft like the B-25 \"Mitchell\" bomber. With a strong focus on safety and excellence, Delaware Aviation, LLC is committed to helping students achieve their aviation goals. Our flexible scheduling and dedicated team make us the leading choice for flight training in the region.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"Ground School\\nIntro Flight\\nCommercial\\nFlight Instructor CFI\\nFlight Instructor Instrument CFII\\nMulti Engine Instructor MEI\\nPrivate Pilot\\nInstrument\\nMulti-Engine\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}

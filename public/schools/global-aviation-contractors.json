@@ -1,0 +1,22 @@
+{
+  "id": "f8e41a2c-2783-4552-803b-3ec3c89d7f24",
+  "slug": "global-aviation-contractors",
+  "name": "Global Aviation Contractors",
+  "continent": "Europe",
+  "country": "Denmark",
+  "state": "DK",
+  "city": "",
+  "baseAirport": "",
+  "website": "https://www.flygac.com/form-map",
+  "email": "info@flygac.com",
+  "phone": "'+45 6014 8095",
+  "about": "Error retrieving description: Connection error.",
+  "icao": "",
+  "iata": "",
+  "rating": null,
+  "ratingsNumber": null,
+  "services": "[\"ATR42/72-500 and 42/72-600 EASA Type Rating\\nIndia DGCA Compliant\\nTeaching & Learning\\nMCC courses\\nATR42/72-500 and ATR42/72-600 Differences Courses \\nInterview training\"]",
+  "visaInsurance": "",
+  "fleetSize": "",
+  "logoUrl": ""
+}
