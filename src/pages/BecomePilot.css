@@ -3,18 +3,34 @@
     display: none !important;
 }
 
+/* Ensure hero looks good on desktop */
+@media (min-width: 769px) {
+    .become-pilot-page .hero {
+        background-image: none !important;
+    }
+}
+
 /* Mobile-specific styling to hide any hero images */
 @media (max-width: 768px) {
     /* Hide hero background image on mobile */
     .become-pilot-page .hero {
         background-image: none !important;
+        background: none !important;
     }
 
     /* Hide any hero images that might appear */
     .become-pilot-page .hero-image,
     .become-pilot-page .hero-visual,
-    .become-pilot-page .hero-image-wrapper {
+    .become-pilot-page .hero-image-wrapper,
+    .become-pilot-page .hero img {
         display: none !important;
+    }
+
+    /* Hide any pseudo-elements that might contain images */
+    .become-pilot-page .hero::before,
+    .become-pilot-page .hero::after {
+        display: none !important;
+        content: none !important;
     }
 
     /* Ensure proper layout without the hero image */
