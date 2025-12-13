@@ -185,3 +185,81 @@
     border-radius: 0 0 12px 12px;
   }
 }
+
+/* =========================
+   HERO – MOBILE FIX
+   ========================= */
+
+@media (max-width: 768px) {
+  .new-hero {
+    padding-top: 18px;
+    padding-bottom: 0;
+  }
+
+  .new-hero-container {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  /* TEXT FIRST */
+  .new-hero-content {
+    order: 1;
+    text-align: left;
+  }
+
+  .new-hero-title {
+    font-size: 28px;
+    line-height: 1.2;
+  }
+
+  .new-hero-subtitle, .new-hero-additional {
+    font-size: 15px;
+    margin-top: 10px;
+  }
+
+  /* CTA closer to headline */
+  .new-hero-cta {
+    margin-top: 14px;
+  }
+
+  /* IMAGE AS SUPPORT */
+  .new-hero-image-container {
+    order: 2;
+    width: 100%;
+    max-height: 260px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+  }
+
+  .new-hero-image {
+    width: 72%;
+    max-width: 240px;
+    height: auto;
+    object-fit: contain;
+  }
+}
+
+/* Creates a premium editorial feel */
+@media (max-width: 768px) {
+  .new-hero-image-container {
+    margin-bottom: -30px;
+  }
+}
+
+/* Optional: Soften the image for a more refined look */
+.new-hero-image {
+  filter: drop-shadow(0 10px 30px rgba(15, 23, 42, 0.15));
+}
+
+/* Optional V2: Even cleaner mobile look (editorial style) */
+@media (max-width: 768px) {
+  .new-hero-image {
+    width: 60%;
+    max-width: 220px;
+  }
+
+  .new-hero {
+    padding-bottom: 10px;
+  }
+}
