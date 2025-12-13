@@ -11,19 +11,17 @@ function BecomePilot() {
             <div style={{width: '100%', maxWidth: 'none', padding: '20px', display: 'flex', justifyContent: 'center', alignItems: 'center', minHeight: '300px'}}>
               <div style={{textAlign: 'center', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
                 <div className="hero-kicker">BECOME A PILOT</div>
-                <h1 className="hero-title">Your Path to Becoming a Pilot</h1>
-                <h2 className="hero-subtitle">How to Become an Airline Pilot: A Comprehensive Guide</h2>
-                <p className="hero-subtitle">Learn about the different routes and requirements to become a professional pilot.</p>
+                <h1 className="hero-title">How to Become an Airline Pilot: A Comprehensive Guide</h1>
+                <h2 className="hero-subtitle">Your Journey to Becoming a Professional Pilot</h2>
               </div>
             </div>
           </div>
         </div>
       </section>
 
-
-      {/* Big Blue Container with 4 rows and 2 columns */}
+      {/* Big Blue Container with comprehensive guide content */}
       <div style={{
-        backgroundColor: '#cce0ff', // Lighter blue shade
+        backgroundColor: '#cce0ff',
         width: '100%',
         padding: '40px 20px',
         margin: '20px 0'
@@ -37,88 +35,99 @@ function BecomePilot() {
           alignItems: 'center',
           justifyItems: 'center'
         }}>
-          {/* Row 1 */}
+          {/* Introduction Section */}
+          <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '20px 40px', margin: '20px 0'}}>
+            <h3>Becoming an airline pilot requires following a structured and informed path — and at PilotCenter.net, we're here to make that journey easier and more affordable.</h3>
+            <p>We partner with some of the best flight schools and top flight training programs worldwide, helping you compare options, understand flight school costs, and stay on track throughout your pilot training.</p>
+            <p>Whether you're looking for an accelerated flight school, exploring online flight school options for ground training, or applying for flight school scholarships, we provide expert guidance — all at no cost to you.</p>
+          </div>
           <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'flex-end'}}>
             <img src="/images/7100d5_2ca09ef740484ab3936befd719dda6ef~mv2.avif" alt="Pilot training" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
           </div>
+
+          {/* Expert Support Section */}
+          <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+            <img src="/images/dreamstime_29653134.avif" alt="Pilot training support" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
+          </div>
           <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '20px 40px', margin: '20px 0'}}>
-            <h3>Becoming an airline pilot is an exciting yet complex journey that requires careful planning, the right training, and expert guidance.</h3>
-            <p>At PilotCenter.net, we simplify the process by offering personalized pilot consultation, aviation career guidance, and end-to-end pilot training support.</p>
-            <p>We partner with the top flight schools worldwide, negotiate competitive flight school costs, and provide full support—at no cost to you. Whether you're exploring online flight school options, accelerated flight schools, or seeking flight school scholarships, our team ensures you're always on the right track.</p>
-            <p>From your first flight lesson to your final certification, we monitor your progress to make sure you stay motivated, on schedule, and never overwhelmed. Below is a step-by-step breakdown of the three main pathways to becoming an airline pilot:</p>
-            <p><Link to="/the-easa-route" style={{color: '#007bff', textDecoration: 'none', fontWeight: 'bold'}}>EASA (Europe)</Link></p>
-            <p><Link to="/the-faa-route" style={{color: '#007bff', textDecoration: 'none', fontWeight: 'bold'}}>FAA (United States)</Link></p>
-            <p><Link to="/the-icao-route" style={{color: '#007bff', textDecoration: 'none', fontWeight: 'bold'}}>ICAO (Rest of the World)</Link></p>
+            <h3>Expert Support from Start to Finish</h3>
+            <p>Our team supports you every step of the way. We’ll help you choose the right flight school, negotiate competitive pricing, and monitor your progress to make sure you’re flying consistently, staying motivated, and not falling behind. Too many students quit because they lack the right support — we’re here to make sure that doesn’t happen.</p>
           </div>
 
-          {/* Row 2 */}
+          {/* Global Pathways Section */}
           <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '20px 40px', margin: '20px 0'}}>
-            <h3>The EASA Route (Europe)</h3>
-            <h4>Step 1: Obtain a Class 1 Medical Certificate</h4>
-            <p>Before enrolling in flight school, your first step is to secure a Class 1 Medical Certificate from an EASA-approved Aeromedical Examiner (AME). This certificate confirms you meet the physical and mental health standards required to begin professional pilot training. At PilotCenter.net, we help you locate a qualified AME in your region so you can get started with confidence and stay focused on your aviation goals.</p>
+            <h3>Explore Global Pilot Training Pathways</h3>
+            <p>We break down the three major routes to becoming an airline pilot, depending on your region:</p>
+            <div style={{display: 'flex', justifyContent: 'space-around', width: '100%', marginTop: '20px'}}>
+              <div style={{textAlign: 'center'}}>
+                <h4>EASA (Europe)</h4>
+                <p><Link to="/the-easa-route" style={{color: '#007bff', textDecoration: 'none', fontWeight: 'bold'}}>Learn More</Link></p>
+              </div>
+              <div style={{textAlign: 'center'}}>
+                <h4>FAA (United States)</h4>
+                <p><Link to="/the-faa-route" style={{color: '#007bff', textDecoration: 'none', fontWeight: 'bold'}}>Learn More</Link></p>
+              </div>
+              <div style={{textAlign: 'center'}}>
+                <h4>ICAO (Rest of the World)</h4>
+                <p><Link to="/the-icao-route" style={{color: '#007bff', textDecoration: 'none', fontWeight: 'bold'}}>Learn More</Link></p>
+              </div>
+            </div>
+            <p style={{marginTop: '20px'}}>Each system has its own training structure, flight school cost, and licensing process. Our platform helps you compare requirements, choose from the top flight schools, and start your training with confidence.</p>
           </div>
           <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
-            <img src="/images/dreamstime_29653134.avif" alt="Pilot training content" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
+            <img src="/images/dreamstime_xxl_157001658_edited.avif" alt="Global pilot training" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
           </div>
 
-          {/* Row 3 */}
-          <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
-            <img src="/images/dreamstime_xxl_157001658_edited.avif" alt="Pilot training content" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
-          </div>
+          {/* Step-by-Step Process */}
           <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '20px 40px', margin: '20px 0'}}>
-            <h4>Step 2: Choose a Flight School (ATO)</h4>
-            <p>Choosing the right flight school—also known as an Approved Training Organization (ATO)—is one of the most important decisions in your pilot journey. At PilotCenter.net, we offer expert flight school selection assistance, working only with the top flight schools across Europe to match you with a program that fits your goals, location, and budget. We also negotiate with schools directly to help reduce your flight school cost.</p>
-            <p>You can choose between two main training paths:</p>
-            <p><strong>Integrated Training:</strong> A full-time, fast-track program that takes you from zero experience to a Commercial Pilot License (CPL) with ATPL theory in 18–24 months. Ideal for those who want to progress quickly through accelerated flight schools.</p>
-            <p><strong>Modular Training:</strong> A flexible path that allows you to train at your own pace, starting with a Private Pilot License (PPL) and building up toward your CPL.</p>
-            <p>Whether you're aiming for flexibility or speed, we’ll ensure your pilot training support is aligned with the right ATO for you.</p>
-          </div>
+            <h3>The Step-by-Step Process to Becoming an Airline Pilot</h3>
 
-          {/* Row 4 */}
-          <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '20px 40px', margin: '20px 0'}}>
+            <h4>Step 1: Obtain Your Medical Certificate</h4>
+            <p>Before you can begin flight training, you need to obtain a Class 1 Medical Certificate from an approved aviation medical examiner. This ensures you meet the physical and mental requirements to become a professional pilot.</p>
+
+            <h4>Step 2: Choose the Right Flight School</h4>
+            <p>Selecting the right flight school is crucial. We help you compare the best flight schools based on your goals, location, and budget. Whether you're looking for accelerated flight schools or traditional programs, we'll find the right fit.</p>
+
             <h4>Step 3: Private Pilot License (PPL)</h4>
-            <p>The first practical step is obtaining a PPL, which requires at least 45 flight hours. After obtaining your PPL license, the next step is to get the night rating, which is a requirement for the subsequent phase of training: the instrument rating. PilotCenter.net can guide you through the entire process, ensuring you stay on track and complete your required flight hours.</p>
-
-            <h4>Step 4: ATPL Theory and Hour Building</h4>
-            <p>Simultaneously study for your ATPL theory and build your flight hours. With our partnerships, PilotCenter.net can arrange flight schools to help you accumulate the required hours affordably and efficiently.</p>
-          </div>
-  
-          {/* Row 5 - Content 9 and 10 */}
-          <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
-            <img src="/images/dreamstime_l_217194379.avif" alt="Pilot training content" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
+            <p>Your first major milestone is obtaining your Private Pilot License, which allows you to fly small aircraft. This typically requires around 45-60 flight hours and includes both flight training and ground school.</p>
           </div>
           <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
-            <img src="/images/dreamstime_l_69853862.avif" alt="Pilot training content" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
+            <img src="/images/dreamstime_l_217194379.avif" alt="Private pilot training" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
           </div>
 
-          {/* Row 7 - Steps 5-7 */}
-          <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '20px 40px', margin: '20px 0'}}>
-            <h4>Step 5: Commercial Pilot License (CPL) and Multi-Engine Rating (MEP)</h4>
-            <p>After completing your theory exams and building your hours, PilotCenter.net will ensure that you're enrolled in the best CPL and Multi-Engine Rating courses to take your career to the next level.</p>
-
-            <h4>Step 6: Instrument Rating (IR)</h4>
-            <p>PilotCenter.net ensures you’re properly prepared for your Instrument Rating (IR), crucial for flying in all weather conditions.</p>
-
-            <h4>Step 7: Multi-Crew Cooperation Course (MCC)</h4>
-            <p>At this stage, PilotCenter.net will help you enroll in a top-tier MCC course so that you’re fully prepared to work in a multi-crew cockpit.</p>
+          <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+            <img src="/images/dreamstime_l_69853862.avif" alt="Advanced pilot training" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
           </div>
           <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '20px 40px', margin: '20px 0'}}>
-            <h4>Step 8: Airline Transport Pilot License (ATPL) and Type Rating</h4>
-            <p>When you’re ready to apply for your ATPL, PilotCenter.net will guide you through the application process and help you secure a Type Rating, ensuring that you are prepared to fly specific aircraft types.</p>
+            <h4>Step 4: Build Flight Hours and ATPL Theory</h4>
+            <p>After obtaining your PPL, you'll need to build flight hours while studying for your Airline Transport Pilot License (ATPL) theory exams. This phase is critical for developing your skills and knowledge.</p>
+
+            <h4>Step 5: Commercial Pilot License (CPL) and Instrument Rating (IR)</h4>
+            <p>With sufficient flight hours and theory knowledge, you'll work toward your Commercial Pilot License and Instrument Rating. These qualifications allow you to fly for compensation and in various weather conditions.</p>
+
+            <h4>Step 6: Multi-Crew Cooperation (MCC) Course</h4>
+            <p>Modern airline operations require pilots to work effectively in multi-crew environments. The MCC course prepares you for this aspect of professional flying.</p>
           </div>
 
-          {/* Row 8 - Step 9 */}
-          <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center'}}>
-            <h4>Step 9: Job Application and Airline Recruitment</h4>
-            <p>Once all the steps are completed, PilotCenter.net will help you apply for airline positions and offer advice on interviews and recruitment processes. We stay with you every step of the way to make sure you succeed.</p>
+          <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '20px 40px', margin: '20px 0'}}>
+            <h4>Step 7: Obtain Your Airline Transport Pilot License (ATP)</h4>
+            <p>After reaching the required 1,500 flight hours, you're eligible to pursue your Airline Transport Pilot License (ATP) — the highest level of pilot certification and your final step toward becoming a commercial airline pilot.</p>
+            <p>PilotCenter.net supports you through this critical phase by helping you schedule and prepare for the ATP written and practical exams. We connect you with top flight schools and training providers to ensure you're confident, well-prepared, and fully qualified for a professional flying career.</p>
+
+            <h4>Step 8: Get Your Type Rating</h4>
+            <p>Once you’ve earned your Airline Transport Pilot License (ATP), the final step is obtaining a Type Rating for the specific aircraft you’ll be flying — such as a Boeing 737 or Airbus A320. This specialized training is mandatory for larger commercial jets.</p>
+            <p>PilotCenter.net helps you find the best flight schools and training centers that offer Type Rating programs tailored to your career goals. Whether you're looking for full-service academies or accelerated flight school options, we’ll guide you to the right fit for a smooth transition into the airline industry.</p>
+          </div>
+          <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+            <img src="/images/dreamstime_xxl_76484799_edited (1).avif" alt="Type rating training" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
           </div>
 
-          {/* Row 9 - Commitment Message */}
-          <div style={{textAlign: 'center', width: '100%', height: '100%', gridColumn: 'span 2'}}>
-            <p>At <strong>PilotCenter.net</strong>, we are committed to guiding you through every step of your pilot training journey, no matter which certification path you choose. By working with flight schools around the world and negotiating the best prices, we ensure that cost will never be a barrier. Plus, we’ll monitor your progress, making sure you stay on course and reach your dream of becoming an airline pilot.</p>
+          <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '20px 40px', margin: '20px 0'}}>
+            <h4>Step 9: Job Applications & Airline Recruitment</h4>
+            <p>With all your training complete, the final step is landing your first airline job. From submitting applications to preparing for interviews, PilotCenter.net is with you every step of the way.</p>
+            <p>We provide guidance on crafting a strong resume, understanding airline recruitment processes, and standing out in competitive job markets. Whether you trained at an accelerated flight school, pursued flight school scholarships, or chose a traditional path, our goal is to help you transition smoothly from student to professional pilot.</p>
           </div>
         </div>
-
       </div>
 
       {/* CTA Section */}
@@ -129,8 +138,13 @@ function BecomePilot() {
         textAlign: 'center',
         width: '100%'
       }}>
-        <h2 style={{fontSize: '42px', marginBottom: '20px'}}>Let us help you!</h2>
-        <p style={{fontSize: '18px', lineHeight: '1.6', maxWidth: '800px', margin: '0 auto 30px'}}>Becoming a pilot is an exciting journey, but it also be a bit overwhelming at times. With so much information to process, it's easy to feel confused about where to start. If you have questions or need guidance, don't hesitate to reach out. Let’s navigate this adventure together!</p>
+        <h2 style={{fontSize: '42px', marginBottom: '20px'}}>Start Your Journey with PilotCenter.net</h2>
+        <p style={{fontSize: '18px', lineHeight: '1.6', maxWidth: '800px', margin: '0 auto 30px'}}>
+          At PilotCenter.net, we're dedicated to guiding you through every stage of your pilot training — from your first medical exam to airline recruitment. No matter which certification path you choose, we connect you with the best flight schools, including accelerated flight schools, online flight school options, and programs that offer flight school scholarships.
+        </p>
+        <p style={{fontSize: '16px', lineHeight: '1.6', maxWidth: '800px', margin: '0 auto 30px'}}>
+          By working with trusted flight schools worldwide and helping you understand how much flight school costs, we ensure that financial barriers don’t stand in the way of your dream. We’ll be with you every step of the way — monitoring your progress and keeping you on track to become a successful airline pilot.
+        </p>
         <button style={{
           backgroundColor: '#007bff',
           color: 'white',
@@ -143,7 +157,7 @@ function BecomePilot() {
           fontWeight: 'bold',
           boxShadow: '0 2px 4px rgba(0,0,0,0.1)',
           transition: 'all 0.3s ease'
-        }}>Reach Out</button>
+        }}>Let us help you!</button>
       </div>
     </div>
   );
