@@ -1,5 +1,6 @@
 import React from 'react';
 import './GuidanceSection.css';
+import './SharedSection.css';
 
 function GuidanceSection() {
   return (

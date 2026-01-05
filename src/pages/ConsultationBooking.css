@@ -1,0 +1,467 @@
+/* =========
+   Base
+   ========= */
+.cb-page {
+  background: #ffffff;
+}
+
+.cb-wrapper {
+  width: min(1100px, 92vw);
+  margin: 0 auto;
+}
+
+/* =========
+   Hero
+   ========= */
+.cb-hero {
+  background: linear-gradient(to bottom, #ffffff 0%, #eef5ff 55%, #d7e8ff 100%);
+  border-bottom: 1px solid rgba(15, 23, 42, 0.08);
+  padding: 28px 0 26px;
+}
+
+.cb-heroGrid {
+  display: grid;
+  gap: 14px;
+}
+
+.cb-kicker {
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #2563eb;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.cb-title {
+  font-size: 28px;
+  line-height: 1.08;
+  color: #0f172a;
+  margin: 0 0 8px 0;
+}
+
+.cb-subtitle {
+  color: rgba(15, 23, 42, 0.72);
+  font-size: 14px;
+  line-height: 1.6;
+  margin: 0 0 14px 0;
+}
+
+.cb-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.cb-badge {
+  font-size: 12px;
+  color: rgba(15, 23, 42, 0.75);
+  background: rgba(37, 99, 235, 0.08);
+  border: 1px solid rgba(37, 99, 235, 0.14);
+  border-radius: 999px;
+  padding: 6px 10px;
+}
+
+.cb-heroCard {
+  background: #ffffff;
+  border: 1px solid rgba(15, 23, 42, 0.10);
+  border-radius: 16px;
+  padding: 14px;
+  box-shadow: 0 14px 30px rgba(15, 23, 42, 0.06);
+}
+
+.cb-heroCardTitle {
+  font-weight: 800;
+  color: #0f172a;
+  margin-bottom: 10px;
+}
+
+.cb-heroCardSteps {
+  display: grid;
+  gap: 10px;
+}
+
+.cb-step {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: rgba(15, 23, 42, 0.8);
+  font-size: 13px;
+}
+
+.cb-stepNum {
+  width: 22px;
+  height: 22px;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(37, 99, 235, 0.10);
+  border: 1px solid rgba(37, 99, 235, 0.18);
+  color: #2563eb;
+  font-weight: 800;
+  font-size: 12px;
+}
+
+.cb-heroCardNote {
+  margin-top: 12px;
+  font-size: 12px;
+  line-height: 1.5;
+  color: rgba(15, 23, 42, 0.65);
+}
+
+/* =========
+   Main layout
+   ========= */
+.cb-main {
+  padding: 18px 0 44px;
+  background: #ffffff;
+}
+
+.cb-mainGrid {
+  display: grid;
+  gap: 16px;
+}
+
+/* =========
+   Left list
+   ========= */
+.cb-sectionTitle {
+  font-size: 18px;
+  margin: 0 0 6px 0;
+  color: #0f172a;
+}
+
+.cb-sectionHint {
+  margin: 0 0 12px 0;
+  color: rgba(15, 23, 42, 0.68);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.cb-cards {
+  display: grid;
+  gap: 10px;
+}
+
+.cb-card {
+  text-align: left;
+  background: #ffffff;
+  border: 1px solid rgba(15, 23, 42, 0.10);
+  border-radius: 16px;
+  padding: 12px;
+  box-shadow: 0 10px 20px rgba(15, 23, 42, 0.04);
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease,
+    border-color 0.15s ease;
+}
+
+.cb-card:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 14px 26px rgba(15, 23, 42, 0.07);
+}
+
+.cb-card.is-active {
+  border-color: rgba(37, 99, 235, 0.40);
+  box-shadow: 0 18px 36px rgba(37, 99, 235, 0.10);
+}
+
+.cb-cardTop {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.cb-cardTitle {
+  font-weight: 800;
+  color: #0f172a;
+  font-size: 14px;
+  line-height: 1.3;
+}
+
+.cb-tag {
+  margin-left: 8px;
+  font-size: 11px;
+  padding: 3px 8px;
+  border-radius: 999px;
+  background: rgba(2, 132, 199, 0.10);
+  border: 1px solid rgba(2, 132, 199, 0.16);
+  color: rgba(2, 132, 199, 1);
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.cb-price {
+  text-align: right;
+  line-height: 1.1;
+}
+
+.cb-priceNum {
+  font-weight: 900;
+  color: #0f172a;
+  font-size: 15px;
+}
+
+.cb-priceUnit {
+  display: block;
+  font-size: 11px;
+  color: rgba(15, 23, 42, 0.62);
+  margin-top: 2px;
+}
+
+.cb-cardShort {
+  font-size: 13px;
+  color: rgba(15, 23, 42, 0.70);
+  line-height: 1.5;
+}
+
+/* =========
+   Right panel
+   ========= */
+.cb-panelInner {
+  background: #ffffff;
+  border: 1px solid rgba(15, 23, 42, 0.10);
+  border-radius: 18px;
+  padding: 14px;
+  box-shadow: 0 18px 36px rgba(15, 23, 42, 0.06);
+}
+
+.cb-panelHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.cb-panelKicker {
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: rgba(15, 23, 42, 0.55);
+  font-weight: 800;
+  margin-bottom: 4px;
+}
+
+.cb-panelTitle {
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.2;
+  color: #0f172a;
+}
+
+.cb-panelPrice {
+  text-align: right;
+  white-space: nowrap;
+}
+
+.cb-panelPriceNum {
+  font-size: 20px;
+  font-weight: 900;
+  color: #0f172a;
+}
+
+.cb-panelPriceUnit {
+  font-size: 12px;
+  color: rgba(15, 23, 42, 0.62);
+}
+
+.cb-panelText {
+  margin: 0 0 12px 0;
+  font-size: 13px;
+  line-height: 1.7;
+  color: rgba(15, 23, 42, 0.74);
+}
+
+.cb-panelActions {
+  display: grid;
+  gap: 8px;
+}
+
+.cb-panelFineprint {
+  font-size: 12px;
+  color: rgba(15, 23, 42, 0.60);
+}
+
+/* Buttons */
+.cb-btn {
+  border: 1px solid transparent;
+  border-radius: 999px;
+  padding: 11px 16px;
+  font-weight: 800;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.cb-btn:active {
+  transform: translateY(1px);
+}
+
+.cb-btnPrimary {
+  background: #2563eb;
+  color: #ffffff;
+  box-shadow: 0 10px 22px rgba(37, 99, 235, 0.25);
+}
+
+/* =========
+   Form
+   ========= */
+.cb-formWrap {
+  margin-top: 14px;
+  background: rgba(37, 99, 235, 0.04);
+  border: 1px solid rgba(37, 99, 235, 0.10);
+  border-radius: 18px;
+  padding: 14px;
+}
+
+.cb-formHeader {
+  margin-bottom: 10px;
+}
+
+.cb-formTitle {
+  margin: 0 0 4px 0;
+  font-size: 16px;
+  color: #0f172a;
+}
+
+.cb-formHint {
+  margin: 0;
+  font-size: 12px;
+  color: rgba(15, 23, 42, 0.64);
+  line-height: 1.5;
+}
+
+.cb-form {
+  display: grid;
+  gap: 10px;
+}
+
+.cb-grid2 {
+  display: grid;
+  gap: 10px;
+}
+
+.cb-field span {
+  display: block;
+  font-size: 12px;
+  font-weight: 800;
+  color: rgba(15, 23, 42, 0.72);
+  margin-bottom: 6px;
+}
+
+.cb-field input,
+.cb-field textarea {
+  width: 100%;
+  border: 1px solid rgba(15, 23, 42, 0.12);
+  border-radius: 12px;
+  padding: 11px 12px;
+  font-size: 14px;
+  outline: none;
+  background: #ffffff;
+}
+
+.cb-field input:focus,
+.cb-field textarea:focus {
+  border-color: rgba(37, 99, 235, 0.35);
+}
+
+.cb-formFooter {
+  display: grid;
+  gap: 8px;
+  margin-top: 4px;
+}
+
+.cb-formSmall {
+  font-size: 12px;
+  color: rgba(15, 23, 42, 0.62);
+}
+
+/* =========
+   FAQ
+   ========= */
+.cb-faq {
+  margin-top: 14px;
+  background: #ffffff;
+  border: 1px solid rgba(15, 23, 42, 0.10);
+  border-radius: 18px;
+  padding: 14px;
+  box-shadow: 0 16px 32px rgba(15, 23, 42, 0.05);
+}
+
+.cb-faqTitle {
+  margin: 0 0 10px 0;
+  font-size: 16px;
+  color: #0f172a;
+}
+
+.cb-faqGrid {
+  display: grid;
+  gap: 10px;
+}
+
+.cb-faqItem {
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  border-radius: 14px;
+  padding: 12px;
+  background: rgba(15, 23, 42, 0.02);
+}
+
+.cb-faqQ {
+  font-weight: 900;
+  font-size: 13px;
+  color: #0f172a;
+  margin-bottom: 4px;
+}
+
+.cb-faqA {
+  font-size: 13px;
+  line-height: 1.6;
+  color: rgba(15, 23, 42, 0.72);
+}
+
+/* =========
+   Desktop enhancements
+   ========= */
+@media (min-width: 900px) {
+  .cb-hero {
+    padding: 40px 0 34px;
+  }
+
+  .cb-heroGrid {
+    grid-template-columns: 1.15fr 0.85fr;
+    align-items: start;
+    gap: 18px;
+  }
+
+  .cb-title {
+    font-size: 40px;
+  }
+
+  .cb-subtitle {
+    font-size: 15px;
+  }
+
+  .cb-main {
+    padding: 28px 0 64px;
+  }
+
+  .cb-mainGrid {
+    grid-template-columns: 0.95fr 1.05fr;
+    gap: 18px;
+    align-items: start;
+  }
+
+  .cb-panelTitle {
+    font-size: 22px;
+  }
+
+  .cb-grid2 {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .cb-faqGrid {
+    grid-template-columns: 1fr 1fr;
+  }
+}

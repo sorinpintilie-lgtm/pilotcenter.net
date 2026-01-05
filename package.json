@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "@formspree/react": "^3.0.0",
     "csv-parse": "^6.1.0",
     "glob": "^13.0.0",
     "google-map-react": "^2.2.5",

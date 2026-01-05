@@ -455,3 +455,12 @@ section {
     margin-bottom: -30px;
   }
 }
+
+/* Hide hero pilot image on mobile only */
+@media (max-width: 899px) {
+  .heroPilotWrap,
+  .heroPilotImg,
+  .hero-visual {
+    display: none !important;
+  }
+}

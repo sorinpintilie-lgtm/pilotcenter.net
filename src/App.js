@@ -20,6 +20,8 @@ import FlightSchoolDetail from './pages/FlightSchoolDetail';
 import CountriesPage from './pages/CountriesPage';
 import CountryDetailPage from './pages/CountryDetailPage';
 import HowToBecomePilotCountryPage from './pages/HowToBecomePilotCountryPage';
+import ConsultationBooking from './pages/ConsultationBooking';
+import CalendarBooking from './pages/CalendarBooking';
 import './App.css';
 
 function App() {
@@ -47,6 +49,8 @@ function App() {
               <Route path="/countries" element={<CountriesPage />} />
               <Route path="/countries/:countrySlug" element={<CountryDetailPage />} />
               <Route path="/how-to-become-a-pilot-in/:slug" element={<HowToBecomePilotCountryPage />} />
+              <Route path="/consultation-booking" element={<ConsultationBooking />} />
+              <Route path="/calendar-booking" element={<CalendarBooking />} />
             </Routes>
           </ScrollToTop>
         </main>

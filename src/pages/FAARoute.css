@@ -1,0 +1,267 @@
+.faa-hero {
+  padding: 32px 0 20px;
+}
+
+.faa-hero-container {
+  display: flex;
+  gap: 20px;
+}
+
+.faa-hero-column {
+  flex: 1;
+}
+
+.faa-hero-column:first-child {
+  flex: 7; /* 70% width */
+}
+
+.faa-hero-column:last-child {
+  flex: 3; /* 30% width */
+}
+
+.faa-hero-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.faa-kicker {
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+
+.faa-title {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.faa-lead {
+  font-size: 16px;
+  line-height: 1.7;
+  color: var(--muted);
+}
+
+/* EXPERT SUPPORT SECTION - FULL WIDTH WHITE CONTAINER */
+.faa-expert-support {
+  padding: 0 0 12px 0; /* Remove top padding to eliminate spacing with hero */
+  margin-top: 0; /* Ensure no margin at top */
+}
+
+.faa-expert-support-container {
+  display: flex;
+  gap: 20px;
+}
+
+.faa-expert-support-column {
+  flex: 1;
+}
+
+.faa-expert-support-column:first-child {
+  flex: 1; /* Changed from 2 to 1 to make it full width */
+}
+
+.faa-expert-support-column:last-child {
+  display: none; /* Hide the empty column to make it full width */
+}
+
+/* Make the white container full width */
+.faa-expert-support-column:first-child {
+  width: 100%;
+  max-width: 100%;
+}
+
+.faa-expert-support-column .block-muted-inner {
+  width: 100%;
+  max-width: 100%;
+}
+
+/* Make Expert Support text smaller */
+.faa-expert-support-column .block-muted-inner h3 {
+  font-size: 18px !important;
+}
+
+.faa-expert-support-column .block-muted-inner p {
+  font-size: 14px !important;
+  line-height: 1.5 !important;
+}
+
+/* TWO-COLUMN GRID LAYOUT - LIKE BECOME A PILOT */
+.faa-two-column-container {
+  background-color: #cce0ff;
+  width: 100%;
+  padding: 40px 20px;
+  margin: 20px 0;
+}
+
+.faa-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0px;
+  max-width: 1200px;
+  margin: 0 auto;
+  align-items: center;
+  justify-items: center;
+}
+
+.faa-text-content {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 40px;
+  margin: 20px 0;
+}
+
+.faa-image-content {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.faa-grid-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.faa-full-width {
+  grid-column: 1 / -1;
+  width: 100%;
+  text-align: center;
+  padding: 20px 40px;
+  margin: 20px 0;
+}
+
+.faa-section,
+.faa-steps,
+.faa-cta {
+  padding: 12px 0;
+}
+
+.faa-section-container {
+  display: flex;
+  gap: 20px;
+}
+
+.faa-section-column {
+  flex: 1;
+}
+
+.faa-steps-container {
+  display: flex;
+  gap: 20px;
+}
+
+.faa-steps-column {
+  flex: 1;
+}
+
+.faa-steps-column:first-child {
+  flex: 1;
+}
+
+.faa-steps-column:last-child {
+  flex: 1;
+}
+
+.faa-cta-container {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  text-align: center;
+}
+
+.faa-cta-container h3 {
+  font-size: 28px;
+  margin-bottom: 16px;
+  color: var(--title);
+}
+
+.faa-cta-container p {
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--text);
+  margin-bottom: 24px;
+}
+
+.faa-cta-container .btn-blue {
+  padding: 10px 24px;
+  font-size: 14px;
+  font-weight: 500;
+  display: inline-block;
+  width: auto;
+  min-width: 180px;
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+  .faa-title {
+    font-size: 22px;
+  }
+
+  .faa-lead {
+    font-size: 14.5px;
+  }
+
+  .faa-text-content h3, .faa-full-width h3 {
+    font-size: 17px;
+  }
+
+  .faa-text-content h4 {
+    font-size: 14px;
+    color: var(--accent);
+    margin-bottom: 4px;
+    font-weight: 600;
+  }
+
+  .faa-text-content p, .faa-full-width p {
+    font-size: 14px;
+    line-height: 1.8;
+  }
+
+  /* Make hero section stack on mobile - hero image on its own row */
+  .faa-hero-container {
+    flex-direction: column;
+  }
+
+  .faa-hero-column {
+    flex: 1;
+    width: 100%;
+  }
+
+  .faa-hero-column:first-child {
+    flex: 1;
+    margin-bottom: 20px;
+  }
+
+  .faa-hero-column:last-child {
+    flex: 1;
+  }
+
+  /* Make grid single column on mobile */
+  .faa-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .faa-full-width {
+    margin: 10px 0;
+    padding: 15px 20px;
+  }
+
+  .faa-text-content, .faa-image-content {
+    margin: 10px 0;
+    padding: 15px 20px;
+  }
+}

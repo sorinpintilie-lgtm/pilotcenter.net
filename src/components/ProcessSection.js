@@ -1,5 +1,6 @@
 import React from 'react';
 import './ProcessSection.css';
+import './SharedSection.css';
 
 function ProcessSection() {
   return (

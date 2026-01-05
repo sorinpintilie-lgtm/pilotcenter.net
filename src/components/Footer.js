@@ -61,14 +61,9 @@ function Footer() {
           </div>
         </div>
 
-        {/* Copyright and Powered By */}
+        {/* Copyright */}
         <div className="footer-legal">
           <p>© {currentYear} PilotCenter.net • All rights reserved</p>
-          <p>Powered by
-            <a href="https://visualmarketing.ro" target="_blank" rel="noopener noreferrer">
-              <img src="/images/visualMarketing_logo.png" alt="Visual Marketing" style={{height: '20px', width: 'auto', verticalAlign: 'middle'}} />
-            </a>
-          </p>
         </div>
       </div>
     </footer>

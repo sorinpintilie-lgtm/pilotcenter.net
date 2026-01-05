@@ -49,6 +49,7 @@ function Header() {
               <Link to="/cost-breakdown">Costs</Link>
               <Link to="/flightschools">Flight Schools</Link>
               <Link to="/latest-pilot-jobs">Pilot Jobs</Link>
+              <Link to="/consultation-booking">Consultation Booking</Link>
               <Link to="/news-and-resources">News & Resources</Link>
             </nav>
 
@@ -83,6 +84,7 @@ function Header() {
           <li><Link to="/cost-breakdown" onClick={closeMenu}>Costs</Link></li>
           <li><Link to="/flightschools" onClick={closeMenu}>Flight Schools</Link></li>
           <li><Link to="/latest-pilot-jobs" onClick={closeMenu}>Pilot Jobs</Link></li>
+          <li><Link to="/consultation-booking" onClick={closeMenu}>Consultation Booking</Link></li>
           <li><Link to="/news-and-resources" onClick={closeMenu}>News & Resources</Link></li>
         </ul>
         <Link to="/contact" className="btn btn-primary menu-consultation-btn" onClick={closeMenu}>Contact Us</Link>

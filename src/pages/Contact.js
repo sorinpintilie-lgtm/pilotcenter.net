@@ -1,9 +1,9 @@
-import React from 'react';
+import React from "react";
 import MapWithPins from '../components/MapWithPins';
 import './Contact.css';
 
+export default function Contact() {
 
-function Contact() {
   return (
     <div className="contact-page">
       <div className="contact-hero">
@@ -77,23 +77,24 @@ United Kingdom</p>
               </div>
             </div>
             <div className="contact-form">
-              <h2>Get In Touch</h2>
-              <form>
-                <div className="form-group">
-                  <label htmlFor="name">Name</label>
-                  <input type="text" id="name" name="name" required />
-                </div>
-                <div className="form-group">
-                  <label htmlFor="email">Email</label>
-                  <input type="email" id="email" name="email" required />
-                </div>
-                <div className="form-group">
-                  <label htmlFor="message">Message</label>
-                  <textarea id="message" name="message" rows="5" required></textarea>
-                </div>
-                <button type="submit" className="submit-btn">Send Message</button>
-              </form>
-            </div>
+            <h2>Get In Touch</h2>
+            <form action="https://formspree.io/f/mrbnnryj" method="POST">
+              <input type="hidden" name="_subject" value="PilotCenter – Contact Form" />
+              <input type="hidden" name="_next" value="https://pilotcenter.net/thank-you" />
+
+              <div className="form-group">
+                <label htmlFor="email">Your email:</label>
+                <input type="email" id="email" name="email" required />
+              </div>
+
+              <div className="form-group">
+                <label htmlFor="message">Your message:</label>
+                <textarea id="message" name="message" required></textarea>
+              </div>
+
+              <button type="submit" className="submit-btn">Send</button>
+            </form>
+          </div>
           </div>
           <MapWithPins />
         </div>
@@ -101,5 +102,3 @@ United Kingdom</p>
     </div>
   );
 }
-
-export default Contact;

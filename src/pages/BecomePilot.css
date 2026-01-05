@@ -12,13 +12,9 @@
     background-image: none !important;
 }
 
-/* Ensure no images can appear in hero on any device */
-.become-pilot-page .hero img,
-.become-pilot-page .hero picture,
-.become-pilot-page .hero video,
-.become-pilot-page .hero object,
-.become-pilot-page .hero embed {
-    display: none !important;
+/* Allow images in hero section */
+.become-pilot-page .hero img {
+    display: block !important;
 }
 
 /* Mobile-specific hero styling */
@@ -54,8 +50,7 @@
     /* Hide any hero images that might appear */
     .become-pilot-page .hero-image,
     .become-pilot-page .hero-visual,
-    .become-pilot-page .hero-image-wrapper,
-    .become-pilot-page .hero img {
+    .become-pilot-page .hero-image-wrapper {
         display: none !important;
     }
 
@@ -224,4 +219,10 @@
         max-width: 300px !important;
         margin: 0 auto !important;
     }
+}
+
+/* Pathway card hover effects */
+.become-pilot-page .pathway-card:hover {
+    transform: translateY(-5px) scale(1.02);
+    border-color: #007bff;
 }

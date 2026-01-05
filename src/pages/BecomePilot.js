@@ -23,7 +23,8 @@ function BecomePilot() {
             letterSpacing: '0.15em',
             textTransform: 'uppercase',
             color: '#2563eb',
-            marginBottom: '12px'
+            marginBottom: '12px',
+            textAlign: 'center'
           }}>BECOME A PILOT</div>
 
           <h1 className="hero-title" style={{
@@ -39,7 +40,8 @@ function BecomePilot() {
             color: '#374151',
             marginBottom: '24px',
             lineHeight: '1.4',
-            fontWeight: '500'
+            fontWeight: '500',
+            textAlign: 'center'
           }}>Your Journey to Becoming a Professional Pilot</h2>
 
           <p style={{
@@ -56,8 +58,8 @@ function BecomePilot() {
         </div>
       </section>
 
-      {/* Big Blue Container with comprehensive guide content */}
-      <div style={{
+      {/* Moved Content Section */}
+      <section style={{
         backgroundColor: '#cce0ff',
         width: '100%',
         padding: '40px 20px',
@@ -88,33 +90,87 @@ function BecomePilot() {
           </div>
           <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '20px 40px', margin: '20px 0'}}>
             <h3>Expert Support from Start to Finish</h3>
-            <p>Our team supports you every step of the way. We’ll help you choose the right flight school, negotiate competitive pricing, and monitor your progress to make sure you’re flying consistently, staying motivated, and not falling behind. Too many students quit because they lack the right support — we’re here to make sure that doesn’t happen.</p>
+            <p>Our team supports you every step of the way. We'll help you choose the right flight school, negotiate competitive pricing, and monitor your progress to make sure you're flying consistently, staying motivated, and not falling behind. Too many students quit because they lack the right support — we're here to make sure that doesn't happen.</p>
           </div>
+        </div>
+      </section>
 
-          {/* Global Pathways Section */}
-          <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '20px 40px', margin: '20px 0'}}>
-            <h3>Explore Global Pilot Training Pathways</h3>
-            <p>We break down the three major routes to becoming an airline pilot, depending on your region:</p>
-            <div style={{display: 'flex', justifyContent: 'space-around', width: '100%', marginTop: '20px'}}>
-              <div style={{textAlign: 'center'}}>
-                <h4>EASA (Europe)</h4>
-                <p><Link to="/the-easa-route" style={{color: '#007bff', textDecoration: 'none', fontWeight: 'bold'}}>Learn More</Link></p>
-              </div>
-              <div style={{textAlign: 'center'}}>
-                <h4>FAA (United States)</h4>
-                <p><Link to="/the-faa-route" style={{color: '#007bff', textDecoration: 'none', fontWeight: 'bold'}}>Learn More</Link></p>
-              </div>
-              <div style={{textAlign: 'center'}}>
-                <h4>ICAO (Rest of the World)</h4>
-                <p><Link to="/the-icao-route" style={{color: '#007bff', textDecoration: 'none', fontWeight: 'bold'}}>Learn More</Link></p>
-              </div>
-            </div>
-            <p style={{marginTop: '20px'}}>Each system has its own training structure, flight school cost, and licensing process. Our platform helps you compare requirements, choose from the top flight schools, and start your training with confidence.</p>
+      {/* Global Pathways Section */}
+      <div style={{backgroundColor: 'white', width: '100%', padding: '40px 20px', margin: '20px 0'}}>
+        <div style={{maxWidth: '1200px', margin: '0 auto', textAlign: 'center'}}>
+          <h2 style={{fontSize: '32px', marginBottom: '20px', color: '#007bff'}}>Explore Global Pilot Training Pathways</h2>
+          <p style={{fontSize: '18px', lineHeight: '1.6', marginBottom: '30px'}}>
+            We break down the three major routes to becoming an airline pilot, depending on your region:
+          </p>
+          <div style={{display: 'flex', justifyContent: 'center', gap: '20px', flexWrap: 'wrap'}}>
+            <Link to="/the-easa-route" className="pathway-card" style={{
+              padding: '25px 20px',
+              backgroundColor: 'rgba(0,123,255,0.05)',
+              borderRadius: '12px',
+              boxShadow: '0 6px 20px rgba(0,123,255,0.2)',
+              textDecoration: 'none',
+              display: 'block',
+              minWidth: '200px',
+              textAlign: 'center',
+              transition: 'all 0.3s ease',
+              border: '2px solid #007bff'
+            }}>
+              <h3 style={{color: '#007bff', margin: '0 0 10px 0', fontSize: '20px', textShadow: 'none'}}>EASA (Europe)</h3>
+              <p style={{color: '#666', margin: '0', fontSize: '14px'}}>European Aviation Safety Agency certification pathway</p>
+            </Link>
+            <Link to="/the-faa-route" className="pathway-card" style={{
+              padding: '25px 20px',
+              backgroundColor: 'rgba(0,123,255,0.05)',
+              borderRadius: '12px',
+              boxShadow: '0 6px 20px rgba(0,123,255,0.2)',
+              textDecoration: 'none',
+              display: 'block',
+              minWidth: '200px',
+              textAlign: 'center',
+              transition: 'all 0.3s ease',
+              border: '2px solid #007bff'
+            }}>
+              <h3 style={{color: '#007bff', margin: '0 0 10px 0', fontSize: '20px', textShadow: 'none'}}>FAA (United States)</h3>
+              <p style={{color: '#666', margin: '0', fontSize: '14px'}}>Federal Aviation Administration certification pathway</p>
+            </Link>
+            <Link to="/the-icao-route" className="pathway-card" style={{
+              padding: '25px 20px',
+              backgroundColor: 'rgba(0,123,255,0.05)',
+              borderRadius: '12px',
+              boxShadow: '0 6px 20px rgba(0,123,255,0.2)',
+              textDecoration: 'none',
+              display: 'block',
+              minWidth: '200px',
+              textAlign: 'center',
+              transition: 'all 0.3s ease',
+              border: '2px solid #007bff'
+            }}>
+              <h3 style={{color: '#007bff', margin: '0 0 10px 0', fontSize: '20px', textShadow: 'none'}}>ICAO (Rest of the World)</h3>
+              <p style={{color: '#666', margin: '0', fontSize: '14px'}}>International Civil Aviation Organization standards</p>
+            </Link>
           </div>
-          <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
-            <img src="/images/dreamstime_xxl_157001658_edited.avif" alt="Global pilot training" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
-          </div>
+          <p style={{fontSize: '16px', marginTop: '20px'}}>
+            Each system has its own training structure, flight school cost, and licensing process. Our platform helps you compare requirements, choose from the top flight schools, and start your training with confidence.
+          </p>
+        </div>
+      </div>
 
+      {/* Big Blue Container with comprehensive guide content */}
+      <div style={{
+        backgroundColor: '#cce0ff',
+        width: '100%',
+        padding: '40px 20px',
+        margin: '20px 0'
+      }}>
+        <div style={{
+          display: 'grid',
+          gridTemplateColumns: 'repeat(2, 1fr)',
+          gap: '0px',
+          maxWidth: '1200px',
+          margin: '0 auto',
+          alignItems: 'center',
+          justifyItems: 'center'
+        }}>
           {/* Step-by-Step Process */}
           <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '20px 40px', margin: '20px 0'}}>
             <h3>The Step-by-Step Process to Becoming an Airline Pilot</h3>
@@ -150,13 +206,15 @@ function BecomePilot() {
             <h4>Step 7: Obtain Your Airline Transport Pilot License (ATP)</h4>
             <p>After reaching the required 1,500 flight hours, you're eligible to pursue your Airline Transport Pilot License (ATP) — the highest level of pilot certification and your final step toward becoming a commercial airline pilot.</p>
             <p>PilotCenter.net supports you through this critical phase by helping you schedule and prepare for the ATP written and practical exams. We connect you with top flight schools and training providers to ensure you're confident, well-prepared, and fully qualified for a professional flying career.</p>
+          </div>
+          <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+            <img src="/images/dreamstime_xxl_157001658_edited.avif" alt="ATP training" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
+          </div>
 
+          <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '20px 40px', margin: '20px 0'}}>
             <h4>Step 8: Get Your Type Rating</h4>
             <p>Once you’ve earned your Airline Transport Pilot License (ATP), the final step is obtaining a Type Rating for the specific aircraft you’ll be flying — such as a Boeing 737 or Airbus A320. This specialized training is mandatory for larger commercial jets.</p>
             <p>PilotCenter.net helps you find the best flight schools and training centers that offer Type Rating programs tailored to your career goals. Whether you're looking for full-service academies or accelerated flight school options, we’ll guide you to the right fit for a smooth transition into the airline industry.</p>
-          </div>
-          <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
-            <img src="/images/dreamstime_xxl_76484799_edited (1).avif" alt="Type rating training" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
           </div>
 
           <div style={{textAlign: 'center', width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '20px 40px', margin: '20px 0'}}>
@@ -165,6 +223,7 @@ function BecomePilot() {
             <p>We provide guidance on crafting a strong resume, understanding airline recruitment processes, and standing out in competitive job markets. Whether you trained at an accelerated flight school, pursued flight school scholarships, or chose a traditional path, our goal is to help you transition smoothly from student to professional pilot.</p>
           </div>
         </div>
+
       </div>
 
       {/* CTA Section */}
