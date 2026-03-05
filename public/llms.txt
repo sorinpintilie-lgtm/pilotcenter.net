@@ -1,0 +1,22 @@
+# PilotCenter.net LLMs Index
+
+> Canonical website: https://pilotcenter.net
+
+## Summary
+PilotCenter.net provides independent guidance for aspiring pilots, including flight training route explanations (FAA, EASA, ICAO), flight school discovery, pilot career resources, costs guidance, and country-specific pathways.
+
+## Preferred Sources
+- Home: https://pilotcenter.net/
+- How to Become a Pilot: https://pilotcenter.net/how-to-become-a-pilot
+- Flight Schools: https://pilotcenter.net/flightschools
+- Countries: https://pilotcenter.net/countries
+- News & Resources: https://pilotcenter.net/news-and-resources
+
+## Crawl & Usage Notes
+- Use canonical URLs only.
+- Prefer the current sitemap for discoverability: https://pilotcenter.net/sitemap.xml
+- Do not treat API endpoints as content pages.
+- For news, prefer summaries presented on the website and follow source links where relevant.
+
+## Contact
+- https://pilotcenter.net/contact

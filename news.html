@@ -4,6 +4,19 @@
   <meta charset="UTF-8" />
   <title>News - PilotCenter.net</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Read curated aviation news, trends, and pilot-focused resources with AI-rewritten summaries and positive-topic filtering." />
+  <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" />
+  <link rel="canonical" href="https://pilotcenter.net/news-and-resources" />
+  <meta property="og:site_name" content="PilotCenter.net" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Aviation News & Resources | PilotCenter.net" />
+  <meta property="og:description" content="Read curated aviation news, trends, and pilot-focused resources with AI-rewritten summaries and positive-topic filtering." />
+  <meta property="og:url" content="https://pilotcenter.net/news-and-resources" />
+  <meta property="og:image" content="https://pilotcenter.net/images/fulllogo_transparent.avif" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Aviation News & Resources | PilotCenter.net" />
+  <meta name="twitter:description" content="Read curated aviation news, trends, and pilot-focused resources with AI-rewritten summaries and positive-topic filtering." />
+  <meta name="twitter:image" content="https://pilotcenter.net/images/fulllogo_transparent.avif" />
 
   <style>
     /* ===== BASIC TOKENS ===== */
@@ -325,6 +338,180 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
+    }
+
+    /* ===== NEWS PAGE ===== */
+    .news-main {
+      flex: 1;
+      padding: 36px 0 48px;
+    }
+
+    .news-intro-card {
+      background: linear-gradient(135deg, rgba(255,255,255,0.98) 0%, rgba(236, 246, 255, 0.98) 100%);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      box-shadow: 0 14px 32px rgba(15, 23, 42, 0.08);
+      padding: 22px 20px;
+      margin-bottom: 18px;
+    }
+
+    .news-kicker {
+      font-size: 11px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--accent);
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+
+    .news-title {
+      font-size: clamp(27px, 4vw, 36px);
+      color: var(--title);
+      margin-bottom: 10px;
+      line-height: 1.18;
+      text-align: left;
+    }
+
+    .news-intro {
+      color: var(--muted);
+      font-size: 15px;
+      line-height: 1.7;
+      text-align: left;
+    }
+
+    .news-status {
+      margin: 18px 0 16px;
+      padding: 11px 14px;
+      border-radius: 11px;
+      background: #ffffff;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .news-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 16px;
+    }
+
+    .news-card {
+      display: grid;
+      grid-template-columns: 220px 1fr;
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      overflow: hidden;
+      background: #fff;
+      box-shadow: 0 10px 24px rgba(15, 23, 42, 0.06);
+      transition: transform 0.18s ease, box-shadow 0.18s ease;
+    }
+
+    .news-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 16px 30px rgba(15, 23, 42, 0.10);
+    }
+
+    .news-media {
+      min-height: 180px;
+      position: relative;
+      background: linear-gradient(140deg, #dbeafe 0%, #eff6ff 100%);
+    }
+
+    .news-media img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .news-media-placeholder {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 32px;
+    }
+
+    .news-content {
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .news-chip {
+      align-self: flex-start;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      padding: 5px 10px;
+      border-radius: 999px;
+      color: var(--accent);
+      border: 1px solid rgba(var(--color_41), 0.3);
+      background: rgba(var(--color_21), 0.24);
+    }
+
+    .news-card-title {
+      font-size: 21px;
+      line-height: 1.28;
+      color: var(--title);
+      text-align: left;
+    }
+
+    .news-card-summary {
+      font-size: 14px;
+      color: var(--text);
+      line-height: 1.62;
+      text-align: left;
+    }
+
+    .news-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: auto;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .news-meta span {
+      background: #f8fafc;
+      border: 1px solid var(--border);
+      padding: 4px 8px;
+      border-radius: 999px;
+    }
+
+    .news-actions {
+      margin-top: 2px;
+    }
+
+    .news-source-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      font-size: 13px;
+      color: var(--accent);
+      font-weight: 600;
+      transition: transform 0.18s ease;
+    }
+
+    .news-source-link:hover {
+      transform: translateX(2px);
+    }
+
+    .news-source-link::after {
+      content: "↗";
+      font-size: 12px;
+    }
+
+    @media (max-width: 899px) {
+      .news-card {
+        grid-template-columns: 1fr;
+      }
+
+      .news-media {
+        min-height: 210px;
+      }
     }
 
     /* ===== NEW RESPONSIVE FOOTER IMAGE SECTION ===== */
@@ -661,10 +848,19 @@
   </div>
 
   <!-- MAIN CONTENT - News -->
-  <main style="flex: 1; padding: 40px 0;">
+  <main class="news-main">
     <div class="wrapper">
-      <h1 style="font-size: 32px; color: var(--title); margin-bottom: 20px;">News</h1>
-      <p>This page provides the latest news and updates about pilot training and aviation.</p>
+      <section class="news-intro-card">
+        <p class="news-kicker">NEWS & RESOURCES</p>
+        <h1 class="news-title">Positive Aviation Updates, Automatically Curated</h1>
+        <p class="news-intro">
+          This page pulls articles from our live aviation RSS feed, filters out sensitive topics (war, crashes, accidents),
+          and rewrites titles and summaries into a PilotCenter.net editorial format.
+        </p>
+      </section>
+
+      <div id="newsStatus" class="news-status">Loading curated aviation updates...</div>
+      <section id="newsGrid" class="news-grid" aria-live="polite"></section>
     </div>
   </main>
 
@@ -750,6 +946,174 @@
 
 <script>
   document.getElementById("year").textContent = new Date().getFullYear();
+
+  const newsGrid = document.getElementById('newsGrid');
+  const newsStatus = document.getElementById('newsStatus');
+  const seenLinks = new Set();
+
+  async function fetchCuratedNews({ onlyNew = false } = {}) {
+    const query = new URLSearchParams();
+    query.set('limit', '18');
+
+    if (onlyNew) {
+      query.set('onlyNew', '1');
+      if (seenLinks.size) {
+        query.set('seen', Array.from(seenLinks).slice(0, 60).join(','));
+      }
+    }
+
+    const endpoints = [
+      `/api/aviation-news?${query.toString()}`,
+      `/.netlify/functions/aviation-news?${query.toString()}`
+    ];
+
+    let lastError = null;
+    for (const endpoint of endpoints) {
+      try {
+        const response = await fetch(endpoint, { headers: { Accept: 'application/json' } });
+        if (!response.ok) throw new Error(`status ${response.status}`);
+        const data = await response.json();
+        if (!Array.isArray(data.items)) throw new Error('invalid payload');
+        return data;
+      } catch (error) {
+        lastError = error;
+      }
+    }
+
+    throw lastError || new Error('Unable to fetch curated news');
+  }
+
+  function createCard(article) {
+    const card = document.createElement('article');
+    card.className = 'news-card';
+
+    const media = document.createElement('div');
+    media.className = 'news-media';
+    if (article.image) {
+      const img = document.createElement('img');
+      img.src = article.image;
+      img.alt = article.title;
+      img.loading = 'lazy';
+      img.referrerPolicy = 'no-referrer';
+      img.onerror = () => {
+        media.innerHTML = '<div class="news-media-placeholder">✈️</div>';
+      };
+      media.appendChild(img);
+    } else {
+      media.innerHTML = '<div class="news-media-placeholder">✈️</div>';
+    }
+
+    const content = document.createElement('div');
+    content.className = 'news-content';
+
+    const chip = document.createElement('span');
+    chip.className = 'news-chip';
+    chip.textContent = article.category || 'Positive update';
+
+    const title = document.createElement('h2');
+    title.className = 'news-card-title';
+    title.textContent = article.title;
+
+    const summary = document.createElement('p');
+    summary.className = 'news-card-summary';
+    summary.textContent = article.summary;
+
+    const excerpt = document.createElement('p');
+    excerpt.className = 'news-card-summary';
+    excerpt.textContent = article.excerpt || '';
+
+    const meta = document.createElement('div');
+    meta.className = 'news-meta';
+    const source = document.createElement('span');
+    source.textContent = `Source: ${article.source}`;
+    const date = document.createElement('span');
+    date.textContent = article.date;
+    meta.append(source, date);
+
+    const actions = document.createElement('div');
+    actions.className = 'news-actions';
+    const link = document.createElement('a');
+    link.className = 'news-source-link';
+    link.href = article.link;
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer nofollow';
+    link.textContent = 'Read original article';
+    actions.appendChild(link);
+
+    content.append(chip, title, summary);
+    if (article.excerpt) content.appendChild(excerpt);
+    content.append(meta, actions);
+    card.append(media, content);
+    return card;
+  }
+
+  function mergeArticles(current, incoming) {
+    const map = new Map(current.map((item) => [item.link, item]));
+    incoming.forEach((item) => {
+      if (!item.link) return;
+      map.set(item.link, item);
+    });
+    return Array.from(map.values()).slice(0, 30);
+  }
+
+  let currentItems = [];
+
+  async function loadNews({ onlyNew = false } = {}) {
+    try {
+      const payload = await fetchCuratedNews({ onlyNew });
+      const incoming = Array.isArray(payload.items) ? payload.items : [];
+
+      if (!onlyNew) {
+        currentItems = incoming;
+      } else if (incoming.length) {
+        currentItems = mergeArticles(incoming, currentItems);
+      }
+
+      currentItems.forEach((article) => {
+        if (article.link) seenLinks.add(article.link);
+      });
+
+      if (!currentItems.length && !onlyNew) {
+        newsGrid.innerHTML = '';
+        newsStatus.textContent = 'No positive aviation items are available right now. Please check back soon.';
+        return;
+      }
+
+      if (!onlyNew || incoming.length) {
+        newsGrid.innerHTML = '';
+        const fragment = document.createDocumentFragment();
+        currentItems.forEach((article) => fragment.appendChild(createCard(article)));
+        newsGrid.appendChild(fragment);
+      }
+
+      if (onlyNew) {
+        if (incoming.length) {
+          newsStatus.textContent = `New feed check complete: ${incoming.length} new AI-rewritten article${incoming.length === 1 ? '' : 's'} added.`;
+        }
+        return;
+      }
+
+      const rewrittenNow = payload?.stats?.rewrittenNow || 0;
+      const filteredCount = payload?.stats?.deduped && payload?.stats?.safe
+        ? Math.max(payload.stats.deduped - payload.stats.safe, 0)
+        : 0;
+
+      newsStatus.textContent = filteredCount > 0
+        ? `Showing ${currentItems.length} AI-rewritten positive updates (${filteredCount} filtered out, ${rewrittenNow} newly rewritten this cycle).`
+        : `Showing ${currentItems.length} AI-rewritten positive aviation updates (${rewrittenNow} newly rewritten this cycle).`;
+
+    } catch (error) {
+      if (!onlyNew) {
+        newsStatus.textContent = 'Unable to load AI-curated news right now. Please refresh in a moment.';
+        newsGrid.innerHTML = '';
+      }
+    }
+  }
+
+  loadNews({ onlyNew: false });
+  setInterval(() => {
+    loadNews({ onlyNew: true });
+  }, 120000);
 
   // Mobile menu functionality
   const mobileMenuToggle = document.getElementById('mobileMenuToggle');

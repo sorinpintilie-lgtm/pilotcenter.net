@@ -4,6 +4,11 @@
   status = 200
 
 [[redirects]]
+  from = "/api/aviation-news"
+  to = "/.netlify/functions/aviation-news"
+  status = 200
+
+[[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200

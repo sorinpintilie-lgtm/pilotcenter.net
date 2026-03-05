@@ -38,10 +38,6 @@ export default function CountriesPage() {
           name="description"
           content="Browse flight schools by country. Find pilot training programs worldwide and discover aviation schools in different countries."
         />
-        <meta
-          name="keywords"
-          content="flight schools by country, pilot training worldwide, aviation schools, international flight schools, pilot training programs"
-        />
       </Helmet>
       <section className="countries-hero">
         <div className="countries-hero-inner">

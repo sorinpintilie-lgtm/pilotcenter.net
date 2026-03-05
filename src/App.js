@@ -4,6 +4,7 @@ import { HelmetProvider } from 'react-helmet-async';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import ScrollToTop from './components/ScrollToTop';
+import RouteSeoMeta from './components/RouteSeoMeta';
 import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
@@ -29,6 +30,7 @@ function App() {
     <HelmetProvider>
       <Router>
         <div className="page">
+        <RouteSeoMeta />
         <Header />
         <main>
           <ScrollToTop>

@@ -20,7 +20,9 @@
     "start": "react-scripts start --max-old-space-size=4096",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "seo:sitemap": "node ./scripts/generate-sitemap.js",
+    "build:seo": "npm run seo:sitemap && npm run build"
   },
   "eslintConfig": {
     "extends": [
