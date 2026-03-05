@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from 'react';
+import React, { useState } from 'react';
 import './AdminNewsDashboard.css';
 
 async function adminRequest({ password, method = 'GET', body = null, action = '' }) {
@@ -44,8 +44,6 @@ export default function AdminNewsDashboard() {
   const [rewrites, setRewrites] = useState([]);
   const [telemetry, setTelemetry] = useState({ counters: {}, logs: [] });
   const [editor, setEditor] = useState(null);
-
-  const manualPosts = useMemo(() => Array.isArray(state.manualPosts) ? state.manualPosts : [], [state.manualPosts]);
 
   const loadState = async (pass) => {
     const payload = await adminRequest({ password: pass, method: 'GET', action: 'dashboard' });
