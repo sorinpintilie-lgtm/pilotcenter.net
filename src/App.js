@@ -16,6 +16,8 @@ import Costs from './pages/Costs';
 import FlightSchools from './pages/FlightSchools';
 import PilotJobs from './pages/PilotJobs';
 import News from './pages/News';
+import NewsArticle from './pages/NewsArticle';
+import AdminNewsDashboard from './pages/AdminNewsDashboard';
 import HowItWorks from './pages/HowItWorks';
 import FlightSchoolDetail from './pages/FlightSchoolDetail';
 import CountriesPage from './pages/CountriesPage';
@@ -47,6 +49,8 @@ function App() {
               <Route path="/flightschools/:slug" element={<FlightSchoolDetail />} />
               <Route path="/latest-pilot-jobs" element={<PilotJobs />} />
               <Route path="/news-and-resources" element={<News />} />
+              <Route path="/news-and-resources/:slug" element={<NewsArticle />} />
+              <Route path="/admin" element={<AdminNewsDashboard />} />
               <Route path="/how-it-works" element={<HowItWorks />} />
               <Route path="/countries" element={<CountriesPage />} />
               <Route path="/countries/:countrySlug" element={<CountryDetailPage />} />

@@ -4,18 +4,18 @@
   <meta charset="UTF-8" />
   <title>News - PilotCenter.net</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="Read curated aviation news, trends, and pilot-focused resources with AI-rewritten summaries and positive-topic filtering." />
+  <meta name="description" content="Read aviation news, trends, and pilot-focused resources with concise editorial summaries from PilotCenter.net." />
   <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" />
   <link rel="canonical" href="https://pilotcenter.net/news-and-resources" />
   <meta property="og:site_name" content="PilotCenter.net" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Aviation News & Resources | PilotCenter.net" />
-  <meta property="og:description" content="Read curated aviation news, trends, and pilot-focused resources with AI-rewritten summaries and positive-topic filtering." />
+  <meta property="og:description" content="Read aviation news, trends, and pilot-focused resources with concise editorial summaries from PilotCenter.net." />
   <meta property="og:url" content="https://pilotcenter.net/news-and-resources" />
   <meta property="og:image" content="https://pilotcenter.net/images/fulllogo_transparent.avif" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Aviation News & Resources | PilotCenter.net" />
-  <meta name="twitter:description" content="Read curated aviation news, trends, and pilot-focused resources with AI-rewritten summaries and positive-topic filtering." />
+  <meta name="twitter:description" content="Read aviation news, trends, and pilot-focused resources with concise editorial summaries from PilotCenter.net." />
   <meta name="twitter:image" content="https://pilotcenter.net/images/fulllogo_transparent.avif" />
 
   <style>
@@ -500,7 +500,7 @@
     }
 
     .news-source-link::after {
-      content: "↗";
+      content: "→";
       font-size: 12px;
     }
 
@@ -852,14 +852,13 @@
     <div class="wrapper">
       <section class="news-intro-card">
         <p class="news-kicker">NEWS & RESOURCES</p>
-        <h1 class="news-title">Positive Aviation Updates, Automatically Curated</h1>
+        <h1 class="news-title">Latest Aviation Updates</h1>
         <p class="news-intro">
-          This page pulls articles from our live aviation RSS feed, filters out sensitive topics (war, crashes, accidents),
-          and rewrites titles and summaries into a PilotCenter.net editorial format.
+          Timely aviation developments, summarized in a clear editorial format.
         </p>
       </section>
 
-      <div id="newsStatus" class="news-status">Loading curated aviation updates...</div>
+      <div id="newsStatus" class="news-status">Loading latest aviation updates...</div>
       <section id="newsGrid" class="news-grid" aria-live="polite"></section>
     </div>
   </main>
@@ -1024,20 +1023,16 @@
 
     const meta = document.createElement('div');
     meta.className = 'news-meta';
-    const source = document.createElement('span');
-    source.textContent = `Source: ${article.source}`;
     const date = document.createElement('span');
     date.textContent = article.date;
-    meta.append(source, date);
+    meta.append(date);
 
     const actions = document.createElement('div');
     actions.className = 'news-actions';
     const link = document.createElement('a');
     link.className = 'news-source-link';
-    link.href = article.link;
-    link.target = '_blank';
-    link.rel = 'noopener noreferrer nofollow';
-    link.textContent = 'Read original article';
+    link.href = article.articlePath || (article.slug ? `/news-and-resources/${article.slug}` : '/news-and-resources');
+    link.textContent = 'Read article';
     actions.appendChild(link);
 
     content.append(chip, title, summary);
@@ -1088,23 +1083,16 @@
 
       if (onlyNew) {
         if (incoming.length) {
-          newsStatus.textContent = `New feed check complete: ${incoming.length} new AI-rewritten article${incoming.length === 1 ? '' : 's'} added.`;
+          newsStatus.textContent = `${incoming.length} new article${incoming.length === 1 ? '' : 's'} added to the latest updates.`;
         }
         return;
       }
 
-      const rewrittenNow = payload?.stats?.rewrittenNow || 0;
-      const filteredCount = payload?.stats?.deduped && payload?.stats?.safe
-        ? Math.max(payload.stats.deduped - payload.stats.safe, 0)
-        : 0;
-
-      newsStatus.textContent = filteredCount > 0
-        ? `Showing ${currentItems.length} AI-rewritten positive updates (${filteredCount} filtered out, ${rewrittenNow} newly rewritten this cycle).`
-        : `Showing ${currentItems.length} AI-rewritten positive aviation updates (${rewrittenNow} newly rewritten this cycle).`;
+      newsStatus.textContent = `Showing ${currentItems.length} latest aviation update${currentItems.length === 1 ? '' : 's'}.`;
 
     } catch (error) {
       if (!onlyNew) {
-        newsStatus.textContent = 'Unable to load AI-curated news right now. Please refresh in a moment.';
+        newsStatus.textContent = 'Unable to load news right now. Please refresh in a moment.';
         newsGrid.innerHTML = '';
       }
     }

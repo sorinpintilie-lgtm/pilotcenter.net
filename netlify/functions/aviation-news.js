@@ -2,6 +2,10 @@ const RSS_FEED_URL = process.env.NEWS_RSS_URL || 'https://rss.app/feeds/vbBqD5wa
 const OPENAI_MODEL = process.env.OPENAI_MODEL || 'gpt-4o-mini';
 const CACHE_MAX_ITEMS = 300;
 const rewriteCache = new Map();
+const runtimeHiddenLinks = new Set();
+const runtimeHiddenSlugs = new Set();
+
+const MAX_BODY_CHARS = 1800;
 
 const NEGATIVE_KEYWORDS = [
   'war', 'wars', 'conflict', 'military strike', 'airstrike', 'attack', 'combat',
@@ -9,6 +13,10 @@ const NEGATIVE_KEYWORDS = [
   'death', 'dead', 'killed', 'injured', 'emergency landing', 'hijack', 'hijacking',
   'terror', 'terrorism', 'bomb', 'hostage', 'missile', 'sanction'
 ];
+
+const fs = require('fs');
+const path = require('path');
+const { readAdminState } = require('./_news-admin-store');
 
 function jsonResponse(statusCode, body) {
   return {
@@ -22,6 +30,75 @@ function jsonResponse(statusCode, body) {
     },
     body: JSON.stringify(body)
   };
+}
+
+function parseCsvValue(value = '') {
+  return String(value || '')
+    .split(',')
+    .map((part) => normalizeSpaces(part).toLowerCase())
+    .filter(Boolean);
+}
+
+function loadCurationConfig() {
+  const defaults = {
+    blockedLinks: [],
+    blockedKeywords: [],
+    blockedSources: []
+  };
+
+  try {
+    const filePath = path.join(__dirname, '..', '..', 'data', 'news-curation.json');
+    if (!fs.existsSync(filePath)) return defaults;
+
+    const raw = fs.readFileSync(filePath, 'utf8');
+    const parsed = JSON.parse(raw);
+
+    return {
+      blockedLinks: Array.isArray(parsed.blockedLinks)
+        ? parsed.blockedLinks.map((item) => normalizeSpaces(item).toLowerCase()).filter(Boolean)
+        : [],
+      blockedKeywords: Array.isArray(parsed.blockedKeywords)
+        ? parsed.blockedKeywords.map((item) => normalizeSpaces(item).toLowerCase()).filter(Boolean)
+        : [],
+      blockedSources: Array.isArray(parsed.blockedSources)
+        ? parsed.blockedSources.map((item) => normalizeSpaces(item).toLowerCase()).filter(Boolean)
+        : []
+    };
+  } catch {
+    return defaults;
+  }
+}
+
+function isBlockedByCuration(item = {}, curation = {}) {
+  const link = normalizeSpaces(item.link || '').toLowerCase();
+  const source = normalizeSpaces(item.source || '').toLowerCase();
+  const text = `${item.title || ''} ${item.description || ''} ${item.content || ''}`.toLowerCase();
+
+  if (runtimeHiddenLinks.has(link)) return true;
+
+  if (Array.isArray(curation.blockedLinks) && curation.blockedLinks.some((value) => link.includes(value))) {
+    return true;
+  }
+
+  if (Array.isArray(curation.blockedSources) && curation.blockedSources.some((value) => source.includes(value))) {
+    return true;
+  }
+
+  if (Array.isArray(curation.blockedKeywords) && curation.blockedKeywords.some((value) => text.includes(value))) {
+    return true;
+  }
+
+  return false;
+}
+
+function getAdminKey(event) {
+  const queryKey = normalizeSpaces(event?.queryStringParameters?.key || '');
+  const headerKey = normalizeSpaces(
+    event?.headers?.['x-news-admin-key']
+      || event?.headers?.['X-News-Admin-Key']
+      || ''
+  );
+  return queryKey || headerKey;
 }
 
 function stripHtml(input = '') {
@@ -76,6 +153,46 @@ function normalizeForCompare(value = '') {
     .replace(/[^a-z0-9\s]/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
+}
+
+function slugify(value = '') {
+  const normalized = String(value)
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, ' ')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .replace(/^-|-$/g, '');
+
+  return normalized || 'aviation-update';
+}
+
+function shortHash(value = '') {
+  const input = String(value || '');
+  let hash = 5381;
+  for (let i = 0; i < input.length; i += 1) {
+    hash = ((hash << 5) + hash) + input.charCodeAt(i);
+    hash |= 0;
+  }
+  return Math.abs(hash).toString(36).slice(0, 6) || 'update';
+}
+
+function buildArticleSlug(item = {}) {
+  const base = slugify(item.title || 'aviation-update').slice(0, 78);
+  const unique = shortHash(item.link || `${item.title || ''}-${item.pubDate || ''}`);
+  return `${base}-${unique}`;
+}
+
+function cleanEditorialTitle(value = '') {
+  return normalizeSpaces(String(value).replace(/^PilotCenter\s+Briefing:\s*/i, '')) || 'Aviation update';
+}
+
+function splitSentences(text = '') {
+  return String(text)
+    .split(/(?<=[.!?])\s+/)
+    .map((part) => part.trim())
+    .filter(Boolean);
 }
 
 function decodeXmlEntities(value = '') {
@@ -188,13 +305,15 @@ function isRewrittenOutputValid(rewritten = {}, original = {}) {
   const title = normalizeSpaces(rewritten.title || '');
   const summary = normalizeSpaces(rewritten.summary || '');
   const excerpt = normalizeSpaces(rewritten.excerpt || '');
+  const body = normalizeSpaces(rewritten.body || '');
 
-  if (!title || !summary || !excerpt) return false;
+  if (!title || !summary || !excerpt || !body) return false;
   if (summary.length < 25 || excerpt.length < 80) return false;
+  if (body.length < 180) return false;
 
   const rewrittenTitle = normalizeForCompare(title);
   const originalTitle = normalizeForCompare(original.title || '');
-  if (!rewrittenTitle || rewrittenTitle === originalTitle) return false;
+  if (!rewrittenTitle || !originalTitle) return false;
 
   return true;
 }
@@ -290,20 +409,42 @@ function buildFallbackExcerpt(text = '') {
   return `${cleaned.slice(0, 677).trim()}...`;
 }
 
+function buildFallbackBody(text = '') {
+  const cleaned = String(text).trim();
+  if (!cleaned) return '';
+
+  const sentences = splitSentences(cleaned);
+  if (!sentences.length) return cleaned.slice(0, MAX_BODY_CHARS);
+
+  const paragraphSize = 3;
+  const paragraphs = [];
+  for (let i = 0; i < sentences.length && paragraphs.length < 4; i += paragraphSize) {
+    const paragraph = sentences.slice(i, i + paragraphSize).join(' ').trim();
+    if (paragraph) paragraphs.push(paragraph);
+  }
+
+  const articleBody = paragraphs.join('\n\n');
+  return articleBody.length > MAX_BODY_CHARS
+    ? `${articleBody.slice(0, MAX_BODY_CHARS - 3).trim()}...`
+    : articleBody;
+}
+
 function rewriteLocally(items) {
   return items.map((item) => {
     const cleanText = stripHtml(item.content || item.description || '');
-    const normalizedTitle = String(item.title || 'Aviation update').replace(/\s+/g, ' ').trim();
-    const title = normalizedTitle.startsWith('PilotCenter Briefing:')
-      ? normalizedTitle
-      : `PilotCenter Briefing: ${normalizedTitle}`;
+    const title = cleanEditorialTitle(item.title || 'Aviation update');
+    const fallbackBody = buildFallbackBody(cleanText);
 
     const rewrittenItem = {
       title,
       summary: buildFallbackSummary(cleanText) || 'Latest positive aviation update from trusted industry sources.',
-      excerpt: buildFallbackExcerpt(cleanText) || 'Detailed update is available via the source article link.',
+      excerpt: buildFallbackExcerpt(cleanText) || 'Latest aviation developments with practical context for aspiring and professional pilots.',
+      body: fallbackBody || buildFallbackExcerpt(cleanText),
       category: 'General',
       rewriteMode: 'local-fallback',
+      slug: item.slug,
+      articlePath: `/news-and-resources/${item.slug}`,
+      sourceLink: item.link,
       link: item.link,
       image: item.image,
       source: item.source,
@@ -345,6 +486,7 @@ async function rewriteWithOpenAI(items) {
     '- title (max 12 words, new wording)',
     '- summary (35-60 words)',
     '- excerpt (90-150 words, concise and readable)',
+    '- body (160-280 words split into 3 short paragraphs)',
     '- category (one of: Training, Airlines, Airports, Technology, Careers, Regulations, Sustainability, General)'
   ].join('\n');
 
@@ -393,9 +535,10 @@ async function rewriteWithOpenAI(items) {
       if (!Number.isInteger(id) || id < 0 || id >= items.length) return null;
 
       return {
-        title: String(item.title || '').trim(),
+        title: cleanEditorialTitle(item.title || ''),
         summary: String(item.summary || '').trim(),
         excerpt: String(item.excerpt || '').trim(),
+        body: String(item.body || '').trim(),
         category: String(item.category || 'General').trim(),
         rewriteMode: 'openai',
         original: items[id]
@@ -407,8 +550,12 @@ async function rewriteWithOpenAI(items) {
       title: item.title,
       summary: item.summary,
       excerpt: item.excerpt,
+      body: item.body,
       category: item.category,
       rewriteMode: item.rewriteMode,
+      slug: item.original.slug,
+      articlePath: `/news-and-resources/${item.original.slug}`,
+      sourceLink: item.original.link,
       link: item.original.link,
       image: item.original.image,
       source: item.original.source,
@@ -444,6 +591,24 @@ function cacheGet(link) {
   return value;
 }
 
+function mergeNewsItems(manualPosts = [], rssPosts = []) {
+  const combined = [...manualPosts, ...rssPosts];
+  const bySlug = new Map();
+
+  combined.forEach((item) => {
+    const slug = normalizeSpaces(item.slug || '').toLowerCase();
+    if (!slug) return;
+    if (!bySlug.has(slug)) bySlug.set(slug, item);
+  });
+
+  return Array.from(bySlug.values())
+    .sort((a, b) => {
+      const dateA = new Date(a.publishedAt || a.date || 0).getTime() || 0;
+      const dateB = new Date(b.publishedAt || b.date || 0).getTime() || 0;
+      return dateB - dateA;
+    });
+}
+
 exports.handler = async (event) => {
   if (event.httpMethod === 'OPTIONS') {
     return jsonResponse(200, { ok: true });
@@ -453,9 +618,38 @@ exports.handler = async (event) => {
     return jsonResponse(405, { error: 'Method not allowed' });
   }
 
+  const adminKeyConfigured = normalizeSpaces(process.env.NEWS_ADMIN_KEY || '');
+  const adminKeyProvided = getAdminKey(event);
+  const isAuthorizedAdmin = adminKeyConfigured && adminKeyProvided === adminKeyConfigured;
+
+  const adminAction = normalizeSpaces(event.queryStringParameters?.admin || '').toLowerCase();
+  const runtimeHideLinks = parseCsvValue(event.queryStringParameters?.hideLink || '');
+  const runtimeHideSlugs = parseCsvValue(event.queryStringParameters?.hideSlug || '');
+
+  if (adminAction || runtimeHideLinks.length || runtimeHideSlugs.length) {
+    if (!isAuthorizedAdmin) {
+      return jsonResponse(401, {
+        error: 'Unauthorized admin action'
+      });
+    }
+
+    if (adminAction === 'reset-hidden') {
+      runtimeHiddenLinks.clear();
+      runtimeHiddenSlugs.clear();
+    }
+
+    if (adminAction === 'clear-cache') {
+      rewriteCache.clear();
+    }
+
+    runtimeHideLinks.forEach((link) => runtimeHiddenLinks.add(link));
+    runtimeHideSlugs.forEach((slug) => runtimeHiddenSlugs.add(slug));
+  }
+
   const limitRaw = Number.parseInt(event.queryStringParameters?.limit || '16', 10);
   const limit = Number.isFinite(limitRaw) ? Math.max(1, Math.min(limitRaw, 30)) : 16;
   const onlyNew = event.queryStringParameters?.onlyNew === '1';
+  const slugQuery = normalizeSpaces(event.queryStringParameters?.slug || '').toLowerCase();
   const seenLinksRaw = event.queryStringParameters?.seen || '';
   const seenLinks = new Set(
     seenLinksRaw
@@ -465,6 +659,10 @@ exports.handler = async (event) => {
   );
 
   try {
+    const adminState = await readAdminState();
+    const hiddenFromAdmin = new Set((adminState?.hiddenSlugs || []).map((slug) => normalizeSpaces(slug).toLowerCase()));
+
+    const curation = loadCurationConfig();
     const fetched = await fetchRssItems(RSS_FEED_URL);
 
     const deduped = [];
@@ -476,8 +674,16 @@ exports.handler = async (event) => {
       deduped.push(item);
     }
 
-    const safeCandidates = deduped.filter(isPositiveArticle).slice(0, Math.max(limit * 6, 30));
-    const safeItems = await ensureImageReadyItems(safeCandidates, Math.max(limit * 3, 24));
+    const positiveCandidates = deduped.filter(isPositiveArticle);
+    const curatedCandidates = positiveCandidates.filter((item) => !isBlockedByCuration(item, curation));
+    const neededPool = slugQuery ? 140 : Math.max(limit * 6, 30);
+    const safeCandidates = curatedCandidates.slice(0, neededPool);
+    const requiredImagePool = slugQuery ? Math.max(limit * 8, 140) : Math.max(limit * 3, 24);
+    const imageReadySafeItems = await ensureImageReadyItems(safeCandidates, requiredImagePool);
+    const safeItems = imageReadySafeItems.map((item) => ({
+      ...item,
+      slug: buildArticleSlug(item)
+    }));
 
     const uncachedItems = safeItems.filter((item) => !cacheGet(item.link));
     let usedRewriteFallback = false;
@@ -503,11 +709,51 @@ exports.handler = async (event) => {
       rewrittenUncached.forEach((article) => cacheSet(article.link, article));
     }
 
-    const rewrittenItems = safeItems
+    const allRewrittenItems = safeItems
       .map((item) => cacheGet(item.link))
       .filter(Boolean)
       .filter((item) => item.rewriteMode && item.image)
-      .slice(0, limit);
+      .filter((item) => !hiddenFromAdmin.has(normalizeSpaces(item.slug || '').toLowerCase()))
+      .filter((item) => !runtimeHiddenSlugs.has(normalizeSpaces(item.slug || '').toLowerCase()));
+
+    const manualPosts = Array.isArray(adminState?.manualPosts)
+      ? adminState.manualPosts.filter((item) => !hiddenFromAdmin.has(normalizeSpaces(item.slug || '').toLowerCase()))
+      : [];
+
+    const mergedItems = mergeNewsItems(manualPosts, allRewrittenItems);
+
+    const rewrittenItems = mergedItems.slice(0, limit);
+
+    if (slugQuery) {
+      const matchedArticle = mergedItems.find((item) => String(item.slug || '').toLowerCase() === slugQuery);
+      if (!matchedArticle) {
+        return jsonResponse(404, {
+          error: 'Article not found',
+          slug: slugQuery
+        });
+      }
+
+      return jsonResponse(200, {
+        feedUrl: RSS_FEED_URL,
+        generatedAt: new Date().toISOString(),
+        item: matchedArticle,
+        items: [matchedArticle],
+        stats: {
+          fetched: fetched.length,
+          deduped: deduped.length,
+          curated: curatedCandidates.length,
+          safe: safeItems.length,
+          withImage: safeItems.filter((item) => item.image).length,
+          rewrittenNow: uncachedItems.length,
+          rewriteMode: usedRewriteFallback ? 'fallback' : 'openai',
+          manualPosts: manualPosts.length,
+          cacheSize: rewriteCache.size,
+          returned: 1,
+          hiddenRuntimeLinks: runtimeHiddenLinks.size,
+          hiddenRuntimeSlugs: runtimeHiddenSlugs.size
+        }
+      });
+    }
 
     const latestItems = onlyNew
       ? rewrittenItems.filter((item) => !seenLinks.has(item.link))
@@ -520,12 +766,16 @@ exports.handler = async (event) => {
       stats: {
         fetched: fetched.length,
         deduped: deduped.length,
+        curated: curatedCandidates.length,
         safe: safeItems.length,
         withImage: safeItems.filter((item) => item.image).length,
         rewrittenNow: uncachedItems.length,
         rewriteMode: usedRewriteFallback ? 'fallback' : 'openai',
+        manualPosts: manualPosts.length,
         cacheSize: rewriteCache.size,
-        returned: latestItems.length
+        returned: latestItems.length,
+        hiddenRuntimeLinks: runtimeHiddenLinks.size,
+        hiddenRuntimeSlugs: runtimeHiddenSlugs.size
       }
     });
   } catch (error) {

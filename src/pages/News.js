@@ -1,4 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
+import { Link } from 'react-router-dom';
 import './Home.css';
 import './News.css';
 
@@ -41,7 +42,7 @@ async function fetchCuratedNews({ limit = 18, onlyNew = false, seen = [] } = {})
 
 function News() {
   const [items, setItems] = useState([]);
-  const [status, setStatus] = useState('Loading AI-curated aviation updates...');
+  const [status, setStatus] = useState('Loading latest aviation updates...');
   const seenLinksRef = useRef(new Set());
 
   useEffect(() => {
@@ -89,24 +90,16 @@ function News() {
           return;
         }
 
-        const filteredCount = payload?.stats?.deduped && payload?.stats?.safe
-          ? Math.max(payload.stats.deduped - payload.stats.safe, 0)
-          : null;
-
-        const rewrittenNow = payload?.stats?.rewrittenNow;
-
         setStatus(
           onlyNew
-            ? `New feed check complete: ${feedItems.length} new AI-rewritten article${feedItems.length === 1 ? '' : 's'} added.`
-            : filteredCount && filteredCount > 0
-              ? `Showing ${feedItems.length} AI-rewritten positive updates (${filteredCount} filtered out, ${rewrittenNow || 0} newly rewritten this cycle).`
-              : `Showing ${feedItems.length} AI-rewritten positive aviation updates (${rewrittenNow || 0} newly rewritten this cycle).`
+            ? `${feedItems.length} new article${feedItems.length === 1 ? '' : 's'} added to the latest updates.`
+            : `Showing ${feedItems.length} latest aviation update${feedItems.length === 1 ? '' : 's'}.`
         );
       } catch {
         if (!mounted) return;
         if (!onlyNew) {
           setItems([]);
-          setStatus('Unable to load AI-curated news right now. Please refresh in a moment.');
+          setStatus('Unable to load news right now. Please refresh in a moment.');
         }
       }
     };
@@ -130,9 +123,9 @@ function News() {
             <div className="hero-content-wrapper">
               <div className="hero-text-content">
                 <div className="hero-kicker">NEWS & RESOURCES</div>
-                <h1 className="hero-title">Positive Aviation Updates, Automatically Curated</h1>
+                <h1 className="hero-title">Latest Aviation Updates</h1>
                 <p className="hero-subtitle">
-                  Live RSS feed with server-side AI rewriting and strict filtering (no war/crash topics).
+                  Timely aviation developments, summarized in a clear editorial format.
                 </p>
               </div>
             </div>
@@ -146,7 +139,7 @@ function News() {
 
           <div className="news-grid">
             {items.map((article) => (
-              <article className="news-card" key={`${article.link}-${article.title}`}>
+              <article className="news-card" key={`${article.slug || article.link}-${article.title}`}>
                 <div className="news-media">
                   {article.image ? (
                     <img
@@ -171,19 +164,16 @@ function News() {
                   {article.excerpt ? <p className="news-card-excerpt">{article.excerpt}</p> : null}
 
                   <div className="news-meta">
-                    <span>Source: {article.source}</span>
                     <span>{article.date}</span>
                   </div>
 
                   <div className="news-actions">
-                    <a
+                    <Link
                       className="news-source-link"
-                      href={article.link}
-                      target="_blank"
-                      rel="noopener noreferrer nofollow"
+                      to={article.articlePath || (article.slug ? `/news-and-resources/${article.slug}` : '/news-and-resources')}
                     >
-                      Read original article
-                    </a>
+                      Read article
+                    </Link>
                   </div>
                 </div>
               </article>

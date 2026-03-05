@@ -134,7 +134,7 @@
 }
 
 .news-source-link::after {
-  content: "↗";
+  content: "→";
   font-size: 12px;
 }
 

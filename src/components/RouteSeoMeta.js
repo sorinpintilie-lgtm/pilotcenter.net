@@ -98,10 +98,10 @@ function getMetaForPath(pathname) {
       description:
         'Access pilot job resources, career guidance, and actionable insights to prepare for airline and commercial aviation opportunities.'
     },
-    '/news-and-resources': {
+  '/news-and-resources': {
       title: 'Aviation News & Resources | PilotCenter.net',
       description:
-        'Read curated aviation news, trends, and pilot-focused resources with AI-rewritten summaries and positive-topic filtering.'
+        'Read aviation news, trends, and pilot-focused resources with concise editorial summaries from PilotCenter.net.'
     },
     '/how-it-works': {
       title: 'How PilotCenter.net Works | Pilot Guidance Process',
@@ -122,6 +122,12 @@ function getMetaForPath(pathname) {
       title: 'Schedule Your Consultation | PilotCenter.net',
       description:
         'Pick a time and schedule a pilot training consultation with PilotCenter.net for route planning and school selection support.'
+    },
+    '/admin': {
+      title: 'Admin Dashboard | PilotCenter.net',
+      description:
+        'Private news administration dashboard.',
+      robots: 'noindex,nofollow,noarchive,nosnippet,noimageindex'
     }
   };
 
@@ -129,6 +135,7 @@ function getMetaForPath(pathname) {
   if (exact) {
     return {
       ...exact,
+      robots: exact.robots || 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1',
       canonical: buildCanonical(pathname)
     };
   }
@@ -140,6 +147,7 @@ function getMetaForPath(pathname) {
       title: `${schoolName} Flight School Profile | PilotCenter.net`,
       description:
         `View details for ${schoolName} flight school, compare training information, and explore options for your pilot pathway.`,
+      robots: 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1',
       canonical: buildCanonical(pathname),
       type: 'article'
     };
@@ -154,6 +162,7 @@ function getMetaForPath(pathname) {
       title: `Pilot Training in ${countryName} | Flight Schools & Guide`,
       description:
         `Explore pilot training in ${countryName}, including route planning, school options, and aviation career preparation resources.`,
+      robots: 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1',
       canonical: buildCanonical(pathname),
       type: 'article'
     };
@@ -168,6 +177,20 @@ function getMetaForPath(pathname) {
       title: `How to Become a Pilot in ${countryName} | 2026 Guide`,
       description:
         `Read the complete 2026 guide for becoming a pilot in ${countryName}, including licensing steps, training options, and school planning.`,
+      robots: 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1',
+      canonical: buildCanonical(pathname),
+      type: 'article'
+    };
+  }
+
+  if (pathname.startsWith('/news-and-resources/')) {
+    const articleSlug = pathname.replace('/news-and-resources/', '').trim();
+    const articleTitle = slugToTitle(articleSlug.replace(/-[a-z0-9]{4,8}$/i, ''));
+    return {
+      title: `${articleTitle} | PilotCenter.net News`,
+      description:
+        `Read this aviation update from PilotCenter.net with clear context and key takeaways for pilots and aviation professionals.`,
+      robots: 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1',
       canonical: buildCanonical(pathname),
       type: 'article'
     };
@@ -177,6 +200,7 @@ function getMetaForPath(pathname) {
     title: 'PilotCenter.net | Pilot Training Guidance',
     description:
       'PilotCenter.net helps you plan pilot training, compare flight schools, and move toward a professional aviation career.',
+    robots: 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1',
     canonical: buildCanonical(pathname),
     type: 'website'
   };
@@ -213,7 +237,7 @@ export default function RouteSeoMeta() {
       <html lang="en" />
       <title>{meta.title}</title>
       <meta name="description" content={meta.description} />
-      <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" />
+      <meta name="robots" content={meta.robots || 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1'} />
 
       <link rel="canonical" href={meta.canonical} />
 
