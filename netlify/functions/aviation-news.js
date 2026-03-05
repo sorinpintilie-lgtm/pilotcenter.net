@@ -17,6 +17,7 @@ const NEGATIVE_KEYWORDS = [
 
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 const { readAdminState } = require('./_news-admin-store');
 
 function jsonResponse(statusCode, body) {
@@ -199,6 +200,74 @@ function shortHash(value = '') {
     hash |= 0;
   }
   return Math.abs(hash).toString(36).slice(0, 6) || 'update';
+}
+
+function strongHash(value = '') {
+  return crypto.createHash('sha1').update(String(value || '')).digest('hex');
+}
+
+function buildRewriteCacheKey(link = '') {
+  return `rewrite:${strongHash(link)}`;
+}
+
+let rewriteBlobStorePromise = null;
+
+async function getRewriteBlobStore() {
+  if (!rewriteBlobStorePromise) {
+    rewriteBlobStorePromise = (async () => {
+      try {
+        const { getStore } = require('@netlify/blobs');
+        return getStore('news-rewrites');
+      } catch {
+        return null;
+      }
+    })();
+  }
+
+  return rewriteBlobStorePromise;
+}
+
+async function preloadPersistentCache(items = [], maxReads = 12) {
+  const store = await getRewriteBlobStore();
+  if (!store) return;
+
+  const toRead = items
+    .filter((item) => item?.link && !cacheGet(item.link))
+    .slice(0, maxReads);
+
+  if (!toRead.length) return;
+
+  await Promise.all(toRead.map(async (item) => {
+    try {
+      const stored = await store.get(buildRewriteCacheKey(item.link), { type: 'json' });
+      if (!stored || !stored.link) return;
+      cacheSet(stored.link, stored);
+    } catch {
+      // ignore cache read failures
+    }
+  }));
+}
+
+async function persistArticlesToStore(articles = [], maxWrites = 12) {
+  const store = await getRewriteBlobStore();
+  if (!store) return;
+
+  const toWrite = articles
+    .filter((item) => item?.link)
+    .slice(0, maxWrites);
+
+  if (!toWrite.length) return;
+
+  await Promise.all(toWrite.map(async (item) => {
+    try {
+      await store.set(buildRewriteCacheKey(item.link), {
+        ...item,
+        persistedAt: new Date().toISOString()
+      }, { type: 'json' });
+    } catch {
+      // ignore cache write failures
+    }
+  }));
 }
 
 function buildArticleSlug(item = {}) {
@@ -705,12 +774,14 @@ async function buildFullArticleIfNeeded(article = null, sourceItem = null) {
     const rewritten = await rewriteWithOpenAI([enrichedSource], { fullBodyMode: true });
     if (rewritten[0]) {
       cacheSet(rewritten[0].link, rewritten[0]);
+      await persistArticlesToStore([rewritten[0]], 1);
       return rewritten[0];
     }
   } catch {
     const localRewritten = rewriteLocally([enrichedSource], { fullBodyMode: true });
     if (localRewritten[0]) {
       cacheSet(localRewritten[0].link, localRewritten[0]);
+      await persistArticlesToStore([localRewritten[0]], 1);
       return localRewritten[0];
     }
   }
@@ -794,6 +865,8 @@ exports.handler = async (event) => {
       slug: buildArticleSlug(item)
     }));
 
+    await preloadPersistentCache(safeItems, slugQuery ? 24 : 12);
+
     const uncachedItems = safeItems
       .filter((item) => !cacheGet(item.link))
       .slice(0, Math.max(limit + 6, 24));
@@ -823,6 +896,7 @@ exports.handler = async (event) => {
       }
 
       rewrittenUncached.forEach((article) => cacheSet(article.link, article));
+      await persistArticlesToStore(rewrittenUncached, slugQuery ? 24 : 12);
     }
 
     const allRewrittenItems = safeItems
