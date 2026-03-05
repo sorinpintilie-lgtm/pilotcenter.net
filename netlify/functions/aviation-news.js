@@ -243,7 +243,7 @@ async function fetchArticleImage(articleUrl) {
   if (!articleUrl) return '';
 
   const controller = new AbortController();
-  const timeoutId = setTimeout(() => controller.abort(), 6000);
+  const timeoutId = setTimeout(() => controller.abort(), 2500);
 
   try {
     const response = await fetch(articleUrl, {
@@ -470,7 +470,7 @@ async function rewriteWithOpenAI(items) {
     title: item.title,
     source: item.source,
     date: formatDate(item.pubDate),
-    text: stripHtml(item.content || item.description).slice(0, 3200)
+    text: stripHtml(item.content || item.description).slice(0, 900)
   }));
 
   const systemPrompt = [
@@ -676,21 +676,28 @@ exports.handler = async (event) => {
 
     const positiveCandidates = deduped.filter(isPositiveArticle);
     const curatedCandidates = positiveCandidates.filter((item) => !isBlockedByCuration(item, curation));
-    const neededPool = slugQuery ? 140 : Math.max(limit * 6, 30);
+    const neededPool = slugQuery ? 80 : Math.max(limit * 3, 24);
     const safeCandidates = curatedCandidates.slice(0, neededPool);
-    const requiredImagePool = slugQuery ? Math.max(limit * 8, 140) : Math.max(limit * 3, 24);
+    const requiredImagePool = slugQuery ? Math.max(limit * 2, 24) : Math.max(limit + 8, 24);
     const imageReadySafeItems = await ensureImageReadyItems(safeCandidates, requiredImagePool);
     const safeItems = imageReadySafeItems.map((item) => ({
       ...item,
       slug: buildArticleSlug(item)
     }));
 
-    const uncachedItems = safeItems.filter((item) => !cacheGet(item.link));
+    const uncachedItems = safeItems
+      .filter((item) => !cacheGet(item.link))
+      .slice(0, Math.max(limit + 6, 24));
     let usedRewriteFallback = false;
     if (uncachedItems.length) {
       let rewrittenUncached = [];
       try {
-        rewrittenUncached = await rewriteWithOpenAI(uncachedItems);
+        if (uncachedItems.length > 12) {
+          rewrittenUncached = rewriteLocally(uncachedItems);
+          usedRewriteFallback = true;
+        } else {
+          rewrittenUncached = await rewriteWithOpenAI(uncachedItems);
+        }
       } catch {
         rewrittenUncached = rewriteLocally(uncachedItems);
         usedRewriteFallback = true;
