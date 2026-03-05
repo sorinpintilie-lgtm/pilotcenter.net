@@ -6,6 +6,7 @@ const runtimeHiddenLinks = new Set();
 const runtimeHiddenSlugs = new Set();
 
 const MAX_BODY_CHARS = 1800;
+const FULL_BODY_MIN_CHARS = 2500;
 
 const NEGATIVE_KEYWORDS = [
   'war', 'wars', 'conflict', 'military strike', 'airstrike', 'attack', 'combat',
@@ -131,6 +132,28 @@ function getSourceName(url) {
 function extractImageFromHtml(html = '') {
   const match = String(html).match(/<img[^>]+src=["']([^"']+)["']/i);
   return match ? match[1] : '';
+}
+
+function extractTextFromHtml(html = '') {
+  const source = String(html || '');
+  if (!source) return '';
+
+  const paragraphs = Array.from(source.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi))
+    .map((match) => stripHtml(match[1]))
+    .map((text) => normalizeSpaces(text))
+    .filter((text) => text.length > 50);
+
+  if (paragraphs.length >= 4) {
+    return paragraphs.join('\n\n');
+  }
+
+  const articleMatch = source.match(/<article[^>]*>([\s\S]*?)<\/article>/i);
+  if (articleMatch?.[1]) {
+    const articleText = stripHtml(articleMatch[1]);
+    if (articleText.length > 400) return articleText;
+  }
+
+  return stripHtml(source);
 }
 
 function normalizeSpaces(value = '') {
@@ -280,6 +303,31 @@ async function fetchArticleImage(articleUrl) {
   }
 }
 
+async function fetchArticleText(articleUrl) {
+  if (!articleUrl) return '';
+
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), 4500);
+
+  try {
+    const response = await fetch(articleUrl, {
+      signal: controller.signal,
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (compatible; PilotCenterBot/1.0; +https://pilotcenter.net)'
+      }
+    });
+
+    if (!response.ok) return '';
+    const html = await response.text();
+    const extracted = extractTextFromHtml(html);
+    return normalizeSpaces(extracted);
+  } catch {
+    return '';
+  } finally {
+    clearTimeout(timeoutId);
+  }
+}
+
 async function ensureImageReadyItems(items, neededCount) {
   const result = [];
 
@@ -306,10 +354,13 @@ function isRewrittenOutputValid(rewritten = {}, original = {}) {
   const summary = normalizeSpaces(rewritten.summary || '');
   const excerpt = normalizeSpaces(rewritten.excerpt || '');
   const body = normalizeSpaces(rewritten.body || '');
+  const bodyMinLength = Number.isFinite(rewritten.minBodyLength)
+    ? rewritten.minBodyLength
+    : 180;
 
   if (!title || !summary || !excerpt || !body) return false;
   if (summary.length < 25 || excerpt.length < 80) return false;
-  if (body.length < 180) return false;
+  if (body.length < bodyMinLength) return false;
 
   const rewrittenTitle = normalizeForCompare(title);
   const originalTitle = normalizeForCompare(original.title || '');
@@ -429,17 +480,38 @@ function buildFallbackBody(text = '') {
     : articleBody;
 }
 
-function rewriteLocally(items) {
+function buildFullFallbackBody(text = '') {
+  const cleaned = normalizeSpaces(text);
+  if (!cleaned) return '';
+
+  const sentences = splitSentences(cleaned);
+  if (!sentences.length) return cleaned;
+
+  const paragraphs = [];
+  for (let i = 0; i < sentences.length; i += 3) {
+    const chunk = sentences.slice(i, i + 3).join(' ').trim();
+    if (chunk) paragraphs.push(chunk);
+  }
+
+  return paragraphs.join('\n\n');
+}
+
+function rewriteLocally(items, options = {}) {
+  const fullBodyMode = Boolean(options.fullBodyMode);
+
   return items.map((item) => {
     const cleanText = stripHtml(item.content || item.description || '');
     const title = cleanEditorialTitle(item.title || 'Aviation update');
-    const fallbackBody = buildFallbackBody(cleanText);
+    const fallbackBody = fullBodyMode
+      ? buildFullFallbackBody(item.content || cleanText)
+      : buildFallbackBody(cleanText);
 
     const rewrittenItem = {
       title,
       summary: buildFallbackSummary(cleanText) || 'Latest positive aviation update from trusted industry sources.',
       excerpt: buildFallbackExcerpt(cleanText) || 'Latest aviation developments with practical context for aspiring and professional pilots.',
       body: fallbackBody || buildFallbackExcerpt(cleanText),
+      minBodyLength: fullBodyMode ? FULL_BODY_MIN_CHARS : 180,
       category: 'General',
       rewriteMode: 'local-fallback',
       slug: item.slug,
@@ -459,18 +531,20 @@ function rewriteLocally(items) {
   }).filter(Boolean);
 }
 
-async function rewriteWithOpenAI(items) {
+async function rewriteWithOpenAI(items, options = {}) {
   const apiKey = process.env.OPENAI_API_KEY;
   if (!apiKey) {
     throw new Error('OPENAI_API_KEY is not configured');
   }
+
+  const fullBodyMode = Boolean(options.fullBodyMode);
 
   const compactItems = items.map((item, idx) => ({
     id: idx,
     title: item.title,
     source: item.source,
     date: formatDate(item.pubDate),
-    text: stripHtml(item.content || item.description).slice(0, 900)
+    text: stripHtml(item.content || item.description).slice(0, fullBodyMode ? 12000 : 900)
   }));
 
   const systemPrompt = [
@@ -486,7 +560,9 @@ async function rewriteWithOpenAI(items) {
     '- title (max 12 words, new wording)',
     '- summary (35-60 words)',
     '- excerpt (90-150 words, concise and readable)',
-    '- body (160-280 words split into 3 short paragraphs)',
+    fullBodyMode
+      ? '- body (full rewritten article in plain text, 600-1400 words, multiple paragraphs, fully rewritten from source text)'
+      : '- body (160-280 words split into 3 short paragraphs)',
     '- category (one of: Training, Airlines, Airports, Technology, Careers, Regulations, Sustainability, General)'
   ].join('\n');
 
@@ -539,6 +615,7 @@ async function rewriteWithOpenAI(items) {
         summary: String(item.summary || '').trim(),
         excerpt: String(item.excerpt || '').trim(),
         body: String(item.body || '').trim(),
+        minBodyLength: fullBodyMode ? FULL_BODY_MIN_CHARS : 180,
         category: String(item.category || 'General').trim(),
         rewriteMode: 'openai',
         original: items[id]
@@ -607,6 +684,38 @@ function mergeNewsItems(manualPosts = [], rssPosts = []) {
       const dateB = new Date(b.publishedAt || b.date || 0).getTime() || 0;
       return dateB - dateA;
     });
+}
+
+async function buildFullArticleIfNeeded(article = null, sourceItem = null) {
+  if (!article || !sourceItem) return article;
+
+  const existingBody = normalizeSpaces(article.body || '');
+  if (existingBody.length >= FULL_BODY_MIN_CHARS) return article;
+
+  const fetchedFullText = await fetchArticleText(sourceItem.link);
+  const fullContent = fetchedFullText || stripHtml(sourceItem.content || sourceItem.description || '');
+  if (!fullContent || fullContent.length < 900) return article;
+
+  const enrichedSource = {
+    ...sourceItem,
+    content: fullContent
+  };
+
+  try {
+    const rewritten = await rewriteWithOpenAI([enrichedSource], { fullBodyMode: true });
+    if (rewritten[0]) {
+      cacheSet(rewritten[0].link, rewritten[0]);
+      return rewritten[0];
+    }
+  } catch {
+    const localRewritten = rewriteLocally([enrichedSource], { fullBodyMode: true });
+    if (localRewritten[0]) {
+      cacheSet(localRewritten[0].link, localRewritten[0]);
+      return localRewritten[0];
+    }
+  }
+
+  return article;
 }
 
 exports.handler = async (event) => {
@@ -740,11 +849,14 @@ exports.handler = async (event) => {
         });
       }
 
+      const sourceForMatchedArticle = safeItems.find((item) => item.link === matchedArticle.link);
+      const fullArticle = await buildFullArticleIfNeeded(matchedArticle, sourceForMatchedArticle);
+
       return jsonResponse(200, {
         feedUrl: RSS_FEED_URL,
         generatedAt: new Date().toISOString(),
-        item: matchedArticle,
-        items: [matchedArticle],
+        item: fullArticle,
+        items: [fullArticle],
         stats: {
           fetched: fetched.length,
           deduped: deduped.length,
