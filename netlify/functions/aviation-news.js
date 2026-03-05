@@ -17,6 +17,26 @@ const NEGATIVE_KEYWORDS = [
   'terror', 'terrorism', 'bomb', 'hostage', 'missile', 'sanction'
 ];
 
+const FIXED_NEWS_CATEGORIES = ['Training', 'Airlines', 'Technology', 'Regulations'];
+const CATEGORY_KEYWORDS = {
+  Training: [
+    'training', 'cadet', 'academy', 'simulator', 'flight school', 'pilot program',
+    'curriculum', 'instructor', 'license', 'upskill', 'ab-initio', 'upskilling'
+  ],
+  Airlines: [
+    'airline', 'carrier', 'fleet', 'route', 'passenger', 'cabin', 'airport',
+    'network', 'load factor', 'ticket', 'aviation market', 'operation'
+  ],
+  Technology: [
+    'technology', 'avionics', 'aircraft tech', 'ai', 'automation', 'digital',
+    'electric', 'hybrid', 'sustainable fuel', 'saf', 'innovation', 'software'
+  ],
+  Regulations: [
+    'regulation', 'regulatory', 'faa', 'easa', 'icao', 'policy', 'compliance',
+    'rule', 'certification', 'authority', 'safety standard', 'approval'
+  ]
+};
+
 const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
@@ -519,17 +539,72 @@ function normalizeFilterValue(value = '') {
   return normalizeSpaces(String(value || '')).toLowerCase();
 }
 
+function classifyCategoryFromText(text = '') {
+  const normalized = normalizeFilterValue(text);
+  if (!normalized) return 'Training';
+
+  const scores = FIXED_NEWS_CATEGORIES.reduce((acc, category) => {
+    acc[category] = 0;
+    return acc;
+  }, {});
+
+  FIXED_NEWS_CATEGORIES.forEach((category) => {
+    const keywords = CATEGORY_KEYWORDS[category] || [];
+    keywords.forEach((keyword) => {
+      if (normalized.includes(keyword)) scores[category] += 1;
+    });
+  });
+
+  let bestCategory = 'Training';
+  let bestScore = -1;
+
+  FIXED_NEWS_CATEGORIES.forEach((category) => {
+    const score = scores[category] || 0;
+    if (score > bestScore) {
+      bestScore = score;
+      bestCategory = category;
+    }
+  });
+
+  return bestCategory;
+}
+
+function normalizeNewsCategory(category = '', contextText = '') {
+  const value = normalizeFilterValue(category)
+    .replace(/&/g, 'and')
+    .replace(/[^a-z\s]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  if (!value) return classifyCategoryFromText(contextText);
+
+  if (value.includes('train') || value.includes('career') || value.includes('cadet')) {
+    return 'Training';
+  }
+
+  if (value.includes('airline') || value.includes('airport') || value.includes('operation')) {
+    return 'Airlines';
+  }
+
+  if (value.includes('tech') || value.includes('digital') || value.includes('innovation')) {
+    return 'Technology';
+  }
+
+  if (value.includes('regulation') || value.includes('policy') || value.includes('faa') || value.includes('easa') || value.includes('icao') || value.includes('compliance')) {
+    return 'Regulations';
+  }
+
+  return classifyCategoryFromText(`${value} ${contextText}`);
+}
+
 function applyNewsFilters(items = [], filters = {}) {
   const search = normalizeFilterValue(filters.search);
   const category = normalizeFilterValue(filters.category);
-  const source = normalizeFilterValue(filters.source);
 
   return items.filter((item) => {
-    const itemCategory = normalizeFilterValue(item.category || 'general');
-    const itemSource = normalizeFilterValue(item.source || 'unknown');
+    const itemCategory = normalizeFilterValue(item.category || 'training');
 
     if (category && category !== 'all' && itemCategory !== category) return false;
-    if (source && source !== 'all' && itemSource !== source) return false;
 
     if (!search) return true;
 
@@ -539,7 +614,6 @@ function applyNewsFilters(items = [], filters = {}) {
       item.excerpt,
       item.body,
       item.category,
-      item.source,
       item.date
     ]
       .filter(Boolean)
@@ -739,7 +813,7 @@ function rewriteLocally(items, options = {}) {
       excerpt: buildFallbackExcerpt(cleanText) || 'Latest aviation developments with practical context for aspiring and professional pilots.',
       body: fallbackBody || buildFallbackExcerpt(cleanText),
       minBodyLength: fullBodyMode ? FULL_BODY_MIN_CHARS : 180,
-      category: 'General',
+      category: normalizeNewsCategory('', `${item.title || ''} ${cleanText}`),
       rewriteMode: 'local-fallback',
       slug: item.slug,
       articlePath: `/news-and-resources/${item.slug}`,
@@ -790,7 +864,7 @@ async function rewriteWithOpenAI(items, options = {}) {
     fullBodyMode
       ? '- body (full rewritten article in plain text, 600-1400 words, multiple paragraphs, fully rewritten from source text)'
       : '- body (160-280 words split into 3 short paragraphs)',
-    '- category (one of: Training, Airlines, Airports, Technology, Careers, Regulations, Sustainability, General)'
+    '- category (one of: Training, Airlines, Technology, Regulations)'
   ].join('\n');
 
   const userPrompt = `Input items JSON:\n${JSON.stringify(compactItems)}`;
@@ -843,7 +917,7 @@ async function rewriteWithOpenAI(items, options = {}) {
         excerpt: String(item.excerpt || '').trim(),
         body: String(item.body || '').trim(),
         minBodyLength: fullBodyMode ? FULL_BODY_MIN_CHARS : 180,
-        category: String(item.category || 'General').trim(),
+        category: normalizeNewsCategory(item.category, `${items[id]?.title || ''} ${items[id]?.content || items[id]?.description || ''}`),
         rewriteMode: 'openai',
         original: items[id]
       };
@@ -1019,7 +1093,6 @@ exports.handler = async (event) => {
   const sortBy = normalizeFilterValue(event.queryStringParameters?.sort || 'latest') || 'latest';
   const searchQuery = normalizeSpaces(event.queryStringParameters?.search || '');
   const categoryQuery = normalizeSpaces(event.queryStringParameters?.category || 'all');
-  const sourceQuery = normalizeSpaces(event.queryStringParameters?.source || 'all');
   const seenLinksRaw = event.queryStringParameters?.seen || '';
   const seenLinks = new Set(
     seenLinksRaw
@@ -1127,17 +1200,11 @@ exports.handler = async (event) => {
       : [];
 
     const mergedItems = mergeNewsItems(manualPosts, allRewrittenItems);
-    const availableCategories = Array.from(
-      new Set(mergedItems.map((item) => normalizeSpaces(item.category || 'General')).filter(Boolean))
-    ).sort((a, b) => a.localeCompare(b));
-    const availableSources = Array.from(
-      new Set(mergedItems.map((item) => normalizeSpaces(item.source || 'Unknown source')).filter(Boolean))
-    ).sort((a, b) => a.localeCompare(b));
+    const availableCategories = FIXED_NEWS_CATEGORIES;
 
     const filteredItems = applyNewsFilters(mergedItems, {
       search: searchQuery,
-      category: categoryQuery,
-      source: sourceQuery
+      category: categoryQuery
     });
     const sortedItems = sortNewsItems(filteredItems, sortBy);
     const totalItems = sortedItems.length;
@@ -1200,12 +1267,10 @@ exports.handler = async (event) => {
       filters: {
         search: searchQuery,
         category: categoryQuery || 'all',
-        source: sourceQuery || 'all',
         sort: sortBy
       },
       facets: {
-        categories: availableCategories,
-        sources: availableSources
+        categories: availableCategories
       },
       stats: {
         fetched: fetched.length,

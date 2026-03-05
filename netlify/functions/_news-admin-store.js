@@ -41,7 +41,8 @@ function normalizeManualPost(post = {}) {
   const summary = normalizeSpaces(post.summary || clampWords(post.body || post.excerpt || '', 45));
   const excerpt = normalizeSpaces(post.excerpt || clampWords(post.body || summary, 110));
   const body = String(post.body || excerpt || summary).trim();
-  const category = normalizeSpaces(post.category || 'General') || 'General';
+  const categoryRaw = normalizeSpaces(post.category || 'Training') || 'Training';
+  const category = normalizeManualCategory(categoryRaw);
   const image = normalizeSpaces(post.image || '');
   const source = normalizeSpaces(post.source || 'PilotCenter.net') || 'PilotCenter.net';
   const publishedAtRaw = normalizeSpaces(post.publishedAt || post.isoDate || now);
@@ -73,6 +74,18 @@ function normalizeManualPost(post = {}) {
     createdAt: normalizeSpaces(post.createdAt || now),
     updatedAt: now
   };
+}
+
+function normalizeManualCategory(input = '') {
+  const value = normalizeSpaces(String(input || '')).toLowerCase();
+
+  if (!value) return 'Training';
+  if (value.includes('train') || value.includes('career') || value.includes('cadet')) return 'Training';
+  if (value.includes('airline') || value.includes('airport') || value.includes('fleet')) return 'Airlines';
+  if (value.includes('tech') || value.includes('digital') || value.includes('innovation')) return 'Technology';
+  if (value.includes('regulation') || value.includes('policy') || value.includes('faa') || value.includes('easa') || value.includes('icao') || value.includes('compliance')) return 'Regulations';
+
+  return 'Training';
 }
 
 function normalizeState(input = {}) {
@@ -171,6 +184,7 @@ function parseJsonBody(event = {}) {
 
 module.exports = {
   normalizeSpaces,
+  normalizeManualCategory,
   normalizeManualPost,
   readAdminState,
   writeAdminState,

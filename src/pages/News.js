@@ -10,7 +10,6 @@ function buildNewsQuery({
   page = 1,
   sort = 'latest',
   category = 'all',
-  source = 'all',
   search = '',
   onlyNew = false,
   seen = []
@@ -20,7 +19,6 @@ function buildNewsQuery({
   params.set('page', String(page));
   params.set('sort', sort);
   params.set('category', category);
-  params.set('source', source);
   if (search.trim()) params.set('search', search.trim());
   if (onlyNew) params.set('onlyNew', '1');
   if (seen.length) params.set('seen', seen.join(','));
@@ -51,7 +49,7 @@ async function fetchCuratedNews(query) {
         stats: data.stats || null,
         pagination: data.pagination || null,
         filters: data.filters || null,
-        facets: data.facets || { categories: [], sources: [] }
+        facets: data.facets || { categories: [] }
       };
     } catch (error) {
       lastError = error;
@@ -72,10 +70,9 @@ function News() {
     hasPrevPage: false,
     hasNextPage: false
   });
-  const [facets, setFacets] = useState({ categories: [], sources: [] });
+  const [facets, setFacets] = useState({ categories: [] });
   const [filters, setFilters] = useState({
     category: 'all',
-    source: 'all',
     sort: 'latest',
     search: ''
   });
@@ -89,7 +86,6 @@ function News() {
     page,
     sort: filters.sort,
     category: filters.category,
-    source: filters.source,
     search: filters.search
   }), [page, filters]);
 
@@ -137,8 +133,6 @@ function News() {
 
   const categoryOptions = ['all', ...(facets.categories || []).map((item) => item.toLowerCase())]
     .filter((value, index, self) => self.indexOf(value) === index);
-  const sourceOptions = ['all', ...(facets.sources || []).map((item) => item.toLowerCase())]
-    .filter((value, index, self) => self.indexOf(value) === index);
 
   const applySearch = (event) => {
     event.preventDefault();
@@ -149,7 +143,7 @@ function News() {
   const resetFilters = () => {
     setPage(1);
     setSearchInput('');
-    setFilters({ category: 'all', source: 'all', sort: 'latest', search: '' });
+    setFilters({ category: 'all', sort: 'latest', search: '' });
   };
 
   const handleFilterSelect = (key) => (event) => {
@@ -194,15 +188,6 @@ function News() {
                 <select value={filters.category} onChange={handleFilterSelect('category')}>
                   {categoryOptions.map((value) => (
                     <option key={value} value={value}>{value === 'all' ? 'All categories' : value}</option>
-                  ))}
-                </select>
-              </label>
-
-              <label className="news-control-field">
-                <span>Source</span>
-                <select value={filters.source} onChange={handleFilterSelect('source')}>
-                  {sourceOptions.map((value) => (
-                    <option key={value} value={value}>{value === 'all' ? 'All sources' : value}</option>
                   ))}
                 </select>
               </label>

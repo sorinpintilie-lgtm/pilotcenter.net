@@ -1,5 +1,6 @@
 const {
   normalizeSpaces,
+  normalizeManualCategory,
   normalizeManualPost,
   readAdminState,
   writeAdminState,
@@ -197,7 +198,7 @@ exports.handler = async (event) => {
           summary: normalizeSpaces(incoming.summary || existing.summary),
           excerpt: normalizeSpaces(incoming.excerpt || existing.excerpt),
           body: String(incoming.body || existing.body || '').trim(),
-          category: normalizeSpaces(incoming.category || existing.category || 'General'),
+          category: normalizeManualCategory(incoming.category || existing.category || 'Training'),
           image: normalizeSpaces(incoming.image || existing.image || ''),
           source: normalizeSpaces(incoming.source || existing.source || 'PilotCenter.net'),
           sourceLink: normalizeSpaces(incoming.sourceLink || existing.sourceLink || ''),
