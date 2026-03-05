@@ -509,12 +509,71 @@ async function ensureImageReadyItems(items, neededCount) {
     }
 
     const fetchedImage = await fetchArticleImage(item.link);
-    if (fetchedImage) {
-      result.push({ ...item, image: fetchedImage });
-    }
+    result.push({ ...item, image: fetchedImage || '' });
   }
 
   return result;
+}
+
+function normalizeFilterValue(value = '') {
+  return normalizeSpaces(String(value || '')).toLowerCase();
+}
+
+function applyNewsFilters(items = [], filters = {}) {
+  const search = normalizeFilterValue(filters.search);
+  const category = normalizeFilterValue(filters.category);
+  const source = normalizeFilterValue(filters.source);
+
+  return items.filter((item) => {
+    const itemCategory = normalizeFilterValue(item.category || 'general');
+    const itemSource = normalizeFilterValue(item.source || 'unknown');
+
+    if (category && category !== 'all' && itemCategory !== category) return false;
+    if (source && source !== 'all' && itemSource !== source) return false;
+
+    if (!search) return true;
+
+    const haystack = [
+      item.title,
+      item.summary,
+      item.excerpt,
+      item.body,
+      item.category,
+      item.source,
+      item.date
+    ]
+      .filter(Boolean)
+      .join(' ')
+      .toLowerCase();
+
+    return haystack.includes(search);
+  });
+}
+
+function sortNewsItems(items = [], sortBy = 'latest') {
+  const list = items.slice();
+
+  list.sort((a, b) => {
+    const timeA = new Date(a.publishedAt || a.updatedAt || a.date || 0).getTime() || 0;
+    const timeB = new Date(b.publishedAt || b.updatedAt || b.date || 0).getTime() || 0;
+
+    if (sortBy === 'oldest') {
+      return timeA - timeB || String(a.title || '').localeCompare(String(b.title || ''));
+    }
+
+    if (sortBy === 'title-asc') {
+      return String(a.title || '').localeCompare(String(b.title || '')) || (timeB - timeA);
+    }
+
+    if (sortBy === 'title-desc') {
+      return String(b.title || '').localeCompare(String(a.title || '')) || (timeB - timeA);
+    }
+
+    // latest (default)
+    return timeB - timeA || String(a.title || '').localeCompare(String(b.title || ''));
+  });
+
+  return list;
 }
 
 function isRewrittenOutputValid(rewritten = {}, original = {}) {
@@ -951,10 +1010,16 @@ exports.handler = async (event) => {
     runtimeHideSlugs.forEach((slug) => runtimeHiddenSlugs.add(slug));
   }
 
-  const limitRaw = Number.parseInt(event.queryStringParameters?.limit || '16', 10);
-  const limit = Number.isFinite(limitRaw) ? Math.max(1, Math.min(limitRaw, 30)) : 16;
+  const pageRaw = Number.parseInt(event.queryStringParameters?.page || '1', 10);
+  const page = Number.isFinite(pageRaw) ? Math.max(1, pageRaw) : 1;
+  const limitRaw = Number.parseInt(event.queryStringParameters?.limit || event.queryStringParameters?.pageSize || '12', 10);
+  const limit = Number.isFinite(limitRaw) ? Math.max(1, Math.min(limitRaw, 60)) : 12;
   const onlyNew = event.queryStringParameters?.onlyNew === '1';
   const slugQuery = normalizeSpaces(event.queryStringParameters?.slug || '').toLowerCase();
+  const sortBy = normalizeFilterValue(event.queryStringParameters?.sort || 'latest') || 'latest';
+  const searchQuery = normalizeSpaces(event.queryStringParameters?.search || '');
+  const categoryQuery = normalizeSpaces(event.queryStringParameters?.category || 'all');
+  const sourceQuery = normalizeSpaces(event.queryStringParameters?.source || 'all');
   const seenLinksRaw = event.queryStringParameters?.seen || '';
   const seenLinks = new Set(
     seenLinksRaw
@@ -1053,7 +1118,7 @@ exports.handler = async (event) => {
     const allRewrittenItems = safeItems
       .map((item) => cacheGet(item.link))
       .filter(Boolean)
-      .filter((item) => item.rewriteMode && item.image)
+      .filter((item) => item.rewriteMode)
       .filter((item) => !hiddenFromAdmin.has(normalizeSpaces(item.slug || '').toLowerCase()))
       .filter((item) => !runtimeHiddenSlugs.has(normalizeSpaces(item.slug || '').toLowerCase()));
 
@@ -1062,8 +1127,24 @@ exports.handler = async (event) => {
       : [];
 
     const mergedItems = mergeNewsItems(manualPosts, allRewrittenItems);
+    const availableCategories = Array.from(
+      new Set(mergedItems.map((item) => normalizeSpaces(item.category || 'General')).filter(Boolean))
+    ).sort((a, b) => a.localeCompare(b));
+    const availableSources = Array.from(
+      new Set(mergedItems.map((item) => normalizeSpaces(item.source || 'Unknown source')).filter(Boolean))
+    ).sort((a, b) => a.localeCompare(b));
 
-    const rewrittenItems = mergedItems.slice(0, limit);
+    const filteredItems = applyNewsFilters(mergedItems, {
+      search: searchQuery,
+      category: categoryQuery,
+      source: sourceQuery
+    });
+    const sortedItems = sortNewsItems(filteredItems, sortBy);
+    const totalItems = sortedItems.length;
+    const totalPages = Math.max(1, Math.ceil(totalItems / limit));
+    const currentPage = Math.min(page, totalPages);
+    const startIndex = (currentPage - 1) * limit;
+    const pagedItems = sortedItems.slice(startIndex, startIndex + limit);
 
     if (slugQuery) {
       const matchedArticle = mergedItems.find((item) => String(item.slug || '').toLowerCase() === slugQuery);
@@ -1101,13 +1182,31 @@ exports.handler = async (event) => {
     }
 
     const latestItems = onlyNew
-      ? rewrittenItems.filter((item) => !seenLinks.has(item.link))
-      : rewrittenItems;
+      ? pagedItems.filter((item) => !seenLinks.has(item.link))
+      : pagedItems;
 
     return jsonResponse(200, {
       feedUrl: RSS_FEED_URL,
       generatedAt: new Date().toISOString(),
       items: latestItems,
+      pagination: {
+        page: currentPage,
+        pageSize: limit,
+        totalItems,
+        totalPages,
+        hasPrevPage: currentPage > 1,
+        hasNextPage: currentPage < totalPages
+      },
+      filters: {
+        search: searchQuery,
+        category: categoryQuery || 'all',
+        source: sourceQuery || 'all',
+        sort: sortBy
+      },
+      facets: {
+        categories: availableCategories,
+        sources: availableSources
+      },
       stats: {
         fetched: fetched.length,
         deduped: deduped.length,
@@ -1119,6 +1218,10 @@ exports.handler = async (event) => {
         manualPosts: manualPosts.length,
         cacheSize: rewriteCache.size,
         returned: latestItems.length,
+        totalItems,
+        totalPages,
+        page: currentPage,
+        pageSize: limit,
         hiddenRuntimeLinks: runtimeHiddenLinks.size,
         hiddenRuntimeSlugs: runtimeHiddenSlugs.size,
         strictOneTimeFlow: true

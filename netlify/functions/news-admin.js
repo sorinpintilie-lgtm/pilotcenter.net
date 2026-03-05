@@ -102,7 +102,23 @@ function sanitizePublicState(state = {}) {
   return {
     hiddenSlugs: Array.isArray(state.hiddenSlugs) ? state.hiddenSlugs : [],
     manualPosts: Array.isArray(state.manualPosts) ? state.manualPosts : [],
+    adminLogs: Array.isArray(state.adminLogs) ? state.adminLogs.slice(-200).reverse() : [],
     updatedAt: state.updatedAt || null
+  };
+}
+
+function pushAdminLog(state = {}, event, message, meta = {}) {
+  const logs = Array.isArray(state.adminLogs) ? state.adminLogs.slice() : [];
+  logs.push({
+    at: new Date().toISOString(),
+    event: normalizeSpaces(event || 'unknown') || 'unknown',
+    message: normalizeSpaces(message || 'No details provided') || 'No details provided',
+    meta: meta && typeof meta === 'object' ? meta : {}
+  });
+
+  return {
+    ...state,
+    adminLogs: logs.slice(-240)
   };
 }
 
@@ -154,8 +170,12 @@ exports.handler = async (event) => {
       if (postAction === 'create-manual') {
         const post = normalizeManualPost(body.post || {});
         const withoutSameSlug = state.manualPosts.filter((item) => item.slug !== post.slug);
+        const nextWithLog = pushAdminLog(state, 'manual-create', `Manual post published: ${post.slug}`, {
+          slug: post.slug,
+          title: post.title
+        });
         const nextState = await writeAdminState({
-          ...state,
+          ...nextWithLog,
           manualPosts: [post, ...withoutSameSlug]
         });
         await savePersistedRewrite(post);
@@ -188,14 +208,23 @@ exports.handler = async (event) => {
 
         if (updated.rewriteMode === 'manual') {
           const manualPosts = (state.manualPosts || []).filter((item) => item.slug !== incomingSlug);
+          const nextWithLog = pushAdminLog(state, 'manual-update', `Manual post updated: ${incomingSlug}`, {
+            slug: incomingSlug
+          });
           const nextState = await writeAdminState({
-            ...state,
+            ...nextWithLog,
             manualPosts: [updated, ...manualPosts]
           });
           return jsonResponse(200, { ok: true, state: sanitizePublicState(nextState), updated });
         }
 
-        return jsonResponse(200, { ok: true, state: sanitizePublicState(state), updated });
+        const stateWithLog = await writeAdminState(
+          pushAdminLog(state, 'rewrite-update', `Rewritten post updated: ${incomingSlug}`, {
+            slug: incomingSlug
+          })
+        );
+
+        return jsonResponse(200, { ok: true, state: sanitizePublicState(stateWithLog), updated });
       }
 
       if (postAction === 'hide-slug') {
@@ -203,8 +232,9 @@ exports.handler = async (event) => {
         if (!slug) return jsonResponse(400, { error: 'Missing slug' });
         const hiddenSet = new Set(state.hiddenSlugs || []);
         hiddenSet.add(slug);
+        const nextWithLog = pushAdminLog(state, 'slug-hide', `Slug hidden: ${slug}`, { slug });
         const nextState = await writeAdminState({
-          ...state,
+          ...nextWithLog,
           hiddenSlugs: Array.from(hiddenSet)
         });
         return jsonResponse(200, { ok: true, state: sanitizePublicState(nextState) });
@@ -213,17 +243,27 @@ exports.handler = async (event) => {
       if (postAction === 'unhide-slug') {
         const slug = normalizeSpaces(body.slug || '').toLowerCase();
         if (!slug) return jsonResponse(400, { error: 'Missing slug' });
+        const nextWithLog = pushAdminLog(state, 'slug-unhide', `Slug restored: ${slug}`, { slug });
         const nextState = await writeAdminState({
-          ...state,
+          ...nextWithLog,
           hiddenSlugs: (state.hiddenSlugs || []).filter((item) => item !== slug)
         });
         return jsonResponse(200, { ok: true, state: sanitizePublicState(nextState) });
       }
 
       if (postAction === 'reset-hidden') {
+        const nextWithLog = pushAdminLog(state, 'hidden-reset', 'Hidden slug list reset', {});
+        const nextState = await writeAdminState({
+          ...nextWithLog,
+          hiddenSlugs: []
+        });
+        return jsonResponse(200, { ok: true, state: sanitizePublicState(nextState) });
+      }
+
+      if (postAction === 'clear-admin-logs') {
         const nextState = await writeAdminState({
           ...state,
-          hiddenSlugs: []
+          adminLogs: []
         });
         return jsonResponse(200, { ok: true, state: sanitizePublicState(nextState) });
       }
@@ -238,8 +278,10 @@ exports.handler = async (event) => {
 
       await deletePersistedRewriteBySlug(slug);
 
+      const nextWithLog = pushAdminLog(state, 'post-delete', `Post deleted: ${slug}`, { slug });
+
       const nextState = await writeAdminState({
-        ...state,
+        ...nextWithLog,
         manualPosts: (state.manualPosts || []).filter((item) => item.slug !== slug)
       });
 

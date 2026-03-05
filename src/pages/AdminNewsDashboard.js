@@ -1,5 +1,7 @@
-import React, { useState } from 'react';
+import React, { useMemo, useState } from 'react';
 import './AdminNewsDashboard.css';
+
+const POSTS_PAGE_SIZE = 14;
 
 async function adminRequest({ password, method = 'GET', body = null, action = '' }) {
   const query = action ? `?action=${encodeURIComponent(action)}` : '';
@@ -33,10 +35,14 @@ function emptyPostForm() {
   };
 }
 
+function toTimestamp(post) {
+  return new Date(post?.publishedAt || post?.updatedAt || post?.date || 0).getTime() || 0;
+}
+
 export default function AdminNewsDashboard() {
   const [password, setPassword] = useState('');
   const [authed, setAuthed] = useState(false);
-  const [state, setState] = useState({ hiddenSlugs: [], manualPosts: [], updatedAt: null });
+  const [state, setState] = useState({ hiddenSlugs: [], manualPosts: [], adminLogs: [], updatedAt: null });
   const [postForm, setPostForm] = useState(emptyPostForm());
   const [hideSlug, setHideSlug] = useState('');
   const [status, setStatus] = useState('Login required.');
@@ -45,9 +51,16 @@ export default function AdminNewsDashboard() {
   const [telemetry, setTelemetry] = useState({ counters: {}, logs: [] });
   const [editor, setEditor] = useState(null);
 
+  const [postSearch, setPostSearch] = useState('');
+  const [postType, setPostType] = useState('all');
+  const [postSort, setPostSort] = useState('newest');
+  const [postPage, setPostPage] = useState(1);
+
+  const [logType, setLogType] = useState('all');
+
   const loadState = async (pass) => {
     const payload = await adminRequest({ password: pass, method: 'GET', action: 'dashboard' });
-    setState(payload.state || { hiddenSlugs: [], manualPosts: [], updatedAt: null });
+    setState(payload.state || { hiddenSlugs: [], manualPosts: [], adminLogs: [], updatedAt: null });
     setRewrites(Array.isArray(payload.rewrites) ? payload.rewrites : []);
     setTelemetry(payload.telemetry || { counters: {}, logs: [] });
   };
@@ -81,7 +94,9 @@ export default function AdminNewsDashboard() {
       });
       setState(payload.state || state);
       setPostForm(emptyPostForm());
+      setPostPage(1);
       setStatus('Manual post published.');
+      await loadState(password);
     } catch (error) {
       setStatus(error.message || 'Failed to create manual post.');
     } finally {
@@ -132,7 +147,7 @@ export default function AdminNewsDashboard() {
     }
   };
 
-  const deleteManualPost = async (slug) => {
+  const deletePost = async (slug) => {
     setBusy(true);
     try {
       const payload = await adminRequest({
@@ -141,9 +156,10 @@ export default function AdminNewsDashboard() {
         body: { slug }
       });
       setState(payload.state || state);
-      setStatus(`Manual post deleted: ${slug}`);
+      setStatus(`Post deleted: ${slug}`);
+      await loadState(password);
     } catch (error) {
-      setStatus(error.message || 'Failed to delete manual post.');
+      setStatus(error.message || 'Failed to delete post.');
     } finally {
       setBusy(false);
     }
@@ -202,6 +218,89 @@ export default function AdminNewsDashboard() {
     }
   };
 
+  const clearAdminLogs = async () => {
+    setBusy(true);
+    try {
+      const payload = await adminRequest({
+        password,
+        method: 'POST',
+        body: { action: 'clear-admin-logs' }
+      });
+      setState(payload.state || state);
+      setStatus('Admin activity logs cleared.');
+    } catch (error) {
+      setStatus(error.message || 'Failed to clear admin logs.');
+    } finally {
+      setBusy(false);
+    }
+  };
+
+  const allPosts = useMemo(() => {
+    const map = new Map();
+    const manualSlugs = new Set((state.manualPosts || []).map((item) => item.slug));
+
+    (rewrites || []).forEach((item) => {
+      if (!item?.slug) return;
+      map.set(item.slug, {
+        ...item,
+        postType: manualSlugs.has(item.slug) || item.rewriteMode === 'manual' ? 'manual' : 'rewrite'
+      });
+    });
+
+    (state.manualPosts || []).forEach((item) => {
+      if (!item?.slug) return;
+      map.set(item.slug, {
+        ...item,
+        postType: 'manual'
+      });
+    });
+
+    return Array.from(map.values());
+  }, [rewrites, state.manualPosts]);
+
+  const filteredPosts = useMemo(() => {
+    const q = postSearch.trim().toLowerCase();
+    let list = allPosts.filter((post) => {
+      if (postType !== 'all' && post.postType !== postType) return false;
+      if (!q) return true;
+
+      const haystack = [
+        post.title,
+        post.slug,
+        post.category,
+        post.source,
+        post.summary,
+        post.excerpt,
+        post.body
+      ]
+        .filter(Boolean)
+        .join(' ')
+        .toLowerCase();
+
+      return haystack.includes(q);
+    });
+
+    list = list.slice();
+    list.sort((a, b) => {
+      if (postSort === 'title-asc') return String(a.title || '').localeCompare(String(b.title || ''));
+      if (postSort === 'title-desc') return String(b.title || '').localeCompare(String(a.title || ''));
+      if (postSort === 'oldest') return toTimestamp(a) - toTimestamp(b);
+      return toTimestamp(b) - toTimestamp(a);
+    });
+
+    return list;
+  }, [allPosts, postSearch, postType, postSort]);
+
+  const postTotalPages = Math.max(1, Math.ceil(filteredPosts.length / POSTS_PAGE_SIZE));
+  const postCurrentPage = Math.min(postPage, postTotalPages);
+  const visiblePosts = filteredPosts.slice((postCurrentPage - 1) * POSTS_PAGE_SIZE, postCurrentPage * POSTS_PAGE_SIZE);
+
+  const adminLogs = useMemo(() => {
+    const logs = Array.isArray(state.adminLogs) ? state.adminLogs : [];
+    if (logType === 'all') return logs;
+    return logs.filter((item) => String(item.event || '').toLowerCase().includes(logType));
+  }, [state.adminLogs, logType]);
+
   return (
     <div className="admin-news-page">
       <div className="admin-news-wrapper">
@@ -239,12 +338,16 @@ export default function AdminNewsDashboard() {
             </section>
 
             <section className="admin-card">
-              <h2>Hide article slug</h2>
+              <h2>Moderation</h2>
               <div className="admin-inline">
                 <input value={hideSlug} onChange={(e) => setHideSlug(e.target.value)} placeholder="article-slug" />
                 <button type="button" onClick={() => hideArticle()} disabled={busy}>Hide</button>
               </div>
-              <button type="button" className="admin-reset" onClick={resetHidden} disabled={busy}>Reset hidden list</button>
+
+              <div className="admin-stack-buttons">
+                <button type="button" className="admin-reset" onClick={resetHidden} disabled={busy}>Reset hidden list</button>
+                <button type="button" className="admin-reset" onClick={() => loadState(password)} disabled={busy}>Refresh dashboard data</button>
+              </div>
 
               <h3>Hidden slugs</h3>
               <ul className="admin-list">
@@ -258,24 +361,85 @@ export default function AdminNewsDashboard() {
             </section>
 
             <section className="admin-card admin-card-wide">
-              <h2>All rewritten posts</h2>
+              <h2>Posts</h2>
               <p className="admin-muted">Updated: {state.updatedAt || 'n/a'}</p>
-              <ul className="admin-list">
-                {rewrites.map((post) => (
+
+              <div className="admin-toolbar">
+                <input
+                  value={postSearch}
+                  onChange={(e) => {
+                    setPostSearch(e.target.value);
+                    setPostPage(1);
+                  }}
+                  placeholder="Search by title, slug, source, category..."
+                />
+                <select
+                  value={postType}
+                  onChange={(e) => {
+                    setPostType(e.target.value);
+                    setPostPage(1);
+                  }}
+                >
+                  <option value="all">All types</option>
+                  <option value="manual">Manual posts</option>
+                  <option value="rewrite">Auto rewritten posts</option>
+                </select>
+                <select
+                  value={postSort}
+                  onChange={(e) => {
+                    setPostSort(e.target.value);
+                    setPostPage(1);
+                  }}
+                >
+                  <option value="newest">Newest first</option>
+                  <option value="oldest">Oldest first</option>
+                  <option value="title-asc">Title A → Z</option>
+                  <option value="title-desc">Title Z → A</option>
+                </select>
+              </div>
+
+              <div className="admin-post-summary">
+                Showing {visiblePosts.length} of {filteredPosts.length} matching posts ({allPosts.length} total)
+              </div>
+
+              <ul className="admin-list admin-post-list">
+                {visiblePosts.map((post) => (
                   <li key={post.slug}>
-                    <div>
+                    <div className="admin-post-meta">
                       <strong>{post.title}</strong>
-                      <p>{post.slug}</p>
-                      <p>Mode: {post.rewriteMode || 'unknown'}</p>
+                      <p><code>{post.slug}</code></p>
+                      <p>
+                        Type: <strong>{post.postType}</strong> · Mode: {post.rewriteMode || 'unknown'} · Category: {post.category || 'General'}
+                      </p>
+                      <p>Source: {post.source || 'Unknown'} · Date: {post.date || 'n/a'}</p>
+                      <a href={post.articlePath || `/news-and-resources/${post.slug}`} target="_blank" rel="noreferrer">Open article</a>
                     </div>
                     <div className="admin-actions">
                       <button type="button" onClick={() => openEditor(post)} disabled={busy}>Edit</button>
                       <button type="button" onClick={() => hideArticle(post.slug)} disabled={busy}>Hide</button>
-                      <button type="button" onClick={() => deleteManualPost(post.slug)} disabled={busy}>Delete</button>
+                      <button type="button" onClick={() => deletePost(post.slug)} disabled={busy}>Delete</button>
                     </div>
                   </li>
                 ))}
               </ul>
+
+              <div className="admin-pagination">
+                <button
+                  type="button"
+                  onClick={() => setPostPage((current) => Math.max(1, current - 1))}
+                  disabled={busy || postCurrentPage <= 1}
+                >
+                  Prev
+                </button>
+                <span>Page {postCurrentPage} / {postTotalPages}</span>
+                <button
+                  type="button"
+                  onClick={() => setPostPage((current) => Math.min(postTotalPages, current + 1))}
+                  disabled={busy || postCurrentPage >= postTotalPages}
+                >
+                  Next
+                </button>
+              </div>
             </section>
 
             <section className="admin-card admin-card-wide">
@@ -289,13 +453,40 @@ export default function AdminNewsDashboard() {
                 ))}
               </div>
 
-              <h3>Recent logs</h3>
+              <h3>Pipeline logs</h3>
               <ul className="admin-log-list">
                 {(telemetry.logs || []).map((item, index) => (
                   <li key={`${item.at || 'time'}-${index}`}>
                     <code>{item.at}</code>
                     <span>{item.event}</span>
                     <small>{JSON.stringify(item)}</small>
+                  </li>
+                ))}
+              </ul>
+            </section>
+
+            <section className="admin-card admin-card-wide">
+              <div className="admin-card-head-row">
+                <h2>Admin activity logs</h2>
+                <button type="button" className="admin-reset" onClick={clearAdminLogs} disabled={busy}>Clear logs</button>
+              </div>
+
+              <div className="admin-toolbar admin-toolbar-compact">
+                <select value={logType} onChange={(e) => setLogType(e.target.value)}>
+                  <option value="all">All events</option>
+                  <option value="manual">Manual post events</option>
+                  <option value="slug">Slug moderation events</option>
+                  <option value="delete">Delete events</option>
+                </select>
+              </div>
+
+              <ul className="admin-log-list">
+                {adminLogs.map((item, index) => (
+                  <li key={`${item.at || 'time'}-${index}`}>
+                    <code>{item.at}</code>
+                    <span>{item.event}</span>
+                    <small>{item.message}</small>
+                    {item.meta ? <small>{JSON.stringify(item.meta)}</small> : null}
                   </li>
                 ))}
               </ul>

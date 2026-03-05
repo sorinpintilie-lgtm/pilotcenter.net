@@ -3,6 +3,7 @@ const crypto = require('crypto');
 const DEFAULT_STATE = {
   hiddenSlugs: [],
   manualPosts: [],
+  adminLogs: [],
   updatedAt: null
 };
 
@@ -75,6 +76,17 @@ function normalizeManualPost(post = {}) {
 }
 
 function normalizeState(input = {}) {
+  const adminLogs = Array.isArray(input.adminLogs)
+    ? input.adminLogs
+      .map((item) => ({
+        at: normalizeSpaces(item?.at || '') || new Date().toISOString(),
+        event: normalizeSpaces(item?.event || 'unknown') || 'unknown',
+        message: normalizeSpaces(item?.message || '') || 'No details provided',
+        meta: item?.meta && typeof item.meta === 'object' ? item.meta : {}
+      }))
+      .slice(-240)
+    : [];
+
   return {
     hiddenSlugs: Array.isArray(input.hiddenSlugs)
       ? input.hiddenSlugs.map((item) => normalizeSpaces(item).toLowerCase()).filter(Boolean)
@@ -82,6 +94,7 @@ function normalizeState(input = {}) {
     manualPosts: Array.isArray(input.manualPosts)
       ? input.manualPosts.map((item) => normalizeManualPost(item))
       : [],
+    adminLogs,
     updatedAt: normalizeSpaces(input.updatedAt || '') || null
   };
 }
