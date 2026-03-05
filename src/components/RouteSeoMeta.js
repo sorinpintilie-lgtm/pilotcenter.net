@@ -93,6 +93,12 @@ function getMetaForPath(pathname) {
       description:
         'Browse and compare flight schools worldwide, filter by location and profile, and find pilot training options that match your goals.'
     },
+    '/schools': {
+      title: 'Flight Schools Directory | Compare Pilot Training Options',
+      description:
+        'Browse and compare flight schools worldwide, filter by location and profile, and find pilot training options that match your goals.',
+      canonical: '/flightschools'
+    },
     '/latest-pilot-jobs': {
       title: 'Pilot Jobs & Career Resources | Aviation Career Support',
       description:
@@ -136,7 +142,7 @@ function getMetaForPath(pathname) {
     return {
       ...exact,
       robots: exact.robots || 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1',
-      canonical: buildCanonical(pathname)
+      canonical: buildCanonical(exact.canonical || pathname)
     };
   }
 
@@ -149,6 +155,19 @@ function getMetaForPath(pathname) {
         `View details for ${schoolName} flight school, compare training information, and explore options for your pilot pathway.`,
       robots: 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1',
       canonical: buildCanonical(pathname),
+      type: 'article'
+    };
+  }
+
+  if (pathname.startsWith('/schools/')) {
+    const slug = pathname.replace('/schools/', '').trim();
+    const schoolName = slugToTitle(slug);
+    return {
+      title: `${schoolName} Flight School Profile | PilotCenter.net`,
+      description:
+        `View details for ${schoolName} flight school, compare training information, and explore options for your pilot pathway.`,
+      robots: 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1',
+      canonical: buildCanonical(`/flightschools/${slug}`),
       type: 'article'
     };
   }

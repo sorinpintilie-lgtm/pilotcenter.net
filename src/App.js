@@ -47,6 +47,8 @@ function App() {
               <Route path="/cost-breakdown" element={<Costs />} />
               <Route path="/flightschools" element={<FlightSchools />} />
               <Route path="/flightschools/:slug" element={<FlightSchoolDetail />} />
+              <Route path="/schools" element={<FlightSchools />} />
+              <Route path="/schools/:slug" element={<FlightSchoolDetail />} />
               <Route path="/latest-pilot-jobs" element={<PilotJobs />} />
               <Route path="/news-and-resources" element={<News />} />
               <Route path="/news-and-resources/:slug" element={<NewsArticle />} />
