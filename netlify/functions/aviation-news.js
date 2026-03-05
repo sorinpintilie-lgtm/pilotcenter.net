@@ -7,6 +7,8 @@ const runtimeHiddenSlugs = new Set();
 
 const MAX_BODY_CHARS = 1800;
 const FULL_BODY_MIN_CHARS = 2500;
+const TELEMETRY_KEY = 'telemetry:global';
+const TELEMETRY_MAX_LOGS = 220;
 
 const NEGATIVE_KEYWORDS = [
   'war', 'wars', 'conflict', 'military strike', 'airstrike', 'attack', 'combat',
@@ -227,6 +229,94 @@ async function getRewriteBlobStore() {
   return rewriteBlobStorePromise;
 }
 
+async function readTelemetry() {
+  const defaults = {
+    counters: {
+      totalRequests: 0,
+      listRequests: 0,
+      slugRequests: 0,
+      rewriteCalls: 0,
+      openaiRewriteCalls: 0,
+      localRewriteCalls: 0,
+      blobCacheHits: 0,
+      memoryCacheHits: 0,
+      persistedWrites: 0,
+      slugFullBodyRewrites: 0,
+      errors: 0
+    },
+    logs: []
+  };
+
+  const store = await getRewriteBlobStore();
+  if (!store) return defaults;
+
+  try {
+    const telemetry = await store.get(TELEMETRY_KEY, { type: 'json' });
+    if (!telemetry || typeof telemetry !== 'object') return defaults;
+    return {
+      counters: {
+        ...defaults.counters,
+        ...(telemetry.counters || {})
+      },
+      logs: Array.isArray(telemetry.logs) ? telemetry.logs.slice(-TELEMETRY_MAX_LOGS) : []
+    };
+  } catch {
+    return defaults;
+  }
+}
+
+async function recordTelemetry(eventName, details = {}) {
+  const store = await getRewriteBlobStore();
+  if (!store) return;
+
+  try {
+    const telemetry = await readTelemetry();
+    const counters = { ...(telemetry.counters || {}) };
+
+    counters.totalRequests = Number(counters.totalRequests || 0);
+    counters.listRequests = Number(counters.listRequests || 0);
+    counters.slugRequests = Number(counters.slugRequests || 0);
+    counters.rewriteCalls = Number(counters.rewriteCalls || 0);
+    counters.openaiRewriteCalls = Number(counters.openaiRewriteCalls || 0);
+    counters.localRewriteCalls = Number(counters.localRewriteCalls || 0);
+    counters.blobCacheHits = Number(counters.blobCacheHits || 0);
+    counters.memoryCacheHits = Number(counters.memoryCacheHits || 0);
+    counters.persistedWrites = Number(counters.persistedWrites || 0);
+    counters.slugFullBodyRewrites = Number(counters.slugFullBodyRewrites || 0);
+    counters.errors = Number(counters.errors || 0);
+
+    if (eventName === 'request:list') counters.listRequests += 1;
+    if (eventName === 'request:slug') counters.slugRequests += 1;
+    if (eventName === 'rewrite:openai') {
+      counters.rewriteCalls += 1;
+      counters.openaiRewriteCalls += 1;
+    }
+    if (eventName === 'rewrite:local') {
+      counters.rewriteCalls += 1;
+      counters.localRewriteCalls += 1;
+    }
+    if (eventName === 'cache:blob:hit') counters.blobCacheHits += 1;
+    if (eventName === 'cache:memory:hit') counters.memoryCacheHits += 1;
+    if (eventName === 'cache:persist:write') counters.persistedWrites += 1;
+    if (eventName === 'rewrite:slug-full-body') counters.slugFullBodyRewrites += 1;
+    if (eventName === 'error') counters.errors += 1;
+
+    const logs = Array.isArray(telemetry.logs) ? telemetry.logs : [];
+    logs.push({
+      at: new Date().toISOString(),
+      event: eventName,
+      ...details
+    });
+
+    await store.set(TELEMETRY_KEY, {
+      counters,
+      logs: logs.slice(-TELEMETRY_MAX_LOGS)
+    }, { type: 'json' });
+  } catch {
+    // ignore telemetry failures
+  }
+}
+
 async function preloadPersistentCache(items = [], maxReads = 12) {
   const store = await getRewriteBlobStore();
   if (!store) return;
@@ -242,6 +332,10 @@ async function preloadPersistentCache(items = [], maxReads = 12) {
       const stored = await store.get(buildRewriteCacheKey(item.link), { type: 'json' });
       if (!stored || !stored.link) return;
       cacheSet(stored.link, stored);
+      await recordTelemetry('cache:blob:hit', {
+        link: stored.link,
+        slug: stored.slug || ''
+      });
     } catch {
       // ignore cache read failures
     }
@@ -264,6 +358,11 @@ async function persistArticlesToStore(articles = [], maxWrites = 12) {
         ...item,
         persistedAt: new Date().toISOString()
       }, { type: 'json' });
+      await recordTelemetry('cache:persist:write', {
+        link: item.link,
+        slug: item.slug || '',
+        rewriteMode: item.rewriteMode || ''
+      });
     } catch {
       // ignore cache write failures
     }
@@ -734,6 +833,12 @@ function cacheGet(link) {
   // refresh LRU order
   rewriteCache.delete(link);
   rewriteCache.set(link, value);
+
+  recordTelemetry('cache:memory:hit', {
+    link,
+    slug: value?.slug || ''
+  });
+
   return value;
 }
 
@@ -775,6 +880,16 @@ async function buildFullArticleIfNeeded(article = null, sourceItem = null) {
     if (rewritten[0]) {
       cacheSet(rewritten[0].link, rewritten[0]);
       await persistArticlesToStore([rewritten[0]], 1);
+      await recordTelemetry('rewrite:openai', {
+        phase: 'slug-full-body',
+        link: rewritten[0].link,
+        slug: rewritten[0].slug || '',
+        fullBodyMode: true
+      });
+      await recordTelemetry('rewrite:slug-full-body', {
+        link: rewritten[0].link,
+        slug: rewritten[0].slug || ''
+      });
       return rewritten[0];
     }
   } catch {
@@ -782,6 +897,16 @@ async function buildFullArticleIfNeeded(article = null, sourceItem = null) {
     if (localRewritten[0]) {
       cacheSet(localRewritten[0].link, localRewritten[0]);
       await persistArticlesToStore([localRewritten[0]], 1);
+      await recordTelemetry('rewrite:local', {
+        phase: 'slug-full-body',
+        link: localRewritten[0].link,
+        slug: localRewritten[0].slug || '',
+        fullBodyMode: true
+      });
+      await recordTelemetry('rewrite:slug-full-body', {
+        link: localRewritten[0].link,
+        slug: localRewritten[0].slug || ''
+      });
       return localRewritten[0];
     }
   }
@@ -839,6 +964,12 @@ exports.handler = async (event) => {
   );
 
   try {
+    await recordTelemetry(slugQuery ? 'request:slug' : 'request:list', {
+      limit,
+      onlyNew,
+      slugQuery
+    });
+
     const adminState = await readAdminState();
     const hiddenFromAdmin = new Set((adminState?.hiddenSlugs || []).map((slug) => normalizeSpaces(slug).toLowerCase()));
 
@@ -877,12 +1008,27 @@ exports.handler = async (event) => {
         if (uncachedItems.length > 12) {
           rewrittenUncached = rewriteLocally(uncachedItems);
           usedRewriteFallback = true;
+          await recordTelemetry('rewrite:local', {
+            phase: 'feed-batch',
+            count: uncachedItems.length,
+            reason: 'batch-size-limit'
+          });
         } else {
           rewrittenUncached = await rewriteWithOpenAI(uncachedItems);
+          await recordTelemetry('rewrite:openai', {
+            phase: 'feed-batch',
+            count: uncachedItems.length,
+            fullBodyMode: false
+          });
         }
       } catch {
         rewrittenUncached = rewriteLocally(uncachedItems);
         usedRewriteFallback = true;
+        await recordTelemetry('rewrite:local', {
+          phase: 'feed-batch',
+          count: uncachedItems.length,
+          reason: 'openai-error'
+        });
       }
 
       const rewrittenByLink = new Map(rewrittenUncached.map((article) => [article.link, article]));
@@ -893,6 +1039,11 @@ exports.handler = async (event) => {
         locallyRewrittenMissing.forEach((article) => rewrittenByLink.set(article.link, article));
         rewrittenUncached = Array.from(rewrittenByLink.values());
         usedRewriteFallback = true;
+        await recordTelemetry('rewrite:local', {
+          phase: 'feed-batch-missing-fill',
+          count: missingForRewrite.length,
+          reason: 'missing-output'
+        });
       }
 
       rewrittenUncached.forEach((article) => cacheSet(article.link, article));
@@ -943,7 +1094,8 @@ exports.handler = async (event) => {
           cacheSize: rewriteCache.size,
           returned: 1,
           hiddenRuntimeLinks: runtimeHiddenLinks.size,
-          hiddenRuntimeSlugs: runtimeHiddenSlugs.size
+          hiddenRuntimeSlugs: runtimeHiddenSlugs.size,
+          strictOneTimeFlow: true
         }
       });
     }
@@ -968,10 +1120,15 @@ exports.handler = async (event) => {
         cacheSize: rewriteCache.size,
         returned: latestItems.length,
         hiddenRuntimeLinks: runtimeHiddenLinks.size,
-        hiddenRuntimeSlugs: runtimeHiddenSlugs.size
+        hiddenRuntimeSlugs: runtimeHiddenSlugs.size,
+        strictOneTimeFlow: true
       }
     });
   } catch (error) {
+    await recordTelemetry('error', {
+      message: error.message
+    });
+
     return jsonResponse(500, {
       error: 'Failed to build curated aviation news feed',
       details: error.message

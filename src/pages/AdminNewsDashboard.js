@@ -41,12 +41,17 @@ export default function AdminNewsDashboard() {
   const [hideSlug, setHideSlug] = useState('');
   const [status, setStatus] = useState('Login required.');
   const [busy, setBusy] = useState(false);
+  const [rewrites, setRewrites] = useState([]);
+  const [telemetry, setTelemetry] = useState({ counters: {}, logs: [] });
+  const [editor, setEditor] = useState(null);
 
   const manualPosts = useMemo(() => Array.isArray(state.manualPosts) ? state.manualPosts : [], [state.manualPosts]);
 
   const loadState = async (pass) => {
-    const payload = await adminRequest({ password: pass, method: 'GET' });
+    const payload = await adminRequest({ password: pass, method: 'GET', action: 'dashboard' });
     setState(payload.state || { hiddenSlugs: [], manualPosts: [], updatedAt: null });
+    setRewrites(Array.isArray(payload.rewrites) ? payload.rewrites : []);
+    setTelemetry(payload.telemetry || { counters: {}, logs: [] });
   };
 
   const onLogin = async (event) => {
@@ -146,6 +151,42 @@ export default function AdminNewsDashboard() {
     }
   };
 
+  const openEditor = (post) => {
+    setEditor({
+      slug: post.slug,
+      title: post.title || '',
+      summary: post.summary || '',
+      excerpt: post.excerpt || '',
+      body: post.body || '',
+      category: post.category || 'General',
+      image: post.image || '',
+      source: post.source || 'PilotCenter.net',
+      sourceLink: post.sourceLink || ''
+    });
+  };
+
+  const saveEdit = async () => {
+    if (!editor?.slug) return;
+    setBusy(true);
+    try {
+      await adminRequest({
+        password,
+        method: 'POST',
+        body: {
+          action: 'update-post',
+          post: editor
+        }
+      });
+      await loadState(password);
+      setEditor(null);
+      setStatus(`Post updated: ${editor.slug}`);
+    } catch (error) {
+      setStatus(error.message || 'Failed to update post.');
+    } finally {
+      setBusy(false);
+    }
+  };
+
   const resetHidden = async () => {
     setBusy(true);
     try {
@@ -219,16 +260,18 @@ export default function AdminNewsDashboard() {
             </section>
 
             <section className="admin-card admin-card-wide">
-              <h2>Manual posts</h2>
+              <h2>All rewritten posts</h2>
               <p className="admin-muted">Updated: {state.updatedAt || 'n/a'}</p>
               <ul className="admin-list">
-                {manualPosts.map((post) => (
+                {rewrites.map((post) => (
                   <li key={post.slug}>
                     <div>
                       <strong>{post.title}</strong>
                       <p>{post.slug}</p>
+                      <p>Mode: {post.rewriteMode || 'unknown'}</p>
                     </div>
                     <div className="admin-actions">
+                      <button type="button" onClick={() => openEditor(post)} disabled={busy}>Edit</button>
                       <button type="button" onClick={() => hideArticle(post.slug)} disabled={busy}>Hide</button>
                       <button type="button" onClick={() => deleteManualPost(post.slug)} disabled={busy}>Delete</button>
                     </div>
@@ -236,8 +279,55 @@ export default function AdminNewsDashboard() {
                 ))}
               </ul>
             </section>
+
+            <section className="admin-card admin-card-wide">
+              <h2>Telemetry</h2>
+              <div className="admin-kv-grid">
+                {Object.entries(telemetry.counters || {}).map(([key, value]) => (
+                  <div className="admin-kv" key={key}>
+                    <span>{key}</span>
+                    <strong>{String(value)}</strong>
+                  </div>
+                ))}
+              </div>
+
+              <h3>Recent logs</h3>
+              <ul className="admin-log-list">
+                {(telemetry.logs || []).map((item, index) => (
+                  <li key={`${item.at || 'time'}-${index}`}>
+                    <code>{item.at}</code>
+                    <span>{item.event}</span>
+                    <small>{JSON.stringify(item)}</small>
+                  </li>
+                ))}
+              </ul>
+            </section>
           </div>
         )}
+
+        {editor ? (
+          <div className="admin-editor-overlay">
+            <div className="admin-editor-card">
+              <h2>Edit post</h2>
+              <p className="admin-muted">{editor.slug}</p>
+              <div className="admin-form">
+                <input value={editor.title} onChange={(e) => setEditor({ ...editor, title: e.target.value })} placeholder="Title" />
+                <input value={editor.summary} onChange={(e) => setEditor({ ...editor, summary: e.target.value })} placeholder="Summary" />
+                <textarea value={editor.excerpt} onChange={(e) => setEditor({ ...editor, excerpt: e.target.value })} rows={3} placeholder="Excerpt" />
+                <textarea value={editor.body} onChange={(e) => setEditor({ ...editor, body: e.target.value })} rows={8} placeholder="Body" />
+                <input value={editor.category} onChange={(e) => setEditor({ ...editor, category: e.target.value })} placeholder="Category" />
+                <input value={editor.image} onChange={(e) => setEditor({ ...editor, image: e.target.value })} placeholder="Image URL" />
+                <input value={editor.source} onChange={(e) => setEditor({ ...editor, source: e.target.value })} placeholder="Source" />
+                <input value={editor.sourceLink} onChange={(e) => setEditor({ ...editor, sourceLink: e.target.value })} placeholder="Source URL" />
+              </div>
+
+              <div className="admin-actions">
+                <button type="button" onClick={saveEdit} disabled={busy}>Save changes</button>
+                <button type="button" onClick={() => setEditor(null)} disabled={busy}>Cancel</button>
+              </div>
+            </div>
+          </div>
+        ) : null}
       </div>
     </div>
   );
