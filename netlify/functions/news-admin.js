@@ -29,11 +29,32 @@ async function readTelemetryForAdmin() {
   }
 }
 
-async function listPersistedRewrites(limit = 220) {
+async function listPersistedRewrites(limit = 1200) {
   try {
     const store = await withRewriteStore();
-    const listed = await store.list({ prefix: 'rewrite:', limit });
-    const keys = Array.isArray(listed?.blobs) ? listed.blobs.map((item) => item.key) : [];
+    const keys = [];
+    let cursor = undefined;
+    let hasMore = true;
+
+    while (hasMore && keys.length < limit) {
+      // eslint-disable-next-line no-await-in-loop
+      const listed = await store.list({
+        prefix: 'rewrite:',
+        limit: Math.min(200, Math.max(limit - keys.length, 1)),
+        cursor
+      });
+
+      const pageKeys = Array.isArray(listed?.blobs)
+        ? listed.blobs.map((item) => item.key).filter(Boolean)
+        : [];
+
+      keys.push(...pageKeys);
+
+      const nextCursor = listed?.cursor || listed?.next_cursor || listed?.pagination?.cursor;
+      const pageHasMore = Boolean(listed?.hasMore || listed?.has_more || nextCursor);
+      hasMore = pageHasMore && Boolean(nextCursor);
+      cursor = nextCursor;
+    }
 
     const items = [];
     for (const key of keys) {
@@ -148,7 +169,7 @@ exports.handler = async (event) => {
 
       if (action === 'dashboard') {
         const telemetry = await readTelemetryForAdmin();
-        const rewrites = await listPersistedRewrites(260);
+        const rewrites = await listPersistedRewrites(1600);
 
         return jsonResponse(200, {
           ok: true,
