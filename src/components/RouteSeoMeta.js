@@ -186,13 +186,48 @@ function getMetaForPath(pathname) {
   if (pathname.startsWith('/news-and-resources/')) {
     const articleSlug = pathname.replace('/news-and-resources/', '').trim();
     const articleTitle = slugToTitle(articleSlug.replace(/-[a-z0-9]{4,8}$/i, ''));
+    const keywordSet = [
+      'aviation news',
+      'pilot training updates',
+      'airline industry trends',
+      `${articleTitle.toLowerCase()} aviation`,
+      `${articleTitle.toLowerCase()} pilot news`
+    ].join(', ');
+
+    const articleSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'NewsArticle',
+      headline: `${articleTitle} | PilotCenter.net News`,
+      description: `Read this aviation update from PilotCenter.net with clear context and key takeaways for pilots and aviation professionals.`,
+      datePublished: new Date().toISOString(),
+      dateModified: new Date().toISOString(),
+      author: {
+        '@type': 'Organization',
+        name: SITE_NAME
+      },
+      publisher: {
+        '@type': 'Organization',
+        name: SITE_NAME,
+        logo: {
+          '@type': 'ImageObject',
+          url: `${SITE_URL}/images/fulllogo_transparent.avif`
+        }
+      },
+      mainEntityOfPage: buildCanonical(pathname),
+      image: [`${SITE_URL}/images/fulllogo_transparent.avif`],
+      articleSection: 'Aviation News',
+      keywords: keywordSet
+    };
+
     return {
       title: `${articleTitle} | PilotCenter.net News`,
       description:
         `Read this aviation update from PilotCenter.net with clear context and key takeaways for pilots and aviation professionals.`,
       robots: 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1',
       canonical: buildCanonical(pathname),
-      type: 'article'
+      type: 'article',
+      keywords: keywordSet,
+      schema: articleSchema
     };
   }
 
@@ -237,6 +272,7 @@ export default function RouteSeoMeta() {
       <html lang="en" />
       <title>{meta.title}</title>
       <meta name="description" content={meta.description} />
+      {meta.keywords ? <meta name="keywords" content={meta.keywords} /> : null}
       <meta name="robots" content={meta.robots || 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1'} />
 
       <link rel="canonical" href={meta.canonical} />
@@ -255,6 +291,7 @@ export default function RouteSeoMeta() {
 
       <script type="application/ld+json">{JSON.stringify(organizationSchema)}</script>
       <script type="application/ld+json">{JSON.stringify(websiteSchema)}</script>
+      {meta.schema ? <script type="application/ld+json">{JSON.stringify(meta.schema)}</script> : null}
     </Helmet>
   );
 }

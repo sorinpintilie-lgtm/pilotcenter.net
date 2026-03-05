@@ -4,3 +4,4 @@ Disallow: /api/
 Disallow: /.netlify/
 
 Sitemap: https://pilotcenter.net/sitemap.xml
+Sitemap: https://pilotcenter.net/news-sitemap.xml

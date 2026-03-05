@@ -1,7 +1,22 @@
 import React, { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
+import { Helmet } from 'react-helmet-async';
 import './Home.css';
 import './NewsArticle.css';
+
+const SITE_URL = 'https://pilotcenter.net';
+
+function buildArticleKeywords(article = {}) {
+  const category = String(article.category || 'aviation').toLowerCase();
+  const title = String(article.title || '').toLowerCase();
+  return [
+    'aviation news',
+    'pilot training updates',
+    'airline industry trends',
+    `${category} aviation`,
+    `${title} news`
+  ].join(', ');
+}
 
 async function fetchArticleBySlug(slug) {
   const params = new URLSearchParams({ slug });
@@ -58,6 +73,53 @@ export default function NewsArticle() {
 
   return (
     <div className="page-content">
+      {article ? (
+        <Helmet>
+          <title>{`${article.title} | PilotCenter.net News`}</title>
+          <meta name="description" content={article.summary || 'Latest aviation update and analysis from PilotCenter.net.'} />
+          <meta name="keywords" content={buildArticleKeywords(article)} />
+          <link rel="canonical" href={`${SITE_URL}${article.articlePath || `/news-and-resources/${slug}`}`} />
+
+          <meta property="og:type" content="article" />
+          <meta property="og:title" content={`${article.title} | PilotCenter.net News`} />
+          <meta property="og:description" content={article.summary || 'Latest aviation update and analysis from PilotCenter.net.'} />
+          <meta property="og:url" content={`${SITE_URL}${article.articlePath || `/news-and-resources/${slug}`}`} />
+          {article.image ? <meta property="og:image" content={article.image} /> : null}
+
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:title" content={`${article.title} | PilotCenter.net News`} />
+          <meta name="twitter:description" content={article.summary || 'Latest aviation update and analysis from PilotCenter.net.'} />
+          {article.image ? <meta name="twitter:image" content={article.image} /> : null}
+
+          <script type="application/ld+json">
+            {JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'NewsArticle',
+              headline: article.title,
+              description: article.summary || '',
+              datePublished: article.publishedAt || new Date().toISOString(),
+              dateModified: article.updatedAt || article.publishedAt || new Date().toISOString(),
+              author: {
+                '@type': 'Organization',
+                name: 'PilotCenter.net'
+              },
+              publisher: {
+                '@type': 'Organization',
+                name: 'PilotCenter.net',
+                logo: {
+                  '@type': 'ImageObject',
+                  url: `${SITE_URL}/images/fulllogo_transparent.avif`
+                }
+              },
+              mainEntityOfPage: `${SITE_URL}${article.articlePath || `/news-and-resources/${slug}`}`,
+              image: article.image ? [article.image] : [`${SITE_URL}/images/fulllogo_transparent.avif`],
+              articleSection: article.category || 'Aviation News',
+              keywords: buildArticleKeywords(article)
+            })}
+          </script>
+        </Helmet>
+      ) : null}
+
       <section className="hero news-hero news-article-hero">
         <div className="wrapper">
           <div className="hero-grid">
