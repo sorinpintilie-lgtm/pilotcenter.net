@@ -24,6 +24,21 @@ function formatStamp(value = '') {
   }).format(date);
 }
 
+function logDebug(step = '', meta = {}) {
+  try {
+    // eslint-disable-next-line no-console
+    console.log(`[PilotJobsLogs] ${step}`, meta);
+  } catch {
+    // ignore logging failures
+  }
+}
+
+function maskToken(value = '') {
+  const text = String(value || '');
+  if (text.length <= 6) return '***';
+  return `${text.slice(0, 3)}***${text.slice(-2)}`;
+}
+
 async function fetchLogsFeed(token = '', limit = 240) {
   const params = new URLSearchParams({
     action: 'logs-feed',
@@ -168,6 +183,13 @@ export default function PilotJobsLogs() {
     const startedAtMs = Date.now();
     const tokenQuery = `token=${encodeURIComponent(tokenValue)}`;
 
+    logDebug('trigger:start', {
+      token: maskToken(tokenValue),
+      options,
+      previousFingerprint,
+      startedAt: new Date(startedAtMs).toISOString()
+    });
+
     const requestInit = {
       method: 'POST',
       headers: {
@@ -189,17 +211,32 @@ export default function PilotJobsLogs() {
 
     for (const endpoint of endpoints) {
       try {
+        logDebug('trigger:request', { endpoint, method: requestInit.method });
         const response = await fetch(endpoint, requestInit);
         const text = await response.text();
+        logDebug('trigger:response', {
+          endpoint,
+          status: response.status,
+          ok: response.ok,
+          bodyPreview: String(text || '').slice(0, 280)
+        });
+
         let payload = null;
         try {
           payload = JSON.parse(text);
         } catch {
           payload = null;
+          logDebug('trigger:response-json-parse-failed', { endpoint });
         }
 
         if (response.status === 202) {
+          logDebug('trigger:background-accepted', { endpoint });
           const probe = await probeLogsProgress(tokenValue, previousFingerprint, startedAtMs, 4, 2200);
+          logDebug('trigger:probe-result', {
+            endpoint,
+            progressed: probe.progressed,
+            logsCount: Array.isArray(probe?.payload?.logs) ? probe.payload.logs.length : 0
+          });
 
           if (probe.progressed) {
             setLogs(Array.isArray(probe.payload?.logs) ? probe.payload.logs : []);
@@ -218,6 +255,12 @@ export default function PilotJobsLogs() {
           let fallbackTriggered = false;
           for (const fallbackEndpoint of directFallbackEndpoints) {
             try {
+              logDebug('trigger:fallback-request', {
+                endpoint: fallbackEndpoint,
+                method: 'POST',
+                action: 'sync'
+              });
+
               const fallbackResponse = await fetch(fallbackEndpoint, {
                 method: 'POST',
                 headers: requestInit.headers,
@@ -234,11 +277,19 @@ export default function PilotJobsLogs() {
               });
 
               const fallbackText = await fallbackResponse.text();
+              logDebug('trigger:fallback-response', {
+                endpoint: fallbackEndpoint,
+                status: fallbackResponse.status,
+                ok: fallbackResponse.ok,
+                bodyPreview: String(fallbackText || '').slice(0, 280)
+              });
+
               let fallbackPayload = null;
               try {
                 fallbackPayload = JSON.parse(fallbackText);
               } catch {
                 fallbackPayload = null;
+                logDebug('trigger:fallback-json-parse-failed', { endpoint: fallbackEndpoint });
               }
 
               if (fallbackResponse.ok && fallbackPayload?.ok) {
@@ -250,14 +301,26 @@ export default function PilotJobsLogs() {
                   setLastUpdatedAt(new Date().toISOString());
                 }
                 setTriggerStatus(`Background queue was accepted but inactive; direct sync fallback started via ${fallbackEndpoint}.`);
+                logDebug('trigger:fallback-started', {
+                  endpoint: fallbackEndpoint,
+                  refreshedLogs: Array.isArray(refreshed?.logs) ? refreshed.logs.length : 0
+                });
                 break;
               }
 
               failureDetails = fallbackPayload?.details
                 || fallbackPayload?.error
                 || `Fallback ${fallbackEndpoint} returned ${fallbackResponse.status}.`;
+              logDebug('trigger:fallback-failed', {
+                endpoint: fallbackEndpoint,
+                failureDetails
+              });
             } catch {
               failureDetails = `Fallback network failure calling ${fallbackEndpoint}.`;
+              logDebug('trigger:fallback-network-failure', {
+                endpoint: fallbackEndpoint,
+                failureDetails
+              });
             }
           }
 
@@ -274,24 +337,31 @@ export default function PilotJobsLogs() {
           failureDetails = payload?.details
             || payload?.error
             || (text ? `Endpoint ${endpoint} returned ${response.status}: ${text.slice(0, 220)}` : `Endpoint ${endpoint} returned ${response.status}.`);
+          logDebug('trigger:failed-response', { endpoint, failureDetails });
           continue;
         }
 
         if (payload && payload.ok === false) {
           failureDetails = payload.details || payload.error || `Endpoint ${endpoint} returned a failure payload.`;
+          logDebug('trigger:failed-payload', { endpoint, failureDetails });
           continue;
         }
 
         success = true;
         setTriggerStatus(`Crawl started via ${endpoint}. Watch live logs below as jobs are found and stored.`);
+        logDebug('trigger:success', { endpoint });
         break;
       } catch {
         failureDetails = `Network failure calling ${endpoint}.`;
+        logDebug('trigger:network-failure', { endpoint, failureDetails });
       }
     }
 
     if (!success) {
       setTriggerStatus(`Unable to trigger crawl. ${failureDetails || 'No valid endpoint response.'}`);
+      logDebug('trigger:final-failure', { failureDetails });
+    } else {
+      logDebug('trigger:final-success');
     }
 
     setTriggerLoading(false);
