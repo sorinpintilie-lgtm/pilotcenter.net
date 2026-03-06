@@ -9,6 +9,8 @@ const MAX_BODY_CHARS = 1800;
 const FULL_BODY_MIN_CHARS = 900;
 const TELEMETRY_KEY = 'telemetry:global';
 const TELEMETRY_MAX_LOGS = 220;
+const FEED_SNAPSHOT_KEY = 'feed:snapshot:v1';
+const FEED_SNAPSHOT_TTL_MS = Number.parseInt(process.env.NEWS_FEED_SNAPSHOT_TTL_MS || `${30 * 60 * 1000}`, 10);
 
 const NEGATIVE_KEYWORDS = [
   'war', 'wars', 'conflict', 'military strike', 'airstrike', 'attack', 'combat',
@@ -247,6 +249,56 @@ async function getRewriteBlobStore() {
   }
 
   return rewriteBlobStorePromise;
+}
+
+async function readFeedSnapshot(maxAgeMs = FEED_SNAPSHOT_TTL_MS) {
+  const store = await getRewriteBlobStore();
+  if (!store) return null;
+
+  try {
+    const snapshot = await store.get(FEED_SNAPSHOT_KEY, { type: 'json' });
+    if (!snapshot || typeof snapshot !== 'object') return null;
+
+    const generatedAt = normalizeSpaces(snapshot.generatedAt || '');
+    const generatedAtTime = new Date(generatedAt).getTime();
+    if (!Number.isFinite(generatedAtTime)) return null;
+
+    const ageMs = Date.now() - generatedAtTime;
+    if (Number.isFinite(maxAgeMs) && maxAgeMs >= 0 && ageMs > maxAgeMs) return null;
+
+    const items = Array.isArray(snapshot.items)
+      ? snapshot.items.filter((item) => item && typeof item === 'object')
+      : [];
+
+    if (!items.length) return null;
+
+    return {
+      generatedAt: new Date(generatedAtTime).toISOString(),
+      ageMs,
+      items
+    };
+  } catch {
+    return null;
+  }
+}
+
+async function writeFeedSnapshot(items = []) {
+  const store = await getRewriteBlobStore();
+  if (!store) return;
+
+  const sanitizedItems = Array.isArray(items)
+    ? items.filter((item) => item && typeof item === 'object')
+    : [];
+
+  try {
+    await store.set(FEED_SNAPSHOT_KEY, {
+      version: 1,
+      generatedAt: new Date().toISOString(),
+      items: sanitizedItems.slice(0, 1200)
+    }, { type: 'json' });
+  } catch {
+    // ignore snapshot write failures
+  }
 }
 
 async function readTelemetry() {
@@ -1117,6 +1169,7 @@ exports.handler = async (event) => {
   const limit = Number.isFinite(limitRaw) ? Math.max(1, Math.min(limitRaw, 60)) : 12;
   const onlyNew = event.queryStringParameters?.onlyNew === '1';
   const slugQuery = normalizeSpaces(event.queryStringParameters?.slug || '').toLowerCase();
+  const forceRefresh = event.queryStringParameters?.refresh === '1';
   const sortBy = normalizeFilterValue(event.queryStringParameters?.sort || 'latest') || 'latest';
   const searchQuery = normalizeSpaces(event.queryStringParameters?.search || '');
   const categoryQuery = normalizeSpaces(event.queryStringParameters?.category || 'all');
@@ -1137,6 +1190,64 @@ exports.handler = async (event) => {
 
     const adminState = await readAdminState();
     const hiddenFromAdmin = new Set((adminState?.hiddenSlugs || []).map((slug) => normalizeSpaces(slug).toLowerCase()));
+
+    if (!slugQuery && !forceRefresh) {
+      const snapshot = await readFeedSnapshot(FEED_SNAPSHOT_TTL_MS);
+      if (snapshot?.items?.length) {
+        const visibleSnapshotItems = snapshot.items
+          .filter((item) => !hiddenFromAdmin.has(normalizeSpaces(item?.slug || '').toLowerCase()))
+          .filter((item) => !runtimeHiddenSlugs.has(normalizeSpaces(item?.slug || '').toLowerCase()));
+
+        const availableCategories = FIXED_NEWS_CATEGORIES;
+        const filteredItems = applyNewsFilters(visibleSnapshotItems, {
+          search: searchQuery,
+          category: categoryQuery
+        });
+        const sortedItems = sortNewsItems(filteredItems, sortBy);
+        const totalItems = sortedItems.length;
+        const totalPages = Math.max(1, Math.ceil(totalItems / limit));
+        const currentPage = Math.min(page, totalPages);
+        const startIndex = (currentPage - 1) * limit;
+        const pagedItems = sortedItems.slice(startIndex, startIndex + limit);
+        const latestItems = onlyNew
+          ? pagedItems.filter((item) => !seenLinks.has(item.link))
+          : pagedItems;
+
+        return jsonResponse(200, {
+          feedUrl: RSS_FEED_URL,
+          generatedAt: snapshot.generatedAt,
+          items: latestItems,
+          pagination: {
+            page: currentPage,
+            pageSize: limit,
+            totalItems,
+            totalPages,
+            hasPrevPage: currentPage > 1,
+            hasNextPage: currentPage < totalPages
+          },
+          filters: {
+            search: searchQuery,
+            category: categoryQuery || 'all',
+            sort: sortBy
+          },
+          facets: {
+            categories: availableCategories
+          },
+          stats: {
+            fromSnapshot: true,
+            snapshotAgeMs: snapshot.ageMs,
+            returned: latestItems.length,
+            totalItems,
+            totalPages,
+            page: currentPage,
+            pageSize: limit,
+            hiddenRuntimeLinks: runtimeHiddenLinks.size,
+            hiddenRuntimeSlugs: runtimeHiddenSlugs.size,
+            strictOneTimeFlow: true
+          }
+        });
+      }
+    }
 
     const curation = loadCurationConfig();
     const fetched = await fetchRssItems(RSS_FEED_URL);
@@ -1284,6 +1395,8 @@ exports.handler = async (event) => {
       ? pagedItems.filter((item) => !seenLinks.has(item.link))
       : pagedItems;
 
+    await writeFeedSnapshot(mergedItems);
+
     return jsonResponse(200, {
       feedUrl: RSS_FEED_URL,
       generatedAt: new Date().toISOString(),
@@ -1319,6 +1432,7 @@ exports.handler = async (event) => {
         totalPages,
         page: currentPage,
         pageSize: limit,
+        fromSnapshot: false,
         hiddenRuntimeLinks: runtimeHiddenLinks.size,
         hiddenRuntimeSlugs: runtimeHiddenSlugs.size,
         strictOneTimeFlow: true
