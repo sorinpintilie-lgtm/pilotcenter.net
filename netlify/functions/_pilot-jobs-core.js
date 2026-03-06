@@ -103,10 +103,36 @@ function createMemoryStore() {
 async function withJobsStore() {
   if (!jobsStorePromise) {
     jobsStorePromise = (async () => {
+      const manualSiteId = normalizeSpaces(
+        process.env.NETLIFY_SITE_ID
+          || process.env.SITE_ID
+          || ''
+      );
+      const manualToken = normalizeSpaces(
+        process.env.NETLIFY_API_TOKEN
+          || process.env.NETLIFY_AUTH_TOKEN
+          || process.env.NETLIFY_BLOBS_TOKEN
+          || ''
+      );
+
+      const blobOptions = (manualSiteId && manualToken)
+        ? { siteID: manualSiteId, token: manualToken }
+        : undefined;
+
       try {
         const { getStore } = require('@netlify/blobs');
-        return getStore('pilot-jobs');
-      } catch {
+        return getStore('pilot-jobs', blobOptions);
+      } catch (error) {
+        const allowMemoryFallback = normalizeSpaces(process.env.PILOT_JOBS_ALLOW_MEMORY_FALLBACK || '') === '1';
+        if (!allowMemoryFallback) {
+          throw new Error(
+            [
+              'Netlify Blobs is not configured for pilot-jobs.',
+              'Set NETLIFY_SITE_ID and NETLIFY_API_TOKEN (or run inside a properly linked Netlify runtime).',
+              `Original error: ${error.message}`
+            ].join(' ')
+          );
+        }
         return createMemoryStore();
       }
     })();
@@ -354,7 +380,9 @@ function extractCandidatesFromJsonLd(html = '', pageUrl = '', sourceName = '') {
       postedAt: toIsoDateMaybe(item.datePosted || item.dateCreated || ''),
       sourceUrl: canonicalizeUrl(item.url || pageUrl),
       applyUrl: canonicalizeUrl(item.url || pageUrl),
-      sourceJobId: identifierValue
+      sourceJobId: identifierValue,
+      hasExplicitSourceJobId: Boolean(identifierValue),
+      extractionMethod: 'jsonld'
     };
   });
 }
@@ -379,7 +407,9 @@ function extractCandidatesFallback(html = '', pageUrl = '', sourceName = '') {
     postedAt: '',
     sourceUrl: canonicalizeUrl(pageUrl),
     applyUrl: canonicalizeUrl(pageUrl),
-    sourceJobId: ''
+    sourceJobId: '',
+    hasExplicitSourceJobId: false,
+    extractionMethod: 'fallback'
   }];
 }
 
@@ -425,6 +455,31 @@ function shouldFollowLink(url = '') {
   return /(job|jobs|career|careers|vacanc|opening|position|pilot|flight|aviation|recruit)/i.test(value);
 }
 
+function isLikelyJobDetailUrl(url = '') {
+  const value = normalizeSpaces(url).toLowerCase();
+  if (!value) return false;
+
+  return /(\/job\/|\/jobs\/[^/?#]{4,}|\/career\/[^/?#]{4,}|\/vacanc(?:y|ies)\/|gh_jid=|lever\.co\/.*\/[^/?#]{6,}|smartrecruiters\.com\/[^/?#]+\/[^/?#]+)/i.test(value);
+}
+
+function isGenericListingTitle(title = '') {
+  const value = normalizeSpaces(title).toLowerCase();
+  if (!value) return true;
+
+  return /^(search|homepage|find jobs|job search|careers at|careers|jobs|pilot jobs|become a pilot|pilots)$/.test(value)
+    || /(navigation page|search results|find jobs -|careers at )/.test(value);
+}
+
+function looksNoisySummary(summary = '') {
+  const value = normalizeSpaces(summary);
+  if (!value) return true;
+
+  const semicolonCount = (value.match(/;/g) || []).length;
+  const cssSignals = /(display\s*:|position\s*:|align-items\s*:|justify-content\s*:|wp-lightbox|background\s*:|font-size\s*:|margin\s*:|padding\s*:)/i;
+
+  return semicolonCount >= 3 || cssSignals.test(value);
+}
+
 function buildNormalizedJob(candidate = {}, source = {}, runAt = '') {
   const title = normalizeSpaces(candidate.title || 'Aviation role');
   const company = normalizeSpaces(candidate.company || source.name || 'Unknown company');
@@ -434,7 +489,10 @@ function buildNormalizedJob(candidate = {}, source = {}, runAt = '') {
   const sourceJobId = normalizeSpaces(candidate.sourceJobId || shortHash(`${sourceUrl}|${title}|${company}|${location}`));
   const jobId = `${source.id}-${sourceJobId}`.toLowerCase();
   const description = normalizeSpaces(candidate.description || '');
-  const summary = normalizeSpaces(candidate.summary || clampWords(description || `${title} at ${company}`, 42));
+  const summaryCandidate = normalizeSpaces(candidate.summary || clampWords(description || `${title} at ${company}`, 42));
+  const summary = looksNoisySummary(summaryCandidate)
+    ? `${title} opportunity at ${company}.`
+    : summaryCandidate;
   const slugBase = slugify(`${title}-${company}-${location}`).slice(0, 84);
   const slug = `${slugBase}-${shortHash(jobId).slice(0, 6)}`;
   const postedAt = toIsoDateMaybe(candidate.postedAt || '') || runAt;
@@ -459,6 +517,8 @@ function buildNormalizedJob(candidate = {}, source = {}, runAt = '') {
     applyUrl,
     summary,
     description,
+    extractionMethod: normalizeSpaces(candidate.extractionMethod || 'fallback') || 'fallback',
+    hasExplicitSourceJobId: Boolean(candidate.hasExplicitSourceJobId),
     postedAt,
     firstSeenAt,
     lastSeenAt: runAt,
@@ -483,11 +543,23 @@ function validateJob(job = {}) {
   if (job.sourceUrl && !canonicalizeUrl(job.sourceUrl)) issues.push('invalid-source-url');
   if (job.applyUrl && !canonicalizeUrl(job.applyUrl)) issues.push('invalid-apply-url');
   if (!isAviationRelevant(`${job.title} ${job.summary} ${job.description}`)) issues.push('not-aviation-relevant');
+  if (isGenericListingTitle(job.title)) issues.push('generic-page-title');
+  if (looksNoisySummary(job.summary)) issues.push('noisy-summary');
+
+  if (normalizeSpaces(job.extractionMethod || '').toLowerCase() === 'fallback') {
+    if (!isLikelyJobDetailUrl(job.sourceUrl || '')) issues.push('fallback-non-detail-url');
+    const hasDate = !Number.isNaN(new Date(job.postedAt || '').getTime());
+    if (!job.hasExplicitSourceJobId && !hasDate) issues.push('fallback-low-confidence');
+  }
 
   const score = Math.max(0, 100 - (issues.length * 16));
 
   return {
-    valid: !issues.some((item) => item.startsWith('missing-') || item.includes('invalid-')),
+    valid: !issues.some((item) => item.startsWith('missing-')
+      || item.includes('invalid-')
+      || item.startsWith('generic-')
+      || item.startsWith('fallback-')
+      || item === 'noisy-summary'),
     issues,
     score
   };
