@@ -156,6 +156,11 @@ function createMemoryStore() {
       if (!memoryBlobData.has(key)) return null;
       const value = memoryBlobData.get(key);
       if (options?.type === 'json') {
+        if (typeof value === 'string') {
+          const parsed = parseJsonSafely(value);
+          if (!parsed || typeof parsed !== 'object') return null;
+          return JSON.parse(JSON.stringify(parsed));
+        }
         return JSON.parse(JSON.stringify(value));
       }
       return value;
@@ -1733,7 +1738,7 @@ async function writeJobs(jobs = []) {
   for (const job of jobs) {
     if (!job?.id) continue;
     // eslint-disable-next-line no-await-in-loop
-    await store.set(`job:${job.id}`, job, { type: 'json' });
+    await store.set(`job:${job.id}`, JSON.stringify(job));
   }
 }
 
@@ -1743,7 +1748,7 @@ async function writeJobsWithLogging(jobs = [], onLog = null) {
   for (const job of jobs) {
     if (!job?.id) continue;
     // eslint-disable-next-line no-await-in-loop
-    await store.set(`job:${job.id}`, job, { type: 'json' });
+    await store.set(`job:${job.id}`, JSON.stringify(job));
 
     if (typeof onLog === 'function') {
       // eslint-disable-next-line no-await-in-loop
@@ -1763,7 +1768,7 @@ async function writeJobsWithLogging(jobs = [], onLog = null) {
 
 async function writeState(state = {}) {
   const store = await withJobsStore();
-  await store.set('state', state, { type: 'json' });
+  await store.set('state', JSON.stringify(state));
 }
 
 function safeJsonClone(value) {
@@ -1800,7 +1805,7 @@ async function appendLiveCrawlerLog(entry = {}) {
     items: merged.map((item) => safeJsonClone(item) || normalizeCrawlerLogEntry(item))
   };
 
-  await store.set('logs', payload, { type: 'json' });
+  await store.set('logs', JSON.stringify(payload));
   return merged;
 }
 
@@ -1847,7 +1852,7 @@ async function appendCrawlerLogs(entries = []) {
   await store.set('logs', {
     updatedAt: new Date().toISOString(),
     items: merged
-  }, { type: 'json' });
+  });
 
   return merged;
 }
