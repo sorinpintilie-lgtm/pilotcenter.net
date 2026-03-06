@@ -1655,9 +1655,26 @@ async function readAllJobs(limit = 3000) {
 
   const jobs = [];
   for (const key of keys) {
-    // eslint-disable-next-line no-await-in-loop
-    const value = await store.get(key, { type: 'json' });
-    if (value?.id) jobs.push(value);
+    try {
+      // eslint-disable-next-line no-await-in-loop
+      const value = await store.get(key, { type: 'json' });
+      if (value?.id) {
+        jobs.push(value);
+        continue;
+      }
+
+      if (value && typeof value === 'object' && !value.id) {
+        // eslint-disable-next-line no-await-in-loop
+        await store.delete(key);
+      }
+    } catch {
+      try {
+        // eslint-disable-next-line no-await-in-loop
+        await store.delete(key);
+      } catch {
+        // ignore cleanup failures for corrupted records
+      }
+    }
   }
 
   return jobs;
@@ -1824,7 +1841,19 @@ async function appendCrawlerLogs(entries = []) {
 
 async function readState() {
   const store = await withJobsStore();
-  const state = await store.get('state', { type: 'json' });
+  let state = null;
+
+  try {
+    state = await store.get('state', { type: 'json' });
+  } catch {
+    try {
+      await store.delete('state');
+    } catch {
+      // ignore cleanup failures
+    }
+    state = null;
+  }
+
   if (!state || typeof state !== 'object') {
     return {
       lastRunAt: null,
