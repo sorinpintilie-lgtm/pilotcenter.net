@@ -993,11 +993,25 @@ function extractLinks(html = '', pageUrl = '', allowedHosts = []) {
   return Array.from(new Set(links));
 }
 
-function shouldFollowLink(url = '') {
+function isLikelyAssetUrl(url = '') {
+  const value = normalizeSpaces(url).toLowerCase();
+  if (!value) return true;
+
+  return /(\.css(\?|$)|\.js(\?|$)|\.map(\?|$)|\.png(\?|$)|\.jpg(\?|$)|\.jpeg(\?|$)|\.gif(\?|$)|\.svg(\?|$)|\.webp(\?|$)|\.ico(\?|$)|\.pdf(\?|$)|\.zip(\?|$)|\.woff2?(\?|$)|\.ttf(\?|$)|\.eot(\?|$)|\/wp-json\/|\/oembed\/|\/platform\/css\/|\/platform\/fontawesome)/i.test(value);
+}
+
+function shouldFollowLink(url = '', depth = 0) {
   const value = normalizeSpaces(url).toLowerCase();
   if (!value) return false;
 
-  return /(job|jobs|career|careers|vacanc|opening|position|pilot|flight|aviation|recruit)/i.test(value);
+  if (isLikelyAssetUrl(value)) return false;
+  if (isLikelyJobDetailUrl(value)) return true;
+
+  if (depth <= 0 && /(\/search-jobs|\/search\b|\/jobs\b|\/?careers?\b|\bvakan|\bopening)/i.test(value)) {
+    return true;
+  }
+
+  return false;
 }
 
 function isLikelyJobDetailUrl(url = '') {
@@ -1389,8 +1403,10 @@ async function crawlSource(source = {}, runAt = '', hooks = {}) {
       )
     );
 
+    const isDetailContext = isLikelyJobDetailUrl(canonical) || jsonLdExtracted.length > 0;
+
     const extracted = shouldUseStrictPerplexity
-      ? fallbackExtracted
+      ? (isDetailContext ? fallbackExtracted : [])
       : [...jsonLdExtracted, ...fallbackExtracted];
 
     telemetry.jobsExtracted += extracted.length;
@@ -1590,7 +1606,7 @@ async function crawlSource(source = {}, runAt = '', hooks = {}) {
 
     if (current.depth < maxDepth) {
       const discovered = extractLinks(html, canonical, Array.from(allowedHosts))
-        .filter((link) => shouldFollowLink(link))
+        .filter((link) => shouldFollowLink(link, current.depth))
         .filter((link) => !visited.has(link) && !queued.has(link));
 
       discovered.forEach((link) => {
