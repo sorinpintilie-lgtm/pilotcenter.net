@@ -104,6 +104,12 @@ function getMetaForPath(pathname) {
       description:
         'Browse live pilot and aviation jobs with source attribution, short summaries, and direct apply links to original postings.'
     },
+    '/latest-pilot-jobs/logs': {
+      title: 'Pilot Jobs Crawler Logs | Operational Feed',
+      description:
+        'Review human-readable pilot jobs crawler logs, Perplexity curation activity, and source processing telemetry.',
+      robots: 'noindex,nofollow,noarchive,nosnippet,noimageindex'
+    },
   '/news-and-resources': {
       title: 'Aviation News & Resources | PilotCenter.net',
       description:

@@ -217,6 +217,104 @@
   color: var(--muted);
 }
 
+.pilot-jobs-logs-controls-row {
+  grid-template-columns: 2fr repeat(2, minmax(0, 1fr));
+}
+
+.pilot-jobs-logs-list {
+  display: grid;
+  gap: 12px;
+}
+
+.pilot-jobs-log-card {
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: #fff;
+  box-shadow: 0 10px 20px rgba(15, 23, 42, 0.05);
+  padding: 14px;
+}
+
+.pilot-jobs-log-info {
+  border-left: 4px solid #2563eb;
+}
+
+.pilot-jobs-log-warn {
+  border-left: 4px solid #d97706;
+}
+
+.pilot-jobs-log-error {
+  border-left: 4px solid #dc2626;
+}
+
+.pilot-jobs-log-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.pilot-jobs-log-pill-wrap {
+  display: inline-flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.pilot-jobs-log-pill {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: #f8fafc;
+  color: #0f172a;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 4px 9px;
+}
+
+.pilot-jobs-log-pill-event {
+  background: #eef2ff;
+  border-color: #c7d2fe;
+  color: #3730a3;
+}
+
+.pilot-jobs-log-time {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.pilot-jobs-log-message {
+  margin-top: 10px;
+  font-size: 18px;
+  color: var(--title);
+  line-height: 1.35;
+  text-align: left;
+}
+
+.pilot-jobs-log-readable {
+  margin-top: 4px;
+  font-size: 13px;
+  color: #334155;
+}
+
+.pilot-jobs-log-source {
+  margin-top: 8px;
+  font-size: 13px;
+  color: #334155;
+  font-weight: 600;
+}
+
+.pilot-jobs-log-meta {
+  margin-top: 8px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #e2e8f0;
+  background: #f8fafc;
+  color: #0f172a;
+  font-size: 12px;
+  line-height: 1.45;
+  overflow-x: auto;
+}
+
 @media (max-width: 1100px) {
   .pilot-jobs-controls-row {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -229,6 +327,10 @@
 
 @media (max-width: 899px) {
   .pilot-jobs-controls-row {
+    grid-template-columns: 1fr;
+  }
+
+  .pilot-jobs-logs-controls-row {
     grid-template-columns: 1fr;
   }
 

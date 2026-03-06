@@ -5,6 +5,7 @@ const {
   updateJobBySlug,
   getValidationReport,
   getCrawlerLogs,
+  getCrawlerLogsFeed,
   clearPilotJobsData,
   syncPilotJobs
 } = require('./_pilot-jobs-core');
@@ -83,6 +84,7 @@ exports.handler = async (event) => {
           configured: Boolean(normalizeSpaces(process.env.PILOT_JOBS_ADMIN_TOKEN || '')),
           stats: payload.stats,
           state: payload.state,
+          store: payload?.state?.store || null,
           generatedAt: new Date().toISOString()
         });
       }
@@ -118,6 +120,15 @@ exports.handler = async (event) => {
           ok: true,
           logs,
           generatedAt: new Date().toISOString()
+        });
+      }
+
+      if (action === 'logs-feed') {
+        if (!isAdminAuthorized(event)) return jsonResponse(401, { error: 'Unauthorized' });
+        const feed = await getCrawlerLogsFeed(Number(query.limit || 240));
+        return jsonResponse(200, {
+          ok: true,
+          ...feed
         });
       }
 
