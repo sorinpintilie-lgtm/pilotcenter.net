@@ -1706,10 +1706,22 @@ function safeJsonClone(value) {
 
 async function appendLiveCrawlerLog(entry = {}) {
   const store = await withJobsStore();
-  const current = await store.get('logs', { type: 'json' });
-  const existingItems = Array.isArray(current?.items)
-    ? current.items.map((item) => enrichLogEntry(item))
-    : [];
+  let existingItems = [];
+
+  try {
+    const current = await store.get('logs', { type: 'json' });
+    existingItems = Array.isArray(current?.items)
+      ? current.items.map((item) => enrichLogEntry(item))
+      : [];
+  } catch {
+    try {
+      await store.delete('logs');
+    } catch {
+      // ignore cleanup failures
+    }
+    existingItems = [];
+  }
+
   const normalized = enrichLogEntry(entry);
   const merged = [...existingItems, normalized].slice(-LOG_LIMIT);
 
@@ -1736,11 +1748,20 @@ function normalizeCrawlerLogEntry(entry = {}) {
 
 async function readCrawlerLogs() {
   const store = await withJobsStore();
-  const payload = await store.get('logs', { type: 'json' });
-  if (!payload || !Array.isArray(payload.items)) return [];
-  return payload.items
-    .map((item) => normalizeCrawlerLogEntry(item))
-    .slice(-LOG_LIMIT);
+  try {
+    const payload = await store.get('logs', { type: 'json' });
+    if (!payload || !Array.isArray(payload.items)) return [];
+    return payload.items
+      .map((item) => normalizeCrawlerLogEntry(item))
+      .slice(-LOG_LIMIT);
+  } catch {
+    try {
+      await store.delete('logs');
+    } catch {
+      // ignore cleanup failures
+    }
+    return [];
+  }
 }
 
 async function appendCrawlerLogs(entries = []) {
