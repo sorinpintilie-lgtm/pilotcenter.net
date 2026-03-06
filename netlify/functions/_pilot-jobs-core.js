@@ -1007,7 +1007,10 @@ function shouldFollowLink(url = '', depth = 0) {
   if (isLikelyAssetUrl(value)) return false;
   if (isLikelyJobDetailUrl(value)) return true;
 
-  if (depth <= 0 && /(\/search-jobs|\/search\b|\/jobs\b|\/?careers?\b|\bvakan|\bopening)/i.test(value)) {
+  const path = getPathname(value).toLowerCase();
+  if (!path || path === '/') return false;
+
+  if (depth <= 0 && /(\/search-jobs|\/search$|\/jobs(?:\/|$)|\/pilot(?:s)?(?:\/|$)|\/vacanc|\/opening)/i.test(path)) {
     return true;
   }
 
@@ -1018,7 +1021,7 @@ function isLikelyJobDetailUrl(url = '') {
   const value = normalizeSpaces(url).toLowerCase();
   if (!value) return false;
 
-  return /(\/job\/|\/jobs\/[^/?#]{4,}|\/career\/[^/?#]{4,}|\/vacanc(?:y|ies)\/|gh_jid=|lever\.co\/.*\/[^/?#]{6,}|smartrecruiters\.com\/[^/?#]+\/[^/?#]+)/i.test(value);
+  return /(\/job\/|\/jobs\/[^/?#]{4,}|\/pilots\/jobs\?job=\d+|\/career\/[^/?#]{4,}|\/vacanc(?:y|ies)\/|gh_jid=|lever\.co\/.*\/[^/?#]{6,}|smartrecruiters\.com\/[^/?#]+\/[^/?#]+)/i.test(value);
 }
 
 function isGenericListingTitle(title = '') {
@@ -1607,7 +1610,8 @@ async function crawlSource(source = {}, runAt = '', hooks = {}) {
     if (current.depth < maxDepth) {
       const discovered = extractLinks(html, canonical, Array.from(allowedHosts))
         .filter((link) => shouldFollowLink(link, current.depth))
-        .filter((link) => !visited.has(link) && !queued.has(link));
+        .filter((link) => !visited.has(link) && !queued.has(link))
+        .sort((a, b) => Number(isLikelyJobDetailUrl(b)) - Number(isLikelyJobDetailUrl(a)));
 
       discovered.forEach((link) => {
         queue.push({
