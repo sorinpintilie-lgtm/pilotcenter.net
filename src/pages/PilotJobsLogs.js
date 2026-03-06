@@ -63,6 +63,8 @@ export default function PilotJobsLogs() {
   const [lastUpdatedAt, setLastUpdatedAt] = useState('');
   const [levelFilter, setLevelFilter] = useState('all');
   const [sourceFilter, setSourceFilter] = useState('all');
+  const [triggerStatus, setTriggerStatus] = useState('');
+  const [triggerLoading, setTriggerLoading] = useState(false);
 
   useEffect(() => {
     if (!token) return;
@@ -104,6 +106,72 @@ export default function PilotJobsLogs() {
   const submitToken = (event) => {
     event.preventDefault();
     setToken(pendingToken.trim());
+  };
+
+  const triggerCrawlNow = async () => {
+    if (!token.trim()) {
+      setTriggerStatus('Add admin token first.');
+      return;
+    }
+
+    setTriggerLoading(true);
+    setTriggerStatus('Starting Perplexity-first crawl...');
+
+    const params = new URLSearchParams({
+      token: token.trim(),
+      sourceLimit: '20',
+      maxPagesPerSource: '80',
+      maxDepth: '4',
+      perplexityBudgetPerSource: '220',
+      perplexityMinConfidence: '0.72',
+      logToConsole: '1',
+      forcePerplexityStrict: '1'
+    });
+
+    const endpoints = [
+      `/api/pilot-jobs-sync-background?${params.toString()}`,
+      `/.netlify/functions/pilot-jobs-sync-background?${params.toString()}`,
+      `/api/pilot-jobs?action=sync&${params.toString()}`,
+      `/.netlify/functions/pilot-jobs?action=sync&${params.toString()}`
+    ];
+
+    let success = false;
+    let failureDetails = '';
+
+    for (const endpoint of endpoints) {
+      try {
+        const response = await fetch(endpoint, { headers: { Accept: 'application/json' } });
+        const text = await response.text();
+        let payload = null;
+        try {
+          payload = JSON.parse(text);
+        } catch {
+          payload = null;
+        }
+
+        if (!response.ok || !payload) {
+          failureDetails = `Endpoint ${endpoint} returned ${response.status}.`;
+          continue;
+        }
+
+        if (payload.ok === false) {
+          failureDetails = payload.details || payload.error || `Endpoint ${endpoint} returned a failure payload.`;
+          continue;
+        }
+
+        success = true;
+        setTriggerStatus(`Crawl started/completed via ${endpoint}. Watch the log stream below.`);
+        break;
+      } catch {
+        failureDetails = `Network failure calling ${endpoint}.`;
+      }
+    }
+
+    if (!success) {
+      setTriggerStatus(`Unable to trigger crawl. ${failureDetails || 'No valid endpoint response.'}`);
+    }
+
+    setTriggerLoading(false);
   };
 
   const sourceOptions = useMemo(() => {
@@ -186,6 +254,16 @@ export default function PilotJobsLogs() {
               {token ? (
                 <button
                   type="button"
+                  className="pilot-jobs-btn"
+                  onClick={triggerCrawlNow}
+                  disabled={triggerLoading}
+                >
+                  {triggerLoading ? 'Starting crawl...' : 'Start Perplexity Crawl'}
+                </button>
+              ) : null}
+              {token ? (
+                <button
+                  type="button"
                   className="pilot-jobs-btn pilot-jobs-btn-secondary"
                   onClick={() => setToken((current) => current)}
                 >
@@ -194,6 +272,8 @@ export default function PilotJobsLogs() {
               ) : null}
             </div>
           </form>
+
+          {triggerStatus ? <div className="pilot-jobs-status" aria-live="polite">{triggerStatus}</div> : null}
 
           <div className="pilot-jobs-status" aria-live="polite">{status}</div>
           {lastUpdatedAt ? (

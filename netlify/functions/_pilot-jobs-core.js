@@ -1378,7 +1378,11 @@ async function crawlSource(source = {}, runAt = '', hooks = {}) {
     const pageTitle = extractPageTitle(html);
     const fallbackExtracted = extractCandidatesFallback(html, canonical, source.name);
     const jsonLdExtracted = extractCandidatesFromJsonLd(html, canonical, source.name);
-    const shouldUseStrictPerplexity = Boolean(perplexityConfig.enabled && perplexityConfig.strictMode);
+    const shouldUseStrictPerplexity = Boolean(
+      perplexityConfig.enabled && (
+        source.forcePerplexityStrict === true || perplexityConfig.strictMode
+      )
+    );
 
     const extracted = shouldUseStrictPerplexity
       ? fallbackExtracted
@@ -1564,6 +1568,18 @@ async function crawlSource(source = {}, runAt = '', hooks = {}) {
         acceptedById.set(normalized.id, normalized);
         telemetry.jobsAccepted += 1;
         pageAccepted += 1;
+
+        // eslint-disable-next-line no-await-in-loop
+        await emit('info', 'job:accepted', `Accepted job: ${normalized.title}`, {
+          jobId: normalized.id,
+          title: normalized.title,
+          company: normalized.company,
+          location: normalized.location,
+          sourceUrl: normalized.sourceUrl,
+          qualityScore: normalized.qualityScore,
+          extractionMethod: normalized.extractionMethod,
+          perplexityConfidence: Number(normalized.perplexityConfidence || 0)
+        });
       }
     }
 
@@ -1688,6 +1704,30 @@ async function writeJobs(jobs = []) {
     if (!job?.id) continue;
     // eslint-disable-next-line no-await-in-loop
     await store.set(`job:${job.id}`, job, { type: 'json' });
+  }
+}
+
+async function writeJobsWithLogging(jobs = [], onLog = null) {
+  const store = await withJobsStore();
+
+  for (const job of jobs) {
+    if (!job?.id) continue;
+    // eslint-disable-next-line no-await-in-loop
+    await store.set(`job:${job.id}`, job, { type: 'json' });
+
+    if (typeof onLog === 'function') {
+      // eslint-disable-next-line no-await-in-loop
+      await onLog('info', 'job:persisted', `Persisted job: ${job.title || job.id}`, {
+        jobId: job.id,
+        slug: job.slug,
+        title: job.title,
+        sourceName: job.sourceName,
+        qualityScore: Number(job.qualityScore || 0)
+      }, {
+        id: job.sourceId,
+        name: job.sourceName
+      });
+    }
   }
 }
 
@@ -1886,7 +1926,8 @@ async function syncPilotJobs(options = {}) {
         0,
         1,
         clampNumber(source.perplexityMinConfidence, 0, 1, getPerplexityConfig().minConfidence)
-      )
+      ),
+      forcePerplexityStrict: options.forcePerplexityStrict === true
     };
 
     // eslint-disable-next-line no-await-in-loop
@@ -1981,7 +2022,7 @@ async function syncPilotJobs(options = {}) {
   });
 
   const mergedJobs = Array.from(mergedById.values());
-  await writeJobs(mergedJobs);
+  await writeJobsWithLogging(mergedJobs, liveLogsEnabled ? addLog : null);
 
   const summary = {
     runAt,

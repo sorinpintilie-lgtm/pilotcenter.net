@@ -73,7 +73,8 @@ function collectSyncOptions(event = {}) {
     perplexityBudgetPerSource: pickNumber(query.perplexityBudgetPerSource ?? options.perplexityBudgetPerSource),
     perplexityMinConfidence: pickNumber(query.perplexityMinConfidence ?? options.perplexityMinConfidence),
     liveLogs: true,
-    logToConsole: toBoolean(query.logToConsole ?? options.logToConsole ?? '1')
+    logToConsole: toBoolean(query.logToConsole ?? options.logToConsole ?? '1'),
+    forcePerplexityStrict: toBoolean(query.forcePerplexityStrict ?? options.forcePerplexityStrict ?? '1')
   };
 }
 
