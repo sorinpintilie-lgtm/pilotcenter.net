@@ -1392,6 +1392,29 @@ async function getCrawlerLogs(limit = 200) {
   return logs.slice(-max).reverse();
 }
 
+async function clearPilotJobsData() {
+  const store = await withJobsStore();
+  const listed = await store.list({ prefix: 'job:' });
+  const keys = Array.isArray(listed?.blobs)
+    ? listed.blobs.map((item) => item.key).filter(Boolean)
+    : [];
+
+  for (const key of keys) {
+    // eslint-disable-next-line no-await-in-loop
+    await store.delete(key);
+  }
+
+  await store.delete('state');
+  await store.delete('logs');
+
+  return {
+    deletedJobs: keys.length,
+    clearedState: true,
+    clearedLogs: true,
+    clearedAt: new Date().toISOString()
+  };
+}
+
 module.exports = {
   SOURCE_REGISTRY,
   ONE_MONTH_MS,
@@ -1403,6 +1426,7 @@ module.exports = {
   updateJobBySlug,
   getValidationReport,
   getCrawlerLogs,
+  clearPilotJobsData,
   syncPilotJobs
 };
 

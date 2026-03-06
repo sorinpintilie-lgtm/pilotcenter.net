@@ -5,6 +5,7 @@ const {
   updateJobBySlug,
   getValidationReport,
   getCrawlerLogs,
+  clearPilotJobsData,
   syncPilotJobs
 } = require('./_pilot-jobs-core');
 
@@ -115,6 +116,15 @@ exports.handler = async (event) => {
           ok: true,
           logs,
           generatedAt: new Date().toISOString()
+        });
+      }
+
+      if (action === 'reset') {
+        if (!isAdminAuthorized(event)) return jsonResponse(401, { error: 'Unauthorized' });
+        const result = await clearPilotJobsData();
+        return jsonResponse(200, {
+          ok: true,
+          result
         });
       }
 
