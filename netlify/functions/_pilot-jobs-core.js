@@ -1634,12 +1634,22 @@ async function readAllJobs(limit = 3000) {
   let hasMore = true;
 
   while (hasMore && keys.length < limit) {
-    // eslint-disable-next-line no-await-in-loop
-    const listed = await store.list({
+    const listOptions = {
       prefix: 'job:',
-      limit: Math.min(200, Math.max(1, limit - keys.length)),
-      cursor
-    });
+      limit: Math.min(200, Math.max(1, limit - keys.length))
+    };
+
+    if (typeof cursor === 'string' && cursor) {
+      listOptions.cursor = cursor;
+    }
+
+    let listed = null;
+    try {
+      // eslint-disable-next-line no-await-in-loop
+      listed = await store.list(listOptions);
+    } catch {
+      break;
+    }
 
     const pageKeys = Array.isArray(listed?.blobs)
       ? listed.blobs.map((item) => item.key).filter(Boolean)
@@ -1647,7 +1657,10 @@ async function readAllJobs(limit = 3000) {
 
     keys.push(...pageKeys);
 
-    const nextCursor = listed?.cursor || listed?.next_cursor || listed?.pagination?.cursor;
+    const nextCursorRaw = listed?.cursor || listed?.next_cursor || listed?.pagination?.cursor;
+    const nextCursor = (typeof nextCursorRaw === 'string' || typeof nextCursorRaw === 'number')
+      ? String(nextCursorRaw)
+      : null;
     const pageHasMore = Boolean(listed?.hasMore || listed?.has_more || nextCursor);
     hasMore = pageHasMore && Boolean(nextCursor);
     cursor = nextCursor;
