@@ -6,7 +6,7 @@ const runtimeHiddenLinks = new Set();
 const runtimeHiddenSlugs = new Set();
 
 const MAX_BODY_CHARS = 1800;
-const FULL_BODY_MIN_CHARS = 2500;
+const FULL_BODY_MIN_CHARS = 900;
 const TELEMETRY_KEY = 'telemetry:global';
 const TELEMETRY_MAX_LOGS = 220;
 
@@ -1001,7 +1001,7 @@ async function buildFullArticleIfNeeded(article = null, sourceItem = null) {
 
   const fetchedFullText = await fetchArticleText(sourceItem.link);
   const fullContent = fetchedFullText || stripHtml(sourceItem.content || sourceItem.description || '');
-  if (!fullContent || fullContent.length < 900) return article;
+  if (!fullContent || fullContent.length < 500) return article;
 
   const enrichedSource = {
     ...sourceItem,
@@ -1045,6 +1045,33 @@ async function buildFullArticleIfNeeded(article = null, sourceItem = null) {
   }
 
   return article;
+}
+
+async function prewarmLatestFullBodies(mergedItems = [], safeItems = [], maxCount = 4) {
+  const latest = Array.isArray(mergedItems) ? mergedItems.slice(0, Math.max(0, maxCount)) : [];
+  if (!latest.length) return;
+
+  for (const item of latest) {
+    const slug = normalizeSpaces(item?.slug || '').toLowerCase();
+    if (!slug) continue;
+
+    const cached = cacheGet(item.link) || item;
+    const body = normalizeSpaces(cached?.body || '');
+    if (body.length >= FULL_BODY_MIN_CHARS) continue;
+
+    const source = safeItems.find((entry) => normalizeSpaces(entry?.slug || '').toLowerCase() === slug)
+      || safeItems.find((entry) => entry?.link && entry.link === item.link)
+      || null;
+
+    if (!source) continue;
+
+    try {
+      // eslint-disable-next-line no-await-in-loop
+      await buildFullArticleIfNeeded(cached, source);
+    } catch {
+      // continue prewarming the remaining items
+    }
+  }
 }
 
 exports.handler = async (event) => {
@@ -1200,6 +1227,11 @@ exports.handler = async (event) => {
       : [];
 
     const mergedItems = mergeNewsItems(manualPosts, allRewrittenItems);
+
+    if (!slugQuery) {
+      await prewarmLatestFullBodies(mergedItems, safeItems, 4);
+    }
+
     const availableCategories = FIXED_NEWS_CATEGORIES;
 
     const filteredItems = applyNewsFilters(mergedItems, {
