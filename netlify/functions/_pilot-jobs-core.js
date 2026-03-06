@@ -1263,7 +1263,7 @@ async function sleep(ms = 0) {
   await new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-async function crawlSource(source = {}, runAt = '') {
+async function crawlSource(source = {}, runAt = '', hooks = {}) {
   const perplexityConfig = getPerplexityConfig();
   let perplexityRemaining = Math.max(0, Math.floor(clampNumber(
     source.perplexityBudget,
@@ -1295,7 +1295,23 @@ async function crawlSource(source = {}, runAt = '') {
     errors: []
   };
 
+  const emit = async (level, event, message, meta = {}) => {
+    if (typeof hooks?.onLog !== 'function') return;
+    await hooks.onLog({
+      at: new Date().toISOString(),
+      level,
+      event,
+      sourceId: source.id,
+      sourceName: source.name,
+      message,
+      meta
+    });
+  };
+
   if (!source.allowCrawler) {
+    await emit('warn', 'source:blocked', `Crawler disabled for source ${source.name}`, {
+      sourceId: source.id
+    });
     return {
       jobs: [],
       rejected: [],
@@ -1335,12 +1351,27 @@ async function crawlSource(source = {}, runAt = '') {
     const allowedByRobots = await isRobotsAllowed(canonical);
     if (!allowedByRobots) {
       telemetry.skippedByRobots += 1;
+      // eslint-disable-next-line no-await-in-loop
+      await emit('warn', 'page:robots-skip', `Robots blocked ${canonical}`, {
+        url: canonical,
+        depth: current.depth,
+        visited: visited.size,
+        skippedByRobots: telemetry.skippedByRobots
+      });
       continue;
     }
 
     // eslint-disable-next-line no-await-in-loop
     const html = await fetchHtml(canonical, source.id);
-    if (!html) continue;
+    if (!html) {
+      // eslint-disable-next-line no-await-in-loop
+      await emit('warn', 'page:empty', `No HTML returned for ${canonical}`, {
+        url: canonical,
+        depth: current.depth,
+        visited: visited.size
+      });
+      continue;
+    }
     telemetry.pagesFetched += 1;
 
     const pageEvidence = extractPageEvidence(html);
@@ -1354,6 +1385,12 @@ async function crawlSource(source = {}, runAt = '') {
       : [...jsonLdExtracted, ...fallbackExtracted];
 
     telemetry.jobsExtracted += extracted.length;
+    let pageAccepted = 0;
+    let pageRejected = 0;
+    let pagePerplexityReviewed = 0;
+    let pagePerplexityAccepted = 0;
+    let pagePerplexityRejected = 0;
+    let pagePerplexityErrors = 0;
 
     for (const candidate of extracted) {
       let normalized = buildNormalizedJob(candidate, source, runAt);
@@ -1364,6 +1401,8 @@ async function crawlSource(source = {}, runAt = '') {
         if (perplexityRemaining <= 0) {
           telemetry.jobsRejected += 1;
           telemetry.perplexityErrors += 1;
+          pageRejected += 1;
+          pagePerplexityErrors += 1;
           rejected.push({
             sourceId: source.id,
             sourceName: source.name,
@@ -1376,6 +1415,7 @@ async function crawlSource(source = {}, runAt = '') {
         }
 
         telemetry.perplexityReviewed += 1;
+        pagePerplexityReviewed += 1;
         perplexityRemaining -= 1;
 
         // eslint-disable-next-line no-await-in-loop
@@ -1390,6 +1430,8 @@ async function crawlSource(source = {}, runAt = '') {
         if (!perplexityReview?.ok) {
           telemetry.perplexityErrors += 1;
           telemetry.jobsRejected += 1;
+          pagePerplexityErrors += 1;
+          pageRejected += 1;
           rejected.push({
             sourceId: source.id,
             sourceName: source.name,
@@ -1410,6 +1452,8 @@ async function crawlSource(source = {}, runAt = '') {
         if (!perplexityReview.isJobPage || !perplexityReview.isRealAviationJob || belowConfidence) {
           telemetry.perplexityRejected += 1;
           telemetry.jobsRejected += 1;
+          pagePerplexityRejected += 1;
+          pageRejected += 1;
           rejected.push({
             sourceId: source.id,
             sourceName: source.name,
@@ -1432,6 +1476,7 @@ async function crawlSource(source = {}, runAt = '') {
         }
 
         telemetry.perplexityAccepted += 1;
+        pagePerplexityAccepted += 1;
       }
 
       if (!shouldUseStrictPerplexity && shouldReviewWithPerplexity(normalized, validation, {
@@ -1451,6 +1496,7 @@ async function crawlSource(source = {}, runAt = '') {
 
         if (!perplexityReview?.ok) {
           telemetry.perplexityErrors += 1;
+          pagePerplexityErrors += 1;
         } else {
           normalized = applyPerplexityEnrichment(normalized, perplexityReview);
           validation = validateJob(normalized);
@@ -1458,6 +1504,8 @@ async function crawlSource(source = {}, runAt = '') {
           if (!perplexityReview.isRealAviationJob || perplexityReview.confidence < perplexityMinConfidence) {
             telemetry.perplexityRejected += 1;
             telemetry.jobsRejected += 1;
+            pagePerplexityRejected += 1;
+            pageRejected += 1;
             rejected.push({
               sourceId: source.id,
               sourceName: source.name,
@@ -1478,6 +1526,7 @@ async function crawlSource(source = {}, runAt = '') {
           }
 
           telemetry.perplexityAccepted += 1;
+          pagePerplexityAccepted += 1;
         }
       }
 
@@ -1485,6 +1534,7 @@ async function crawlSource(source = {}, runAt = '') {
 
       if (!validation.valid) {
         telemetry.jobsRejected += 1;
+        pageRejected += 1;
         rejected.push({
           sourceId: source.id,
           sourceName: source.name,
@@ -1498,6 +1548,7 @@ async function crawlSource(source = {}, runAt = '') {
 
       if (!isAviationRelevant(`${normalized.title} ${normalized.summary} ${normalized.description}`)) {
         telemetry.jobsRejected += 1;
+        pageRejected += 1;
         rejected.push({
           sourceId: source.id,
           sourceName: source.name,
@@ -1512,6 +1563,7 @@ async function crawlSource(source = {}, runAt = '') {
       if (!acceptedById.has(normalized.id)) {
         acceptedById.set(normalized.id, normalized);
         telemetry.jobsAccepted += 1;
+        pageAccepted += 1;
       }
     }
 
@@ -1530,6 +1582,23 @@ async function crawlSource(source = {}, runAt = '') {
 
       telemetry.discoveredUrls += discovered.length;
     }
+
+    // eslint-disable-next-line no-await-in-loop
+    await emit('info', 'page:processed', `Processed page ${canonical}`, {
+      url: canonical,
+      depth: current.depth,
+      visited: visited.size,
+      pagesFetched: telemetry.pagesFetched,
+      extracted: extracted.length,
+      pageAccepted,
+      pageRejected,
+      discoveredUrls: telemetry.discoveredUrls,
+      perplexityReviewed: pagePerplexityReviewed,
+      perplexityAccepted: pagePerplexityAccepted,
+      perplexityRejected: pagePerplexityRejected,
+      perplexityErrors: pagePerplexityErrors,
+      remainingPerplexityBudget: perplexityRemaining
+    });
 
     // eslint-disable-next-line no-await-in-loop
     await sleep(rateMs);
@@ -1696,10 +1765,11 @@ async function syncPilotJobs(options = {}) {
   const runAt = new Date().toISOString();
   const sourceLimit = Number(options.sourceLimit || SOURCE_REGISTRY.length);
   const nowMs = Date.now();
+  const liveLogsEnabled = options.liveLogs !== false;
   const syncLogs = [];
 
-  const addLog = (level, event, message, meta = {}, source = {}) => {
-    syncLogs.push(normalizeCrawlerLogEntry({
+  const addLog = async (level, event, message, meta = {}, source = {}) => {
+    const entry = normalizeCrawlerLogEntry({
       at: new Date().toISOString(),
       level,
       event,
@@ -1707,7 +1777,13 @@ async function syncPilotJobs(options = {}) {
       sourceName: source?.name || '',
       message,
       meta
-    }));
+    });
+
+    syncLogs.push(entry);
+
+    if (liveLogsEnabled) {
+      await appendCrawlerLogs([entry]);
+    }
   };
 
   const sources = SOURCE_REGISTRY
@@ -1717,7 +1793,7 @@ async function syncPilotJobs(options = {}) {
   const existing = await readAllJobs();
   const existingById = new Map(existing.filter((item) => item?.id).map((item) => [item.id, item]));
 
-  addLog('info', 'sync:start', 'Pilot jobs sync started', {
+  await addLog('info', 'sync:start', 'Pilot jobs sync started', {
     sourceLimit,
     existingJobs: existing.length,
     storeBackend: jobsStoreBackend,
@@ -1730,7 +1806,7 @@ async function syncPilotJobs(options = {}) {
   const sourceTelemetry = [];
 
   for (const source of sources) {
-    addLog('info', 'source:start', `Source crawl started: ${source.name}`, {
+    await addLog('info', 'source:start', `Source crawl started: ${source.name}`, {
       sourceId: source.id,
       maxPages: Number(options.maxPagesPerSource || source.maxPages || 24),
       maxDepth: Number(options.maxDepth || source.maxDepth || 2)
@@ -1755,7 +1831,9 @@ async function syncPilotJobs(options = {}) {
     };
 
     // eslint-disable-next-line no-await-in-loop
-    const crawled = await crawlSource(withOverrides, runAt);
+    const crawled = await crawlSource(withOverrides, runAt, {
+      onLog: addLog
+    });
     crawledJobs.push(...(crawled.jobs || []));
     rejected.push(...(crawled.rejected || []));
     sourceTelemetry.push(crawled.telemetry || {});
@@ -1767,7 +1845,7 @@ async function syncPilotJobs(options = {}) {
       sourceUrl: item.sourceUrl
     }));
 
-    addLog(
+    await addLog(
       'info',
       'source:complete',
       `Source crawl completed: ${source.name}`,
@@ -1788,7 +1866,7 @@ async function syncPilotJobs(options = {}) {
     );
 
     if (sampleRejected.length) {
-      addLog(
+      await addLog(
         'warn',
         'source:rejections',
         `Validation rejected ${sourceRejected.length} jobs for ${source.name}`,
@@ -1865,7 +1943,7 @@ async function syncPilotJobs(options = {}) {
     sourceTelemetry
   };
 
-  addLog('info', 'sync:complete', 'Pilot jobs sync completed', {
+  await addLog('info', 'sync:complete', 'Pilot jobs sync completed', {
     discoveredRaw: summary.discoveredRaw,
     discoveredDeduped: summary.discoveredDeduped,
     rejected: summary.rejected,
@@ -1877,12 +1955,14 @@ async function syncPilotJobs(options = {}) {
   });
 
   if (summary.rejected > 0) {
-    addLog('warn', 'sync:quality', `Sync completed with ${summary.rejected} rejected jobs`, {
+    await addLog('warn', 'sync:quality', `Sync completed with ${summary.rejected} rejected jobs`, {
       rejected: summary.rejected
     });
   }
 
-  const persistedLogs = await appendCrawlerLogs(syncLogs);
+  const persistedLogs = liveLogsEnabled
+    ? await readCrawlerLogs()
+    : await appendCrawlerLogs(syncLogs);
 
   await writeState({
     lastRunAt: runAt,

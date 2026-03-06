@@ -60,6 +60,7 @@ export default function PilotJobsLogs() {
   const [storeInfo, setStoreInfo] = useState(null);
   const [status, setStatus] = useState('Enter admin token to inspect crawler activity.');
   const [loading, setLoading] = useState(false);
+  const [lastUpdatedAt, setLastUpdatedAt] = useState('');
   const [levelFilter, setLevelFilter] = useState('all');
   const [sourceFilter, setSourceFilter] = useState('all');
 
@@ -76,6 +77,7 @@ export default function PilotJobsLogs() {
 
         setLogs(Array.isArray(payload.logs) ? payload.logs : []);
         setStoreInfo(payload.store || null);
+        setLastUpdatedAt(new Date().toISOString());
         setStatus(`Loaded ${payload.logs.length} log entries. Generated at ${formatStamp(payload.generatedAt)}.`);
       } catch {
         if (!mounted) return;
@@ -89,8 +91,13 @@ export default function PilotJobsLogs() {
 
     load();
 
+    const timer = setInterval(() => {
+      load();
+    }, 4500);
+
     return () => {
       mounted = false;
+      clearInterval(timer);
     };
   }, [token]);
 
@@ -176,10 +183,22 @@ export default function PilotJobsLogs() {
 
             <div className="pilot-jobs-controls-actions">
               <button type="submit" className="pilot-jobs-btn">Load logs</button>
+              {token ? (
+                <button
+                  type="button"
+                  className="pilot-jobs-btn pilot-jobs-btn-secondary"
+                  onClick={() => setToken((current) => current)}
+                >
+                  Refresh now
+                </button>
+              ) : null}
             </div>
           </form>
 
           <div className="pilot-jobs-status" aria-live="polite">{status}</div>
+          {lastUpdatedAt ? (
+            <div className="pilot-jobs-loading">Auto-refresh every ~4.5s · Last update: {formatStamp(lastUpdatedAt)}</div>
+          ) : null}
 
           {loading ? <div className="pilot-jobs-loading">Loading logs feed...</div> : null}
 
