@@ -59,13 +59,20 @@ function logFingerprint(entries = []) {
   return `${String(first.at || '')}|${String(first.event || '')}|${String(first.message || '')}`;
 }
 
-async function probeLogsProgress(token = '', previousFingerprint = '', attempts = 3, waitMs = 2200) {
+async function probeLogsProgress(token = '', previousFingerprint = '', startedAfterMs = 0, attempts = 3, waitMs = 2200) {
   for (let i = 0; i < attempts; i += 1) {
     await new Promise((resolve) => setTimeout(resolve, waitMs));
     try {
       const payload = await fetchLogsFeed(token, 280);
       const currentFingerprint = logFingerprint(payload.logs || []);
-      if (currentFingerprint !== previousFingerprint) {
+      const hasFreshSyncStart = Array.isArray(payload.logs) && payload.logs.some((entry) => {
+        const event = String(entry?.event || '').toLowerCase();
+        if (event !== 'sync:start') return false;
+        const atMs = new Date(entry?.at || '').getTime();
+        return Number.isFinite(atMs) && atMs >= startedAfterMs - 5000;
+      });
+
+      if (currentFingerprint !== previousFingerprint || hasFreshSyncStart) {
         return {
           progressed: true,
           payload
@@ -156,21 +163,25 @@ export default function PilotJobsLogs() {
       forcePerplexityStrict: true
     };
 
+    const tokenValue = token.trim();
     const previousFingerprint = logFingerprint(logs);
+    const startedAtMs = Date.now();
+    const tokenQuery = `token=${encodeURIComponent(tokenValue)}`;
 
     const requestInit = {
       method: 'POST',
       headers: {
         Accept: 'application/json',
         'Content-Type': 'application/json',
-        'X-Pilot-Jobs-Token': token.trim()
+        Authorization: `Bearer ${tokenValue}`,
+        'X-Pilot-Jobs-Token': tokenValue
       },
       body: JSON.stringify({ options })
     };
 
     const endpoints = [
-      '/api/pilot-jobs-sync-background',
-      '/.netlify/functions/pilot-jobs-sync-background'
+      `/api/pilot-jobs-sync-background?${tokenQuery}`,
+      `/.netlify/functions/pilot-jobs-sync-background?${tokenQuery}`
     ];
 
     let success = false;
@@ -188,7 +199,7 @@ export default function PilotJobsLogs() {
         }
 
         if (response.status === 202) {
-          const probe = await probeLogsProgress(token.trim(), previousFingerprint, 4, 2200);
+          const probe = await probeLogsProgress(tokenValue, previousFingerprint, startedAtMs, 4, 2200);
 
           if (probe.progressed) {
             setLogs(Array.isArray(probe.payload?.logs) ? probe.payload.logs : []);
@@ -200,8 +211,8 @@ export default function PilotJobsLogs() {
           }
 
           const directFallbackEndpoints = [
-            '/api/pilot-jobs',
-            '/.netlify/functions/pilot-jobs'
+            `/api/pilot-jobs?${tokenQuery}`,
+            `/.netlify/functions/pilot-jobs?${tokenQuery}`
           ];
 
           let fallbackTriggered = false;
@@ -232,7 +243,7 @@ export default function PilotJobsLogs() {
 
               if (fallbackResponse.ok && fallbackPayload?.ok) {
                 fallbackTriggered = true;
-                const refreshed = await fetchLogsFeed(token.trim(), 280).catch(() => null);
+                const refreshed = await fetchLogsFeed(tokenValue, 280).catch(() => null);
                 if (refreshed?.logs) {
                   setLogs(refreshed.logs);
                   setStoreInfo(refreshed.store || null);
