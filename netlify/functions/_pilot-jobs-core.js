@@ -3,6 +3,9 @@ const crypto = require('crypto');
 const ONE_MONTH_MS = 30 * 24 * 60 * 60 * 1000;
 const DEFAULT_USER_AGENT = 'PilotCenterJobsBot/1.0 (+https://pilotcenter.net)';
 const DEFAULT_TIMEOUT_MS = 12000;
+const PERPLEXITY_ENDPOINT = 'https://api.perplexity.ai/chat/completions';
+const PERPLEXITY_DEFAULT_MODEL = 'sonar';
+const PERPLEXITY_TIMEOUT_MS = 18000;
 
 const SOURCE_REGISTRY = [
   {
@@ -143,6 +146,12 @@ async function withJobsStore() {
 
 function normalizeSpaces(value = '') {
   return String(value || '').replace(/\s+/g, ' ').trim();
+}
+
+function clampNumber(value, min, max, fallback = min) {
+  const numeric = Number(value);
+  if (!Number.isFinite(numeric)) return fallback;
+  return Math.min(max, Math.max(min, numeric));
 }
 
 function decodeHtmlEntities(value = '') {
@@ -302,6 +311,269 @@ function parseJsonSafely(raw = '') {
   } catch {
     return null;
   }
+}
+
+function extractFirstJsonObject(raw = '') {
+  const input = String(raw || '').trim();
+  if (!input) return null;
+
+  const direct = parseJsonSafely(input);
+  if (direct && typeof direct === 'object') return direct;
+
+  const fenced = input.match(/```(?:json)?\s*([\s\S]*?)```/i);
+  if (fenced?.[1]) {
+    const fromFence = parseJsonSafely(String(fenced[1]).trim());
+    if (fromFence && typeof fromFence === 'object') return fromFence;
+  }
+
+  const firstBrace = input.indexOf('{');
+  const lastBrace = input.lastIndexOf('}');
+  if (firstBrace >= 0 && lastBrace > firstBrace) {
+    const candidate = input.slice(firstBrace, lastBrace + 1);
+    const fromSlice = parseJsonSafely(candidate);
+    if (fromSlice && typeof fromSlice === 'object') return fromSlice;
+  }
+
+  return null;
+}
+
+function getPerplexityConfig() {
+  const apiKey = normalizeSpaces(process.env.PERPLEXITY_API_KEY || '');
+  const model = normalizeSpaces(process.env.PERPLEXITY_MODEL || PERPLEXITY_DEFAULT_MODEL) || PERPLEXITY_DEFAULT_MODEL;
+  const minConfidence = clampNumber(process.env.PILOT_JOBS_PERPLEXITY_MIN_CONFIDENCE, 0, 1, 0.72);
+
+  return {
+    enabled: Boolean(apiKey),
+    apiKey,
+    model,
+    minConfidence
+  };
+}
+
+function boolFromUnknown(value, fallback = false) {
+  if (typeof value === 'boolean') return value;
+  const normalized = normalizeSpaces(value).toLowerCase();
+  if (!normalized) return fallback;
+  if (['true', '1', 'yes', 'real', 'valid'].includes(normalized)) return true;
+  if (['false', '0', 'no', 'not-real', 'invalid'].includes(normalized)) return false;
+  return fallback;
+}
+
+function extractPerplexityMessageContent(payload = {}) {
+  const content = payload?.choices?.[0]?.message?.content;
+  if (typeof content === 'string') return content;
+  if (Array.isArray(content)) {
+    return content
+      .map((item) => {
+        if (typeof item === 'string') return item;
+        if (item && typeof item === 'object') return String(item.text || item.content || '');
+        return '';
+      })
+      .join('\n')
+      .trim();
+  }
+  return '';
+}
+
+function sanitizePerplexityReview(payload = {}) {
+  if (!payload || typeof payload !== 'object') return null;
+
+  const title = normalizeSpaces(payload.title || payload.jobTitle || payload.positionTitle || '');
+  const company = normalizeSpaces(payload.company || payload.employer || payload.hiringOrganization || '');
+  const location = normalizeSpaces(payload.location || payload.jobLocation || '');
+  const employmentType = normalizeSpaces(payload.employmentType || payload.type || '');
+  const postedAt = toIsoDateMaybe(payload.postedAt || payload.datePosted || payload.publishedAt || '');
+  const description = normalizeSpaces(stripTags(payload.description || payload.details || ''));
+  const summary = clampWords(stripTags(payload.summary || payload.shortSummary || description), 42);
+  const reason = normalizeSpaces(payload.reason || payload.notes || payload.rationale || '');
+  const confidence = clampNumber(payload.confidence, 0, 1, 0);
+  const isRealAviationJob = boolFromUnknown(payload.isRealAviationJob, confidence >= 0.7);
+
+  return {
+    title,
+    company,
+    location,
+    employmentType,
+    postedAt,
+    description,
+    summary,
+    reason,
+    confidence,
+    isRealAviationJob
+  };
+}
+
+function extractPageEvidence(html = '') {
+  const stripped = String(html || '')
+    .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<style[\s\S]*?<\/style>/gi, ' ');
+  return clampWords(stripTags(stripped), 220);
+}
+
+async function reviewJobWithPerplexity(options = {}) {
+  const config = getPerplexityConfig();
+  if (!config.enabled) {
+    return {
+      ok: false,
+      error: 'perplexity-not-configured'
+    };
+  }
+
+  const promptPayload = {
+    sourceName: normalizeSpaces(options?.source?.name || ''),
+    sourceId: normalizeSpaces(options?.source?.id || ''),
+    sourceUrl: canonicalizeUrl(options?.job?.sourceUrl || options?.pageUrl || ''),
+    applyUrl: canonicalizeUrl(options?.job?.applyUrl || options?.pageUrl || ''),
+    title: normalizeSpaces(options?.job?.title || ''),
+    company: normalizeSpaces(options?.job?.company || ''),
+    location: normalizeSpaces(options?.job?.location || ''),
+    employmentType: normalizeSpaces(options?.job?.employmentType || ''),
+    postedAt: normalizeSpaces(options?.job?.postedAt || ''),
+    summary: normalizeSpaces(options?.job?.summary || ''),
+    description: normalizeSpaces(options?.job?.description || ''),
+    pageEvidence: normalizeSpaces(options?.pageEvidence || '')
+  };
+
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), PERPLEXITY_TIMEOUT_MS);
+
+  try {
+    const response = await fetch(PERPLEXITY_ENDPOINT, {
+      method: 'POST',
+      signal: controller.signal,
+      headers: {
+        Authorization: `Bearer ${config.apiKey}`,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        model: config.model,
+        temperature: 0.1,
+        max_tokens: 900,
+        messages: [
+          {
+            role: 'system',
+            content: [
+              'You validate aviation hiring pages and extract structured job details.',
+              'Return only valid JSON with this exact schema:',
+              '{"isRealAviationJob":boolean,"confidence":number,"title":string,"company":string,"location":string,"employmentType":string,"postedAt":string,"summary":string,"description":string,"reason":string}',
+              'Rules:',
+              '- isRealAviationJob must be true only for a concrete job opening in aviation (pilot or other aviation role).',
+              '- confidence must be 0..1.',
+              '- title/company/location must be specific when present in evidence.',
+              '- summary must be one short paragraph and factual.',
+              '- do not fabricate details; if unknown return empty string for that field.'
+            ].join(' ')
+          },
+          {
+            role: 'user',
+            content: JSON.stringify(promptPayload)
+          }
+        ]
+      })
+    });
+
+    if (!response.ok) {
+      return {
+        ok: false,
+        error: `perplexity-http-${response.status}`
+      };
+    }
+
+    const payload = await response.json().catch(() => null);
+    const content = extractPerplexityMessageContent(payload);
+    const parsed = extractFirstJsonObject(content);
+    const review = sanitizePerplexityReview(parsed);
+
+    if (!review) {
+      return {
+        ok: false,
+        error: 'perplexity-invalid-json'
+      };
+    }
+
+    return {
+      ok: true,
+      ...review,
+      model: config.model
+    };
+  } catch {
+    return {
+      ok: false,
+      error: 'perplexity-request-failed'
+    };
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+function shouldReviewWithPerplexity(job = {}, validation = {}, state = {}) {
+  if (!state.enabled || state.remaining <= 0) return false;
+
+  const method = normalizeSpaces(job.extractionMethod || '').toLowerCase();
+  const hasThinDetails = !normalizeSpaces(job.description)
+    || normalizeSpaces(job.description).length < 120
+    || normalizeSpaces(job.company).toLowerCase() === 'unknown company'
+    || normalizeSpaces(job.location).toLowerCase() === 'location not specified';
+
+  const reviewableIssues = new Set([
+    'generic-page-title',
+    'not-aviation-relevant',
+    'noisy-summary',
+    'fallback-low-confidence',
+    'fallback-non-detail-url'
+  ]);
+  const hasReviewableIssues = Array.isArray(validation?.issues)
+    && validation.issues.some((issue) => reviewableIssues.has(issue));
+
+  return method.includes('fallback') || hasThinDetails || hasReviewableIssues || !validation.valid;
+}
+
+function applyPerplexityEnrichment(job = {}, review = {}) {
+  const title = normalizeSpaces(review.title || job.title || 'Aviation role');
+  const company = normalizeSpaces(review.company || job.company || 'Unknown company');
+  const location = normalizeSpaces(review.location || job.location || 'Location not specified');
+  const employmentType = normalizeSpaces(review.employmentType || job.employmentType || '');
+  const description = normalizeSpaces(review.description || job.description || '');
+  const summary = normalizeSpaces(review.summary || job.summary || clampWords(description, 42));
+  const postedAt = toIsoDateMaybe(review.postedAt || '') || job.postedAt;
+  const extractionMethodBase = normalizeSpaces(job.extractionMethod || 'fallback') || 'fallback';
+  const extractionMethod = extractionMethodBase.includes('perplexity')
+    ? extractionMethodBase
+    : `${extractionMethodBase}+perplexity`;
+
+  return {
+    ...job,
+    title,
+    company,
+    location,
+    country: inferCountry(location),
+    roleFamily: inferRoleFamily({ title, summary, description }),
+    employmentType,
+    description,
+    summary,
+    postedAt,
+    extractionMethod,
+    perplexityReviewedAt: new Date().toISOString(),
+    perplexityConfidence: clampNumber(review.confidence, 0, 1, 0),
+    perplexityVerdict: review.isRealAviationJob ? 'real-job' : 'not-real-job',
+    perplexityReason: normalizeSpaces(review.reason || ''),
+    perplexityModel: normalizeSpaces(review.model || '')
+  };
+}
+
+function computeQualityScore(validationScore = 0, review = null) {
+  let score = clampNumber(validationScore, 0, 100, 0);
+
+  if (review && typeof review === 'object') {
+    const confidence = clampNumber(review.confidence, 0, 1, 0);
+    if (review.isRealAviationJob) {
+      score += Math.round(confidence * 12);
+    } else {
+      score -= Math.round((1 - confidence) * 24 + 10);
+    }
+  }
+
+  return clampNumber(score, 0, 100, 0);
 }
 
 function extractJsonLdObjects(html = '') {
@@ -724,6 +996,20 @@ async function sleep(ms = 0) {
 }
 
 async function crawlSource(source = {}, runAt = '') {
+  const perplexityConfig = getPerplexityConfig();
+  let perplexityRemaining = Math.max(0, Math.floor(clampNumber(
+    source.perplexityBudget,
+    0,
+    300,
+    clampNumber(process.env.PILOT_JOBS_PERPLEXITY_BUDGET, 0, 300, 18)
+  )));
+  const perplexityMinConfidence = clampNumber(
+    source.perplexityMinConfidence,
+    0,
+    1,
+    perplexityConfig.minConfidence
+  );
+
   const telemetry = {
     sourceId: source.id,
     sourceName: source.name,
@@ -733,6 +1019,11 @@ async function crawlSource(source = {}, runAt = '') {
     jobsExtracted: 0,
     jobsAccepted: 0,
     jobsRejected: 0,
+    perplexityEnabled: perplexityConfig.enabled,
+    perplexityReviewed: 0,
+    perplexityAccepted: 0,
+    perplexityRejected: 0,
+    perplexityErrors: 0,
     errors: []
   };
 
@@ -791,11 +1082,61 @@ async function crawlSource(source = {}, runAt = '') {
 
     telemetry.jobsExtracted += extracted.length;
 
-    extracted.forEach((candidate) => {
-      const normalized = buildNormalizedJob(candidate, source, runAt);
-      const validation = validateJob(normalized);
+    const pageEvidence = extractPageEvidence(html);
 
-      normalized.qualityScore = validation.score;
+    for (const candidate of extracted) {
+      let normalized = buildNormalizedJob(candidate, source, runAt);
+      let validation = validateJob(normalized);
+      let perplexityReview = null;
+
+      if (shouldReviewWithPerplexity(normalized, validation, {
+        enabled: perplexityConfig.enabled,
+        remaining: perplexityRemaining
+      })) {
+        telemetry.perplexityReviewed += 1;
+        perplexityRemaining -= 1;
+
+        // eslint-disable-next-line no-await-in-loop
+        perplexityReview = await reviewJobWithPerplexity({
+          source,
+          job: normalized,
+          pageUrl: canonical,
+          pageEvidence
+        });
+
+        if (!perplexityReview?.ok) {
+          telemetry.perplexityErrors += 1;
+        } else {
+          normalized = applyPerplexityEnrichment(normalized, perplexityReview);
+          validation = validateJob(normalized);
+
+          if (!perplexityReview.isRealAviationJob || perplexityReview.confidence < perplexityMinConfidence) {
+            telemetry.perplexityRejected += 1;
+            telemetry.jobsRejected += 1;
+            rejected.push({
+              sourceId: source.id,
+              sourceName: source.name,
+              sourceUrl: normalized.sourceUrl || canonical,
+              title: normalized.title,
+              issues: [
+                ...validation.issues,
+                !perplexityReview.isRealAviationJob ? 'perplexity-not-real-job' : null,
+                perplexityReview.confidence < perplexityMinConfidence ? 'perplexity-low-confidence' : null
+              ].filter(Boolean),
+              qualityScore: computeQualityScore(validation.score, perplexityReview),
+              perplexity: {
+                confidence: perplexityReview.confidence,
+                reason: normalizeSpaces(perplexityReview.reason || '')
+              }
+            });
+            continue;
+          }
+
+          telemetry.perplexityAccepted += 1;
+        }
+      }
+
+      normalized.qualityScore = computeQualityScore(validation.score, perplexityReview?.ok ? perplexityReview : null);
 
       if (!validation.valid) {
         telemetry.jobsRejected += 1;
@@ -805,9 +1146,9 @@ async function crawlSource(source = {}, runAt = '') {
           sourceUrl: normalized.sourceUrl || canonical,
           title: normalized.title,
           issues: validation.issues,
-          qualityScore: validation.score
+          qualityScore: normalized.qualityScore
         });
-        return;
+        continue;
       }
 
       if (!isAviationRelevant(`${normalized.title} ${normalized.summary} ${normalized.description}`)) {
@@ -818,16 +1159,16 @@ async function crawlSource(source = {}, runAt = '') {
           sourceUrl: normalized.sourceUrl || canonical,
           title: normalized.title,
           issues: ['not-aviation-relevant'],
-          qualityScore: validation.score
+          qualityScore: normalized.qualityScore
         });
-        return;
+        continue;
       }
 
       if (!acceptedById.has(normalized.id)) {
         acceptedById.set(normalized.id, normalized);
         telemetry.jobsAccepted += 1;
       }
-    });
+    }
 
     if (current.depth < maxDepth) {
       const discovered = extractLinks(html, canonical, Array.from(allowedHosts))
@@ -1042,7 +1383,19 @@ async function syncPilotJobs(options = {}) {
     const withOverrides = {
       ...source,
       maxPages: Math.min(Number(options.maxPagesPerSource || source.maxPages || 24), 80),
-      maxDepth: Math.min(Number(options.maxDepth || source.maxDepth || 2), 4)
+      maxDepth: Math.min(Number(options.maxDepth || source.maxDepth || 2), 4),
+      perplexityBudget: clampNumber(
+        options.perplexityBudgetPerSource,
+        0,
+        300,
+        clampNumber(source.perplexityBudget, 0, 300, clampNumber(process.env.PILOT_JOBS_PERPLEXITY_BUDGET, 0, 300, 18))
+      ),
+      perplexityMinConfidence: clampNumber(
+        options.perplexityMinConfidence,
+        0,
+        1,
+        clampNumber(source.perplexityMinConfidence, 0, 1, getPerplexityConfig().minConfidence)
+      )
     };
 
     // eslint-disable-next-line no-await-in-loop
@@ -1064,14 +1417,18 @@ async function syncPilotJobs(options = {}) {
       `Source crawl completed: ${source.name}`,
       {
         pagesFetched: Number(crawled?.telemetry?.pagesFetched || 0),
-        discoveredUrls: Number(crawled?.telemetry?.discoveredUrls || 0),
-        jobsExtracted: Number(crawled?.telemetry?.jobsExtracted || 0),
-        jobsAccepted: Number(crawled?.telemetry?.jobsAccepted || 0),
-        jobsRejected: Number(crawled?.telemetry?.jobsRejected || 0),
-        skippedByRobots: Number(crawled?.telemetry?.skippedByRobots || 0),
-        sampleRejected
-      },
-      source
+          discoveredUrls: Number(crawled?.telemetry?.discoveredUrls || 0),
+          jobsExtracted: Number(crawled?.telemetry?.jobsExtracted || 0),
+          jobsAccepted: Number(crawled?.telemetry?.jobsAccepted || 0),
+          jobsRejected: Number(crawled?.telemetry?.jobsRejected || 0),
+          skippedByRobots: Number(crawled?.telemetry?.skippedByRobots || 0),
+          perplexityReviewed: Number(crawled?.telemetry?.perplexityReviewed || 0),
+          perplexityAccepted: Number(crawled?.telemetry?.perplexityAccepted || 0),
+          perplexityRejected: Number(crawled?.telemetry?.perplexityRejected || 0),
+          perplexityErrors: Number(crawled?.telemetry?.perplexityErrors || 0),
+          sampleRejected
+        },
+        source
     );
 
     if (sampleRejected.length) {
@@ -1142,6 +1499,12 @@ async function syncPilotJobs(options = {}) {
     active: mergedJobs.filter((item) => item.status === 'active').length,
     expired: mergedJobs.filter((item) => item.status === 'expired').length,
     hidden: mergedJobs.filter((item) => item.status === 'hidden').length,
+    perplexity: {
+      reviewed: sourceTelemetry.reduce((acc, item) => acc + Number(item?.perplexityReviewed || 0), 0),
+      accepted: sourceTelemetry.reduce((acc, item) => acc + Number(item?.perplexityAccepted || 0), 0),
+      rejected: sourceTelemetry.reduce((acc, item) => acc + Number(item?.perplexityRejected || 0), 0),
+      errors: sourceTelemetry.reduce((acc, item) => acc + Number(item?.perplexityErrors || 0), 0)
+    },
     total: mergedJobs.length,
     sourceTelemetry
   };
@@ -1153,6 +1516,7 @@ async function syncPilotJobs(options = {}) {
     active: summary.active,
     expired: summary.expired,
     hidden: summary.hidden,
+    perplexity: summary.perplexity,
     total: summary.total
   });
 
