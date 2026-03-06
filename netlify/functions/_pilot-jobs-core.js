@@ -58,12 +58,57 @@ const SOURCE_REGISTRY = [
 let jobsStorePromise = null;
 const robotsCache = new Map();
 const LOG_LIMIT = 480;
+const memoryBlobData = new Map();
+
+function createMemoryStore() {
+  return {
+    async get(key, options = {}) {
+      if (!memoryBlobData.has(key)) return null;
+      const value = memoryBlobData.get(key);
+      if (options?.type === 'json') {
+        return JSON.parse(JSON.stringify(value));
+      }
+      return value;
+    },
+    async set(key, value) {
+      memoryBlobData.set(key, value);
+    },
+    async delete(key) {
+      memoryBlobData.delete(key);
+    },
+    async list(options = {}) {
+      const prefix = String(options?.prefix || '');
+      const limitRaw = Number(options?.limit || 1000);
+      const limit = Number.isFinite(limitRaw) && limitRaw > 0 ? Math.floor(limitRaw) : 1000;
+      const cursorRaw = Number(options?.cursor || 0);
+      const cursor = Number.isFinite(cursorRaw) && cursorRaw >= 0 ? Math.floor(cursorRaw) : 0;
+
+      const keys = Array.from(memoryBlobData.keys())
+        .filter((key) => !prefix || String(key).startsWith(prefix))
+        .sort((a, b) => String(a).localeCompare(String(b)));
+
+      const slice = keys.slice(cursor, cursor + limit);
+      const nextIndex = cursor + slice.length;
+      const hasMore = nextIndex < keys.length;
+
+      return {
+        blobs: slice.map((key) => ({ key })),
+        hasMore,
+        cursor: hasMore ? String(nextIndex) : null
+      };
+    }
+  };
+}
 
 async function withJobsStore() {
   if (!jobsStorePromise) {
     jobsStorePromise = (async () => {
-      const { getStore } = require('@netlify/blobs');
-      return getStore('pilot-jobs');
+      try {
+        const { getStore } = require('@netlify/blobs');
+        return getStore('pilot-jobs');
+      } catch {
+        return createMemoryStore();
+      }
     })();
   }
 
