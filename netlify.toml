@@ -19,6 +19,11 @@
   status = 200
 
 [[redirects]]
+  from = "/api/pilot-jobs-sync-background"
+  to = "/.netlify/functions/pilot-jobs-sync-background"
+  status = 200
+
+[[redirects]]
   from = "/news-sitemap.xml"
   to = "/.netlify/functions/news-sitemap"
   status = 200
