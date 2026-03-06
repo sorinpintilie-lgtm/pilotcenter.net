@@ -1696,6 +1696,32 @@ async function writeState(state = {}) {
   await store.set('state', state, { type: 'json' });
 }
 
+function safeJsonClone(value) {
+  try {
+    return JSON.parse(JSON.stringify(value));
+  } catch {
+    return null;
+  }
+}
+
+async function appendLiveCrawlerLog(entry = {}) {
+  const store = await withJobsStore();
+  const current = await store.get('logs', { type: 'json' });
+  const existingItems = Array.isArray(current?.items)
+    ? current.items.map((item) => enrichLogEntry(item))
+    : [];
+  const normalized = enrichLogEntry(entry);
+  const merged = [...existingItems, normalized].slice(-LOG_LIMIT);
+
+  const payload = {
+    updatedAt: new Date().toISOString(),
+    items: merged.map((item) => safeJsonClone(item) || normalizeCrawlerLogEntry(item))
+  };
+
+  await store.set('logs', payload, { type: 'json' });
+  return merged;
+}
+
 function normalizeCrawlerLogEntry(entry = {}) {
   return {
     at: normalizeSpaces(entry.at || '') || new Date().toISOString(),
@@ -1782,7 +1808,7 @@ async function syncPilotJobs(options = {}) {
     syncLogs.push(entry);
 
     if (liveLogsEnabled) {
-      await appendCrawlerLogs([entry]);
+      await appendLiveCrawlerLog(entry);
     }
   };
 
