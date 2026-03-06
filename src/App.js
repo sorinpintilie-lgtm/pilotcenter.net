@@ -15,6 +15,7 @@ import ICAORoute from './pages/ICAORoute';
 import Costs from './pages/Costs';
 import FlightSchools from './pages/FlightSchools';
 import PilotJobs from './pages/PilotJobs';
+import PilotJobDetail from './pages/PilotJobDetail';
 import News from './pages/News';
 import NewsArticle from './pages/NewsArticle';
 import AdminNewsDashboard from './pages/AdminNewsDashboard';
@@ -50,6 +51,7 @@ function App() {
               <Route path="/schools" element={<FlightSchools />} />
               <Route path="/schools/:slug" element={<FlightSchoolDetail />} />
               <Route path="/latest-pilot-jobs" element={<PilotJobs />} />
+              <Route path="/latest-pilot-jobs/:slug" element={<PilotJobDetail />} />
               <Route path="/news-and-resources" element={<News />} />
               <Route path="/news-and-resources/:slug" element={<NewsArticle />} />
               <Route path="/admin" element={<AdminNewsDashboard />} />

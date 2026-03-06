@@ -100,9 +100,9 @@ function getMetaForPath(pathname) {
       canonical: '/flightschools'
     },
     '/latest-pilot-jobs': {
-      title: 'Pilot Jobs & Career Resources | Aviation Career Support',
+      title: 'Latest Pilot Jobs | Live Aviation Career Openings',
       description:
-        'Access pilot job resources, career guidance, and actionable insights to prepare for airline and commercial aviation opportunities.'
+        'Browse live pilot and aviation jobs with source attribution, short summaries, and direct apply links to original postings.'
     },
   '/news-and-resources': {
       title: 'Aviation News & Resources | PilotCenter.net',
@@ -247,6 +247,20 @@ function getMetaForPath(pathname) {
       type: 'article',
       keywords: keywordSet,
       schema: articleSchema
+    };
+  }
+
+  if (pathname.startsWith('/latest-pilot-jobs/')) {
+    const jobSlug = pathname.replace('/latest-pilot-jobs/', '').trim();
+    const jobTitle = slugToTitle(jobSlug.replace(/-[a-z0-9]{4,8}$/i, ''));
+
+    return {
+      title: `${jobTitle} | Pilot Jobs | PilotCenter.net`,
+      description:
+        `View this aviation opportunity on PilotCenter.net and apply directly on the original source listing.`,
+      robots: 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1',
+      canonical: buildCanonical(pathname),
+      type: 'article'
     };
   }
 

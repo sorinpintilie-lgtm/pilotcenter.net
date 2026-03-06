@@ -14,12 +14,20 @@
   status = 200
 
 [[redirects]]
+  from = "/api/pilot-jobs"
+  to = "/.netlify/functions/pilot-jobs"
+  status = 200
+
+[[redirects]]
   from = "/news-sitemap.xml"
   to = "/.netlify/functions/news-sitemap"
   status = 200
 
 [functions."news-prewarm"]
   schedule = "*/30 * * * *"
+
+[functions."pilot-jobs-sync"]
+  schedule = "12 2 * * *"
 
 [[redirects]]
   from = "/*"

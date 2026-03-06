@@ -1,0 +1,87 @@
+.pilot-job-detail-hero {
+  padding-bottom: 40px;
+}
+
+.pilot-job-detail-section {
+  padding: 30px 0 44px;
+}
+
+.pilot-job-detail-status {
+  margin: 0 0 16px;
+  padding: 11px 14px;
+  border-radius: 11px;
+  background: #ffffff;
+  border: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.pilot-job-detail-card {
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: #fff;
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.06);
+  padding: 18px;
+  display: grid;
+  gap: 16px;
+}
+
+.pilot-job-detail-meta-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  font-size: 14px;
+  color: var(--text);
+}
+
+.pilot-job-detail-body {
+  display: grid;
+  gap: 10px;
+}
+
+.pilot-job-detail-body p {
+  line-height: 1.65;
+  color: var(--text);
+  font-size: 15px;
+}
+
+.pilot-job-detail-actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.pilot-job-detail-back,
+.pilot-job-detail-apply {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  font-size: 13px;
+  font-weight: 700;
+  border-radius: 10px;
+  padding: 8px 12px;
+  border: 1px solid var(--accent);
+}
+
+.pilot-job-detail-back {
+  color: var(--accent);
+  background: #fff;
+}
+
+.pilot-job-detail-apply {
+  color: #fff;
+  background: var(--accent);
+}
+
+@media (max-width: 899px) {
+  .pilot-job-detail-meta-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .pilot-job-detail-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
+
