@@ -680,7 +680,6 @@ async function reviewJobWithPerplexity(options = {}) {
             model: config.model,
             temperature: 0,
             max_tokens: 1100,
-            response_format: { type: 'json_object' },
             messages: [
               {
                 role: 'system',
@@ -728,9 +727,10 @@ async function reviewJobWithPerplexity(options = {}) {
       }
 
       if (!response.ok) {
+        const errorBody = await response.text().catch(() => '');
         return {
           ok: false,
-          error: `perplexity-http-${response.status}`,
+          error: `perplexity-http-${response.status}${errorBody ? `:${normalizeSpaces(errorBody).slice(0, 220)}` : ''}`,
           attempts: attempt + 1
         };
       }
@@ -1849,10 +1849,10 @@ async function appendCrawlerLogs(entries = []) {
   const merged = [...existing, ...normalizedIncoming].slice(-LOG_LIMIT);
   const store = await withJobsStore();
 
-  await store.set('logs', {
+  await store.set('logs', JSON.stringify({
     updatedAt: new Date().toISOString(),
     items: merged
-  });
+  }));
 
   return merged;
 }
@@ -1905,15 +1905,18 @@ async function syncPilotJobs(options = {}) {
   const syncLogs = [];
 
   const addLog = async (level, event, message, meta = {}, source = {}) => {
-    const entry = normalizeCrawlerLogEntry({
-      at: new Date().toISOString(),
-      level,
-      event,
-      sourceId: source?.id || '',
-      sourceName: source?.name || '',
-      message,
-      meta
-    });
+    const isStructuredEntry = level && typeof level === 'object' && !Array.isArray(level);
+    const entry = isStructuredEntry
+      ? normalizeCrawlerLogEntry(level)
+      : normalizeCrawlerLogEntry({
+        at: new Date().toISOString(),
+        level,
+        event,
+        sourceId: source?.id || '',
+        sourceName: source?.name || '',
+        message,
+        meta
+      });
 
     syncLogs.push(entry);
 
