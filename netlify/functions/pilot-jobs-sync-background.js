@@ -56,6 +56,11 @@ function pickNumber(value, fallback = undefined) {
   return numeric;
 }
 
+function toBoolean(value = '') {
+  const normalized = normalizeSpaces(value).toLowerCase();
+  return normalized === '1' || normalized === 'true' || normalized === 'yes';
+}
+
 function collectSyncOptions(event = {}) {
   const query = event.queryStringParameters || {};
   const body = parseJsonBody(event);
@@ -67,7 +72,8 @@ function collectSyncOptions(event = {}) {
     maxDepth: pickNumber(query.maxDepth ?? options.maxDepth),
     perplexityBudgetPerSource: pickNumber(query.perplexityBudgetPerSource ?? options.perplexityBudgetPerSource),
     perplexityMinConfidence: pickNumber(query.perplexityMinConfidence ?? options.perplexityMinConfidence),
-    liveLogs: true
+    liveLogs: true,
+    logToConsole: toBoolean(query.logToConsole ?? options.logToConsole ?? '1')
   };
 }
 

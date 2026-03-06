@@ -1813,6 +1813,8 @@ async function syncPilotJobs(options = {}) {
   const sourceLimit = Number(options.sourceLimit || SOURCE_REGISTRY.length);
   const nowMs = Date.now();
   const liveLogsEnabled = options.liveLogs !== false;
+  const consoleLogsEnabled = options.logToConsole === true
+    || normalizeSpaces(process.env.PILOT_JOBS_CONSOLE_LOGS || '') === '1';
   const syncLogs = [];
 
   const addLog = async (level, event, message, meta = {}, source = {}) => {
@@ -1827,6 +1829,16 @@ async function syncPilotJobs(options = {}) {
     });
 
     syncLogs.push(entry);
+
+    if (consoleLogsEnabled) {
+      try {
+        // eslint-disable-next-line no-console
+        console.log(`[pilot-jobs] ${buildReadableLogLine(entry)}`);
+      } catch {
+        // eslint-disable-next-line no-console
+        console.log(`[pilot-jobs] ${entry.level} ${entry.event} ${entry.message}`);
+      }
+    }
 
     if (liveLogsEnabled) {
       await appendLiveCrawlerLog(entry);
