@@ -115,7 +115,7 @@ export default function PilotJobsLogs() {
     }
 
     setTriggerLoading(true);
-    setTriggerStatus('Starting Perplexity-first crawl...');
+    setTriggerStatus('Submitting Perplexity-first background crawl request...');
 
     const params = new URLSearchParams({
       token: token.trim(),
@@ -130,9 +130,7 @@ export default function PilotJobsLogs() {
 
     const endpoints = [
       `/api/pilot-jobs-sync-background?${params.toString()}`,
-      `/.netlify/functions/pilot-jobs-sync-background?${params.toString()}`,
-      `/api/pilot-jobs?action=sync&${params.toString()}`,
-      `/.netlify/functions/pilot-jobs?action=sync&${params.toString()}`
+      `/.netlify/functions/pilot-jobs-sync-background?${params.toString()}`
     ];
 
     let success = false;
@@ -149,18 +147,26 @@ export default function PilotJobsLogs() {
           payload = null;
         }
 
-        if (!response.ok || !payload) {
-          failureDetails = `Endpoint ${endpoint} returned ${response.status}.`;
+        if (response.status === 202) {
+          success = true;
+          setTriggerStatus(`Background crawl accepted via ${endpoint}. Watch live logs below as jobs are processed.`);
+          break;
+        }
+
+        if (!response.ok) {
+          failureDetails = payload?.details
+            || payload?.error
+            || (text ? `Endpoint ${endpoint} returned ${response.status}: ${text.slice(0, 220)}` : `Endpoint ${endpoint} returned ${response.status}.`);
           continue;
         }
 
-        if (payload.ok === false) {
+        if (payload && payload.ok === false) {
           failureDetails = payload.details || payload.error || `Endpoint ${endpoint} returned a failure payload.`;
           continue;
         }
 
         success = true;
-        setTriggerStatus(`Crawl started/completed via ${endpoint}. Watch the log stream below.`);
+        setTriggerStatus(`Crawl started via ${endpoint}. Watch live logs below as jobs are found and stored.`);
         break;
       } catch {
         failureDetails = `Network failure calling ${endpoint}.`;
