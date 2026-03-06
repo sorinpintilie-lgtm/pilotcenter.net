@@ -53,6 +53,35 @@ async function fetchLogsFeed(token = '', limit = 240) {
   throw lastError || new Error('Unable to fetch logs feed');
 }
 
+function logFingerprint(entries = []) {
+  const first = Array.isArray(entries) && entries.length ? entries[0] : null;
+  if (!first) return 'empty';
+  return `${String(first.at || '')}|${String(first.event || '')}|${String(first.message || '')}`;
+}
+
+async function probeLogsProgress(token = '', previousFingerprint = '', attempts = 3, waitMs = 2200) {
+  for (let i = 0; i < attempts; i += 1) {
+    await new Promise((resolve) => setTimeout(resolve, waitMs));
+    try {
+      const payload = await fetchLogsFeed(token, 280);
+      const currentFingerprint = logFingerprint(payload.logs || []);
+      if (currentFingerprint !== previousFingerprint) {
+        return {
+          progressed: true,
+          payload
+        };
+      }
+    } catch {
+      // keep probing
+    }
+  }
+
+  return {
+    progressed: false,
+    payload: null
+  };
+}
+
 export default function PilotJobsLogs() {
   const [token, setToken] = useState('');
   const [pendingToken, setPendingToken] = useState('');
@@ -115,22 +144,33 @@ export default function PilotJobsLogs() {
     }
 
     setTriggerLoading(true);
-    setTriggerStatus('Submitting Perplexity-first background crawl request...');
+    setTriggerStatus('Submitting Perplexity-first crawl request...');
 
-    const params = new URLSearchParams({
-      token: token.trim(),
-      sourceLimit: '20',
-      maxPagesPerSource: '80',
-      maxDepth: '4',
-      perplexityBudgetPerSource: '220',
-      perplexityMinConfidence: '0.72',
-      logToConsole: '1',
-      forcePerplexityStrict: '1'
-    });
+    const options = {
+      sourceLimit: 20,
+      maxPagesPerSource: 80,
+      maxDepth: 4,
+      perplexityBudgetPerSource: 220,
+      perplexityMinConfidence: 0.72,
+      logToConsole: true,
+      forcePerplexityStrict: true
+    };
+
+    const previousFingerprint = logFingerprint(logs);
+
+    const requestInit = {
+      method: 'POST',
+      headers: {
+        Accept: 'application/json',
+        'Content-Type': 'application/json',
+        'X-Pilot-Jobs-Token': token.trim()
+      },
+      body: JSON.stringify({ options })
+    };
 
     const endpoints = [
-      `/api/pilot-jobs-sync-background?${params.toString()}`,
-      `/.netlify/functions/pilot-jobs-sync-background?${params.toString()}`
+      '/api/pilot-jobs-sync-background',
+      '/.netlify/functions/pilot-jobs-sync-background'
     ];
 
     let success = false;
@@ -138,7 +178,7 @@ export default function PilotJobsLogs() {
 
     for (const endpoint of endpoints) {
       try {
-        const response = await fetch(endpoint, { headers: { Accept: 'application/json' } });
+        const response = await fetch(endpoint, requestInit);
         const text = await response.text();
         let payload = null;
         try {
@@ -148,9 +188,75 @@ export default function PilotJobsLogs() {
         }
 
         if (response.status === 202) {
-          success = true;
-          setTriggerStatus(`Background crawl accepted via ${endpoint}. Watch live logs below as jobs are processed.`);
-          break;
+          const probe = await probeLogsProgress(token.trim(), previousFingerprint, 4, 2200);
+
+          if (probe.progressed) {
+            setLogs(Array.isArray(probe.payload?.logs) ? probe.payload.logs : []);
+            setStoreInfo(probe.payload?.store || null);
+            setLastUpdatedAt(new Date().toISOString());
+            success = true;
+            setTriggerStatus(`Background crawl confirmed via ${endpoint}. New logs are streaming below.`);
+            break;
+          }
+
+          const directFallbackEndpoints = [
+            '/api/pilot-jobs',
+            '/.netlify/functions/pilot-jobs'
+          ];
+
+          let fallbackTriggered = false;
+          for (const fallbackEndpoint of directFallbackEndpoints) {
+            try {
+              const fallbackResponse = await fetch(fallbackEndpoint, {
+                method: 'POST',
+                headers: requestInit.headers,
+                body: JSON.stringify({
+                  action: 'sync',
+                  options: {
+                    ...options,
+                    sourceLimit: 1,
+                    maxPagesPerSource: 8,
+                    maxDepth: 2,
+                    perplexityBudgetPerSource: 18
+                  }
+                })
+              });
+
+              const fallbackText = await fallbackResponse.text();
+              let fallbackPayload = null;
+              try {
+                fallbackPayload = JSON.parse(fallbackText);
+              } catch {
+                fallbackPayload = null;
+              }
+
+              if (fallbackResponse.ok && fallbackPayload?.ok) {
+                fallbackTriggered = true;
+                const refreshed = await fetchLogsFeed(token.trim(), 280).catch(() => null);
+                if (refreshed?.logs) {
+                  setLogs(refreshed.logs);
+                  setStoreInfo(refreshed.store || null);
+                  setLastUpdatedAt(new Date().toISOString());
+                }
+                setTriggerStatus(`Background queue was accepted but inactive; direct sync fallback started via ${fallbackEndpoint}.`);
+                break;
+              }
+
+              failureDetails = fallbackPayload?.details
+                || fallbackPayload?.error
+                || `Fallback ${fallbackEndpoint} returned ${fallbackResponse.status}.`;
+            } catch {
+              failureDetails = `Fallback network failure calling ${fallbackEndpoint}.`;
+            }
+          }
+
+          if (fallbackTriggered) {
+            success = true;
+            break;
+          }
+
+          failureDetails = 'Background request accepted but no crawler activity was detected.';
+          continue;
         }
 
         if (!response.ok) {

@@ -97,7 +97,10 @@ exports.handler = async (event) => {
           maxPagesPerSource: Number(query.maxPagesPerSource || 0) || undefined,
           maxDepth: Number(query.maxDepth || 0) || undefined,
           perplexityBudgetPerSource: Number(query.perplexityBudgetPerSource || 0) || undefined,
-          perplexityMinConfidence: Number(query.perplexityMinConfidence || 0) || undefined
+          perplexityMinConfidence: Number(query.perplexityMinConfidence || 0) || undefined,
+          logToConsole: toBoolean(query.logToConsole || ''),
+          forcePerplexityStrict: toBoolean(query.forcePerplexityStrict || ''),
+          liveLogs: !toBoolean(query.disableLiveLogs || '')
         });
 
         return jsonResponse(200, {
@@ -186,7 +189,10 @@ exports.handler = async (event) => {
           maxPagesPerSource: Number(body?.options?.maxPagesPerSource || 0) || undefined,
           maxDepth: Number(body?.options?.maxDepth || 0) || undefined,
           perplexityBudgetPerSource: Number(body?.options?.perplexityBudgetPerSource || 0) || undefined,
-          perplexityMinConfidence: Number(body?.options?.perplexityMinConfidence || 0) || undefined
+          perplexityMinConfidence: Number(body?.options?.perplexityMinConfidence || 0) || undefined,
+          logToConsole: toBoolean(body?.options?.logToConsole || ''),
+          forcePerplexityStrict: toBoolean(body?.options?.forcePerplexityStrict || ''),
+          liveLogs: body?.options?.disableLiveLogs ? false : true
         });
 
         return jsonResponse(200, {
