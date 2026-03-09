@@ -1,5 +1,9 @@
+.faa-page {
+  background: #f7fbff;
+}
+
 .faa-hero {
-  padding: 32px 0 20px;
+  padding: 36px 0 24px;
 }
 
 .faa-hero-container {
@@ -22,7 +26,8 @@
 .faa-hero-image {
   width: 100%;
   height: auto;
-  border-radius: 8px;
+  border-radius: 12px;
+  box-shadow: 0 10px 28px rgba(15, 23, 42, 0.12);
 }
 
 .faa-kicker {
@@ -45,8 +50,8 @@
 
 /* EXPERT SUPPORT SECTION - FULL WIDTH WHITE CONTAINER */
 .faa-expert-support {
-  padding: 0 0 12px 0; /* Remove top padding to eliminate spacing with hero */
-  margin-top: 0; /* Ensure no margin at top */
+  padding: 0 0 16px 0;
+  margin-top: 0;
 }
 
 .faa-expert-support-container {
@@ -75,70 +80,129 @@
 .faa-expert-support-column .block-muted-inner {
   width: 100%;
   max-width: 100%;
+  border-radius: 12px;
+  border: 1px solid #dbe6f6;
+  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.08);
 }
 
-/* Make Expert Support text smaller */
 .faa-expert-support-column .block-muted-inner h3 {
-  font-size: 18px !important;
+  font-size: 20px;
+  margin-bottom: 10px;
 }
 
 .faa-expert-support-column .block-muted-inner p {
-  font-size: 14px !important;
-  line-height: 1.5 !important;
+  font-size: 15px;
+  line-height: 1.65;
 }
 
 /* TWO-COLUMN GRID LAYOUT - LIKE BECOME A PILOT */
 .faa-two-column-container {
-  background-color: #cce0ff;
+  background: linear-gradient(180deg, #eef5ff 0%, #e3efff 100%);
   width: 100%;
-  padding: 40px 20px;
-  margin: 20px 0;
+  padding: 34px 20px;
+  margin: 14px 0 20px;
+  border-top: 1px solid #d9e6f7;
+  border-bottom: 1px solid #d9e6f7;
 }
 
 .faa-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 0px;
+  gap: 16px;
   max-width: 1200px;
   margin: 0 auto;
-  align-items: center;
-  justify-items: center;
+  align-items: stretch;
 }
 
 .faa-text-content {
-  text-align: center;
+  text-align: left;
   width: 100%;
-  height: 100%;
+  min-height: 100%;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: 20px 40px;
-  margin: 20px 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 22px 24px;
+  margin: 0;
+  border-radius: 12px;
+  border: 1px solid #dbe6f6;
+  background: #ffffff;
+  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.08);
 }
 
 .faa-image-content {
   text-align: center;
   width: 100%;
-  height: 100%;
+  min-height: 240px;
   display: flex;
-  align-items: center;
+  align-items: stretch;
   justify-content: center;
+  margin: 0;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.12);
 }
 
 .faa-grid-image {
   width: 100%;
   height: 100%;
+  min-height: 240px;
   object-fit: cover;
-  border-radius: 8px;
+  border-radius: 12px;
+  transition: transform 0.35s ease;
+}
+
+.faa-image-content:hover .faa-grid-image {
+  transform: scale(1.02);
 }
 
 .faa-full-width {
   grid-column: 1 / -1;
   width: 100%;
   text-align: center;
-  padding: 20px 40px;
-  margin: 20px 0;
+  padding: 24px 28px;
+  margin: 0;
+  border-radius: 14px;
+  border: 1px solid #dbe6f6;
+  background: #ffffff;
+  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.08);
+}
+
+.faa-full-width h2,
+.faa-full-width h3 {
+  margin-bottom: 10px;
+}
+
+.faa-full-width p {
+  max-width: 920px;
+  margin: 0 auto;
+  line-height: 1.7;
+}
+
+.faa-text-content h4 {
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 0 0 8px;
+}
+
+.faa-text-content h3 {
+  font-size: 21px;
+  line-height: 1.35;
+  margin: 0 0 10px;
+  color: var(--title);
+}
+
+.faa-text-content p {
+  font-size: 15px;
+  line-height: 1.65;
+  margin: 0 0 10px;
+  color: var(--text);
+}
+
+.faa-text-content p:last-child {
+  margin-bottom: 0;
 }
 
 .faa-section,
@@ -216,19 +280,19 @@
   }
 
   .faa-text-content h3, .faa-full-width h3 {
-    font-size: 17px;
+    font-size: 18px;
   }
 
   .faa-text-content h4 {
-    font-size: 14px;
+    font-size: 11px;
     color: var(--accent);
-    margin-bottom: 4px;
+    margin-bottom: 6px;
     font-weight: 600;
   }
 
   .faa-text-content p, .faa-full-width p {
     font-size: 14px;
-    line-height: 1.8;
+    line-height: 1.7;
   }
 
   /* Make hero section stack on mobile - hero image on its own row */
@@ -253,15 +317,24 @@
   /* Make grid single column on mobile */
   .faa-grid {
     grid-template-columns: 1fr;
+    gap: 12px;
   }
 
   .faa-full-width {
-    margin: 10px 0;
-    padding: 15px 20px;
+    margin: 0;
+    padding: 18px 20px;
   }
 
   .faa-text-content, .faa-image-content {
-    margin: 10px 0;
-    padding: 15px 20px;
+    margin: 0;
+    padding: 16px 18px;
+  }
+
+  .faa-image-content {
+    min-height: 210px;
+  }
+
+  .faa-grid-image {
+    min-height: 210px;
   }
 }
