@@ -1,40 +1,48 @@
-import React, { useEffect } from 'react';
+import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 import './Costs.css';
 
 function Costs() {
-  useEffect(() => {
-    // Add click event listeners to the option columns
-    const columns = document.querySelectorAll('.costs-option-column');
-    const contentTexts = document.querySelectorAll('.costs-content-text');
+  const [activeCostTab, setActiveCostTab] = useState('easa');
 
-    const handleColumnClick = (column) => {
-      // Remove active class from all columns and content
-      columns.forEach(col => col.classList.remove('active'));
-      contentTexts.forEach(content => content.classList.remove('active'));
+  const costTabs = [
+    {
+      key: 'easa',
+      title: 'EASA Cost Breakdown',
+      heading: 'EASA Route (Europe)',
+      lines: [
+        { label: 'Private Pilot License (PPL):', value: '€10,000 - €15,000' },
+        { label: 'Commercial Pilot License (CPL):', value: '€30,000 - €45,000' },
+        { label: 'Airline Transport Pilot License (ATPL):', value: '€70,000 - €100,000' }
+      ],
+      summary: 'This route generally has higher costs due to stringent requirements and specific certifications. However, completing EASA training can open doors to flying with European and other international airlines.'
+    },
+    {
+      key: 'faa',
+      title: 'FAA Cost Breakdown',
+      heading: 'FAA Route (United States)',
+      lines: [
+        { label: 'Private Pilot License (PPL):', value: '$8,000 - $12,000' },
+        { label: 'Commercial Pilot License (CPL):', value: '$20,000 - $35,000' },
+        { label: 'Airline Transport Pilot License (ATP):', value: '$60,000 - $80,000' }
+      ],
+      summary: 'The FAA path tends to be more affordable compared to the EASA route and is widely recognized by airlines based in the U.S. and other ICAO-member countries.'
+    },
+    {
+      key: 'icao',
+      title: 'ICAO Cost Breakdown',
+      heading: 'ICAO Route (Rest of the World)',
+      lines: [
+        { label: 'Private Pilot License (PPL):', value: '$10,000 - $18,000 (depending on the region)' },
+        { label: 'Commercial Pilot License (CPL):', value: '$25,000 - $40,000' },
+        { label: 'Airline Transport Pilot License (ATPL):', value: '$60,000 - $90,000' }
+      ],
+      summary: 'ICAO offers a flexible path for those looking to work with international airlines or in countries outside Europe and the U.S. The costs can vary significantly depending on the country and training institution.'
+    }
+  ];
 
-      // Add active class to clicked column
-      column.classList.add('active');
+  const activeTab = costTabs.find((tab) => tab.key === activeCostTab) || costTabs[0];
 
-      // Show corresponding content
-      const contentId = column.getAttribute('data-content') + '-content';
-      const contentToShow = document.getElementById(contentId);
-      if (contentToShow) {
-        contentToShow.classList.add('active');
-      }
-    };
-
-    // Add event listeners
-    columns.forEach(column => {
-      column.addEventListener('click', () => handleColumnClick(column));
-    });
-
-    // Cleanup function
-    return () => {
-      columns.forEach(column => {
-        column.removeEventListener('click', () => handleColumnClick(column));
-      });
-    };
-  }, []);
   return (
     <div className="costs-page">
       <section className="new-hero">
@@ -64,48 +72,34 @@ function Costs() {
       <section className="costs-options">
         <h2 className="costs-options-title">Here's what you can typically expect:</h2>
         <div className="costs-options-container">
-          <div className="costs-option-column active" data-content="easa">
-            <h3 className="costs-option-title">EASA Cost Breakdown</h3>
-          </div>
-
-          <div className="costs-option-column" data-content="faa">
-            <h3 className="costs-option-title">FAA Cost Breakdown</h3>
-          </div>
-
-          <div className="costs-option-column" data-content="icao">
-            <h3 className="costs-option-title">ICAO Cost Breakdown</h3>
-          </div>
+          {costTabs.map((tab) => (
+            <button
+              key={tab.key}
+              type="button"
+              className={`costs-option-column${activeCostTab === tab.key ? ' active' : ''}`}
+              onClick={() => setActiveCostTab(tab.key)}
+              aria-pressed={activeCostTab === tab.key}
+            >
+              <h3 className="costs-option-title">{tab.title}</h3>
+            </button>
+          ))}
         </div>
 
         <div className="costs-content-display">
-          <div className="costs-content-text active" id="easa-content">
-            <h3>EASA Route (Europe)</h3>
-            <p><strong>Private Pilot License (PPL):</strong> €10,000 - €15,000</p>
-            <p><strong>Commercial Pilot License (CPL):</strong> €30,000 - €45,000</p>
-            <p><strong>Airline Transport Pilot License (ATPL):</strong> €70,000 - €100,000</p>
-            <p>This route generally has higher costs due to stringent requirements and specific certifications. However, completing EASA training can open doors to flying with European and other international airlines.</p>
-          </div>
-
-          <div className="costs-content-text" id="faa-content">
-            <h3>FAA Route (United States)</h3>
-            <p><strong>Private Pilot License (PPL):</strong> $8,000 - $12,000</p>
-            <p><strong>Commercial Pilot License (CPL):</strong> $20,000 - $35,000</p>
-            <p><strong>Airline Transport Pilot License (ATP):</strong> $60,000 - $80,000</p>
-            <p>The FAA path tends to be more affordable compared to the EASA route and is widely recognized by airlines based in the U.S. and other ICAO-member countries.</p>
-          </div>
-
-          <div className="costs-content-text" id="icao-content">
-            <h3>ICAO Route (Rest of the World)</h3>
-            <p><strong>Private Pilot License (PPL):</strong> $10,000 - $18,000 (depending on the region)</p>
-            <p><strong>Commercial Pilot License (CPL):</strong> $25,000 - $40,000</p>
-            <p><strong>Airline Transport Pilot License (ATPL):</strong> $60,000 - $90,000</p>
-            <p>ICAO offers a flexible path for those looking to work with international airlines or in countries outside Europe and the U.S. The costs can vary significantly depending on the country and training institution.</p>
+          <div className="costs-content-text active">
+            <h3>{activeTab.heading}</h3>
+            {activeTab.lines.map((line) => (
+              <p key={`${activeTab.key}-${line.label}`}>
+                <strong>{line.label}</strong> {line.value}
+              </p>
+            ))}
+            <p>{activeTab.summary}</p>
           </div>
         </div>
 
         {/* Additional Costs Section */}
         <div className="costs-content-display">
-          <div className="costs-content-text" style={{backgroundColor: '#f8f9fa', padding: '24px', borderRadius: '8px', maxWidth: '800px', margin: '20px auto', display: 'block'}}>
+          <div className="costs-content-text costs-additional-card active">
             <h3>Additional Costs to Consider (varies by school and country)</h3>
             <p><strong>Ground School Fees:</strong> €1,000 - €5,000 / $1,000 - $4,000 (varies by school)</p>
             <p><strong>Examination Fees:</strong> €500 - €2,000 / $500 - $1,500</p>
@@ -115,14 +109,14 @@ function Costs() {
         </div>
 
         {/* Blue Separation Bar */}
-        <div style={{height: '4px', background: 'linear-gradient(90deg, #2563eb, #38bdf8)', maxWidth: 'var(--wrapper-width)', margin: '30px auto', borderRadius: '2px'}}></div>
+        <div className="costs-separator"></div>
 
         {/* How We Negotiate Title */}
-        <h2 style={{textAlign: 'center', margin: '20px auto', maxWidth: 'var(--wrapper-width)', padding: '0 16px', fontSize: '24px', fontWeight: '600', color: '#2c3e50'}}>How We Negotiate</h2>
+        <h2 className="costs-negotiate-title">How We Negotiate</h2>
 
         {/* Introduction Text */}
-        <div style={{maxWidth: 'var(--wrapper-width)', margin: '0 auto 30px', padding: '0 16px'}}>
-          <p style={{textAlign: 'center', lineHeight: '1.6', color: '#555', fontSize: '16px'}}>At PilotCenter.net, we understand the significant financial investment required to become a pilot, which is why we negotiate with flight schools on behalf of our trainees. Here's how our negotiation process works:</p>
+        <div className="costs-negotiate-intro">
+          <p>At PilotCenter.net, we understand the significant financial investment required to become a pilot, which is why we negotiate with flight schools on behalf of our trainees. Here's how our negotiation process works:</p>
         </div>
 
         {/* Alternating Content Section */}
@@ -160,39 +154,18 @@ function Costs() {
         </div>
   
         {/* Closing Text - moved under the row with picture and text */}
-        <div style={{maxWidth: 'var(--wrapper-width)', margin: '15px auto', padding: '0 16px'}}>
-          <p style={{textAlign: 'center', lineHeight: '1.4', color: '#555', fontSize: '16px', padding: '0 60px'}}>At PilotCenter.net, we are committed to helping you achieve your dream of becoming a pilot without breaking the bank. By providing detailed cost breakdowns and using our expertise to negotiate the best prices, we ensure you're getting the highest value for your investment in your aviation career.</p>
+        <div className="costs-closing-copy">
+          <p>At PilotCenter.net, we are committed to helping you achieve your dream of becoming a pilot without breaking the bank. By providing detailed cost breakdowns and using our expertise to negotiate the best prices, we ensure you're getting the highest value for your investment in your aviation career.</p>
         </div>
   
         {/* CTA Section */}
-        <div style={{maxWidth: 'var(--wrapper-width)', margin: '30px auto', padding: '0 16px'}}>
-          <div style={{backgroundColor: '#f8f9fa', padding: '30px', borderRadius: '12px', textAlign: 'center', maxWidth: '800px', margin: '0 auto'}}>
-            <h3 style={{color: '#2c3e50', fontSize: '24px', marginBottom: '15px'}}>Need help?</h3>
-            <p style={{lineHeight: '1.6', color: '#555', fontSize: '16px', marginBottom: '20px'}}>Becoming a pilot can be a thrilling journey, but it often comes with its fair share of confusion. From understanding the various licensing requirements to navigating the complexities of flight training, it's easy to feel overwhelmed. But don't worry, we're here to help you every step of the way! Let us guide you through the process and turn your dreams of flying into reality.</p>
-            <button style={{
-              backgroundColor: '#007bff',
-              color: 'white',
-              border: 'none',
-              padding: '12px 24px',
-              fontSize: '16px',
-              fontWeight: '600',
-              borderRadius: '6px',
-              cursor: 'pointer',
-              transition: 'all 0.3s ease',
-              boxShadow: '0 2px 8px rgba(0, 123, 255, 0.3)'
-            }}
-            onMouseOver={(e) => {
-              e.currentTarget.style.backgroundColor = '#0069d9';
-              e.currentTarget.style.transform = 'translateY(-2px)';
-              e.currentTarget.style.boxShadow = '0 4px 12px rgba(0, 123, 255, 0.4)';
-            }}
-            onMouseOut={(e) => {
-              e.currentTarget.style.backgroundColor = '#007bff';
-              e.currentTarget.style.transform = 'translateY(0)';
-              e.currentTarget.style.boxShadow = '0 2px 8px rgba(0, 123, 255, 0.3)';
-            }}>
+        <div className="costs-cta-wrapper">
+          <div className="costs-cta-card">
+            <h3>Need help?</h3>
+            <p>Becoming a pilot can be a thrilling journey, but it often comes with its fair share of confusion. From understanding the various licensing requirements to navigating the complexities of flight training, it's easy to feel overwhelmed. But don't worry, we're here to help you every step of the way! Let us guide you through the process and turn your dreams of flying into reality.</p>
+            <Link className="costs-cta-button" to="/consultation-booking">
               Reach Out
-            </button>
+            </Link>
           </div>
         </div>
   

@@ -144,8 +144,8 @@ function Home() {
               <p>
                 Let PilotCenter.net help you stand out! Our expert resources guide you in creating a compelling pilot CV and preparing for airline interviews, ensuring you make a lasting impression in the aviation industry. Start your journey to success with us today!
               </p>
-              <Link className="btn btn-blue" to="/latest-pilot-jobs">
-                Go to Pilot Jobs
+              <Link className="btn btn-blue" to="/consultation-booking">
+                Book a Consultation
               </Link>
             </div>
 

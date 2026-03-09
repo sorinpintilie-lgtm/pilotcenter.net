@@ -239,6 +239,7 @@
 .costs-option-column {
   flex: 1;
   min-width: 0;
+  width: 100%;
   padding: 24px;
   background-color: white;
   border-radius: 12px;
@@ -247,6 +248,8 @@
   transition: all 0.3s ease;
   border: 2px solid transparent;
   position: relative;
+  appearance: none;
+  text-align: left;
 }
 
 .costs-option-column:hover {
@@ -303,6 +306,111 @@
 
 .costs-content-text.active {
   display: block;
+}
+
+.costs-additional-card {
+  display: block;
+  background: linear-gradient(180deg, #f8fafc 0%, #f1f5f9 100%);
+  border: 1px solid #dbe6f4;
+  border-radius: 12px;
+  box-shadow: 0 10px 20px rgba(15, 23, 42, 0.06);
+}
+
+.costs-separator {
+  height: 4px;
+  background: linear-gradient(90deg, #2563eb, #38bdf8);
+  max-width: var(--wrapper-width);
+  margin: 30px auto;
+  border-radius: 2px;
+}
+
+.costs-negotiate-title {
+  text-align: center;
+  margin: 20px auto;
+  max-width: var(--wrapper-width);
+  padding: 0 16px;
+  font-size: 24px;
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.costs-negotiate-intro {
+  max-width: var(--wrapper-width);
+  margin: 0 auto 30px;
+  padding: 0 16px;
+}
+
+.costs-negotiate-intro p {
+  text-align: center;
+  line-height: 1.6;
+  color: #555;
+  font-size: 16px;
+}
+
+.costs-closing-copy {
+  max-width: var(--wrapper-width);
+  margin: 15px auto;
+  padding: 0 16px;
+}
+
+.costs-closing-copy p {
+  text-align: center;
+  line-height: 1.5;
+  color: #555;
+  font-size: 16px;
+  padding: 0 60px;
+}
+
+.costs-cta-wrapper {
+  max-width: var(--wrapper-width);
+  margin: 30px auto;
+  padding: 0 16px;
+}
+
+.costs-cta-card {
+  background: #f8f9fa;
+  padding: 30px;
+  border-radius: 12px;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  border: 1px solid #e2e8f0;
+}
+
+.costs-cta-card h3 {
+  color: #2c3e50;
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.costs-cta-card p {
+  line-height: 1.6;
+  color: #555;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.costs-cta-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 123, 255, 0.3);
+}
+
+.costs-cta-button:hover,
+.costs-cta-button:focus-visible {
+  background-color: #0069d9;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 123, 255, 0.4);
 }
 
 .costs-content-text h3 {
@@ -362,6 +470,14 @@
 
   .costs-option-title {
     font-size: 16px;
+  }
+
+  .costs-closing-copy p {
+    padding: 0;
+  }
+
+  .costs-cta-card {
+    padding: 22px 16px;
   }
 }
 

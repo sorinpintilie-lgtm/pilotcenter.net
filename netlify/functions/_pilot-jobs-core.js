@@ -1021,7 +1021,7 @@ function isLikelyJobDetailUrl(url = '') {
   const value = normalizeSpaces(url).toLowerCase();
   if (!value) return false;
 
-  return /(\/job\/|\/jobs\/[^/?#]{4,}|\/pilots\/jobs\?job=\d+|\/career\/[^/?#]{4,}|\/vacanc(?:y|ies)\/|gh_jid=|lever\.co\/.*\/[^/?#]{6,}|smartrecruiters\.com\/[^/?#]+\/[^/?#]+)/i.test(value);
+  return /(\/job\/|\/jobs\/[^/?#]{4,}|\/pilots\/jobs\?job=\d+|\/pilots\/(?!jobs(?:\/|$))[^/?#]{4,}|\/career\/[^/?#]{4,}|\/vacanc(?:y|ies)\/|gh_jid=|lever\.co\/.*\/[^/?#]{6,}|smartrecruiters\.com\/[^/?#]+\/[^/?#]+)/i.test(value);
 }
 
 function isGenericListingTitle(title = '') {
@@ -1120,7 +1120,6 @@ function validateJob(job = {}) {
     valid: !issues.some((item) => item.startsWith('missing-')
       || item.includes('invalid-')
       || item.startsWith('generic-')
-      || item.startsWith('fallback-')
       || item === 'noisy-summary'),
     issues,
     score
