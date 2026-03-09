@@ -247,6 +247,20 @@
   word-break: break-word;
 }
 
+.admin-log-list-pipeline .admin-pipeline-log {
+  border-left: 4px solid #2563eb;
+}
+
+.admin-log-list-pipeline .admin-pipeline-warn {
+  border-left-color: #ca8a04;
+  background: #fffbeb;
+}
+
+.admin-log-list-pipeline .admin-pipeline-error {
+  border-left-color: #dc2626;
+  background: #fef2f2;
+}
+
 .admin-editor-overlay {
   position: fixed;
   inset: 0;

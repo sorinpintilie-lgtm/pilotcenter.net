@@ -49,6 +49,7 @@ export default function AdminNewsDashboard() {
   const [busy, setBusy] = useState(false);
   const [rewrites, setRewrites] = useState([]);
   const [telemetry, setTelemetry] = useState({ counters: {}, logs: [] });
+  const [pipelineLogs, setPipelineLogs] = useState([]);
   const [editor, setEditor] = useState(null);
 
   const [postSearch, setPostSearch] = useState('');
@@ -63,6 +64,7 @@ export default function AdminNewsDashboard() {
     setState(payload.state || { hiddenSlugs: [], manualPosts: [], adminLogs: [], updatedAt: null });
     setRewrites(Array.isArray(payload.rewrites) ? payload.rewrites : []);
     setTelemetry(payload.telemetry || { counters: {}, logs: [] });
+    setPipelineLogs(Array.isArray(payload.pipelineLogs) ? payload.pipelineLogs : []);
   };
 
   const onLogin = async (event) => {
@@ -460,6 +462,28 @@ export default function AdminNewsDashboard() {
                     <code>{item.at}</code>
                     <span>{item.event}</span>
                     <small>{JSON.stringify(item)}</small>
+                  </li>
+                ))}
+              </ul>
+            </section>
+
+            <section className="admin-card admin-card-wide">
+              <div className="admin-card-head-row">
+                <h2>News Processing Logs</h2>
+                <button type="button" className="admin-reset" onClick={() => loadState(password)} disabled={busy}>Refresh logs</button>
+              </div>
+
+              <p className="admin-muted">
+                Real pipeline logs for request flow, snapshot usage, rewrite mode switches, and errors.
+              </p>
+
+              <ul className="admin-log-list admin-log-list-pipeline">
+                {(pipelineLogs || []).map((item, index) => (
+                  <li key={`${item.at || 'time'}-${item.event || 'event'}-${index}`} className={`admin-pipeline-log admin-pipeline-${String(item.level || 'info').toLowerCase()}`}>
+                    <code>{item.at}</code>
+                    <span>{item.event}</span>
+                    <small>{item.message}</small>
+                    {item.meta ? <small>{JSON.stringify(item.meta)}</small> : null}
                   </li>
                 ))}
               </ul>

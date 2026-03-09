@@ -9,6 +9,8 @@ const MAX_BODY_CHARS = 1800;
 const FULL_BODY_MIN_CHARS = 900;
 const TELEMETRY_KEY = 'telemetry:global';
 const TELEMETRY_MAX_LOGS = 220;
+const PIPELINE_LOG_KEY = 'telemetry:pipeline';
+const PIPELINE_LOG_MAX_ITEMS = 420;
 const FEED_SNAPSHOT_KEY = 'feed:snapshot:v1';
 const FEED_SNAPSHOT_TTL_MS = Number.parseInt(process.env.NEWS_FEED_SNAPSHOT_TTL_MS || `${30 * 60 * 1000}`, 10);
 
@@ -394,6 +396,51 @@ async function recordTelemetry(eventName, details = {}) {
     }, { type: 'json' });
   } catch {
     // ignore telemetry failures
+  }
+}
+
+function toPipelineLevel(value = 'info') {
+  const normalized = normalizeSpaces(value).toLowerCase();
+  if (normalized === 'error') return 'error';
+  if (normalized === 'warn' || normalized === 'warning') return 'warn';
+  return 'info';
+}
+
+function toSerializableError(error) {
+  if (!error) return 'Unknown error';
+  if (error instanceof Error) return normalizeSpaces(error.message || 'Unknown error');
+  return normalizeSpaces(String(error || 'Unknown error'));
+}
+
+function buildPipelineLogEntry(level = 'info', event = 'unknown', message = '', meta = {}) {
+  return {
+    at: new Date().toISOString(),
+    level: toPipelineLevel(level),
+    event: normalizeSpaces(event || 'unknown') || 'unknown',
+    message: normalizeSpaces(message || 'No details provided') || 'No details provided',
+    meta: meta && typeof meta === 'object' ? meta : {}
+  };
+}
+
+async function appendPipelineLogs(entries = []) {
+  const incoming = Array.isArray(entries)
+    ? entries.filter((entry) => entry && typeof entry === 'object')
+    : [];
+  if (!incoming.length) return;
+
+  const store = await getRewriteBlobStore();
+  if (!store) return;
+
+  try {
+    const payload = await store.get(PIPELINE_LOG_KEY, { type: 'json' });
+    const items = Array.isArray(payload?.items) ? payload.items : [];
+
+    await store.set(PIPELINE_LOG_KEY, {
+      updatedAt: new Date().toISOString(),
+      items: [...items, ...incoming].slice(-PIPELINE_LOG_MAX_ITEMS)
+    }, { type: 'json' });
+  } catch {
+    // ignore pipeline log persistence failures
   }
 }
 
@@ -1186,10 +1233,30 @@ exports.handler = async (event) => {
       .map((item) => item.trim())
       .filter(Boolean)
   );
+  const requestPipelineLogs = [];
+  const queuePipelineLog = (level = 'info', eventName = 'unknown', message = '', meta = {}) => {
+    requestPipelineLogs.push(buildPipelineLogEntry(level, eventName, message, meta));
+  };
 
   try {
+    queuePipelineLog('info', 'request:start', 'Aviation news request received', {
+      page,
+      limit,
+      slugQuery,
+      forceRefresh,
+      onlyNew,
+      sortBy,
+      categoryQuery,
+      searchQuery,
+      shouldPrewarmFullBodies,
+      requireBlobs
+    });
+
     if (requireBlobs) {
       await assertBlobStoreAvailable();
+      queuePipelineLog('info', 'blobs:verified', 'Required blob store is available', {
+        store: 'news-rewrites'
+      });
     }
 
     await recordTelemetry(slugQuery ? 'request:slug' : 'request:list', {
@@ -1222,6 +1289,15 @@ exports.handler = async (event) => {
         const latestItems = onlyNew
           ? pagedItems.filter((item) => !seenLinks.has(item.link))
           : pagedItems;
+
+        queuePipelineLog('info', 'snapshot:hit', 'Serving aviation news from cached snapshot', {
+          snapshotAgeMs: snapshot.ageMs,
+          snapshotItems: snapshot.items.length,
+          returned: latestItems.length,
+          totalItems,
+          page: currentPage,
+          pageSize: limit
+        });
 
         return jsonResponse(200, {
           feedUrl: RSS_FEED_URL,
@@ -1284,6 +1360,16 @@ exports.handler = async (event) => {
       slug: buildArticleSlug(item)
     }));
 
+    queuePipelineLog('info', 'feed:prepared', 'News feed candidates prepared', {
+      fetched: fetched.length,
+      deduped: deduped.length,
+      positiveCandidates: positiveCandidates.length,
+      curatedCandidates: curatedCandidates.length,
+      safeItems: safeItems.length,
+      requiredImagePool,
+      slugMode: Boolean(slugQuery)
+    });
+
     await preloadPersistentCache(safeItems, slugQuery ? 24 : 12);
 
     const uncachedItems = safeItems
@@ -1292,10 +1378,17 @@ exports.handler = async (event) => {
     let usedRewriteFallback = false;
     if (uncachedItems.length) {
       let rewrittenUncached = [];
+      queuePipelineLog('info', 'rewrite:start', 'Starting rewrite for uncached items', {
+        uncachedCount: uncachedItems.length,
+        slugMode: Boolean(slugQuery)
+      });
       try {
         if (uncachedItems.length > 12) {
           rewrittenUncached = rewriteLocally(uncachedItems);
           usedRewriteFallback = true;
+          queuePipelineLog('warn', 'rewrite:local', 'Used local rewrite due to large uncached batch', {
+            uncachedCount: uncachedItems.length
+          });
           await recordTelemetry('rewrite:local', {
             phase: 'feed-batch',
             count: uncachedItems.length,
@@ -1303,6 +1396,10 @@ exports.handler = async (event) => {
           });
         } else {
           rewrittenUncached = await rewriteWithOpenAI(uncachedItems);
+          queuePipelineLog('info', 'rewrite:openai', 'OpenAI rewrite completed for uncached batch', {
+            uncachedCount: uncachedItems.length,
+            rewrittenCount: rewrittenUncached.length
+          });
           await recordTelemetry('rewrite:openai', {
             phase: 'feed-batch',
             count: uncachedItems.length,
@@ -1312,6 +1409,9 @@ exports.handler = async (event) => {
       } catch {
         rewrittenUncached = rewriteLocally(uncachedItems);
         usedRewriteFallback = true;
+        queuePipelineLog('warn', 'rewrite:fallback', 'OpenAI rewrite failed; switched to local rewrite fallback', {
+          uncachedCount: uncachedItems.length
+        });
         await recordTelemetry('rewrite:local', {
           phase: 'feed-batch',
           count: uncachedItems.length,
@@ -1327,6 +1427,10 @@ exports.handler = async (event) => {
         locallyRewrittenMissing.forEach((article) => rewrittenByLink.set(article.link, article));
         rewrittenUncached = Array.from(rewrittenByLink.values());
         usedRewriteFallback = true;
+        queuePipelineLog('warn', 'rewrite:missing-fill', 'Filled missing rewrite outputs with local fallback', {
+          missingCount: missingForRewrite.length,
+          finalCount: rewrittenUncached.length
+        });
         await recordTelemetry('rewrite:local', {
           phase: 'feed-batch-missing-fill',
           count: missingForRewrite.length,
@@ -1351,6 +1455,13 @@ exports.handler = async (event) => {
 
     const mergedItems = mergeNewsItems(manualPosts, allRewrittenItems);
 
+    queuePipelineLog('info', 'feed:merged', 'Merged manual and rewritten news items', {
+      manualPosts: manualPosts.length,
+      rewrittenItems: allRewrittenItems.length,
+      mergedItems: mergedItems.length,
+      rewriteMode: usedRewriteFallback ? 'fallback' : 'openai'
+    });
+
     if (!slugQuery && shouldPrewarmFullBodies) {
       await prewarmLatestFullBodies(mergedItems, safeItems, 4);
     }
@@ -1371,6 +1482,10 @@ exports.handler = async (event) => {
     if (slugQuery) {
       const matchedArticle = mergedItems.find((item) => String(item.slug || '').toLowerCase() === slugQuery);
       if (!matchedArticle) {
+        queuePipelineLog('warn', 'slug:not-found', 'Requested article slug not found', {
+          slugQuery,
+          mergedItems: mergedItems.length
+        });
         return jsonResponse(404, {
           error: 'Article not found',
           slug: slugQuery
@@ -1379,6 +1494,12 @@ exports.handler = async (event) => {
 
       const sourceForMatchedArticle = safeItems.find((item) => item.link === matchedArticle.link);
       const fullArticle = await buildFullArticleIfNeeded(matchedArticle, sourceForMatchedArticle);
+
+      queuePipelineLog('info', 'slug:served', 'Served individual article request', {
+        slugQuery,
+        rewriteMode: fullArticle?.rewriteMode || matchedArticle?.rewriteMode || 'unknown',
+        bodyLength: String(fullArticle?.body || '').length
+      });
 
       return jsonResponse(200, {
         feedUrl: RSS_FEED_URL,
@@ -1408,6 +1529,16 @@ exports.handler = async (event) => {
       : pagedItems;
 
     await writeFeedSnapshot(mergedItems);
+
+    queuePipelineLog('info', 'response:list', 'Served paginated aviation news response', {
+      returned: latestItems.length,
+      totalItems,
+      totalPages,
+      page: currentPage,
+      pageSize: limit,
+      fromSnapshot: false,
+      rewriteMode: usedRewriteFallback ? 'fallback' : 'openai'
+    });
 
     return jsonResponse(200, {
       feedUrl: RSS_FEED_URL,
@@ -1451,6 +1582,11 @@ exports.handler = async (event) => {
       }
     });
   } catch (error) {
+    queuePipelineLog('error', 'request:error', 'Aviation news request failed', {
+      slugQuery,
+      details: toSerializableError(error)
+    });
+
     await recordTelemetry('error', {
       message: error.message
     });
@@ -1459,5 +1595,7 @@ exports.handler = async (event) => {
       error: 'Failed to build curated aviation news feed',
       details: error.message
     });
+  } finally {
+    await appendPipelineLogs(requestPipelineLogs);
   }
 };

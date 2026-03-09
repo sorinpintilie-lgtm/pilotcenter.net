@@ -29,6 +29,27 @@ async function readTelemetryForAdmin() {
   }
 }
 
+async function readPipelineLogsForAdmin(limit = 320) {
+  try {
+    const store = await withRewriteStore();
+    const payload = await store.get('telemetry:pipeline', { type: 'json' });
+    const items = Array.isArray(payload?.items) ? payload.items : [];
+
+    return items
+      .slice(-Math.max(1, Math.min(limit, 1200)))
+      .reverse()
+      .map((entry) => ({
+        at: normalizeSpaces(entry?.at || '') || null,
+        level: normalizeSpaces(entry?.level || 'info').toLowerCase() || 'info',
+        event: normalizeSpaces(entry?.event || 'unknown') || 'unknown',
+        message: normalizeSpaces(entry?.message || 'No details provided') || 'No details provided',
+        meta: entry?.meta && typeof entry.meta === 'object' ? entry.meta : {}
+      }));
+  } catch {
+    return [];
+  }
+}
+
 async function listPersistedRewrites(limit = 1200) {
   try {
     const store = await withRewriteStore();
@@ -169,13 +190,28 @@ exports.handler = async (event) => {
 
       if (action === 'dashboard') {
         const telemetry = await readTelemetryForAdmin();
+        const pipelineLogs = await readPipelineLogsForAdmin(380);
         const rewrites = await listPersistedRewrites(1600);
 
         return jsonResponse(200, {
           ok: true,
           state: sanitizePublicState(state),
           telemetry,
+          pipelineLogs,
           rewrites
+        });
+      }
+
+      if (action === 'pipeline-logs') {
+        const limitRaw = Number.parseInt(event.queryStringParameters?.limit || '320', 10);
+        const limit = Number.isFinite(limitRaw) ? Math.max(1, Math.min(limitRaw, 1200)) : 320;
+        const logs = await readPipelineLogsForAdmin(limit);
+
+        return jsonResponse(200, {
+          ok: true,
+          generatedAt: new Date().toISOString(),
+          total: logs.length,
+          logs
         });
       }
 

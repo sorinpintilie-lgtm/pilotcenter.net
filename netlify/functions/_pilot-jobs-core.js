@@ -1129,6 +1129,7 @@ function validateJob(job = {}) {
 async function fetchHtml(url = '', sourceId = '') {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), DEFAULT_TIMEOUT_MS);
+  let lastFailureReason = '';
 
   try {
     const response = await fetch(url, {
@@ -1142,15 +1143,28 @@ async function fetchHtml(url = '', sourceId = '') {
       }
     });
 
-    if (!response.ok) return '';
+    if (!response.ok) {
+      lastFailureReason = `http-${response.status}`;
+      return '';
+    }
     const contentType = String(response.headers.get('content-type') || '').toLowerCase();
-    if (!contentType.includes('text/html') && !contentType.includes('application/xhtml+xml')) return '';
+    if (!contentType.includes('text/html') && !contentType.includes('application/xhtml+xml')) {
+      lastFailureReason = `unsupported-content-type:${contentType || 'unknown'}`;
+      return '';
+    }
 
     return response.text();
-  } catch {
+  } catch (error) {
+    const reason = normalizeSpaces(error?.name || error?.message || 'request-failed');
+    lastFailureReason = reason || 'request-failed';
     return '';
   } finally {
     clearTimeout(timer);
+    if (lastFailureReason) {
+      fetchHtml.lastFailureReason = lastFailureReason;
+    } else {
+      fetchHtml.lastFailureReason = '';
+    }
   }
 }
 
@@ -1385,11 +1399,14 @@ async function crawlSource(source = {}, runAt = '', hooks = {}) {
     // eslint-disable-next-line no-await-in-loop
     const html = await fetchHtml(canonical, source.id);
     if (!html) {
+      const fetchFailure = normalizeSpaces(fetchHtml.lastFailureReason || 'unknown-fetch-failure');
+      telemetry.errors.push(`fetch-empty:${fetchFailure}`);
       // eslint-disable-next-line no-await-in-loop
       await emit('warn', 'page:empty', `No HTML returned for ${canonical}`, {
         url: canonical,
         depth: current.depth,
-        visited: visited.size
+        visited: visited.size,
+        fetchFailure
       });
       continue;
     }
