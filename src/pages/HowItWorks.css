@@ -14,6 +14,7 @@
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 20px;
+  text-align: center;
 }
 
 .hero-kicker {
@@ -125,7 +126,17 @@
   font-size: 16px;
   line-height: 1.6;
   color: #555;
-  text-align: justify;
+  text-align: left;
+}
+
+.full-width-gray-container {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.container-content {
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 /* Mobile Responsiveness */

@@ -148,73 +148,43 @@
     }
 
     /* Mobile grid layout - switch to single column */
-    .become-pilot-page div[style*="grid-template-columns"] {
+    .become-pilot-page .bp-grid {
         grid-template-columns: 1fr !important;
     }
 
     /* Ensure all grid items take full width on mobile */
-    .become-pilot-page div[style*="grid-template-columns"] > div {
+    .become-pilot-page .bp-grid-item {
         width: 100% !important;
         max-width: 100% !important;
         grid-column: span 1 !important;
         text-align: center !important;
     }
 
-    /* Target the specific grid container in BecomePilot.js */
-    .become-pilot-page div[style*="display: grid"] {
-        grid-template-columns: 1fr !important;
-    }
-
-    /* Ensure grid items are properly centered */
-    .become-pilot-page div[style*="display: grid"] > div {
-        width: 100% !important;
-        grid-column: span 1 !important;
-    }
-
     /* Reorder grid items on mobile - images before text */
-    /* Target image containers and move them before text containers */
-    .become-pilot-page div[style*="display: grid"] > div:nth-child(odd) {
+    .become-pilot-page .bp-image-item {
         order: 1 !important;
     }
 
-    .become-pilot-page div[style*="display: grid"] > div:nth-child(even) {
-        order: 2 !important;
-    }
-
-    /* More specific targeting for image containers */
-    .become-pilot-page div[style*="align-items: center"] > div:nth-child(odd) {
-        order: 1 !important;
-    }
-
-    .become-pilot-page div[style*="align-items: center"] > div:nth-child(even) {
-        order: 2 !important;
-    }
-
-    /* Target image containers specifically */
-    .become-pilot-page div[style*="justify-content: flex-end"] {
-        order: 1 !important;
-    }
-
-    .become-pilot-page div[style*="justify-content: center"] {
+    .become-pilot-page .bp-text-item {
         order: 2 !important;
     }
 
     /* Mobile responsive pathway buttons */
-    .become-pilot-page div[style*="display: flex"][style*="justify-content: center"][style*="flex-wrap: wrap"] {
+    .become-pilot-page .bp-pathways {
         display: grid !important;
         grid-template-columns: repeat(2, 1fr) !important;
         gap: 15px !important;
         justify-items: center !important;
     }
 
-    .become-pilot-page div[style*="display: flex"][style*="justify-content: center"][style*="flex-wrap: wrap"] a {
+    .become-pilot-page .bp-pathways .bp-pathway-card {
         min-width: 140px !important;
         max-width: 160px !important;
         margin: 0 !important;
     }
 
     /* Handle the third item to span full width on second row */
-    .become-pilot-page div[style*="display: flex"][style*="justify-content: center"][style*="flex-wrap: wrap"] a:nth-child(3) {
+    .become-pilot-page .bp-pathways .bp-pathway-card:nth-child(3) {
         grid-column: span 2 !important;
         max-width: 300px !important;
         margin: 0 auto !important;

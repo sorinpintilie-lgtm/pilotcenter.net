@@ -23,7 +23,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "seo:sitemap": "node ./scripts/generate-sitemap.js",
-    "build:seo": "npm run seo:sitemap && npm run build"
+    "build:seo": "npm run seo:sitemap && npm run build",
+    "smoke": "node ./scripts/smoke-check.js"
   },
   "eslintConfig": {
     "extends": [

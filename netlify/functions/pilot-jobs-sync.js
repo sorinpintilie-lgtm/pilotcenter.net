@@ -16,7 +16,8 @@ exports.handler = async () => {
     const result = await syncPilotJobs({
       sourceLimit: 4,
       maxPagesPerSource: 24,
-      maxDepth: 2
+      maxDepth: 2,
+      forcePerplexityStrict: false
     });
 
     return jsonResponse(200, {

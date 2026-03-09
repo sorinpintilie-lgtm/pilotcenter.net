@@ -2,6 +2,10 @@ User-agent: *
 Allow: /
 Disallow: /api/
 Disallow: /.netlify/
+Disallow: /admin
+Disallow: /latest-pilot-jobs/logs
 
 Sitemap: https://pilotcenter.net/sitemap.xml
 Sitemap: https://pilotcenter.net/news-sitemap.xml
+Sitemap: https://pilotcenter.net/jobs-sitemap.xml
+Sitemap: https://pilotcenter.net/sitemap-index.xml

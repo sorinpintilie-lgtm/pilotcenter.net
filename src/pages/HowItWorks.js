@@ -7,8 +7,8 @@ function HowItWorks() {
       {/* Hero Section */}
       <section className="hero-section">
         <div className="hero-content">
-          <div className="hero-kicker" style={{textAlign: 'center'}}>HOW IT WORKS</div>
-          <h1 className="hero-title" style={{textAlign: 'center'}}>How It Works: Expert Support for Your Pilot Training Journey</h1>
+          <div className="hero-kicker">HOW IT WORKS</div>
+          <h1 className="hero-title">How It Works: Expert Support for Your Pilot Training Journey</h1>
           <p className="hero-description">At PilotCenter.net, we provide a seamless, end-to-end pilot training support system designed to help you achieve your dream of becoming a licensed pilot. Our expert team offers personalized pilot consultation and aviation career guidance at every stage of your training journey, ensuring that you receive the best possible support throughout.</p>
         </div>
       </section>
@@ -69,11 +69,11 @@ function HowItWorks() {
       </section>
 
       {/* FULL WIDTH GRAY CONTAINER - JUST ABOVE FOOTER */}
-      <div className="full-width-gray-container" style={{padding: '40px 20px', textAlign: 'center'}}>
-        <div className="container-content" style={{maxWidth: '1200px', margin: '0 auto'}}>
-          <h3 style={{textAlign: 'center'}}>Your Journey, Our Commitment to Your Pilot Career</h3>
-          <p style={{textAlign: 'center'}}>When you choose PilotCenter.net, you're not just accessing a service — you're joining a dedicated community of aviation professionals who are here to guide you through every stage of your pilot journey. From understanding flight school cost and choosing the best flight schools, to navigating license requirements and accessing flight school scholarships, we're committed to making sure no aspiring pilot ever feels lost or unsupported.</p>
-          <p style={{textAlign: 'center'}}>Our mission is to simplify the path to becoming a pilot — with clear steps, expert advice, and full support. Whether you're exploring how much flight school costs for a private pilot or preparing for your airline career, we're with you — one step, one milestone, one flight at a time.</p>
+      <div className="full-width-gray-container">
+        <div className="container-content">
+          <h3>Your Journey, Our Commitment to Your Pilot Career</h3>
+          <p>When you choose PilotCenter.net, you're not just accessing a service — you're joining a dedicated community of aviation professionals who are here to guide you through every stage of your pilot journey. From understanding flight school cost and choosing the best flight schools, to navigating license requirements and accessing flight school scholarships, we're committed to making sure no aspiring pilot ever feels lost or unsupported.</p>
+          <p>Our mission is to simplify the path to becoming a pilot — with clear steps, expert advice, and full support. Whether you're exploring how much flight school costs for a private pilot or preparing for your airline career, we're with you — one step, one milestone, one flight at a time.</p>
         </div>
       </div>
 

@@ -85,4 +85,23 @@ const sitemap = [
 const outputPath = path.join(__dirname, '..', 'public', 'sitemap.xml');
 fs.writeFileSync(outputPath, sitemap, 'utf8');
 
+const sitemapIndex = [
+  '<?xml version="1.0" encoding="UTF-8"?>',
+  '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+  '  <sitemap>',
+  `    <loc>${SITE_URL}/sitemap.xml</loc>`,
+  '  </sitemap>',
+  '  <sitemap>',
+  `    <loc>${SITE_URL}/news-sitemap.xml</loc>`,
+  '  </sitemap>',
+  '  <sitemap>',
+  `    <loc>${SITE_URL}/jobs-sitemap.xml</loc>`,
+  '  </sitemap>',
+  '</sitemapindex>',
+  ''
+].join('\n');
+
+const sitemapIndexPath = path.join(__dirname, '..', 'public', 'sitemap-index.xml');
+fs.writeFileSync(sitemapIndexPath, sitemapIndex, 'utf8');
+
 console.log(`Sitemap generated with ${uniqueRoutes.length} URLs at ${outputPath}`);

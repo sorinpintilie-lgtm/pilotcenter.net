@@ -25,7 +25,14 @@ async function callAviationNews(query = {}) {
 
 exports.handler = async () => {
   try {
-    const listPayload = await callAviationNews({ limit: '12', page: '1', sort: 'latest' });
+    const listPayload = await callAviationNews({
+      limit: '12',
+      page: '1',
+      sort: 'latest',
+      prewarm: '1',
+      refresh: '1',
+      requireBlobs: '1'
+    });
     const items = Array.isArray(listPayload?.items) ? listPayload.items : [];
 
     const latestSlugs = items

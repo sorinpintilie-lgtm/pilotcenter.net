@@ -1,4 +1,5 @@
 import React, { useMemo, useState } from "react";
+import { useNavigate } from 'react-router-dom';
 import "./CalendarBooking.css";
 
 // Prague time as requested
@@ -50,6 +51,7 @@ function buildDefaultSlots(daysAhead = 21) {
 }
 
 export default function CalendarBooking() {
+  const navigate = useNavigate();
   // load chosen consultation + form data from localStorage (if you saved it)
   // If not saved yet, this page still works.
   const consultationType =
@@ -77,9 +79,8 @@ export default function CalendarBooking() {
   function continueNext() {
     if (!selectedSlotId) return;
 
-    // Next step later could be: /payment
-    // For now we’ll confirm selection and go to a placeholder page
-    window.location.href = "/booking-summary";
+    // Keep flow on an existing route until booking-summary exists
+    navigate('/consultation-booking');
   }
 
   return (
@@ -160,8 +161,7 @@ export default function CalendarBooking() {
               </button>
 
               <div className="cbk-fine">
-                Next step: booking summary (then payment/confirmation once
-                implemented).
+                Next step: return to consultation flow for payment/confirmation.
               </div>
             </div>
           </aside>

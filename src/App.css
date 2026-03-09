@@ -9,6 +9,15 @@ main {
   flex: 1;
 }
 
+.route-loading {
+  min-height: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--muted);
+  font-size: 15px;
+}
+
 /* Page content container */
 .page-content {
   flex: 1;

@@ -5,6 +5,19 @@ import './Home.css';
 import './PilotJobDetail.css';
 
 const SITE_URL = 'https://pilotcenter.net';
+const DEFAULT_IMAGE = `${SITE_URL}/images/fulllogo_transparent.avif`;
+const DEFAULT_ROBOTS = 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1';
+
+function toCanonicalUrl(path = '') {
+  const normalizedPath = String(path || '').startsWith('/') ? String(path || '') : `/${String(path || '')}`;
+  return `${SITE_URL}${normalizedPath}`;
+}
+
+function toIsoDate(value = '', fallback = new Date().toISOString()) {
+  const parsed = new Date(value || '');
+  if (Number.isNaN(parsed.getTime())) return fallback;
+  return parsed.toISOString();
+}
 
 async function fetchPilotJobBySlug(slug) {
   const query = new URLSearchParams({ slug }).toString();
@@ -43,6 +56,7 @@ export default function PilotJobDetail() {
   const { slug } = useParams();
   const [job, setJob] = useState(null);
   const [status, setStatus] = useState('Loading job details...');
+  const isNotFoundState = !job && status && !status.toLowerCase().includes('loading');
 
   useEffect(() => {
     let mounted = true;
@@ -70,17 +84,29 @@ export default function PilotJobDetail() {
   return (
     <div className="page-content">
       {job ? (
-        <Helmet>
+        <Helmet prioritizeSeoTags>
           <title>{`${job.title} | Pilot Jobs | PilotCenter.net`}</title>
           <meta
             name="description"
             content={job.summary || `Apply for ${job.title} at ${job.company}.`}
           />
-          <link rel="canonical" href={`${SITE_URL}${job.jobPath || `/latest-pilot-jobs/${slug}`}`} />
-          <meta property="og:type" content="website" />
+          <meta name="robots" content={DEFAULT_ROBOTS} />
+          <link rel="canonical" href={toCanonicalUrl(job.jobPath || `/latest-pilot-jobs/${slug}`)} />
+          <meta property="og:type" content="article" />
+          <meta property="og:site_name" content="PilotCenter.net" />
+          <meta property="og:locale" content="en_US" />
           <meta property="og:title" content={`${job.title} | Pilot Jobs | PilotCenter.net`} />
           <meta property="og:description" content={job.summary || `Apply for ${job.title} at ${job.company}.`} />
-          <meta property="og:url" content={`${SITE_URL}${job.jobPath || `/latest-pilot-jobs/${slug}`}`} />
+          <meta property="og:url" content={toCanonicalUrl(job.jobPath || `/latest-pilot-jobs/${slug}`)} />
+          <meta property="og:image" content={DEFAULT_IMAGE} />
+          <meta property="og:image:alt" content={job.title || 'Pilot job listing'} />
+          <meta property="article:published_time" content={toIsoDate(job.postedAt || job.firstSeenAt)} />
+          <meta property="article:modified_time" content={toIsoDate(job.updatedAt || job.firstSeenAt || job.postedAt)} />
+
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:title" content={`${job.title} | Pilot Jobs | PilotCenter.net`} />
+          <meta name="twitter:description" content={job.summary || `Apply for ${job.title} at ${job.company}.`} />
+          <meta name="twitter:image" content={DEFAULT_IMAGE} />
 
           <script type="application/ld+json">
             {JSON.stringify({
@@ -88,8 +114,8 @@ export default function PilotJobDetail() {
               '@type': 'JobPosting',
               title: job.title,
               description: job.description || job.summary || '',
-              datePosted: job.postedAt || job.firstSeenAt,
-              validThrough: job.expiresAt,
+              datePosted: toIsoDate(job.postedAt || job.firstSeenAt),
+              validThrough: toIsoDate(job.expiresAt, toIsoDate(job.postedAt || job.firstSeenAt)),
               employmentType: job.employmentType || undefined,
               hiringOrganization: {
                 '@type': 'Organization',
@@ -103,10 +129,22 @@ export default function PilotJobDetail() {
                   addressCountry: job.country || undefined
                 }
               },
+              applicantLocationRequirements: job.country ? {
+                '@type': 'Country',
+                name: job.country
+              } : undefined,
               directApply: true,
-              url: job.applyUrl || job.sourceUrl
+              url: toCanonicalUrl(job.jobPath || `/latest-pilot-jobs/${slug}`),
+              sameAs: job.applyUrl || job.sourceUrl || undefined
             })}
           </script>
+        </Helmet>
+      ) : isNotFoundState ? (
+        <Helmet prioritizeSeoTags>
+          <title>Job Not Found | PilotCenter.net</title>
+          <meta name="description" content="This pilot job listing is not available right now." />
+          <meta name="robots" content="noindex,follow" />
+          <link rel="canonical" href={toCanonicalUrl(`/latest-pilot-jobs/${slug || ''}`)} />
         </Helmet>
       ) : null}
 

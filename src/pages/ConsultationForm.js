@@ -1,12 +1,18 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { useForm, ValidationError } from "@formspree/react";
+import { useNavigate } from "react-router-dom";
 
 function ConsultationForm() {
   const [state, handleSubmit] = useForm("mrbnnryj");
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    if (state.succeeded) {
+      navigate("/calendar-booking");
+    }
+  }, [state.succeeded, navigate]);
 
   if (state.succeeded) {
-    // Redirect AFTER successful submit
-    window.location.href = "/calendar-booking";
     return null;
   }
 

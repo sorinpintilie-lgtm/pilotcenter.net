@@ -5,6 +5,19 @@ import './Home.css';
 import './NewsArticle.css';
 
 const SITE_URL = 'https://pilotcenter.net';
+const DEFAULT_IMAGE = `${SITE_URL}/images/fulllogo_transparent.avif`;
+const DEFAULT_ROBOTS = 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1';
+
+function toCanonicalUrl(path = '') {
+  const normalizedPath = String(path || '').startsWith('/') ? String(path || '') : `/${String(path || '')}`;
+  return `${SITE_URL}${normalizedPath}`;
+}
+
+function toIsoDate(value = '', fallback = new Date().toISOString()) {
+  const parsed = new Date(value || '');
+  if (Number.isNaN(parsed.getTime())) return fallback;
+  return parsed.toISOString();
+}
 
 function buildArticleKeywords(article = {}) {
   const category = String(article.category || 'aviation').toLowerCase();
@@ -47,6 +60,7 @@ export default function NewsArticle() {
   const { slug } = useParams();
   const [article, setArticle] = useState(null);
   const [status, setStatus] = useState('Loading article...');
+  const isNotFoundState = !article && status && !status.toLowerCase().includes('loading');
 
   useEffect(() => {
     let mounted = true;
@@ -74,22 +88,29 @@ export default function NewsArticle() {
   return (
     <div className="page-content">
       {article ? (
-        <Helmet>
+        <Helmet prioritizeSeoTags>
           <title>{`${article.title} | PilotCenter.net News`}</title>
           <meta name="description" content={article.summary || 'Latest aviation update and analysis from PilotCenter.net.'} />
           <meta name="keywords" content={buildArticleKeywords(article)} />
-          <link rel="canonical" href={`${SITE_URL}${article.articlePath || `/news-and-resources/${slug}`}`} />
+          <meta name="robots" content={DEFAULT_ROBOTS} />
+          <link rel="canonical" href={toCanonicalUrl(article.articlePath || `/news-and-resources/${slug}`)} />
 
           <meta property="og:type" content="article" />
+          <meta property="og:site_name" content="PilotCenter.net" />
+          <meta property="og:locale" content="en_US" />
           <meta property="og:title" content={`${article.title} | PilotCenter.net News`} />
           <meta property="og:description" content={article.summary || 'Latest aviation update and analysis from PilotCenter.net.'} />
-          <meta property="og:url" content={`${SITE_URL}${article.articlePath || `/news-and-resources/${slug}`}`} />
-          {article.image ? <meta property="og:image" content={article.image} /> : null}
+          <meta property="og:url" content={toCanonicalUrl(article.articlePath || `/news-and-resources/${slug}`)} />
+          <meta property="og:image" content={article.image || DEFAULT_IMAGE} />
+          <meta property="og:image:alt" content={article.title || 'PilotCenter.net News'} />
+          <meta property="article:published_time" content={toIsoDate(article.publishedAt || article.date)} />
+          <meta property="article:modified_time" content={toIsoDate(article.updatedAt || article.publishedAt || article.date)} />
+          <meta property="article:section" content={article.category || 'Aviation News'} />
 
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:title" content={`${article.title} | PilotCenter.net News`} />
           <meta name="twitter:description" content={article.summary || 'Latest aviation update and analysis from PilotCenter.net.'} />
-          {article.image ? <meta name="twitter:image" content={article.image} /> : null}
+          <meta name="twitter:image" content={article.image || DEFAULT_IMAGE} />
 
           <script type="application/ld+json">
             {JSON.stringify({
@@ -97,8 +118,8 @@ export default function NewsArticle() {
               '@type': 'NewsArticle',
               headline: article.title,
               description: article.summary || '',
-              datePublished: article.publishedAt || new Date().toISOString(),
-              dateModified: article.updatedAt || article.publishedAt || new Date().toISOString(),
+              datePublished: toIsoDate(article.publishedAt || article.date),
+              dateModified: toIsoDate(article.updatedAt || article.publishedAt || article.date),
               author: {
                 '@type': 'Organization',
                 name: 'PilotCenter.net'
@@ -111,12 +132,24 @@ export default function NewsArticle() {
                   url: `${SITE_URL}/images/fulllogo_transparent.avif`
                 }
               },
-              mainEntityOfPage: `${SITE_URL}${article.articlePath || `/news-and-resources/${slug}`}`,
-              image: article.image ? [article.image] : [`${SITE_URL}/images/fulllogo_transparent.avif`],
+              mainEntityOfPage: {
+                '@type': 'WebPage',
+                '@id': toCanonicalUrl(article.articlePath || `/news-and-resources/${slug}`)
+              },
+              image: [article.image || `${SITE_URL}/images/fulllogo_transparent.avif`],
               articleSection: article.category || 'Aviation News',
-              keywords: buildArticleKeywords(article)
+              keywords: buildArticleKeywords(article),
+              url: toCanonicalUrl(article.articlePath || `/news-and-resources/${slug}`),
+              isAccessibleForFree: true
             })}
           </script>
+        </Helmet>
+      ) : isNotFoundState ? (
+        <Helmet prioritizeSeoTags>
+          <title>Article Not Found | PilotCenter.net</title>
+          <meta name="description" content="This news article is not available right now." />
+          <meta name="robots" content="noindex,follow" />
+          <link rel="canonical" href={toCanonicalUrl(`/news-and-resources/${slug || ''}`)} />
         </Helmet>
       ) : null}
 

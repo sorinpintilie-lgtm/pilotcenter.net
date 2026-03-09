@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Home.css';
 
 function Home() {
@@ -21,7 +22,13 @@ function Home() {
                 </p>
 
                 <div className="hero-ctas">
-                  <button className="btn btn-blue mobile-only" style={{padding: '12px 24px', fontSize: '14px', minWidth: '200px'}}>Let's talk</button>
+                  <Link
+                    to="/consultation-booking"
+                    className="btn btn-blue mobile-only"
+                    style={{ padding: '12px 24px', fontSize: '14px', minWidth: '200px' }}
+                  >
+                    Let's talk
+                  </Link>
                 </div>
 
                 <div className="hero-meta">
@@ -90,7 +97,7 @@ function Home() {
               <p className="route-tagline">
                 Ready to conquer the skies? The EASA route offers a structured path to becoming a professional pilot in Europe.
               </p>
-              <a href="/easa" className="route-link">Find out how →</a>
+              <Link to="/the-easa-route" className="route-link">Find out how →</Link>
             </article>
 
             <article className="route">
@@ -98,7 +105,7 @@ function Home() {
               <p className="route-tagline">
                 Ready to pilot your dreams? The FAA route is your ticket to the skies, offering a comprehensive path to becoming a certified pilot with a U.S. license.
               </p>
-              <a href="/faa" className="route-link">Find out how →</a>
+              <Link to="/the-faa-route" className="route-link">Find out how →</Link>
             </article>
 
             <article className="route">
@@ -106,7 +113,7 @@ function Home() {
               <p className="route-tagline">
                 Dreaming of a global flying career? The ICAO route provides a standardized framework recognized worldwide.
               </p>
-              <a href="/icao" className="route-link">Find out how →</a>
+              <Link to="/the-icao-route" className="route-link">Find out how →</Link>
             </article>
           </div>
         </div>
@@ -137,9 +144,9 @@ function Home() {
               <p>
                 Let PilotCenter.net help you stand out! Our expert resources guide you in creating a compelling pilot CV and preparing for airline interviews, ensuring you make a lasting impression in the aviation industry. Start your journey to success with us today!
               </p>
-              <button className="btn btn-blue" onClick={() => window.location.href='/jobs'}>
+              <Link className="btn btn-blue" to="/latest-pilot-jobs">
                 Go to Pilot Jobs
-              </button>
+              </Link>
             </div>
 
             <div className="block-muted-inner">
@@ -147,9 +154,9 @@ function Home() {
               <p>
                 At PilotCenter.net, we offer a wealth of aviation resources to support your pilot journey. From comprehensive EASA, FAA, and ICAO guides to expert career advice and training tips, our tools help you succeed in becoming a professional airline pilot.
               </p>
-              <button className="btn btn-blue" onClick={() => window.location.href='/news'}>
+              <Link className="btn btn-blue" to="/news-and-resources">
                 Go to News & Resources
-              </button>
+              </Link>
             </div>
           </div>
         </div>

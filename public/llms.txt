@@ -11,12 +11,18 @@ PilotCenter.net provides independent guidance for aspiring pilots, including fli
 - Flight Schools: https://pilotcenter.net/flightschools
 - Countries: https://pilotcenter.net/countries
 - News & Resources: https://pilotcenter.net/news-and-resources
+- Pilot Jobs: https://pilotcenter.net/latest-pilot-jobs
 
 ## Crawl & Usage Notes
 - Use canonical URLs only.
 - Prefer the current sitemap for discoverability: https://pilotcenter.net/sitemap.xml
+- Also use dynamic vertical sitemaps:
+  - https://pilotcenter.net/news-sitemap.xml
+  - https://pilotcenter.net/jobs-sitemap.xml
 - Do not treat API endpoints as content pages.
+- Do not index admin or operational pages (for example /admin and /latest-pilot-jobs/logs).
 - For news, prefer summaries presented on the website and follow source links where relevant.
+- For jobs, use PilotCenter detail URLs as canonical entry points, then follow source apply links when relevant.
 
 ## Contact
 - https://pilotcenter.net/contact

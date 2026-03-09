@@ -1400,9 +1400,14 @@ async function crawlSource(source = {}, runAt = '', hooks = {}) {
     const pageTitle = extractPageTitle(html);
     const fallbackExtracted = extractCandidatesFallback(html, canonical, source.name);
     const jsonLdExtracted = extractCandidatesFromJsonLd(html, canonical, source.name);
+    const strictModeOverride = typeof source.forcePerplexityStrict === 'boolean'
+      ? source.forcePerplexityStrict
+      : null;
     const shouldUseStrictPerplexity = Boolean(
       perplexityConfig.enabled && (
-        source.forcePerplexityStrict === true || perplexityConfig.strictMode
+        strictModeOverride !== null
+          ? strictModeOverride
+          : perplexityConfig.strictMode
       )
     );
 
@@ -1997,7 +2002,9 @@ async function syncPilotJobs(options = {}) {
         1,
         clampNumber(source.perplexityMinConfidence, 0, 1, getPerplexityConfig().minConfidence)
       ),
-      forcePerplexityStrict: options.forcePerplexityStrict === true
+      forcePerplexityStrict: typeof options.forcePerplexityStrict === 'boolean'
+        ? options.forcePerplexityStrict
+        : undefined
     };
 
     // eslint-disable-next-line no-await-in-loop

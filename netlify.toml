@@ -28,6 +28,11 @@
   to = "/.netlify/functions/news-sitemap"
   status = 200
 
+[[redirects]]
+  from = "/jobs-sitemap.xml"
+  to = "/.netlify/functions/jobs-sitemap"
+  status = 200
+
 [functions."news-prewarm"]
   schedule = "*/30 * * * *"
 

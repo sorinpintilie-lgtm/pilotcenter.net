@@ -251,6 +251,14 @@ async function getRewriteBlobStore() {
   return rewriteBlobStorePromise;
 }
 
+async function assertBlobStoreAvailable() {
+  const store = await getRewriteBlobStore();
+  if (!store) {
+    throw new Error('Netlify Blobs store "news-rewrites" is unavailable');
+  }
+  return store;
+}
+
 async function readFeedSnapshot(maxAgeMs = FEED_SNAPSHOT_TTL_MS) {
   const store = await getRewriteBlobStore();
   if (!store) return null;
@@ -506,7 +514,7 @@ async function fetchArticleImage(articleUrl) {
   if (!articleUrl) return '';
 
   const controller = new AbortController();
-  const timeoutId = setTimeout(() => controller.abort(), 2500);
+  const timeoutId = setTimeout(() => controller.abort(), 1400);
 
   try {
     const response = await fetch(articleUrl, {
@@ -569,22 +577,18 @@ async function fetchArticleText(articleUrl) {
 }
 
 async function ensureImageReadyItems(items, neededCount) {
-  const result = [];
+  const pool = Array.isArray(items) ? items.slice(0, Math.max(0, neededCount)) : [];
+  if (!pool.length) return [];
 
-  for (const item of items) {
-    if (result.length >= neededCount) break;
-
+  const settled = await Promise.all(pool.map(async (item) => {
     const existingImage = toAbsoluteUrl(item.image || '', item.link);
-    if (existingImage) {
-      result.push({ ...item, image: existingImage });
-      continue;
-    }
+    if (existingImage) return { ...item, image: existingImage };
 
     const fetchedImage = await fetchArticleImage(item.link);
-    result.push({ ...item, image: fetchedImage || '' });
-  }
+    return { ...item, image: fetchedImage || '' };
+  }));
 
-  return result;
+  return settled;
 }
 
 function normalizeFilterValue(value = '') {
@@ -1170,6 +1174,8 @@ exports.handler = async (event) => {
   const onlyNew = event.queryStringParameters?.onlyNew === '1';
   const slugQuery = normalizeSpaces(event.queryStringParameters?.slug || '').toLowerCase();
   const forceRefresh = event.queryStringParameters?.refresh === '1';
+  const shouldPrewarmFullBodies = event.queryStringParameters?.prewarm === '1';
+  const requireBlobs = event.queryStringParameters?.requireBlobs === '1';
   const sortBy = normalizeFilterValue(event.queryStringParameters?.sort || 'latest') || 'latest';
   const searchQuery = normalizeSpaces(event.queryStringParameters?.search || '');
   const categoryQuery = normalizeSpaces(event.queryStringParameters?.category || 'all');
@@ -1182,6 +1188,10 @@ exports.handler = async (event) => {
   );
 
   try {
+    if (requireBlobs) {
+      await assertBlobStoreAvailable();
+    }
+
     await recordTelemetry(slugQuery ? 'request:slug' : 'request:list', {
       limit,
       onlyNew,
@@ -1265,8 +1275,10 @@ exports.handler = async (event) => {
     const curatedCandidates = positiveCandidates.filter((item) => !isBlockedByCuration(item, curation));
     const neededPool = slugQuery ? 80 : Math.max(limit * 3, 24);
     const safeCandidates = curatedCandidates.slice(0, neededPool);
-    const requiredImagePool = slugQuery ? Math.max(limit * 2, 24) : Math.max(limit + 8, 24);
-    const imageReadySafeItems = await ensureImageReadyItems(safeCandidates, requiredImagePool);
+    const requiredImagePool = slugQuery ? Math.max(limit * 2, 24) : Math.max(limit + 4, 12);
+    const imageReadySafeItems = slugQuery
+      ? await ensureImageReadyItems(safeCandidates, requiredImagePool)
+      : safeCandidates.slice(0, requiredImagePool);
     const safeItems = imageReadySafeItems.map((item) => ({
       ...item,
       slug: buildArticleSlug(item)
@@ -1339,7 +1351,7 @@ exports.handler = async (event) => {
 
     const mergedItems = mergeNewsItems(manualPosts, allRewrittenItems);
 
-    if (!slugQuery) {
+    if (!slugQuery && shouldPrewarmFullBodies) {
       await prewarmLatestFullBodies(mergedItems, safeItems, 4);
     }
 

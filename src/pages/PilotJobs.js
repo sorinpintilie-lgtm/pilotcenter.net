@@ -1,9 +1,11 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
+import { Helmet } from 'react-helmet-async';
 import './Home.css';
 import './PilotJobs.css';
 
 const PAGE_SIZE = 12;
+const SITE_URL = 'https://pilotcenter.net';
 
 const DEFAULT_PAGINATION = {
   page: 1,
@@ -179,8 +181,64 @@ export default function PilotJobs() {
     }));
   };
 
+  const structuredData = useMemo(() => {
+    const itemListElement = items.slice(0, 30).map((job, index) => {
+      const path = job.jobPath || (job.slug ? `/latest-pilot-jobs/${job.slug}` : '/latest-pilot-jobs');
+      const detailsUrl = `${SITE_URL}${String(path).startsWith('/') ? path : `/${path}`}`;
+      const posted = new Date(job.postedAt || job.firstSeenAt || Date.now());
+
+      return {
+        '@type': 'ListItem',
+        position: index + 1,
+        url: detailsUrl,
+        item: {
+          '@type': 'JobPosting',
+          title: job.title,
+          description: job.summary || job.title,
+          datePosted: Number.isNaN(posted.getTime()) ? new Date().toISOString() : posted.toISOString(),
+          hiringOrganization: {
+            '@type': 'Organization',
+            name: job.company || 'Unknown company'
+          },
+          jobLocation: {
+            '@type': 'Place',
+            address: {
+              '@type': 'PostalAddress',
+              addressLocality: job.location || undefined,
+              addressCountry: job.country || undefined
+            }
+          },
+          url: detailsUrl
+        }
+      };
+    });
+
+    return {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      name: 'Latest Pilot Jobs | PilotCenter.net',
+      url: `${SITE_URL}/latest-pilot-jobs`,
+      isPartOf: {
+        '@type': 'WebSite',
+        name: 'PilotCenter.net',
+        url: SITE_URL
+      },
+      mainEntity: {
+        '@type': 'ItemList',
+        itemListOrder: 'https://schema.org/ItemListOrderDescending',
+        numberOfItems: items.length,
+        itemListElement
+      }
+    };
+  }, [items]);
+
   return (
     <div className="page-content">
+      <Helmet prioritizeSeoTags>
+        <link rel="canonical" href={`${SITE_URL}/latest-pilot-jobs`} />
+        <script type="application/ld+json">{JSON.stringify(structuredData)}</script>
+      </Helmet>
+
       <section className="hero pilot-jobs-hero">
         <div className="wrapper">
           <div className="hero-grid">

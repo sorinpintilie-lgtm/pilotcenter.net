@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://pilotcenter.net/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://pilotcenter.net/news-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://pilotcenter.net/jobs-sitemap.xml</loc>
+  </sitemap>
+</sitemapindex>

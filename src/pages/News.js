@@ -1,9 +1,11 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { Link } from 'react-router-dom';
+import { Helmet } from 'react-helmet-async';
 import './Home.css';
 import './News.css';
 
 const PAGE_SIZE = 9;
+const SITE_URL = 'https://pilotcenter.net';
 
 function buildNewsQuery({
   limit = PAGE_SIZE,
@@ -134,6 +136,44 @@ function News() {
   const categoryOptions = ['all', ...(facets.categories || []).map((item) => item.toLowerCase())]
     .filter((value, index, self) => self.indexOf(value) === index);
 
+  const structuredData = useMemo(() => {
+    const itemListElement = items.slice(0, 20).map((article, index) => {
+      const path = article.articlePath || (article.slug ? `/news-and-resources/${article.slug}` : '/news-and-resources');
+      const absoluteUrl = `${SITE_URL}${String(path).startsWith('/') ? path : `/${path}`}`;
+      const published = new Date(article.publishedAt || article.updatedAt || article.date || Date.now());
+
+      return {
+        '@type': 'ListItem',
+        position: index + 1,
+        url: absoluteUrl,
+        item: {
+          '@type': 'NewsArticle',
+          headline: article.title,
+          url: absoluteUrl,
+          datePublished: Number.isNaN(published.getTime()) ? new Date().toISOString() : published.toISOString()
+        }
+      };
+    });
+
+    return {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      name: 'Latest Aviation Updates | PilotCenter.net',
+      url: `${SITE_URL}/news-and-resources`,
+      isPartOf: {
+        '@type': 'WebSite',
+        name: 'PilotCenter.net',
+        url: SITE_URL
+      },
+      mainEntity: {
+        '@type': 'ItemList',
+        itemListOrder: 'https://schema.org/ItemListOrderDescending',
+        numberOfItems: items.length,
+        itemListElement
+      }
+    };
+  }, [items]);
+
   const applySearch = (event) => {
     event.preventDefault();
     setPage(1);
@@ -153,6 +193,11 @@ function News() {
 
   return (
     <div className="page-content">
+      <Helmet prioritizeSeoTags>
+        <link rel="canonical" href={`${SITE_URL}/news-and-resources`} />
+        <script type="application/ld+json">{JSON.stringify(structuredData)}</script>
+      </Helmet>
+
       <section className="hero news-hero">
         <div className="wrapper">
           <div className="hero-grid">

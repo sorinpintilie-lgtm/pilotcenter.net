@@ -6,6 +6,7 @@ import countries from '../data/countries.json';
 const SITE_URL = 'https://pilotcenter.net';
 const SITE_NAME = 'PilotCenter.net';
 const DEFAULT_IMAGE = `${SITE_URL}/images/fulllogo_transparent.avif`;
+const DEFAULT_ROBOTS = 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1';
 
 function decodeSafe(value = '') {
   try {
@@ -147,7 +148,7 @@ function getMetaForPath(pathname) {
   if (exact) {
     return {
       ...exact,
-      robots: exact.robots || 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1',
+      robots: exact.robots || DEFAULT_ROBOTS,
       canonical: buildCanonical(exact.canonical || pathname)
     };
   }
@@ -211,48 +212,13 @@ function getMetaForPath(pathname) {
   if (pathname.startsWith('/news-and-resources/')) {
     const articleSlug = pathname.replace('/news-and-resources/', '').trim();
     const articleTitle = slugToTitle(articleSlug.replace(/-[a-z0-9]{4,8}$/i, ''));
-    const keywordSet = [
-      'aviation news',
-      'pilot training updates',
-      'airline industry trends',
-      `${articleTitle.toLowerCase()} aviation`,
-      `${articleTitle.toLowerCase()} pilot news`
-    ].join(', ');
-
-    const articleSchema = {
-      '@context': 'https://schema.org',
-      '@type': 'NewsArticle',
-      headline: `${articleTitle} | PilotCenter.net News`,
-      description: `Read this aviation update from PilotCenter.net with clear context and key takeaways for pilots and aviation professionals.`,
-      datePublished: new Date().toISOString(),
-      dateModified: new Date().toISOString(),
-      author: {
-        '@type': 'Organization',
-        name: SITE_NAME
-      },
-      publisher: {
-        '@type': 'Organization',
-        name: SITE_NAME,
-        logo: {
-          '@type': 'ImageObject',
-          url: `${SITE_URL}/images/fulllogo_transparent.avif`
-        }
-      },
-      mainEntityOfPage: buildCanonical(pathname),
-      image: [`${SITE_URL}/images/fulllogo_transparent.avif`],
-      articleSection: 'Aviation News',
-      keywords: keywordSet
-    };
-
     return {
       title: `${articleTitle} | PilotCenter.net News`,
       description:
         `Read this aviation update from PilotCenter.net with clear context and key takeaways for pilots and aviation professionals.`,
-      robots: 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1',
+      robots: DEFAULT_ROBOTS,
       canonical: buildCanonical(pathname),
-      type: 'article',
-      keywords: keywordSet,
-      schema: articleSchema
+      type: 'article'
     };
   }
 
@@ -264,17 +230,17 @@ function getMetaForPath(pathname) {
       title: `${jobTitle} | Pilot Jobs | PilotCenter.net`,
       description:
         `View this aviation opportunity on PilotCenter.net and apply directly on the original source listing.`,
-      robots: 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1',
+      robots: DEFAULT_ROBOTS,
       canonical: buildCanonical(pathname),
       type: 'article'
     };
   }
 
   return {
-    title: 'PilotCenter.net | Pilot Training Guidance',
+    title: 'Page Not Found | PilotCenter.net',
     description:
-      'PilotCenter.net helps you plan pilot training, compare flight schools, and move toward a professional aviation career.',
-    robots: 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1',
+      'This page is not available. Explore pilot training guidance, flight schools, aviation news, and pilot jobs on PilotCenter.net.',
+    robots: 'noindex,follow',
     canonical: buildCanonical(pathname),
     type: 'website'
   };
@@ -312,16 +278,18 @@ export default function RouteSeoMeta() {
       <title>{meta.title}</title>
       <meta name="description" content={meta.description} />
       {meta.keywords ? <meta name="keywords" content={meta.keywords} /> : null}
-      <meta name="robots" content={meta.robots || 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1'} />
+      <meta name="robots" content={meta.robots || DEFAULT_ROBOTS} />
 
       <link rel="canonical" href={meta.canonical} />
 
       <meta property="og:site_name" content={SITE_NAME} />
+      <meta property="og:locale" content="en_US" />
       <meta property="og:type" content={meta.type || 'website'} />
       <meta property="og:title" content={meta.title} />
       <meta property="og:description" content={meta.description} />
       <meta property="og:url" content={meta.canonical} />
       <meta property="og:image" content={DEFAULT_IMAGE} />
+      <meta property="og:image:alt" content="PilotCenter.net" />
 
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content={meta.title} />
